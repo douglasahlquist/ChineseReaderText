@@ -59,6 +59,25 @@ English of a line), set off with a colored bar. Use it for grammar explanations.
 
 Older app builds ignore notes.
 
+## Glossaries (word lists)
+
+Put this line directly above a table to show it as a glossary: Hanzi, pinyin and English are
+all visible at once, with no tapping. Tapping a row speaks its Hanzi. Only the next table is
+affected; it ends at the first line that isn't a table row.
+
+```markdown
+## 生词 | Shēng cí | New words
+
+<!-- reader: table=glossary -->
+| Hanzi | Pinyin | English |
+|---|---|---|
+| 你 | nǐ | you |
+| 名字 | míng zi | name |
+```
+
+The HSK lessons use glossaries for their new-word and extra-word lists, and each starts with a
+`> **Goal:** …` note. Older app builds show a glossary as an ordinary table.
+
 ## Page settings
 
 Put this line at the top of a page to change how tapping sounds:

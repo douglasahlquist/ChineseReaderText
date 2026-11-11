@@ -13,11 +13,19 @@ How to write a lesson page: see [FORMAT.md](FORMAT.md).
 - [第3课：我喜欢吃什么](beginner/03-wo-xihuan-chi-shenme.md)
 - [第4课：吃饭](beginner/04-chi-fan.md)
 
-### HSK 1 · 第一级
+### HSK 1 · 第一级 · 草稿 Draft
 
-- [第一课：你好 Hello](beginner/hsk1/01-ni-hao.md)
-- [第二课：你好吗 How are you?](beginner/hsk1/02-ni-hao-ma.md)
-- [第三课：我的朋友 My friends](beginner/hsk1/03-wo-de-pengyou.md)
+- [HSK 1 介绍 · About HSK 1](beginner/hsk1/00.md)
+- [第一课：你好 · Hello](beginner/hsk1/01.md)
+- [第二课：你好吗 · How are you?](beginner/hsk1/02.md)
+- [第三课：我的家 · My family](beginner/hsk1/03.md)
+- [第四课：他们是谁 · Who are they?](beginner/hsk1/04.md)
+- [第五课：一二三 · Numbers 1–10](beginner/hsk1/05.md)
+- [第六课：你几岁 · How old are you?](beginner/hsk1/06.md)
+- [第七课：爷爷奶奶 · Grandparents](beginner/hsk1/07.md)
+- [第八课：去教会 · Going to church](beginner/hsk1/08.md)
+- [第九课：今天星期天 · Today is Sunday](beginner/hsk1/09.md)
+- [第十课：几点了 · What time is it?](beginner/hsk1/10.md)
 
 ## Intermediate
 

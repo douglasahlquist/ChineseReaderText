@@ -1,0 +1,9854 @@
+{
+"爱": {
+"py": "ài",
+"forms": [
+{
+"py": "ài",
+"en": [
+"to love; to be fond of; to like",
+"affection",
+"to be inclined (to do sth); to tend to (happen)"
+]
+}
+],
+"pos": [
+"v",
+"vn",
+"b"
+]
+},
+"爱好": {
+"py": "ài hào",
+"forms": [
+{
+"py": "ài hào",
+"en": [
+"to like; to be fond of; to take pleasure in; to be keen on",
+"interest; hobby"
+]
+}
+],
+"pos": [
+"n",
+"v"
+]
+},
+"八": {
+"py": "bā",
+"forms": [
+{
+"py": "bā",
+"en": [
+"eight; 8"
+]
+}
+],
+"pos": [
+"m",
+"t"
+]
+},
+"爸": {
+"py": "bà",
+"forms": [
+{
+"py": "bà",
+"en": [
+"father",
+"dad",
+"pa",
+"papa"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"爸爸": {
+"py": "bà ba",
+"forms": [
+{
+"py": "bà ba",
+"en": [
+"(coll.) father; dad"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"吧": {
+"py": "bā",
+"forms": [
+{
+"py": "bā",
+"en": [
+"bar (loanword) (serving drinks, or providing Internet access etc)",
+"to puff (on a pipe etc)",
+"(onom.) bang",
+"abbr. for 贴吧"
+]
+},
+{
+"py": "ba",
+"en": [
+"(modal particle indicating suggestion or surmise)",
+"...right?",
+"...OK?",
+"...I presume."
+]
+},
+{
+"py": "biā",
+"en": [
+"(onom.) smack!"
+]
+}
+],
+"pos": [
+"y"
+]
+},
+"白": {
+"py": "Bái",
+"forms": [
+{
+"py": "Bái",
+"en": [
+"surname Bai"
+]
+},
+{
+"py": "bái",
+"en": [
+"white",
+"snowy",
+"pure",
+"bright",
+"empty",
+"blank",
+"plain",
+"clear",
+"to make clear",
+"in vain",
+"gratuitous",
+"free of charge",
+"reactionary",
+"anti-communist",
+"funeral",
+"to stare coldly",
+"to write wrong character",
+"to state",
+"to explain",
+"vernacular",
+"spoken lines in opera"
+]
+}
+],
+"pos": [
+"a",
+"nr",
+"d",
+"b",
+"v",
+"g"
+]
+},
+"白天": {
+"py": "bái tiān",
+"forms": [
+{
+"py": "bái tiān",
+"en": [
+"daytime",
+"during the day",
+"day"
+]
+}
+],
+"pos": [
+"t"
+]
+},
+"百": {
+"py": "Bǎi",
+"forms": [
+{
+"py": "Bǎi",
+"en": [
+"surname Bai"
+]
+},
+{
+"py": "bǎi",
+"en": [
+"hundred",
+"numerous",
+"all kinds of"
+]
+}
+],
+"pos": [
+"m",
+"t"
+]
+},
+"班": {
+"py": "Bān",
+"forms": [
+{
+"py": "Bān",
+"en": [
+"surname Ban"
+]
+},
+{
+"py": "bān",
+"en": [
+"team; class; grade",
+"(military) squad",
+"work shift",
+"classifier for groups of people and scheduled transport vehicles"
+]
+}
+],
+"pos": [
+"n",
+"q",
+"nr"
+]
+},
+"半": {
+"py": "bàn",
+"forms": [
+{
+"py": "bàn",
+"en": [
+"half",
+"semi-",
+"incomplete",
+"(after a number) and a half"
+]
+}
+],
+"pos": [
+"m"
+]
+},
+"半年": {
+"py": "bàn nián",
+"forms": [
+{
+"py": "bàn nián",
+"en": [
+"half a year"
+]
+}
+],
+"pos": [
+"nr"
+]
+},
+"半天": {
+"py": "bàn tiān",
+"forms": [
+{
+"py": "bàn tiān",
+"en": [
+"half of the day",
+"a long time",
+"quite a while",
+"midair"
+]
+}
+],
+"pos": [
+"mq",
+"t"
+]
+},
+"帮": {
+"py": "bāng",
+"forms": [
+{
+"py": "bāng",
+"en": [
+"old variant of 帮"
+]
+},
+{
+"py": "bāng",
+"en": [
+"old variant of 帮"
+]
+},
+{
+"py": "bāng",
+"en": [
+"to help",
+"to assist",
+"to support",
+"for sb (i.e. as a help)",
+"hired (as worker)",
+"side (of pail, boat etc)",
+"outer layer",
+"upper (of a shoe)",
+"group",
+"gang",
+"clique",
+"party",
+"secret society"
+]
+}
+],
+"pos": [
+"v",
+"q"
+]
+},
+"帮忙": {
+"py": "bāng máng",
+"forms": [
+{
+"py": "bāng máng",
+"en": [
+"to help",
+"to lend a hand",
+"to do a favor",
+"to do a good turn"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"包": {
+"py": "Bāo",
+"forms": [
+{
+"py": "Bāo",
+"en": [
+"surname Bao"
+]
+},
+{
+"py": "bāo",
+"en": [
+"to cover",
+"to wrap",
+"to hold",
+"to include",
+"to take charge of",
+"to contract (to or for)",
+"package",
+"wrapper",
+"container",
+"bag",
+"to hold or embrace",
+"bundle",
+"packet"
+]
+}
+],
+"pos": [
+"v",
+"n",
+"q"
+]
+},
+"包子": {
+"py": "bāo zi",
+"forms": [
+{
+"py": "bāo zi",
+"en": [
+"bao (steamed stuffed bun)"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"杯": {
+"py": "bēi",
+"forms": [
+{
+"py": "bēi",
+"en": [
+"cup",
+"trophy cup",
+"classifier for certain containers of liquids: glass, cup"
+]
+},
+{
+"py": "bēi",
+"en": [
+"variant of 杯"
+]
+},
+{
+"py": "bēi",
+"en": [
+"variant of 杯",
+"trophy cup",
+"classifier for certain containers of liquids: glass, cup"
+]
+}
+],
+"pos": [
+"q",
+"g"
+]
+},
+"杯子": {
+"py": "bēi zi",
+"forms": [
+{
+"py": "bēi zi",
+"en": [
+"cup",
+"glass"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"北": {
+"py": "běi",
+"forms": [
+{
+"py": "běi",
+"en": [
+"north",
+"(classical) to be defeated"
+]
+}
+],
+"pos": [
+"f"
+]
+},
+"北边": {
+"py": "běi biān",
+"forms": [
+{
+"py": "běi biān",
+"en": [
+"north",
+"north side",
+"northern part",
+"to the north of"
+]
+}
+],
+"pos": [
+"f"
+]
+},
+"北京": {
+"py": "Běi jīng",
+"forms": [
+{
+"py": "Běi jīng",
+"en": [
+"Beijing, capital of the People's Republic of China"
+]
+}
+],
+"pos": [
+"ns"
+]
+},
+"本": {
+"py": "běn",
+"forms": [
+{
+"py": "běn",
+"en": [
+"root",
+"stem",
+"origin",
+"source",
+"this",
+"the current",
+"original",
+"inherent",
+"originally",
+"classifier for books, periodicals, files etc"
+]
+}
+],
+"pos": [
+"r",
+"q",
+"d",
+"n"
+]
+},
+"本子": {
+"py": "běn zi",
+"forms": [
+{
+"py": "běn zi",
+"en": [
+"book",
+"notebook",
+"Japanese-style self-published comic (esp. an erotic one), aka \"dōjinshi\"",
+"edition"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"比": {
+"py": "Bǐ",
+"forms": [
+{
+"py": "Bǐ",
+"en": [
+"Belgium",
+"Belgian",
+"abbr. for 比利时"
+]
+},
+{
+"py": "bī",
+"en": [
+"euphemistic variant of 屄"
+]
+},
+{
+"py": "bǐ",
+"en": [
+"to compare",
+"(followed by a noun and adjective) more {adj.} than {noun}",
+"ratio",
+"to gesture",
+"(Taiwan pr. [bì] in some compounds derived from Classical Chinese)"
+]
+}
+],
+"pos": [
+"p",
+"v",
+"n",
+"b"
+]
+},
+"别": {
+"py": "Bié",
+"forms": [
+{
+"py": "Bié",
+"en": [
+"surname Bie"
+]
+},
+{
+"py": "bié",
+"en": [
+"to leave; to part (from)",
+"(literary) to differentiate; to distinguish",
+"(bound form) other; another; different",
+"don't ...!",
+"to fasten with a pin or clip",
+"to stick in; to insert (in order to hinder movement)",
+"(noun suffix) category (e.g. 性别, 派别)"
+]
+},
+{
+"py": "biè",
+"en": [
+"to make sb change their ways, opinions etc"
+]
+}
+],
+"pos": [
+"d",
+"v",
+"r",
+"vn"
+]
+},
+"别的": {
+"py": "bié de",
+"forms": [
+{
+"py": "bié de",
+"en": [
+"else",
+"other"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"别人": {
+"py": "bié ren",
+"forms": [
+{
+"py": "bié ren",
+"en": [
+"other people; others; other person"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"病": {
+"py": "bìng",
+"forms": [
+{
+"py": "bìng",
+"en": [
+"illness",
+"disease",
+"to fall ill",
+"defect"
+]
+}
+],
+"pos": [
+"n",
+"v"
+]
+},
+"病人": {
+"py": "bìng rén",
+"forms": [
+{
+"py": "bìng rén",
+"en": [
+"sick person",
+"patient",
+"invalid"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"不": {
+"py": "bù",
+"forms": [
+{
+"py": "bù",
+"en": [
+"no; not so",
+"(bound form) not; un-"
+]
+}
+],
+"pos": [
+"d"
+]
+},
+"不大": {
+"py": "bù dà",
+"forms": [
+{
+"py": "bù dà",
+"en": [
+"not very",
+"not too",
+"not often"
+]
+}
+],
+"pos": [
+"d"
+]
+},
+"不对": {
+"py": "bù duì",
+"forms": [
+{
+"py": "bù duì",
+"en": [
+"incorrect",
+"wrong",
+"amiss",
+"abnormal",
+"queer"
+]
+}
+],
+"pos": [
+"a"
+]
+},
+"不客气": {
+"py": "bù kè qi",
+"forms": [
+{
+"py": "bù kè qi",
+"en": [
+"you're welcome",
+"don't mention it",
+"impolite",
+"rude",
+"blunt"
+]
+}
+],
+"pos": []
+},
+"不用": {
+"py": "bù yòng",
+"forms": [
+{
+"py": "bù yòng",
+"en": [
+"need not"
+]
+}
+],
+"pos": [
+"d"
+]
+},
+"菜": {
+"py": "cài",
+"forms": [
+{
+"py": "cài",
+"en": [
+"dish (type of food)",
+"vegetable",
+"cuisine",
+"(coll.) (one's) type",
+"(of one's skills etc) weak",
+"poor"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"茶": {
+"py": "chá",
+"forms": [
+{
+"py": "chá",
+"en": [
+"tea",
+"tea plant"
+]
+}
+],
+"pos": [
+"n",
+"g"
+]
+},
+"差": {
+"py": "chā",
+"forms": [
+{
+"py": "chā",
+"en": [
+"difference; discrepancy",
+"(math.) difference (amount remaining after a subtraction)",
+"(literary) a little; somewhat; slightly"
+]
+},
+{
+"py": "chà",
+"en": [
+"different",
+"wrong; mistaken",
+"to fall short; to lack",
+"not up to standard; inferior",
+"Taiwan pr. [chā]"
+]
+},
+{
+"py": "chāi",
+"en": [
+"to send (on an errand)",
+"(archaic) person sent on such an errand",
+"job; official post"
+]
+},
+{
+"py": "cī",
+"en": [
+"used in 参差"
+]
+}
+],
+"pos": [
+"a",
+"v",
+"g"
+]
+},
+"常": {
+"py": "Cháng",
+"forms": [
+{
+"py": "Cháng",
+"en": [
+"surname Chang"
+]
+},
+{
+"py": "cháng",
+"en": [
+"always",
+"ever",
+"often",
+"frequently",
+"common",
+"general",
+"constant"
+]
+}
+],
+"pos": [
+"d",
+"nr"
+]
+},
+"常常": {
+"py": "cháng cháng",
+"forms": [
+{
+"py": "cháng cháng",
+"en": [
+"frequently",
+"often"
+]
+}
+],
+"pos": [
+"d"
+]
+},
+"唱": {
+"py": "chàng",
+"forms": [
+{
+"py": "chàng",
+"en": [
+"to sing",
+"to call loudly",
+"to chant"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"唱歌": {
+"py": "chàng gē",
+"forms": [
+{
+"py": "chàng gē",
+"en": [
+"to sing a song"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"车": {
+"py": "Chē",
+"forms": [
+{
+"py": "Chē",
+"en": [
+"surname Che"
+]
+},
+{
+"py": "chē",
+"en": [
+"car",
+"vehicle",
+"machine",
+"to shape with a lathe",
+"Kangxi radical 159"
+]
+},
+{
+"py": "jū",
+"en": [
+"war chariot (archaic)",
+"rook (in Chinese chess)",
+"rook (in chess)"
+]
+}
+],
+"pos": [
+"n",
+"q"
+]
+},
+"车票": {
+"py": "chē piào",
+"forms": [
+{
+"py": "chē piào",
+"en": [
+"ticket (for a bus or train)"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"车上": {
+"py": "chē shàng",
+"forms": [
+{
+"py": "chē shàng",
+"en": [
+"Car"
+]
+}
+],
+"pos": [
+"s"
+]
+},
+"车站": {
+"py": "chē zhàn",
+"forms": [
+{
+"py": "chē zhàn",
+"en": [
+"rail station",
+"bus stop"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"吃": {
+"py": "chī",
+"forms": [
+{
+"py": "chī",
+"en": [
+"to eat; to consume",
+"to eat at (a cafeteria etc)",
+"to eradicate; to destroy",
+"to absorb",
+"to suffer (shock, injury, defeat etc)"
+]
+},
+{
+"py": "chī",
+"en": [
+"variant of 吃"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"吃饭": {
+"py": "chī fàn",
+"forms": [
+{
+"py": "chī fàn",
+"en": [
+"to have a meal",
+"to eat",
+"to make a living"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"出": {
+"py": "chū",
+"forms": [
+{
+"py": "chū",
+"en": [
+"to go out",
+"to come out",
+"to occur",
+"to produce",
+"to go beyond",
+"to rise",
+"to put forth",
+"to happen",
+"(used after a verb to indicate an outward direction or a positive result)",
+"classifier for dramas, plays, operas etc"
+]
+},
+{
+"py": "chū",
+"en": [
+"variant of 出 (classifier for plays or chapters of classical novels)"
+]
+}
+],
+"pos": [
+"v",
+"q"
+]
+},
+"出来": {
+"py": "chū lái",
+"forms": [
+{
+"py": "chū lái",
+"en": [
+"to come out",
+"to appear",
+"to arise"
+]
+},
+{
+"py": "chu lai",
+"en": [
+"(after a verb, indicates coming out, completion of an action, or ability to discern or detect)"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"出去": {
+"py": "chū qù",
+"forms": [
+{
+"py": "chū qù",
+"en": [
+"to go out"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"穿": {
+"py": "chuān",
+"forms": [
+{
+"py": "chuān",
+"en": [
+"to wear",
+"to put on",
+"to dress",
+"to bore through",
+"to pierce",
+"to perforate",
+"to penetrate",
+"to pass through",
+"to thread"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"床": {
+"py": "chuáng",
+"forms": [
+{
+"py": "chuáng",
+"en": [
+"bed",
+"couch",
+"classifier for beds"
+]
+},
+{
+"py": "chuáng",
+"en": [
+"variant of 床"
+]
+}
+],
+"pos": [
+"n",
+"q"
+]
+},
+"次": {
+"py": "cì",
+"forms": [
+{
+"py": "cì",
+"en": [
+"next in sequence",
+"second",
+"the second (day, time etc)",
+"secondary",
+"vice-",
+"sub-",
+"infra-",
+"inferior quality",
+"substandard",
+"order",
+"sequence",
+"hypo- (chemistry)",
+"classifier for enumerated events: time"
+]
+}
+],
+"pos": [
+"qv",
+"a",
+"g"
+]
+},
+"从": {
+"py": "cóng",
+"forms": [
+{
+"py": "cóng",
+"en": [
+"variant of 从"
+]
+},
+{
+"py": "Cóng",
+"en": [
+"surname Cong"
+]
+},
+{
+"py": "cóng",
+"en": [
+"from",
+"through",
+"via",
+"to follow",
+"to obey",
+"to engage in (an activity)",
+"never (in negative sentence)",
+"(Taiwan pr. [zòng]) retainer",
+"assistant",
+"auxiliary",
+"subordinate",
+"related by common paternal grandfather or earlier ancestor"
+]
+}
+],
+"pos": [
+"p",
+"g"
+]
+},
+"错": {
+"py": "Cuò",
+"forms": [
+{
+"py": "Cuò",
+"en": [
+"surname Cuo"
+]
+},
+{
+"py": "cuò",
+"en": [
+"mistake",
+"wrong",
+"bad",
+"interlocking",
+"complex",
+"to grind",
+"to polish",
+"to alternate",
+"to stagger",
+"to miss",
+"to let slip",
+"to evade",
+"to inlay with gold or silver"
+]
+}
+],
+"pos": [
+"v",
+"n"
+]
+},
+"打": {
+"py": "dá",
+"forms": [
+{
+"py": "dá",
+"en": [
+"dozen (loanword)"
+]
+},
+{
+"py": "dǎ",
+"en": [
+"to beat",
+"to strike",
+"to hit",
+"to break",
+"to type",
+"to mix up",
+"to build",
+"to fight",
+"to fetch",
+"to make",
+"to tie up",
+"to issue",
+"to shoot",
+"to calculate",
+"to play (a game)",
+"since",
+"from"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"打车": {
+"py": "dǎ chē",
+"forms": [
+{
+"py": "dǎ chē",
+"en": [
+"to take a taxi (in town)",
+"to hitch a lift"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"打电话": {
+"py": "dǎ diàn huà",
+"forms": [
+{
+"py": "dǎ diàn huà",
+"en": [
+"to make a telephone call"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"打开": {
+"py": "dǎ kāi",
+"forms": [
+{
+"py": "dǎ kāi",
+"en": [
+"to open",
+"to show (a ticket)",
+"to turn on",
+"to switch on"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"打球": {
+"py": "dǎ qiú",
+"forms": [
+{
+"py": "dǎ qiú",
+"en": [
+"to play ball",
+"to play with a ball"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"大": {
+"py": "dà",
+"forms": [
+{
+"py": "dà",
+"en": [
+"big; large; great",
+"older (than another person)",
+"eldest (as in 姐)",
+"greatly; freely; fully",
+"(dialect) father",
+"(dialect) uncle (father's brother)"
+]
+},
+{
+"py": "dài",
+"en": [
+"see 夫"
+]
+}
+],
+"pos": [
+"a",
+"d",
+"n",
+"g"
+]
+},
+"大学": {
+"py": "Dà xué",
+"forms": [
+{
+"py": "Dà xué",
+"en": [
+"the Great Learning, one of the Four Books 四书 in Confucianism"
+]
+},
+{
+"py": "dà xué",
+"en": [
+"university",
+"college"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"大学生": {
+"py": "dà xué shēng",
+"forms": [
+{
+"py": "dà xué shēng",
+"en": [
+"university student",
+"college student"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"到": {
+"py": "dào",
+"forms": [
+{
+"py": "dào",
+"en": [
+"to reach; to arrive",
+"to leave for; to go to",
+"to (a place); until (a time); up to (a point)",
+"(verb complement indicating arriving at a place or reaching a point)",
+"considerate; thoughtful; thorough"
+]
+}
+],
+"pos": [
+"v",
+"p"
+]
+},
+"地": {
+"py": "de",
+"forms": [
+{
+"py": "de",
+"en": [
+"-ly",
+"structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct"
+]
+},
+{
+"py": "dì",
+"en": [
+"earth",
+"ground",
+"field",
+"place",
+"land"
+]
+}
+],
+"pos": [
+"u",
+"n"
+]
+},
+"地点": {
+"py": "dì diǎn",
+"forms": [
+{
+"py": "dì diǎn",
+"en": [
+"place",
+"site",
+"location",
+"venue"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"地方": {
+"py": "dì fāng",
+"forms": [
+{
+"py": "dì fāng",
+"en": [
+"region",
+"regional (away from the central administration)",
+"local"
+]
+},
+{
+"py": "dì fang",
+"en": [
+"area",
+"place",
+"space",
+"room",
+"territory"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"地上": {
+"py": "dì shang",
+"forms": [
+{
+"py": "dì shang",
+"en": [
+"on the ground",
+"on the floor"
+]
+}
+],
+"pos": [
+"s"
+]
+},
+"地图": {
+"py": "dì tú",
+"forms": [
+{
+"py": "dì tú",
+"en": [
+"map"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"的": {
+"py": "de",
+"forms": [
+{
+"py": "de",
+"en": [
+"of; ~'s (possessive particle)",
+"(used after an attribute)",
+"(used to form a nominal expression)",
+"(used at the end of a declarative sentence for emphasis)",
+"also pr. [dì] or [di] in poetry and songs"
+]
+},
+{
+"py": "dī",
+"en": [
+"a taxi; a cab (abbr. for 士)"
+]
+},
+{
+"py": "dí",
+"en": [
+"really and truly"
+]
+},
+{
+"py": "dì",
+"en": [
+"(bound form) bull's-eye; target"
+]
+}
+],
+"pos": [
+"u",
+"n"
+]
+},
+"得到": {
+"py": "dé dào",
+"forms": [
+{
+"py": "dé dào",
+"en": [
+"to get",
+"to obtain",
+"to receive"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"等": {
+"py": "děng",
+"forms": [
+{
+"py": "děng",
+"en": [
+"class",
+"rank",
+"grade",
+"equal to",
+"same as",
+"to wait for",
+"to await",
+"et cetera",
+"and so on",
+"et al. (and other authors)",
+"after",
+"as soon as",
+"once"
+]
+}
+],
+"pos": [
+"v",
+"u"
+]
+},
+"弟": {
+"py": "dì",
+"forms": [
+{
+"py": "dì",
+"en": [
+"younger brother",
+"junior male",
+"I (modest word in letter)"
+]
+},
+{
+"py": "tì",
+"en": [
+"variant of 悌"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"弟弟": {
+"py": "dì di",
+"forms": [
+{
+"py": "dì di",
+"en": [
+"younger brother"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"第": {
+"py": "dì",
+"forms": [
+{
+"py": "dì",
+"en": [
+"(prefix indicating ordinal number, as in 六 \"sixth\")",
+"(literary) grades in which successful candidates in the imperial examinations were placed",
+"(old) residence of a high official",
+"(literary) but; however",
+"(literary) only; just"
+]
+}
+],
+"pos": [
+"m"
+]
+},
+"第二": {
+"py": "dì èr",
+"forms": [
+{
+"py": "dì èr",
+"en": [
+"second",
+"number two",
+"next",
+"secondary"
+]
+}
+],
+"pos": [
+"m"
+]
+},
+"点": {
+"py": "diǎn",
+"forms": [
+{
+"py": "diǎn",
+"en": [
+"point",
+"dot",
+"drop",
+"speck",
+"o'clock",
+"point (in space or time)",
+"to draw a dot",
+"to check on a list",
+"to choose",
+"to order (food in a restaurant)",
+"to touch briefly",
+"to hint",
+"to light",
+"to ignite",
+"to pour a liquid drop by drop",
+"(old) one fifth of a two-hour watch 更",
+"dot stroke in Chinese characters",
+"classifier for items"
+]
+}
+],
+"pos": [
+"qt",
+"n",
+"t",
+"v"
+]
+},
+"电": {
+"py": "diàn",
+"forms": [
+{
+"py": "diàn",
+"en": [
+"lightning",
+"electricity",
+"electric (bound form)",
+"to get (or give) an electric shock",
+"phone call or telegram etc",
+"to send via telephone or telegram etc"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"电话": {
+"py": "diàn huà",
+"forms": [
+{
+"py": "diàn huà",
+"en": [
+"telephone",
+"phone call",
+"phone number"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"电脑": {
+"py": "diàn nǎo",
+"forms": [
+{
+"py": "diàn nǎo",
+"en": [
+"computer"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"电视": {
+"py": "diàn shì",
+"forms": [
+{
+"py": "diàn shì",
+"en": [
+"television; TV"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"电视机": {
+"py": "diàn shì jī",
+"forms": [
+{
+"py": "diàn shì jī",
+"en": [
+"television set"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"电影": {
+"py": "diàn yǐng",
+"forms": [
+{
+"py": "diàn yǐng",
+"en": [
+"movie; film"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"电影院": {
+"py": "diàn yǐng yuàn",
+"forms": [
+{
+"py": "diàn yǐng yuàn",
+"en": [
+"cinema; movie theater"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"东": {
+"py": "Dōng",
+"forms": [
+{
+"py": "Dōng",
+"en": [
+"surname Dong"
+]
+},
+{
+"py": "dōng",
+"en": [
+"east",
+"host (i.e. sitting on east side of guest)",
+"landlord"
+]
+}
+],
+"pos": [
+"f",
+"b"
+]
+},
+"东边": {
+"py": "dōng bian",
+"forms": [
+{
+"py": "dōng bian",
+"en": [
+"east",
+"east side",
+"eastern part",
+"to the east of"
+]
+}
+],
+"pos": [
+"f"
+]
+},
+"东西": {
+"py": "dōng xī",
+"forms": [
+{
+"py": "dōng xī",
+"en": [
+"east and west"
+]
+},
+{
+"py": "dōng xi",
+"en": [
+"thing",
+"stuff",
+"person"
+]
+}
+],
+"pos": [
+"n",
+"f",
+"nr"
+]
+},
+"动": {
+"py": "dòng",
+"forms": [
+{
+"py": "dòng",
+"en": [
+"(of sth) to move",
+"to set in movement",
+"to displace",
+"to touch",
+"to make use of",
+"to stir (emotions)",
+"to alter",
+"abbr. for 动词, verb"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"动作": {
+"py": "dòng zuò",
+"forms": [
+{
+"py": "dòng zuò",
+"en": [
+"movement; motion; action",
+"to act; to move"
+]
+}
+],
+"pos": [
+"n",
+"v"
+]
+},
+"都": {
+"py": "Dū",
+"forms": [
+{
+"py": "Dū",
+"en": [
+"surname Du"
+]
+},
+{
+"py": "dōu",
+"en": [
+"all; both; entirely",
+"(used for emphasis) even",
+"already",
+"(not) at all"
+]
+},
+{
+"py": "dū",
+"en": [
+"capital city",
+"metropolis"
+]
+}
+],
+"pos": [
+"d",
+"g"
+]
+},
+"读": {
+"py": "dòu",
+"forms": [
+{
+"py": "dòu",
+"en": [
+"comma",
+"phrase marked by pause"
+]
+},
+{
+"py": "dú",
+"en": [
+"to read out; to read aloud",
+"to read",
+"to attend (school); to study (a subject in school)",
+"to pronounce"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"读书": {
+"py": "dú shū",
+"forms": [
+{
+"py": "dú shū",
+"en": [
+"to read a book",
+"to study",
+"to attend school"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"对": {
+"py": "duì",
+"forms": [
+{
+"py": "duì",
+"en": [
+"right; correct",
+"towards; at; for",
+"concerning; regarding",
+"to treat (sb a certain way)",
+"to face",
+"(bound form) opposite; facing; matching",
+"to match together; to adjust",
+"to fit; to suit",
+"to answer; to reply",
+"to add; to pour in (a fluid)",
+"to check; to compare",
+"classifier: couple; pair"
+]
+}
+],
+"pos": [
+"p",
+"v",
+"q",
+"a"
+]
+},
+"对不起": {
+"py": "duì bu qǐ",
+"forms": [
+{
+"py": "duì bu qǐ",
+"en": [
+"I'm sorry; excuse me; I beg your pardon",
+"to let (sb) down; to disappoint"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"多": {
+"py": "duō",
+"forms": [
+{
+"py": "duō",
+"en": [
+"many; much",
+"too many; in excess",
+"(after a numeral) ... odd",
+"how (to what extent) (Taiwan pr. [duó])",
+"(bound form) multi-; poly-"
+]
+}
+],
+"pos": [
+"a",
+"m",
+"ad",
+"d",
+"v",
+"g"
+]
+},
+"多少": {
+"py": "duō shǎo",
+"forms": [
+{
+"py": "duō shǎo",
+"en": [
+"number",
+"amount",
+"somewhat"
+]
+},
+{
+"py": "duō shao",
+"en": [
+"how much?",
+"how many?",
+"(phone number, student ID etc) what number?"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"饿": {
+"py": "è",
+"forms": [
+{
+"py": "è",
+"en": [
+"to be hungry",
+"hungry",
+"to starve (sb)"
+]
+}
+],
+"pos": [
+"v",
+"a"
+]
+},
+"儿子": {
+"py": "ér zi",
+"forms": [
+{
+"py": "ér zi",
+"en": [
+"son"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"二": {
+"py": "èr",
+"forms": [
+{
+"py": "èr",
+"en": [
+"two",
+"2",
+"(Beijing dialect) stupid"
+]
+}
+],
+"pos": [
+"m",
+"t"
+]
+},
+"饭": {
+"py": "fàn",
+"forms": [
+{
+"py": "fàn",
+"en": [
+"cooked rice",
+"meal",
+"(loanword) fan",
+"devotee"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"饭店": {
+"py": "fàn diàn",
+"forms": [
+{
+"py": "fàn diàn",
+"en": [
+"restaurant",
+"hotel"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"房间": {
+"py": "fáng jiān",
+"forms": [
+{
+"py": "fáng jiān",
+"en": [
+"room"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"房子": {
+"py": "fáng zi",
+"forms": [
+{
+"py": "fáng zi",
+"en": [
+"house",
+"building (single- or two-story)",
+"apartment",
+"room"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"放": {
+"py": "fàng",
+"forms": [
+{
+"py": "fàng",
+"en": [
+"to put",
+"to place",
+"to release",
+"to free",
+"to let go",
+"to let out",
+"to set off (fireworks)"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"放假": {
+"py": "fàng jià",
+"forms": [
+{
+"py": "fàng jià",
+"en": [
+"to have a holiday or vacation"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"放学": {
+"py": "fàng xué",
+"forms": [
+{
+"py": "fàng xué",
+"en": [
+"to dismiss students at the end of the school day"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"飞": {
+"py": "fēi",
+"forms": [
+{
+"py": "fēi",
+"en": [
+"to fly"
+]
+}
+],
+"pos": [
+"v",
+"g",
+"vn"
+]
+},
+"飞机": {
+"py": "fēi jī",
+"forms": [
+{
+"py": "fēi jī",
+"en": [
+"airplane"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"非常": {
+"py": "fēi cháng",
+"forms": [
+{
+"py": "fēi cháng",
+"en": [
+"very; really",
+"unusual; extraordinary"
+]
+}
+],
+"pos": [
+"d",
+"b"
+]
+},
+"分": {
+"py": "fēn",
+"forms": [
+{
+"py": "fēn",
+"en": [
+"to divide; to separate",
+"to distribute; to allocate",
+"to distinguish (good and bad)",
+"(bound form) branch of (an organization); sub- (as in 局)",
+"fraction",
+"one tenth (of certain units)",
+"unit of length equivalent to 0.33 cm",
+"minute (unit of time)",
+"minute (angular measurement unit)",
+"a point (in sports or games)",
+"0.01 yuan (unit of money)"
+]
+},
+{
+"py": "fèn",
+"en": [
+"part",
+"share",
+"ingredient",
+"component"
+]
+}
+],
+"pos": [
+"t",
+"qt",
+"v",
+"g",
+"n",
+"d"
+]
+},
+"风": {
+"py": "fēng",
+"forms": [
+{
+"py": "fēng",
+"en": [
+"wind",
+"news",
+"style",
+"custom",
+"manner"
+]
+}
+],
+"pos": [
+"n",
+"g"
+]
+},
+"干": {
+"py": "gān",
+"forms": [
+{
+"py": "gān",
+"en": [
+"old variant of 干"
+]
+},
+{
+"py": "Gān",
+"en": [
+"surname Gan"
+]
+},
+{
+"py": "gān",
+"en": [
+"dry",
+"dried food",
+"empty; hollow",
+"taken in to nominal kinship; adoptive; foster",
+"futile; in vain",
+"(dialect) rude; blunt",
+"(dialect) to cold-shoulder"
+]
+},
+{
+"py": "gān",
+"en": [
+"variant of 干"
+]
+},
+{
+"py": "Gān",
+"en": [
+"surname Gan"
+]
+},
+{
+"py": "gān",
+"en": [
+"(bound form) to have to do with; to concern oneself with",
+"one of the ten heavenly stems 干",
+"(archaic) shield"
+]
+},
+{
+"py": "gàn",
+"en": [
+"tree trunk",
+"main part of sth",
+"to manage",
+"to work",
+"to do",
+"capable",
+"cadre",
+"to kill (slang)",
+"to fuck (vulgar)",
+"(coll.) pissed off",
+"annoyed"
+]
+}
+],
+"pos": [
+"v",
+"a"
+]
+},
+"干净": {
+"py": "gān jìng",
+"forms": [
+{
+"py": "gān jìng",
+"en": [
+"clean",
+"neat"
+]
+}
+],
+"pos": [
+"a",
+"ad"
+]
+},
+"干什么": {
+"py": "gàn shén me",
+"forms": [
+{
+"py": "gàn shén me",
+"en": [
+"what are you doing?",
+"what's he up to?"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"高": {
+"py": "Gāo",
+"forms": [
+{
+"py": "Gāo",
+"en": [
+"surname Gao"
+]
+},
+{
+"py": "gāo",
+"en": [
+"high",
+"tall",
+"above average",
+"loud",
+"your (honorific)"
+]
+}
+],
+"pos": [
+"a",
+"ad",
+"v",
+"g"
+]
+},
+"高兴": {
+"py": "gāo xìng",
+"forms": [
+{
+"py": "gāo xìng",
+"en": [
+"happy",
+"glad",
+"willing (to do sth)",
+"in a cheerful mood"
+]
+}
+],
+"pos": [
+"a",
+"an"
+]
+},
+"告诉": {
+"py": "gào sù",
+"forms": [
+{
+"py": "gào sù",
+"en": [
+"to press charges; to file a complaint"
+]
+},
+{
+"py": "gào su",
+"en": [
+"to tell; to inform; to let know"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"哥": {
+"py": "gē",
+"forms": [
+{
+"py": "gē",
+"en": [
+"elder brother"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"哥哥": {
+"py": "gē ge",
+"forms": [
+{
+"py": "gē ge",
+"en": [
+"older brother"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"歌": {
+"py": "gē",
+"forms": [
+{
+"py": "gē",
+"en": [
+"song",
+"to sing"
+]
+},
+{
+"py": "gē",
+"en": [
+"variant of 歌"
+]
+}
+],
+"pos": [
+"n",
+"g"
+]
+},
+"个": {
+"py": "gě",
+"forms": [
+{
+"py": "gě",
+"en": [
+"used in 自个儿"
+]
+},
+{
+"py": "gè",
+"en": [
+"(classifier used before a noun that has no specific classifier)",
+"(bound form) individual"
+]
+},
+{
+"py": "gè",
+"en": [
+"variant of 个"
+]
+}
+],
+"pos": [
+"q",
+"g"
+]
+},
+"给": {
+"py": "gěi",
+"forms": [
+{
+"py": "gěi",
+"en": [
+"to",
+"for",
+"for the benefit of",
+"to give",
+"to allow",
+"to do sth (for sb)",
+"(grammatical equivalent of 被)",
+"(grammatical equivalent of 把)",
+"(sentence intensifier)"
+]
+},
+{
+"py": "jǐ",
+"en": [
+"to supply",
+"to provide"
+]
+}
+],
+"pos": [
+"p",
+"v",
+"u"
+]
+},
+"跟": {
+"py": "gēn",
+"forms": [
+{
+"py": "gēn",
+"en": [
+"heel",
+"to follow closely",
+"to go with",
+"(of a woman) to marry sb",
+"with",
+"compared with",
+"to",
+"towards",
+"and (joining two nouns)"
+]
+}
+],
+"pos": [
+"p",
+"v"
+]
+},
+"工人": {
+"py": "gōng rén",
+"forms": [
+{
+"py": "gōng rén",
+"en": [
+"worker"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"工作": {
+"py": "gōng zuò",
+"forms": [
+{
+"py": "gōng zuò",
+"en": [
+"to work",
+"(of a machine) to operate",
+"job",
+"work",
+"task"
+]
+}
+],
+"pos": [
+"vn",
+"v",
+"n"
+]
+},
+"关": {
+"py": "Guān",
+"forms": [
+{
+"py": "Guān",
+"en": [
+"surname Guan"
+]
+},
+{
+"py": "guān",
+"en": [
+"mountain pass",
+"to close; to shut; to turn off",
+"to confine; to lock (sb) up; to shut (sb in a room, a bird in a cage etc)",
+"to concern; to involve"
+]
+}
+],
+"pos": [
+"v",
+"n",
+"nr"
+]
+},
+"关上": {
+"py": "guān shàng",
+"forms": [
+{
+"py": "guān shàng",
+"en": [
+"to close (a door)",
+"to turn off (light, electrical equipment etc)"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"贵": {
+"py": "guì",
+"forms": [
+{
+"py": "guì",
+"en": [
+"expensive",
+"noble",
+"precious",
+"(honorific) your"
+]
+}
+],
+"pos": [
+"a",
+"r",
+"b",
+"g"
+]
+},
+"国": {
+"py": "Guó",
+"forms": [
+{
+"py": "Guó",
+"en": [
+"surname Guo"
+]
+},
+{
+"py": "guó",
+"en": [
+"country; nation; state",
+"(bound form) national"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"国家": {
+"py": "guó jiā",
+"forms": [
+{
+"py": "guó jiā",
+"en": [
+"country; nation; state"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"国外": {
+"py": "guó wài",
+"forms": [
+{
+"py": "guó wài",
+"en": [
+"abroad",
+"external (affairs)",
+"overseas",
+"foreign"
+]
+}
+],
+"pos": [
+"s"
+]
+},
+"过": {
+"py": "Guō",
+"forms": [
+{
+"py": "Guō",
+"en": [
+"surname Guo"
+]
+},
+{
+"py": "guò",
+"en": [
+"to cross",
+"to go over",
+"to pass (time)",
+"to celebrate (a holiday)",
+"to live",
+"to get along",
+"excessively",
+"too-"
+]
+},
+{
+"py": "guo",
+"en": [
+"(experienced action marker)"
+]
+}
+],
+"pos": [
+"u",
+"v",
+"d",
+"g"
+]
+},
+"还": {
+"py": "Huán",
+"forms": [
+{
+"py": "Huán",
+"en": [
+"surname Huan"
+]
+},
+{
+"py": "hái",
+"en": [
+"still",
+"still in progress",
+"still more",
+"yet",
+"even more",
+"in addition",
+"fairly",
+"passably (good)",
+"as early as",
+"even",
+"also",
+"else"
+]
+},
+{
+"py": "huán",
+"en": [
+"to pay back",
+"to return"
+]
+}
+],
+"pos": [
+"d",
+"v"
+]
+},
+"还是": {
+"py": "hái shi",
+"forms": [
+{
+"py": "hái shi",
+"en": [
+"still (as before)",
+"had better",
+"unexpectedly",
+"or"
+]
+}
+],
+"pos": [
+"c",
+"d",
+"v"
+]
+},
+"还有": {
+"py": "hái yǒu",
+"forms": [
+{
+"py": "hái yǒu",
+"en": [
+"furthermore",
+"in addition",
+"still",
+"also"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"孩子": {
+"py": "hái zi",
+"forms": [
+{
+"py": "hái zi",
+"en": [
+"child"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"汉语": {
+"py": "Hàn yǔ",
+"forms": [
+{
+"py": "Hàn yǔ",
+"en": [
+"Chinese language"
+]
+}
+],
+"pos": [
+"nz"
+]
+},
+"汉字": {
+"py": "hàn zì",
+"forms": [
+{
+"py": "hàn zì",
+"en": [
+"Chinese character",
+"Japanese: kanji",
+"Korean: hanja",
+"Vietnamese: hán tự"
+]
+}
+],
+"pos": [
+"nz",
+"n"
+]
+},
+"好": {
+"py": "hǎo",
+"forms": [
+{
+"py": "hǎo",
+"en": [
+"good",
+"appropriate; proper",
+"all right!",
+"(before a verb) easy to",
+"(before a verb) good to",
+"(before an adjective for exclamatory effect) so",
+"(verb complement indicating completion)",
+"(of two people) close; on intimate terms",
+"(after a personal pronoun) hello"
+]
+},
+{
+"py": "hào",
+"en": [
+"to be fond of; to have a tendency to; to be prone to"
+]
+}
+],
+"pos": [
+"a",
+"d",
+"v"
+]
+},
+"好吃": {
+"py": "hǎo chī",
+"forms": [
+{
+"py": "hǎo chī",
+"en": [
+"tasty",
+"delicious"
+]
+},
+{
+"py": "hào chī",
+"en": [
+"to be fond of eating",
+"to be gluttonous"
+]
+}
+],
+"pos": [
+"a"
+]
+},
+"好看": {
+"py": "hǎo kàn",
+"forms": [
+{
+"py": "hǎo kàn",
+"en": [
+"good-looking",
+"nice-looking",
+"good (of a movie, book, TV show etc)",
+"embarrassed",
+"humiliated"
+]
+}
+],
+"pos": [
+"a"
+]
+},
+"好听": {
+"py": "hǎo tīng",
+"forms": [
+{
+"py": "hǎo tīng",
+"en": [
+"pleasant to hear"
+]
+}
+],
+"pos": [
+"a"
+]
+},
+"好玩儿": {
+"py": "hǎo wán r",
+"forms": [
+{
+"py": "hǎo wán r",
+"en": [
+"erhua variant of 好玩",
+"amusing",
+"fun",
+"interesting"
+]
+}
+],
+"pos": [
+"a"
+]
+},
+"号": {
+"py": "háo",
+"forms": [
+{
+"py": "háo",
+"en": [
+"roar",
+"cry"
+]
+},
+{
+"py": "hào",
+"en": [
+"ordinal number",
+"day of a month",
+"mark",
+"sign",
+"business establishment",
+"size",
+"ship suffix",
+"horn (wind instrument)",
+"bugle call",
+"assumed name",
+"to take a pulse",
+"classifier used to indicate number of people"
+]
+}
+],
+"pos": [
+"q",
+"n",
+"v"
+]
+},
+"喝": {
+"py": "hē",
+"forms": [
+{
+"py": "hē",
+"en": [
+"to drink",
+"variant of 嗬"
+]
+},
+{
+"py": "hè",
+"en": [
+"to shout"
+]
+}
+],
+"pos": [
+"g",
+"vn"
+]
+},
+"和": {
+"py": "hé",
+"forms": [
+{
+"py": "hé",
+"en": [
+"old variant of 和"
+]
+},
+{
+"py": "Hé",
+"en": [
+"surname He"
+]
+},
+{
+"py": "hé",
+"en": [
+"(joining two nouns) and; together with; with (Taiwan pr. [hàn])",
+"(math.) sum",
+"to make peace",
+"(sports) to draw; to tie",
+"(bound form) harmonious",
+"(bound form) Japan; Japanese"
+]
+},
+{
+"py": "hè",
+"en": [
+"to compose a poem in reply (to sb's poem) using the same rhyme sequence",
+"to join in the singing",
+"to chime in with others"
+]
+},
+{
+"py": "hú",
+"en": [
+"to complete a set in mahjong or playing cards"
+]
+},
+{
+"py": "huó",
+"en": [
+"to combine a powdery substance (flour, plaster etc) with water",
+"Taiwan pr. [huò]"
+]
+},
+{
+"py": "huò",
+"en": [
+"to mix (ingredients) together",
+"to blend",
+"classifier for rinses of clothes",
+"classifier for boilings of medicinal herbs"
+]
+},
+{
+"py": "hé",
+"en": [
+"old variant of 和",
+"harmonious"
+]
+}
+],
+"pos": [
+"cc",
+"p",
+"v",
+"qv",
+"g",
+"n"
+]
+},
+"很": {
+"py": "hěn",
+"forms": [
+{
+"py": "hěn",
+"en": [
+"(adverb of degree)",
+"quite",
+"very",
+"awfully"
+]
+}
+],
+"pos": [
+"d"
+]
+},
+"后": {
+"py": "Hòu",
+"forms": [
+{
+"py": "Hòu",
+"en": [
+"surname Hou"
+]
+},
+{
+"py": "hòu",
+"en": [
+"empress",
+"queen",
+"(archaic) monarch",
+"ruler"
+]
+},
+{
+"py": "hòu",
+"en": [
+"back",
+"behind",
+"rear",
+"afterwards",
+"after",
+"later",
+"post-"
+]
+}
+],
+"pos": [
+"f",
+"g",
+"t"
+]
+},
+"后边": {
+"py": "hòu bian",
+"forms": [
+{
+"py": "hòu bian",
+"en": [
+"the back; the rear; the last bit",
+"behind; near the end; at the back",
+"later; afterwards"
+]
+}
+],
+"pos": [
+"f"
+]
+},
+"后天": {
+"py": "hòu tiān",
+"forms": [
+{
+"py": "hòu tiān",
+"en": [
+"the day after tomorrow",
+"life after birth (the period in which one develops through experiences, contrasted with 天)",
+"acquired (not innate or congenital)",
+"a posteriori"
+]
+}
+],
+"pos": [
+"n",
+"t"
+]
+},
+"花": {
+"py": "Huā",
+"forms": [
+{
+"py": "Huā",
+"en": [
+"surname Hua"
+]
+},
+{
+"py": "huā",
+"en": [
+"flower",
+"blossom",
+"fancy pattern",
+"florid",
+"to spend (money, time)",
+"(coll.) lecherous",
+"lustful"
+]
+},
+{
+"py": "huā",
+"en": [
+"old variant of 花"
+]
+},
+{
+"py": "huā",
+"en": [
+"variant of 花",
+"flower",
+"blossom",
+"also pr. [wěi]"
+]
+}
+],
+"pos": [
+"v",
+"n",
+"a"
+]
+},
+"话": {
+"py": "huà",
+"forms": [
+{
+"py": "huà",
+"en": [
+"dialect",
+"language",
+"spoken words",
+"speech",
+"talk",
+"words",
+"conversation",
+"what sb said"
+]
+},
+{
+"py": "huà",
+"en": [
+"old variant of 话"
+]
+}
+],
+"pos": [
+"n",
+"v"
+]
+},
+"坏": {
+"py": "huài",
+"forms": [
+{
+"py": "huài",
+"en": [
+"bad",
+"spoiled",
+"broken",
+"to break down",
+"(suffix) to the utmost"
+]
+}
+],
+"pos": [
+"a",
+"v"
+]
+},
+"回": {
+"py": "huí",
+"forms": [
+{
+"py": "huí",
+"en": [
+"to circle",
+"to go back",
+"to turn around",
+"to answer",
+"to return",
+"to revolve",
+"Hui ethnic group (Chinese Muslims)",
+"time",
+"classifier for acts of a play",
+"section or chapter (of a classic book)"
+]
+},
+{
+"py": "huí",
+"en": [
+"to curve",
+"to return",
+"to revolve"
+]
+},
+{
+"py": "huí",
+"en": [
+"variant of 回"
+]
+}
+],
+"pos": [
+"v",
+"qv"
+]
+},
+"回答": {
+"py": "huí dá",
+"forms": [
+{
+"py": "huí dá",
+"en": [
+"to reply; to answer",
+"reply; answer"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"回到": {
+"py": "huí dào",
+"forms": [
+{
+"py": "huí dào",
+"en": [
+"to return to"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"回家": {
+"py": "huí jiā",
+"forms": [
+{
+"py": "huí jiā",
+"en": [
+"to return home"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"回来": {
+"py": "huí lai",
+"forms": [
+{
+"py": "huí lai",
+"en": [
+"to return; to come back"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"回去": {
+"py": "huí qu",
+"forms": [
+{
+"py": "huí qu",
+"en": [
+"to return",
+"to go back"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"会": {
+"py": "huì",
+"forms": [
+{
+"py": "huì",
+"en": [
+"can; to have the skill; to know how to",
+"to be likely to; to be sure to",
+"to meet; to get together",
+"meeting; gathering",
+"(suffix) union; group; association",
+"(bound form) a moment (Taiwan pr. [huǐ])"
+]
+},
+{
+"py": "kuài",
+"en": [
+"to balance an account",
+"accounting",
+"accountant"
+]
+}
+],
+"pos": [
+"v",
+"n"
+]
+},
+"火车": {
+"py": "huǒ chē",
+"forms": [
+{
+"py": "huǒ chē",
+"en": [
+"train"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"机场": {
+"py": "jī chǎng",
+"forms": [
+{
+"py": "jī chǎng",
+"en": [
+"airport; airfield",
+"(slang) service provider for Shadowsocks or similar software for circumventing Internet censorship"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"机票": {
+"py": "jī piào",
+"forms": [
+{
+"py": "jī piào",
+"en": [
+"air ticket",
+"passenger ticket"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"鸡蛋": {
+"py": "jī dàn",
+"forms": [
+{
+"py": "jī dàn",
+"en": [
+"(chicken) egg",
+"hen's egg"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"几": {
+"py": "jī",
+"forms": [
+{
+"py": "jī",
+"en": [
+"small table"
+]
+},
+{
+"py": "jī",
+"en": [
+"almost"
+]
+},
+{
+"py": "jǐ",
+"en": [
+"how much",
+"how many",
+"several",
+"a few"
+]
+}
+],
+"pos": [
+"m",
+"d"
+]
+},
+"记": {
+"py": "jì",
+"forms": [
+{
+"py": "jì",
+"en": [
+"to record",
+"to note",
+"to memorize",
+"to remember",
+"mark",
+"sign",
+"classifier for blows, kicks, shots"
+]
+}
+],
+"pos": [
+"v",
+"g",
+"q"
+]
+},
+"记得": {
+"py": "jì de",
+"forms": [
+{
+"py": "jì de",
+"en": [
+"to remember"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"记住": {
+"py": "jì zhu",
+"forms": [
+{
+"py": "jì zhu",
+"en": [
+"to remember",
+"to bear in mind",
+"to learn by heart"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"家": {
+"py": "jiā",
+"forms": [
+{
+"py": "jiā",
+"en": [
+"used in 家伙 and 家俱"
+]
+},
+{
+"py": "jiā",
+"en": [
+"home",
+"family",
+"(polite) my (sister, uncle etc)",
+"classifier for families or businesses",
+"refers to the philosophical schools of pre-Han China",
+"noun suffix for a specialist in some activity, such as a musician or revolutionary, corresponding to English -ist, -er, -ary or -ian"
+]
+}
+],
+"pos": [
+"n",
+"q"
+]
+},
+"家里": {
+"py": "jiā lǐ",
+"forms": [
+{
+"py": "jiā lǐ",
+"en": [
+"home"
+]
+}
+],
+"pos": [
+"s",
+"n"
+]
+},
+"家人": {
+"py": "jiā rén",
+"forms": [
+{
+"py": "jiā rén",
+"en": [
+"family member",
+"(old) servant"
+]
+}
+],
+"pos": [
+"n",
+"nr"
+]
+},
+"间": {
+"py": "jiān",
+"forms": [
+{
+"py": "jiān",
+"en": [
+"between",
+"among",
+"within a definite time or space",
+"room",
+"section of a room or lateral space between two pairs of pillars",
+"classifier for rooms"
+]
+},
+{
+"py": "jiàn",
+"en": [
+"gap",
+"to separate",
+"to thin out (seedlings)",
+"to sow discontent"
+]
+}
+],
+"pos": [
+"q",
+"f",
+"v",
+"g"
+]
+},
+"见": {
+"py": "jiàn",
+"forms": [
+{
+"py": "jiàn",
+"en": [
+"to see",
+"to meet",
+"to appear (to be sth)",
+"to interview",
+"opinion",
+"view"
+]
+},
+{
+"py": "xiàn",
+"en": [
+"to appear",
+"also written 现"
+]
+}
+],
+"pos": [
+"v",
+"g"
+]
+},
+"见面": {
+"py": "jiàn miàn",
+"forms": [
+{
+"py": "jiàn miàn",
+"en": [
+"to meet; to see each other"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"叫": {
+"py": "jiào",
+"forms": [
+{
+"py": "jiào",
+"en": [
+"to shout",
+"to call",
+"to order",
+"to ask",
+"to be called",
+"by (indicates agent in the passive mood)"
+]
+},
+{
+"py": "jiào",
+"en": [
+"variant of 叫"
+]
+}
+],
+"pos": [
+"v",
+"p",
+"n"
+]
+},
+"教": {
+"py": "Jiào",
+"forms": [
+{
+"py": "Jiào",
+"en": [
+"surname Jiao"
+]
+},
+{
+"py": "jiāo",
+"en": [
+"to teach"
+]
+},
+{
+"py": "jiào",
+"en": [
+"religion",
+"teaching",
+"to make",
+"to cause",
+"to tell"
+]
+}
+],
+"pos": [
+"v",
+"g"
+]
+},
+"教学楼": {
+"py": "jiào xué lóu",
+"forms": [
+{
+"py": "jiào xué lóu",
+"en": [
+"teaching block",
+"school building"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"介绍": {
+"py": "jiè shào",
+"forms": [
+{
+"py": "jiè shào",
+"en": [
+"to introduce (sb to sb)",
+"to give a presentation",
+"to present (sb for a job etc)",
+"introduction"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"姐": {
+"py": "jiě",
+"forms": [
+{
+"py": "jiě",
+"en": [
+"older sister"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"姐姐": {
+"py": "jiě jie",
+"forms": [
+{
+"py": "jiě jie",
+"en": [
+"older sister"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"今年": {
+"py": "jīn nián",
+"forms": [
+{
+"py": "jīn nián",
+"en": [
+"this year"
+]
+}
+],
+"pos": [
+"t"
+]
+},
+"今天": {
+"py": "jīn tiān",
+"forms": [
+{
+"py": "jīn tiān",
+"en": [
+"today",
+"at the present",
+"now"
+]
+}
+],
+"pos": [
+"t"
+]
+},
+"进": {
+"py": "jìn",
+"forms": [
+{
+"py": "jìn",
+"en": [
+"to go forward",
+"to advance",
+"to go in",
+"to enter",
+"to put in",
+"to submit",
+"to take in",
+"to admit",
+"(math.) base of a number system",
+"classifier for sections in a building or residential compound"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"进来": {
+"py": "jìn lái",
+"forms": [
+{
+"py": "jìn lái",
+"en": [
+"to come in"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"进去": {
+"py": "jìn qù",
+"forms": [
+{
+"py": "jìn qù",
+"en": [
+"to go in"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"九": {
+"py": "jiǔ",
+"forms": [
+{
+"py": "jiǔ",
+"en": [
+"nine",
+"9"
+]
+}
+],
+"pos": [
+"m",
+"t",
+"b"
+]
+},
+"就": {
+"py": "jiù",
+"forms": [
+{
+"py": "jiù",
+"en": [
+"(after a suppositional clause) in that case; then",
+"(after a clause of action) as soon as; immediately after",
+"(same as 是) merely; nothing else but; simply; just; precisely; exactly",
+"only; as little as",
+"as much as; as many as",
+"to approach; to move towards",
+"to undertake; to engage in",
+"(often followed by 着) taking advantage of",
+"(of food) to go with",
+"with regard to; concerning",
+"(pattern: 就 ... 也 ...) even if ... still ...",
+"(pattern: 不 ... 就 ...) if not ... then must be ..."
+]
+}
+],
+"pos": [
+"d",
+"p",
+"c",
+"v"
+]
+},
+"觉得": {
+"py": "jué de",
+"forms": [
+{
+"py": "jué de",
+"en": [
+"to think that ...; to feel that ...",
+"to feel (uncomfortable etc)"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"开": {
+"py": "kāi",
+"forms": [
+{
+"py": "kāi",
+"en": [
+"to open (transitive or intransitive)",
+"(of ships, vehicles, troops etc) to start",
+"to turn on; to put in operation; to operate; to run",
+"to boil",
+"to write out (a prescription, check, invoice etc)",
+"(directional complement) away; off",
+"carat (gold)",
+"abbr. for Kelvin, 开尔文",
+"abbr. for 开本, book format"
+]
+}
+],
+"pos": [
+"v",
+"q"
+]
+},
+"开车": {
+"py": "kāi chē",
+"forms": [
+{
+"py": "kāi chē",
+"en": [
+"to drive a car"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"开会": {
+"py": "kāi huì",
+"forms": [
+{
+"py": "kāi huì",
+"en": [
+"to hold a meeting",
+"to attend a meeting"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"开玩笑": {
+"py": "kāi wán xiào",
+"forms": [
+{
+"py": "kāi wán xiào",
+"en": [
+"to play a joke",
+"to make fun of",
+"to joke"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"看": {
+"py": "kān",
+"forms": [
+{
+"py": "kān",
+"en": [
+"to look after",
+"to take care of",
+"to watch",
+"to guard"
+]
+},
+{
+"py": "kàn",
+"en": [
+"to see; to look at",
+"to read",
+"to watch",
+"to visit; to call on",
+"to consider; to regard as",
+"to look after",
+"to treat (a patient or illness)",
+"to depend on",
+"to feel (that)",
+"(after a verb) to give it a try",
+"to watch out for"
+]
+}
+],
+"pos": [
+"v",
+"u"
+]
+},
+"看病": {
+"py": "kàn bìng",
+"forms": [
+{
+"py": "kàn bìng",
+"en": [
+"to visit a doctor",
+"to see a patient"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"看到": {
+"py": "kàn dào",
+"forms": [
+{
+"py": "kàn dào",
+"en": [
+"to see"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"看见": {
+"py": "kàn jiàn",
+"forms": [
+{
+"py": "kàn jiàn",
+"en": [
+"to see",
+"to catch sight of"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"考": {
+"py": "kǎo",
+"forms": [
+{
+"py": "kǎo",
+"en": [
+"to beat",
+"to hit",
+"variant of 考",
+"to inspect",
+"to test",
+"to take an exam"
+]
+},
+{
+"py": "kǎo",
+"en": [
+"to check",
+"to verify",
+"to test",
+"to examine",
+"to take an exam",
+"to take an entrance exam for",
+"deceased father"
+]
+}
+],
+"pos": [
+"v",
+"g"
+]
+},
+"考试": {
+"py": "kǎo shì",
+"forms": [
+{
+"py": "kǎo shì",
+"en": [
+"to take an exam",
+"exam"
+]
+}
+],
+"pos": [
+"vn",
+"v"
+]
+},
+"渴": {
+"py": "kě",
+"forms": [
+{
+"py": "kě",
+"en": [
+"thirsty"
+]
+}
+],
+"pos": [
+"a",
+"v"
+]
+},
+"课": {
+"py": "kè",
+"forms": [
+{
+"py": "kè",
+"en": [
+"subject",
+"course",
+"class",
+"lesson",
+"to levy",
+"tax",
+"form of divination"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"课本": {
+"py": "kè běn",
+"forms": [
+{
+"py": "kè běn",
+"en": [
+"textbook"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"课文": {
+"py": "kè wén",
+"forms": [
+{
+"py": "kè wén",
+"en": [
+"text"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"口": {
+"py": "kǒu",
+"forms": [
+{
+"py": "kǒu",
+"en": [
+"mouth",
+"classifier for things with mouths (people, domestic animals, cannons, wells etc)",
+"classifier for bites or mouthfuls"
+]
+}
+],
+"pos": [
+"q",
+"n"
+]
+},
+"块": {
+"py": "kuài",
+"forms": [
+{
+"py": "kuài",
+"en": [
+"lump; chunk; piece",
+"classifier for pieces of cloth, cake, soap etc",
+"(coll.) classifier for money and currency units"
+]
+}
+],
+"pos": [
+"q",
+"g"
+]
+},
+"快": {
+"py": "kuài",
+"forms": [
+{
+"py": "kuài",
+"en": [
+"rapid",
+"quick",
+"speed",
+"rate",
+"soon",
+"almost",
+"to make haste",
+"clever",
+"sharp (of knives or wits)",
+"forthright",
+"plainspoken",
+"gratified",
+"pleased",
+"pleasant"
+]
+}
+],
+"pos": [
+"a",
+"d",
+"g"
+]
+},
+"来": {
+"py": "lái",
+"forms": [
+{
+"py": "lái",
+"en": [
+"to come",
+"(used as a substitute for a more specific verb)",
+"hither (directional complement for motion toward the speaker, as in 回来)",
+"ever since (as in 自古以来)",
+"for the past (amount of time)",
+"(prefix) the coming ...; the next ... (as in 来世)",
+"(between two verbs) in order to",
+"(after a round number) approximately",
+"(used after 得 to indicate possibility, as in 谈得来, or after 不 to indicate impossibility, as in 吃不来)"
+]
+}
+],
+"pos": [
+"v",
+"f",
+"m",
+"u",
+"y"
+]
+},
+"来到": {
+"py": "lái dào",
+"forms": [
+{
+"py": "lái dào",
+"en": [
+"to arrive; to come"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"老": {
+"py": "lǎo",
+"forms": [
+{
+"py": "lǎo",
+"en": [
+"prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity",
+"old (of people)",
+"venerable (person)",
+"experienced",
+"of long standing",
+"always",
+"all the time",
+"of the past",
+"very",
+"outdated",
+"(of meat etc) tough"
+]
+}
+],
+"pos": [
+"a",
+"d",
+"g"
+]
+},
+"老人": {
+"py": "lǎo rén",
+"forms": [
+{
+"py": "lǎo rén",
+"en": [
+"old man or woman",
+"the elderly",
+"one's aged parents or grandparents"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"老师": {
+"py": "lǎo shī",
+"forms": [
+{
+"py": "lǎo shī",
+"en": [
+"teacher"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"了": {
+"py": "le",
+"forms": [
+{
+"py": "le",
+"en": [
+"(completed action marker)",
+"(modal particle indicating change of state, situation now)",
+"(modal particle intensifying preceding clause)"
+]
+},
+{
+"py": "liǎo",
+"en": [
+"to finish",
+"to achieve",
+"variant of 了",
+"to understand clearly"
+]
+},
+{
+"py": "liǎo",
+"en": [
+"(of eyes) bright",
+"clear-sighted",
+"to understand clearly"
+]
+},
+{
+"py": "liào",
+"en": [
+"unofficial variant of 瞭"
+]
+}
+],
+"pos": [
+"y",
+"u",
+"v"
+]
+},
+"累": {
+"py": "lěi",
+"forms": [
+{
+"py": "lěi",
+"en": [
+"to accumulate",
+"to involve or implicate (Taiwan pr. [lèi])",
+"continuous",
+"repeated"
+]
+},
+{
+"py": "lèi",
+"en": [
+"tired",
+"weary",
+"to strain",
+"to wear out",
+"to work hard"
+]
+},
+{
+"py": "Léi",
+"en": [
+"surname Lei"
+]
+},
+{
+"py": "léi",
+"en": [
+"rope",
+"to bind together",
+"to twist around"
+]
+}
+],
+"pos": [
+"a",
+"v",
+"an"
+]
+},
+"冷": {
+"py": "Lěng",
+"forms": [
+{
+"py": "Lěng",
+"en": [
+"surname Leng"
+]
+},
+{
+"py": "lěng",
+"en": [
+"cold"
+]
+}
+],
+"pos": [
+"a",
+"ad",
+"g"
+]
+},
+"里": {
+"py": "lǐ",
+"forms": [
+{
+"py": "lǐ",
+"en": [
+"variant of 里"
+]
+},
+{
+"py": "lǐ",
+"en": [
+"lining",
+"interior",
+"inside",
+"internal",
+"also written 里"
+]
+},
+{
+"py": "Lǐ",
+"en": [
+"Li (surname)"
+]
+},
+{
+"py": "lǐ",
+"en": [
+"li, ancient measure of length, approx. 500 m",
+"neighborhood",
+"ancient administrative unit of 25 families",
+"(Tw) borough, administrative unit between the township 镇 and neighborhood 邻 levels"
+]
+}
+],
+"pos": [
+"f",
+"q"
+]
+},
+"里边": {
+"py": "lǐ bian",
+"forms": [
+{
+"py": "lǐ bian",
+"en": [
+"inside"
+]
+}
+],
+"pos": [
+"f"
+]
+},
+"两": {
+"py": "liǎng",
+"forms": [
+{
+"py": "liǎng",
+"en": [
+"two",
+"both",
+"some",
+"a few",
+"tael, unit of weight equal to 50 grams (modern) or 1⁄16 of a catty 斤 (old)"
+]
+}
+],
+"pos": [
+"m",
+"t"
+]
+},
+"零": {
+"py": "líng",
+"forms": [
+{
+"py": "líng",
+"en": [
+"zero",
+"nought",
+"zero sign",
+"fractional",
+"fragmentary",
+"odd (of numbers)",
+"(placed between two numbers to indicate a smaller quantity followed by a larger one)",
+"fraction",
+"(in mathematics) remainder (after division)",
+"extra",
+"to wither and fall",
+"to wither"
+]
+}
+],
+"pos": [
+"m",
+"t",
+"g"
+]
+},
+"六": {
+"py": "liù",
+"forms": [
+{
+"py": "liù",
+"en": [
+"six",
+"6"
+]
+}
+],
+"pos": [
+"m",
+"t"
+]
+},
+"楼": {
+"py": "Lóu",
+"forms": [
+{
+"py": "Lóu",
+"en": [
+"surname Lou"
+]
+},
+{
+"py": "lóu",
+"en": [
+"house with more than 1 story",
+"storied building",
+"floor"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"楼上": {
+"py": "lóu shàng",
+"forms": [
+{
+"py": "lóu shàng",
+"en": [
+"upstairs",
+"(Internet slang) previous poster in a forum thread"
+]
+}
+],
+"pos": [
+"s",
+"f"
+]
+},
+"楼下": {
+"py": "lóu xià",
+"forms": [
+{
+"py": "lóu xià",
+"en": [
+"downstairs"
+]
+}
+],
+"pos": [
+"s"
+]
+},
+"路": {
+"py": "Lù",
+"forms": [
+{
+"py": "Lù",
+"en": [
+"surname Lu"
+]
+},
+{
+"py": "lù",
+"en": [
+"road",
+"journey",
+"route",
+"line (bus etc)",
+"sort; kind"
+]
+}
+],
+"pos": [
+"n",
+"qv"
+]
+},
+"路口": {
+"py": "lù kǒu",
+"forms": [
+{
+"py": "lù kǒu",
+"en": [
+"crossing",
+"intersection (of roads)"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"路上": {
+"py": "lù shang",
+"forms": [
+{
+"py": "lù shang",
+"en": [
+"on the road",
+"on a journey",
+"road surface"
+]
+}
+],
+"pos": [
+"s"
+]
+},
+"妈": {
+"py": "mā",
+"forms": [
+{
+"py": "mā",
+"en": [
+"ma",
+"mom",
+"mother"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"妈妈": {
+"py": "mā ma",
+"forms": [
+{
+"py": "mā ma",
+"en": [
+"mama",
+"mommy",
+"mother"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"马路": {
+"py": "mǎ lù",
+"forms": [
+{
+"py": "mǎ lù",
+"en": [
+"street",
+"road"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"马上": {
+"py": "mǎ shàng",
+"forms": [
+{
+"py": "mǎ shàng",
+"en": [
+"at once",
+"right away",
+"immediately",
+"on horseback (i.e. by military force)"
+]
+}
+],
+"pos": [
+"d",
+"s"
+]
+},
+"吗": {
+"py": "má",
+"forms": [
+{
+"py": "má",
+"en": [
+"(coll.) what?"
+]
+},
+{
+"py": "mǎ",
+"en": [
+"used in 吗啡"
+]
+},
+{
+"py": "ma",
+"en": [
+"(question particle for \"yes-no\" questions)"
+]
+}
+],
+"pos": [
+"y"
+]
+},
+"买": {
+"py": "mǎi",
+"forms": [
+{
+"py": "mǎi",
+"en": [
+"to buy",
+"to purchase"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"慢": {
+"py": "màn",
+"forms": [
+{
+"py": "màn",
+"en": [
+"slow"
+]
+}
+],
+"pos": [
+"a",
+"ad"
+]
+},
+"忙": {
+"py": "máng",
+"forms": [
+{
+"py": "máng",
+"en": [
+"busy",
+"hurriedly",
+"to hurry",
+"to rush"
+]
+}
+],
+"pos": [
+"v",
+"a",
+"ad",
+"g",
+"an"
+]
+},
+"毛": {
+"py": "Máo",
+"forms": [
+{
+"py": "Máo",
+"en": [
+"surname Mao"
+]
+},
+{
+"py": "máo",
+"en": [
+"hair",
+"feather",
+"down",
+"wool",
+"mildew",
+"mold",
+"coarse or semifinished",
+"young",
+"raw",
+"careless",
+"unthinking",
+"nervous",
+"scared",
+"(of currency) to devalue or depreciate",
+"classifier for Chinese fractional monetary unit ( = 角 , = one-tenth of a yuan or 10 fen 分)"
+]
+}
+],
+"pos": [
+"nr",
+"n",
+"q"
+]
+},
+"没": {
+"py": "méi",
+"forms": [
+{
+"py": "méi",
+"en": [
+"(negative prefix for verbs) have not; not"
+]
+},
+{
+"py": "mò",
+"en": [
+"drowned",
+"to end",
+"to die",
+"to inundate"
+]
+}
+],
+"pos": [
+"d",
+"v"
+]
+},
+"没关系": {
+"py": "méi guān xi",
+"forms": [
+{
+"py": "méi guān xi",
+"en": [
+"it doesn't matter"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"没什么": {
+"py": "méi shén me",
+"forms": [
+{
+"py": "méi shén me",
+"en": [
+"nothing",
+"it doesn't matter",
+"it's nothing",
+"never mind"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"没事儿": {
+"py": "méi shì r",
+"forms": [
+{
+"py": "méi shì r",
+"en": [
+"to have spare time",
+"free from work",
+"it's not important",
+"it's nothing",
+"never mind"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"没有": {
+"py": "méi yǒu",
+"forms": [
+{
+"py": "méi yǒu",
+"en": [
+"haven't",
+"hasn't",
+"doesn't exist",
+"to not have",
+"to not be"
+]
+}
+],
+"pos": [
+"v",
+"d"
+]
+},
+"妹": {
+"py": "mèi",
+"forms": [
+{
+"py": "mèi",
+"en": [
+"younger sister"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"妹妹": {
+"py": "mèi mei",
+"forms": [
+{
+"py": "mèi mei",
+"en": [
+"younger sister",
+"young woman"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"门": {
+"py": "Mén",
+"forms": [
+{
+"py": "Mén",
+"en": [
+"surname Men"
+]
+},
+{
+"py": "mén",
+"en": [
+"gate",
+"door",
+"gateway",
+"doorway",
+"opening",
+"valve",
+"switch",
+"way to do something",
+"knack",
+"family",
+"house",
+"(religious) sect",
+"school (of thought)",
+"class",
+"category",
+"phylum or division (taxonomy)",
+"classifier for large guns",
+"classifier for lessons, subjects, branches of technology",
+"(suffix) -gate (i.e. scandal; derived from Watergate)"
+]
+}
+],
+"pos": [
+"n",
+"q"
+]
+},
+"门口": {
+"py": "mén kǒu",
+"forms": [
+{
+"py": "mén kǒu",
+"en": [
+"doorway",
+"gate"
+]
+}
+],
+"pos": [
+"s"
+]
+},
+"门票": {
+"py": "mén piào",
+"forms": [
+{
+"py": "mén piào",
+"en": [
+"ticket (for theater, cinema etc)"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"们": {
+"py": "men",
+"forms": [
+{
+"py": "men",
+"en": [
+"plural marker for pronouns, and nouns referring to individuals"
+]
+}
+],
+"pos": [
+"k"
+]
+},
+"米饭": {
+"py": "mǐ fàn",
+"forms": [
+{
+"py": "mǐ fàn",
+"en": [
+"(cooked) rice"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"面包": {
+"py": "miàn bāo",
+"forms": [
+{
+"py": "miàn bāo",
+"en": [
+"bread"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"面条儿": {
+"py": "miàn tiáo r",
+"forms": [
+{
+"py": "miàn tiáo r",
+"en": [
+"erhua variant of 面条",
+"noodles"
+]
+}
+],
+"pos": []
+},
+"名字": {
+"py": "míng zi",
+"forms": [
+{
+"py": "míng zi",
+"en": [
+"name (of a person or thing)"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"明白": {
+"py": "míng bai",
+"forms": [
+{
+"py": "míng bai",
+"en": [
+"clear",
+"obvious",
+"unequivocal",
+"to understand",
+"to realize"
+]
+}
+],
+"pos": [
+"v",
+"a",
+"an"
+]
+},
+"明年": {
+"py": "míng nián",
+"forms": [
+{
+"py": "míng nián",
+"en": [
+"next year"
+]
+}
+],
+"pos": [
+"t"
+]
+},
+"明天": {
+"py": "míng tiān",
+"forms": [
+{
+"py": "míng tiān",
+"en": [
+"tomorrow"
+]
+}
+],
+"pos": [
+"t"
+]
+},
+"拿": {
+"py": "ná",
+"forms": [
+{
+"py": "ná",
+"en": [
+"old variant of 拿"
+]
+},
+{
+"py": "ná",
+"en": [
+"variant of 拿"
+]
+},
+{
+"py": "ná",
+"en": [
+"to hold",
+"to seize",
+"to catch",
+"to apprehend",
+"to take",
+"(used in the same way as 把: to mark the following noun as a direct object)"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"哪": {
+"py": "nǎ",
+"forms": [
+{
+"py": "nǎ",
+"en": [
+"how",
+"which"
+]
+},
+{
+"py": "na",
+"en": [
+"(emphatic sentence-final particle, used instead of 啊 after a word ending in \"n\")"
+]
+},
+{
+"py": "né",
+"en": [
+"used in 吒",
+"Taiwan pr. [nuó]"
+]
+},
+{
+"py": "něi",
+"en": [
+"which? (interrogative, followed by classifier or numeral-classifier)"
+]
+}
+],
+"pos": [
+"r",
+"y"
+]
+},
+"哪儿": {
+"py": "nǎ r",
+"forms": [
+{
+"py": "nǎ r",
+"en": [
+"where?",
+"wherever; anywhere; somewhere",
+"(used in rhetorical questions) how can ...?; how could ...?"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"哪里": {
+"py": "nǎ lǐ",
+"forms": [
+{
+"py": "nǎ lǐ",
+"en": [
+"where?",
+"somewhere",
+"anywhere",
+"wherever",
+"nowhere (negative answer to question)",
+"humble expression denying compliment",
+"also written 哪里"
+]
+},
+{
+"py": "nǎ lǐ",
+"en": [
+"where?",
+"somewhere",
+"anywhere",
+"wherever",
+"nowhere (negative answer to question)",
+"humble expression denying compliment"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"哪些": {
+"py": "nǎ xiē",
+"forms": [
+{
+"py": "nǎ xiē",
+"en": [
+"which ones?",
+"who?",
+"what?"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"那": {
+"py": "Nā",
+"forms": [
+{
+"py": "Nā",
+"en": [
+"surname Na"
+]
+},
+{
+"py": "Nuó",
+"en": [
+"surname Nuo"
+]
+},
+{
+"py": "nǎ",
+"en": [
+"variant of 哪"
+]
+},
+{
+"py": "nà",
+"en": [
+"(specifier) that; the; those (colloquial pr. [nèi])",
+"(pronoun) that (referring to persons, things or situations)",
+"then (in that case)"
+]
+},
+{
+"py": "nuó",
+"en": [
+"(archaic) many",
+"beautiful",
+"how",
+"old variant of 挪"
+]
+}
+],
+"pos": [
+"r",
+"c"
+]
+},
+"那边": {
+"py": "nà bian",
+"forms": [
+{
+"py": "nà bian",
+"en": [
+"over there",
+"yonder"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"那儿": {
+"py": "nà r",
+"forms": [
+{
+"py": "nà r",
+"en": [
+"there"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"那里": {
+"py": "nà li",
+"forms": [
+{
+"py": "nà li",
+"en": [
+"there; that place"
+]
+},
+{
+"py": "nà li",
+"en": [
+"there; that place"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"那些": {
+"py": "nà xiē",
+"forms": [
+{
+"py": "nà xiē",
+"en": [
+"those"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"奶": {
+"py": "nǎi",
+"forms": [
+{
+"py": "nǎi",
+"en": [
+"breast",
+"milk",
+"to breastfeed"
+]
+},
+{
+"py": "nǎi",
+"en": [
+"variant of 奶"
+]
+},
+{
+"py": "nǎi",
+"en": [
+"mother",
+"variant of 奶"
+]
+}
+],
+"pos": [
+"n",
+"v"
+]
+},
+"奶奶": {
+"py": "nǎi nai",
+"forms": [
+{
+"py": "nǎi nai",
+"en": [
+"(informal) grandma (paternal grandmother)",
+"(respectful) mistress of the house",
+"(coll.) boobies",
+"breasts"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"男": {
+"py": "nán",
+"forms": [
+{
+"py": "nán",
+"en": [
+"male",
+"Baron, lowest of five orders of nobility 位"
+]
+}
+],
+"pos": [
+"b",
+"g"
+]
+},
+"男孩儿": {
+"py": "nán hái r",
+"forms": [
+{
+"py": "nán hái r",
+"en": [
+"erhua variant of 男孩",
+"boy"
+]
+}
+],
+"pos": []
+},
+"男朋友": {
+"py": "nán péng you",
+"forms": [
+{
+"py": "nán péng you",
+"en": [
+"boyfriend"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"男人": {
+"py": "nán rén",
+"forms": [
+{
+"py": "nán rén",
+"en": [
+"a man",
+"a male",
+"men"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"男生": {
+"py": "nán shēng",
+"forms": [
+{
+"py": "nán shēng",
+"en": [
+"schoolboy",
+"male student",
+"boy",
+"guy (young adult male)"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"南": {
+"py": "Nán",
+"forms": [
+{
+"py": "Nán",
+"en": [
+"surname Nan"
+]
+},
+{
+"py": "nán",
+"en": [
+"south"
+]
+}
+],
+"pos": [
+"b",
+"f"
+]
+},
+"南边": {
+"py": "nán bian",
+"forms": [
+{
+"py": "nán bian",
+"en": [
+"south",
+"south side",
+"southern part",
+"to the south of"
+]
+}
+],
+"pos": [
+"f"
+]
+},
+"难": {
+"py": "nán",
+"forms": [
+{
+"py": "nán",
+"en": [
+"difficult (to...)",
+"problem",
+"difficulty",
+"difficult",
+"not good"
+]
+},
+{
+"py": "nàn",
+"en": [
+"disaster",
+"distress",
+"to scold"
+]
+}
+],
+"pos": [
+"ad",
+"a",
+"v",
+"g"
+]
+},
+"呢": {
+"py": "ne",
+"forms": [
+{
+"py": "ne",
+"en": [
+"particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\")",
+"particle for inquiring about location (\"Where is ...?\")",
+"particle signaling a pause, to emphasize the preceding words and allow the listener time to take them on board (\"ok?\", \"are you with me?\")",
+"(at the end of a declarative sentence) particle indicating continuation of a state or action",
+"particle indicating strong affirmation"
+]
+},
+{
+"py": "ní",
+"en": [
+"woolen material"
+]
+}
+],
+"pos": [
+"y"
+]
+},
+"能": {
+"py": "Néng",
+"forms": [
+{
+"py": "Néng",
+"en": [
+"surname Neng"
+]
+},
+{
+"py": "néng",
+"en": [
+"can",
+"to be able to",
+"might possibly",
+"ability",
+"(physics) energy"
+]
+}
+],
+"pos": [
+"v",
+"g"
+]
+},
+"你": {
+"py": "nǐ",
+"forms": [
+{
+"py": "nǐ",
+"en": [
+"you (informal, as opposed to courteous 您)"
+]
+},
+{
+"py": "nǐ",
+"en": [
+"you (Note: In Taiwan, 妳 is used to address females, but in mainland China, it is not commonly used. Instead, 你 is used to address both males and females.)"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"你们": {
+"py": "nǐ men",
+"forms": [
+{
+"py": "nǐ men",
+"en": [
+"you (plural)"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"年": {
+"py": "Nián",
+"forms": [
+{
+"py": "Nián",
+"en": [
+"surname Nian"
+]
+},
+{
+"py": "nián",
+"en": [
+"year"
+]
+},
+{
+"py": "nián",
+"en": [
+"grain",
+"harvest (old)",
+"variant of 年"
+]
+}
+],
+"pos": [
+"qt",
+"t",
+"n"
+]
+},
+"您": {
+"py": "nín",
+"forms": [
+{
+"py": "nín",
+"en": [
+"you (courteous, as opposed to informal 你)"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"牛奶": {
+"py": "niú nǎi",
+"forms": [
+{
+"py": "niú nǎi",
+"en": [
+"cow's milk"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"女": {
+"py": "nǚ",
+"forms": [
+{
+"py": "nǚ",
+"en": [
+"female",
+"woman",
+"daughter"
+]
+},
+{
+"py": "rǔ",
+"en": [
+"archaic variant of 汝"
+]
+}
+],
+"pos": [
+"b",
+"g"
+]
+},
+"女儿": {
+"py": "nǚ ér",
+"forms": [
+{
+"py": "nǚ ér",
+"en": [
+"daughter"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"女孩儿": {
+"py": "nǚ hái r",
+"forms": [
+{
+"py": "nǚ hái r",
+"en": [
+"erhua variant of 女孩",
+"girl"
+]
+}
+],
+"pos": []
+},
+"女朋友": {
+"py": "nǚ péng you",
+"forms": [
+{
+"py": "nǚ péng you",
+"en": [
+"girlfriend"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"女人": {
+"py": "nǚ rén",
+"forms": [
+{
+"py": "nǚ rén",
+"en": [
+"woman"
+]
+},
+{
+"py": "nǚ ren",
+"en": [
+"wife"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"女生": {
+"py": "nǚ shēng",
+"forms": [
+{
+"py": "nǚ shēng",
+"en": [
+"schoolgirl",
+"female student",
+"girl"
+]
+}
+],
+"pos": [
+"n",
+"nr"
+]
+},
+"旁边": {
+"py": "páng biān",
+"forms": [
+{
+"py": "páng biān",
+"en": [
+"side; adjacent place"
+]
+}
+],
+"pos": [
+"f"
+]
+},
+"跑": {
+"py": "páo",
+"forms": [
+{
+"py": "páo",
+"en": [
+"(of an animal) to paw (the ground)"
+]
+},
+{
+"py": "pǎo",
+"en": [
+"to run",
+"to run away",
+"to escape",
+"to run around (on errands etc)",
+"(of a gas or liquid) to leak or evaporate",
+"(verb complement) away",
+"off"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"朋友": {
+"py": "péng you",
+"forms": [
+{
+"py": "péng you",
+"en": [
+"friend"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"票": {
+"py": "piào",
+"forms": [
+{
+"py": "piào",
+"en": [
+"ticket",
+"ballot",
+"banknote",
+"person held for ransom",
+"amateur performance of Chinese opera",
+"classifier for groups, batches, business transactions"
+]
+}
+],
+"pos": [
+"n",
+"q"
+]
+},
+"七": {
+"py": "qī",
+"forms": [
+{
+"py": "qī",
+"en": [
+"seven",
+"7"
+]
+}
+],
+"pos": [
+"m",
+"t"
+]
+},
+"起": {
+"py": "qǐ",
+"forms": [
+{
+"py": "qǐ",
+"en": [
+"to rise",
+"to raise",
+"to get up",
+"to set out",
+"to start",
+"to appear",
+"to launch",
+"to initiate (action)",
+"to draft",
+"to establish",
+"to get (from a depot or counter)",
+"verb suffix, to start",
+"starting from (a time, place, price etc)",
+"classifier for occurrences or unpredictable events: case, instance",
+"classifier for groups: batch, group"
+]
+}
+],
+"pos": [
+"v",
+"q",
+"f"
+]
+},
+"起床": {
+"py": "qǐ chuáng",
+"forms": [
+{
+"py": "qǐ chuáng",
+"en": [
+"to get out of bed",
+"to get up"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"起来": {
+"py": "qǐ lai",
+"forms": [
+{
+"py": "qǐ lai",
+"en": [
+"to stand up",
+"to get up",
+"also pr. [qǐ lái]"
+]
+},
+{
+"py": "qi lai",
+"en": [
+"(after a verb) indicating the beginning and continuation of an action or a state",
+"indicating an upward movement (e.g. after 站)",
+"indicating completion",
+"(after a perception verb, e.g. 看) expressing preliminary judgment",
+"also pr. [qǐ lai]"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"汽车": {
+"py": "qì chē",
+"forms": [
+{
+"py": "qì chē",
+"en": [
+"car",
+"automobile",
+"bus"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"前": {
+"py": "qián",
+"forms": [
+{
+"py": "qián",
+"en": [
+"front",
+"forward",
+"ahead",
+"first",
+"top (followed by a number)",
+"future",
+"ago",
+"before",
+"BC (e.g. 前293年)",
+"former",
+"formerly"
+]
+}
+],
+"pos": [
+"f",
+"v"
+]
+},
+"前边": {
+"py": "qián bian",
+"forms": [
+{
+"py": "qián bian",
+"en": [
+"front",
+"the front side",
+"in front of"
+]
+}
+],
+"pos": [
+"f"
+]
+},
+"前天": {
+"py": "qián tiān",
+"forms": [
+{
+"py": "qián tiān",
+"en": [
+"the day before yesterday"
+]
+}
+],
+"pos": [
+"t",
+"n"
+]
+},
+"钱": {
+"py": "Qián",
+"forms": [
+{
+"py": "Qián",
+"en": [
+"surname Qian"
+]
+},
+{
+"py": "qián",
+"en": [
+"coin",
+"money",
+"unit of weight, one tenth of a tael 两"
+]
+}
+],
+"pos": [
+"n",
+"nr"
+]
+},
+"钱包": {
+"py": "qián bāo",
+"forms": [
+{
+"py": "qián bāo",
+"en": [
+"purse",
+"wallet"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"请": {
+"py": "qǐng",
+"forms": [
+{
+"py": "qǐng",
+"en": [
+"to ask",
+"to invite",
+"please (do sth)",
+"to treat (to a meal etc)",
+"to request"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"请假": {
+"py": "qǐng jià",
+"forms": [
+{
+"py": "qǐng jià",
+"en": [
+"to request leave of absence"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"请进": {
+"py": "qǐng jìn",
+"forms": [
+{
+"py": "qǐng jìn",
+"en": [
+"\"please come in\""
+]
+}
+],
+"pos": []
+},
+"请问": {
+"py": "qǐng wèn",
+"forms": [
+{
+"py": "qǐng wèn",
+"en": [
+"Excuse me, may I ask...?"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"请坐": {
+"py": "qǐng zuò",
+"forms": [
+{
+"py": "qǐng zuò",
+"en": [
+"please, have a seat"
+]
+}
+],
+"pos": []
+},
+"球": {
+"py": "qiú",
+"forms": [
+{
+"py": "qiú",
+"en": [
+"ball",
+"sphere",
+"globe",
+"ball game",
+"match"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"去": {
+"py": "qù",
+"forms": [
+{
+"py": "qù",
+"en": [
+"to go",
+"to go to (a place)",
+"(of a time etc) last",
+"just passed",
+"to send",
+"to remove",
+"to get rid of",
+"to reduce",
+"to be apart from in space or time",
+"to die (euphemism)",
+"to play (a part)",
+"(when used either before or after a verb) to go in order to do sth",
+"(after a verb of motion indicates movement away from the speaker)",
+"(used after certain verbs to indicate detachment or separation)"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"去年": {
+"py": "qù nián",
+"forms": [
+{
+"py": "qù nián",
+"en": [
+"last year"
+]
+}
+],
+"pos": [
+"t"
+]
+},
+"热": {
+"py": "rè",
+"forms": [
+{
+"py": "rè",
+"en": [
+"to warm up",
+"to heat up",
+"hot (of weather)",
+"heat",
+"fervent"
+]
+}
+],
+"pos": [
+"a",
+"n",
+"k",
+"v",
+"ad",
+"an"
+]
+},
+"人": {
+"py": "rén",
+"forms": [
+{
+"py": "rén",
+"en": [
+"person; people"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"认识": {
+"py": "rèn shi",
+"forms": [
+{
+"py": "rèn shi",
+"en": [
+"to know",
+"to recognize",
+"to be familiar with",
+"to get acquainted with sb",
+"knowledge",
+"understanding",
+"awareness",
+"cognition"
+]
+}
+],
+"pos": [
+"v",
+"n",
+"vn"
+]
+},
+"认真": {
+"py": "rèn zhēn",
+"forms": [
+{
+"py": "rèn zhēn",
+"en": [
+"conscientious",
+"earnest",
+"serious",
+"to take seriously",
+"to take to heart"
+]
+}
+],
+"pos": [
+"a",
+"ad"
+]
+},
+"日": {
+"py": "Rì",
+"forms": [
+{
+"py": "Rì",
+"en": [
+"abbr. for 本, Japan"
+]
+},
+{
+"py": "rì",
+"en": [
+"sun",
+"day",
+"date, day of the month"
+]
+}
+],
+"pos": [
+"t",
+"g",
+"b",
+"qt"
+]
+},
+"日期": {
+"py": "rì qī",
+"forms": [
+{
+"py": "rì qī",
+"en": [
+"date"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"肉": {
+"py": "ròu",
+"forms": [
+{
+"py": "ròu",
+"en": [
+"meat",
+"flesh",
+"pulp (of a fruit)",
+"(coll.) (of a fruit) squashy",
+"(of a person) flabby",
+"irresolute",
+"Kangxi radical 130"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"三": {
+"py": "Sān",
+"forms": [
+{
+"py": "Sān",
+"en": [
+"surname San"
+]
+},
+{
+"py": "sān",
+"en": [
+"three",
+"3"
+]
+}
+],
+"pos": [
+"m",
+"t"
+]
+},
+"山": {
+"py": "Shān",
+"forms": [
+{
+"py": "Shān",
+"en": [
+"surname Shan"
+]
+},
+{
+"py": "shān",
+"en": [
+"mountain; hill",
+"(coll.) small bundle of straw for silkworms to spin cocoons on"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"商场": {
+"py": "shāng chǎng",
+"forms": [
+{
+"py": "shāng chǎng",
+"en": [
+"shopping mall",
+"shopping center",
+"department store",
+"emporium",
+"the business world"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"商店": {
+"py": "shāng diàn",
+"forms": [
+{
+"py": "shāng diàn",
+"en": [
+"store; shop"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"上": {
+"py": "shǎng",
+"forms": [
+{
+"py": "shǎng",
+"en": [
+"used in 上声"
+]
+},
+{
+"py": "shàng",
+"en": [
+"(bound form) up; upper; above; previous",
+"first (of multiple parts)",
+"to climb; to get onto; to go up",
+"to attend (class or university)",
+"(directional complement) up",
+"(noun suffix) on; above"
+]
+}
+],
+"pos": [
+"f",
+"v",
+"g"
+]
+},
+"上班": {
+"py": "shàng bān",
+"forms": [
+{
+"py": "shàng bān",
+"en": [
+"to go to work",
+"to be on duty",
+"to start work",
+"to go to the office"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"上边": {
+"py": "shàng bian",
+"forms": [
+{
+"py": "shàng bian",
+"en": [
+"the top",
+"above",
+"overhead",
+"upwards",
+"the top margin",
+"above-mentioned",
+"those higher up"
+]
+}
+],
+"pos": [
+"f",
+"n"
+]
+},
+"上车": {
+"py": "shàng chē",
+"forms": [
+{
+"py": "shàng chē",
+"en": [
+"to get on or into (a bus, train, car etc)"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"上次": {
+"py": "shàng cì",
+"forms": [
+{
+"py": "shàng cì",
+"en": [
+"last time"
+]
+}
+],
+"pos": [
+"t"
+]
+},
+"上课": {
+"py": "shàng kè",
+"forms": [
+{
+"py": "shàng kè",
+"en": [
+"to go to class",
+"to attend class",
+"to go to teach a class"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"上网": {
+"py": "shàng wǎng",
+"forms": [
+{
+"py": "shàng wǎng",
+"en": [
+"to go online",
+"to connect to the Internet",
+"(of a document etc) to be uploaded to the Internet",
+"(tennis, volleyball etc) to move in close to the net"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"上午": {
+"py": "shàng wǔ",
+"forms": [
+{
+"py": "shàng wǔ",
+"en": [
+"morning"
+]
+}
+],
+"pos": [
+"t"
+]
+},
+"上学": {
+"py": "shàng xué",
+"forms": [
+{
+"py": "shàng xué",
+"en": [
+"to go to school",
+"to attend school"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"少": {
+"py": "shǎo",
+"forms": [
+{
+"py": "shǎo",
+"en": [
+"few",
+"less",
+"to lack",
+"to be missing",
+"to stop (doing sth)",
+"seldom"
+]
+},
+{
+"py": "shào",
+"en": [
+"young"
+]
+}
+],
+"pos": [
+"a",
+"ad",
+"v",
+"d",
+"g"
+]
+},
+"身上": {
+"py": "shēn shang",
+"forms": [
+{
+"py": "shēn shang",
+"en": [
+"on the body",
+"at hand",
+"among"
+]
+}
+],
+"pos": [
+"s"
+]
+},
+"身体": {
+"py": "shēn tǐ",
+"forms": [
+{
+"py": "shēn tǐ",
+"en": [
+"the body",
+"one's health",
+"in person"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"什么": {
+"py": "shén me",
+"forms": [
+{
+"py": "shén me",
+"en": [
+"what?",
+"something",
+"anything"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"生病": {
+"py": "shēng bìng",
+"forms": [
+{
+"py": "shēng bìng",
+"en": [
+"to fall ill"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"生气": {
+"py": "shēng qì",
+"forms": [
+{
+"py": "shēng qì",
+"en": [
+"to get angry",
+"to take offense",
+"angry",
+"vitality",
+"liveliness"
+]
+}
+],
+"pos": [
+"a",
+"n",
+"v",
+"an"
+]
+},
+"生日": {
+"py": "shēng rì",
+"forms": [
+{
+"py": "shēng rì",
+"en": [
+"birthday"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"十": {
+"py": "shí",
+"forms": [
+{
+"py": "shí",
+"en": [
+"ten",
+"10"
+]
+}
+],
+"pos": [
+"m",
+"t"
+]
+},
+"时候": {
+"py": "shí hou",
+"forms": [
+{
+"py": "shí hou",
+"en": [
+"time",
+"length of time",
+"moment",
+"period"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"时间": {
+"py": "shí jiān",
+"forms": [
+{
+"py": "shí jiān",
+"en": [
+"time",
+"period"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"事": {
+"py": "shì",
+"forms": [
+{
+"py": "shì",
+"en": [
+"matter",
+"thing",
+"item",
+"work",
+"affair"
+]
+}
+],
+"pos": [
+"n",
+"g"
+]
+},
+"试": {
+"py": "shì",
+"forms": [
+{
+"py": "shì",
+"en": [
+"to test",
+"to try",
+"experiment",
+"examination",
+"test"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"是": {
+"py": "shì",
+"forms": [
+{
+"py": "shì",
+"en": [
+"to be (followed by substantives only)",
+"correct; right; true",
+"(respectful acknowledgement of a command) very well",
+"(adverb for emphatic assertion)"
+]
+},
+{
+"py": "shì",
+"en": [
+"variant of 是"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"是不是": {
+"py": "shì bù shì",
+"forms": [
+{
+"py": "shì bù shì",
+"en": [
+"is or isn't",
+"yes or no",
+"whether or not"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"手": {
+"py": "shǒu",
+"forms": [
+{
+"py": "shǒu",
+"en": [
+"hand",
+"(formal) to hold",
+"person engaged in certain types of work",
+"person skilled in certain types of work",
+"personal(ly)",
+"convenient",
+"classifier for skill"
+]
+}
+],
+"pos": [
+"n",
+"q"
+]
+},
+"手机": {
+"py": "shǒu jī",
+"forms": [
+{
+"py": "shǒu jī",
+"en": [
+"cell phone",
+"mobile phone"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"书": {
+"py": "Shū",
+"forms": [
+{
+"py": "Shū",
+"en": [
+"abbr. for 书经"
+]
+},
+{
+"py": "shū",
+"en": [
+"book",
+"letter",
+"document",
+"to write"
+]
+}
+],
+"pos": [
+"n",
+"g"
+]
+},
+"书包": {
+"py": "shū bāo",
+"forms": [
+{
+"py": "shū bāo",
+"en": [
+"schoolbag",
+"satchel",
+"bookbag"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"书店": {
+"py": "shū diàn",
+"forms": [
+{
+"py": "shū diàn",
+"en": [
+"bookstore"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"树": {
+"py": "shù",
+"forms": [
+{
+"py": "shù",
+"en": [
+"tree",
+"to cultivate",
+"to set up"
+]
+}
+],
+"pos": [
+"n",
+"v"
+]
+},
+"谁": {
+"py": "shéi",
+"forms": [
+{
+"py": "shéi",
+"en": [
+"who",
+"also pr. [shuí]"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"水": {
+"py": "Shuǐ",
+"forms": [
+{
+"py": "Shuǐ",
+"en": [
+"surname Shui"
+]
+},
+{
+"py": "shuǐ",
+"en": [
+"water",
+"river",
+"liquid",
+"beverage",
+"additional charges or income",
+"(of clothes) classifier for number of washes"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"水果": {
+"py": "shuǐ guǒ",
+"forms": [
+{
+"py": "shuǐ guǒ",
+"en": [
+"fruit"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"睡": {
+"py": "shuì",
+"forms": [
+{
+"py": "shuì",
+"en": [
+"to sleep",
+"to lie down"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"睡觉": {
+"py": "shuì jiào",
+"forms": [
+{
+"py": "shuì jiào",
+"en": [
+"to go to bed",
+"to sleep"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"说": {
+"py": "shuì",
+"forms": [
+{
+"py": "shuì",
+"en": [
+"to persuade"
+]
+},
+{
+"py": "shuō",
+"en": [
+"to speak; to talk; to say",
+"to explain; to comment",
+"to scold; to tell off",
+"(bound form) theory; doctrine"
+]
+},
+{
+"py": "shuō",
+"en": [
+"variant of 说"
+]
+}
+],
+"pos": [
+"v",
+"g"
+]
+},
+"说话": {
+"py": "shuō huà",
+"forms": [
+{
+"py": "shuō huà",
+"en": [
+"to speak",
+"to say",
+"to talk",
+"to gossip",
+"to tell stories",
+"talk",
+"word"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"四": {
+"py": "sì",
+"forms": [
+{
+"py": "sì",
+"en": [
+"four",
+"4"
+]
+}
+],
+"pos": [
+"m",
+"t"
+]
+},
+"送": {
+"py": "sòng",
+"forms": [
+{
+"py": "sòng",
+"en": [
+"to send; to deliver; to transmit",
+"to give (as a present)",
+"to see (sb) off",
+"to accompany; to go along with"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"岁": {
+"py": "suì",
+"forms": [
+{
+"py": "suì",
+"en": [
+"variant of 岁, year",
+"years old"
+]
+},
+{
+"py": "suì",
+"en": [
+"classifier for years (of age)",
+"year",
+"year (of crop harvests)"
+]
+}
+],
+"pos": [
+"qt"
+]
+},
+"他": {
+"py": "tā",
+"forms": [
+{
+"py": "tā",
+"en": [
+"he; him (used for either sex when the sex is unknown or unimportant)",
+"(used before sb's name for emphasis)",
+"(used as a meaningless mock object)",
+"(literary) other"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"他们": {
+"py": "tā men",
+"forms": [
+{
+"py": "tā men",
+"en": [
+"they"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"她": {
+"py": "tā",
+"forms": [
+{
+"py": "tā",
+"en": [
+"she"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"她们": {
+"py": "tā men",
+"forms": [
+{
+"py": "tā men",
+"en": [
+"they",
+"them (for females)"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"太": {
+"py": "tài",
+"forms": [
+{
+"py": "tài",
+"en": [
+"highest",
+"greatest",
+"too (much)",
+"very",
+"extremely"
+]
+}
+],
+"pos": [
+"d",
+"b"
+]
+},
+"天": {
+"py": "tiān",
+"forms": [
+{
+"py": "tiān",
+"en": [
+"day",
+"sky",
+"heaven"
+]
+}
+],
+"pos": [
+"qt",
+"n"
+]
+},
+"天气": {
+"py": "tiān qì",
+"forms": [
+{
+"py": "tiān qì",
+"en": [
+"weather"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"听": {
+"py": "yǐn",
+"forms": [
+{
+"py": "yǐn",
+"en": [
+"smile (archaic)"
+]
+},
+{
+"py": "tīng",
+"en": [
+"to listen to; to hear",
+"to heed; to obey",
+"a can (loanword from English \"tin\")",
+"classifier for canned beverages",
+"to let be; to allow (Taiwan pr. [tìng])",
+"(literary) to administer; to deal with (Taiwan pr. [tìng])"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"听到": {
+"py": "tīng dào",
+"forms": [
+{
+"py": "tīng dào",
+"en": [
+"to hear"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"听见": {
+"py": "tīng jiàn",
+"forms": [
+{
+"py": "tīng jiàn",
+"en": [
+"to hear"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"听写": {
+"py": "tīng xiě",
+"forms": [
+{
+"py": "tīng xiě",
+"en": [
+"(of a pupil) to write down (in a dictation exercise)",
+"dictation",
+"(music) to transcribe by ear"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"同学": {
+"py": "tóng xué",
+"forms": [
+{
+"py": "tóng xué",
+"en": [
+"to study at the same school",
+"fellow student",
+"classmate"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"图书馆": {
+"py": "tú shū guǎn",
+"forms": [
+{
+"py": "tú shū guǎn",
+"en": [
+"library"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"外": {
+"py": "wài",
+"forms": [
+{
+"py": "wài",
+"en": [
+"outside",
+"in addition",
+"foreign",
+"external"
+]
+}
+],
+"pos": [
+"f"
+]
+},
+"外边": {
+"py": "wài bian",
+"forms": [
+{
+"py": "wài bian",
+"en": [
+"outside",
+"outer surface",
+"abroad",
+"place other than one's home"
+]
+}
+],
+"pos": [
+"f"
+]
+},
+"外国": {
+"py": "wài guó",
+"forms": [
+{
+"py": "wài guó",
+"en": [
+"foreign (country)"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"外语": {
+"py": "wài yǔ",
+"forms": [
+{
+"py": "wài yǔ",
+"en": [
+"foreign language"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"玩儿": {
+"py": "wán r",
+"forms": [
+{
+"py": "wán r",
+"en": [
+"to play",
+"to have fun",
+"to hang out"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"晚": {
+"py": "wǎn",
+"forms": [
+{
+"py": "wǎn",
+"en": [
+"evening",
+"night",
+"late"
+]
+}
+],
+"pos": [
+"tg",
+"a",
+"ad"
+]
+},
+"晚饭": {
+"py": "wǎn fàn",
+"forms": [
+{
+"py": "wǎn fàn",
+"en": [
+"evening meal",
+"dinner",
+"supper"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"晚上": {
+"py": "wǎn shang",
+"forms": [
+{
+"py": "wǎn shang",
+"en": [
+"evening",
+"night",
+"in the evening"
+]
+}
+],
+"pos": [
+"t"
+]
+},
+"网上": {
+"py": "wǎng shàng",
+"forms": [
+{
+"py": "wǎng shàng",
+"en": [
+"online"
+]
+}
+],
+"pos": [
+"s"
+]
+},
+"网友": {
+"py": "wǎng yǒu",
+"forms": [
+{
+"py": "wǎng yǒu",
+"en": [
+"online friend",
+"Internet user"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"忘": {
+"py": "wàng",
+"forms": [
+{
+"py": "wàng",
+"en": [
+"to forget",
+"to overlook",
+"to neglect"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"忘记": {
+"py": "wàng jì",
+"forms": [
+{
+"py": "wàng jì",
+"en": [
+"to forget"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"问": {
+"py": "wèn",
+"forms": [
+{
+"py": "wèn",
+"en": [
+"to ask; to inquire"
+]
+}
+],
+"pos": [
+"v",
+"g",
+"vn"
+]
+},
+"我": {
+"py": "wǒ",
+"forms": [
+{
+"py": "wǒ",
+"en": [
+"I; me; my"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"我们": {
+"py": "wǒ men",
+"forms": [
+{
+"py": "wǒ men",
+"en": [
+"we",
+"us",
+"ourselves",
+"our"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"五": {
+"py": "wǔ",
+"forms": [
+{
+"py": "wǔ",
+"en": [
+"five",
+"5"
+]
+}
+],
+"pos": [
+"m",
+"t"
+]
+},
+"午饭": {
+"py": "wǔ fàn",
+"forms": [
+{
+"py": "wǔ fàn",
+"en": [
+"lunch"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"洗": {
+"py": "xǐ",
+"forms": [
+{
+"py": "xǐ",
+"en": [
+"to wash; to bathe",
+"to develop (photographs)",
+"to shuffle (cards etc)",
+"to erase (a recording)"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"洗手间": {
+"py": "xǐ shǒu jiān",
+"forms": [
+{
+"py": "xǐ shǒu jiān",
+"en": [
+"toilet",
+"lavatory",
+"washroom"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"喜欢": {
+"py": "xǐ huan",
+"forms": [
+{
+"py": "xǐ huan",
+"en": [
+"to like; to be fond of"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"西": {
+"py": "Xī",
+"forms": [
+{
+"py": "Xī",
+"en": [
+"the West",
+"abbr. for Spain 牙",
+"Spanish"
+]
+},
+{
+"py": "xī",
+"en": [
+"west"
+]
+}
+],
+"pos": [
+"f",
+"b"
+]
+},
+"西边": {
+"py": "xī biān",
+"forms": [
+{
+"py": "xī biān",
+"en": [
+"west",
+"west side",
+"western part",
+"to the west of"
+]
+}
+],
+"pos": [
+"f",
+"nr"
+]
+},
+"下": {
+"py": "xià",
+"forms": [
+{
+"py": "xià",
+"en": [
+"down",
+"downwards",
+"below",
+"lower",
+"later",
+"next (week etc)",
+"second (of two parts)",
+"to decline",
+"to go down",
+"to arrive at (a decision, conclusion etc)",
+"measure word to show the frequency of an action"
+]
+}
+],
+"pos": [
+"v",
+"f",
+"qt",
+"g"
+]
+},
+"下班": {
+"py": "xià bān",
+"forms": [
+{
+"py": "xià bān",
+"en": [
+"to finish work",
+"to get off work"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"下边": {
+"py": "xià bian",
+"forms": [
+{
+"py": "xià bian",
+"en": [
+"under",
+"the underside",
+"below"
+]
+}
+],
+"pos": [
+"f"
+]
+},
+"下车": {
+"py": "xià chē",
+"forms": [
+{
+"py": "xià chē",
+"en": [
+"to get off or out of (a bus, train, car etc)"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"下次": {
+"py": "xià cì",
+"forms": [
+{
+"py": "xià cì",
+"en": [
+"next time"
+]
+}
+],
+"pos": [
+"t"
+]
+},
+"下课": {
+"py": "xià kè",
+"forms": [
+{
+"py": "xià kè",
+"en": [
+"to finish class",
+"to get out of class",
+"(fig.) (esp. of a sports coach) to be dismissed",
+"to be fired"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"下午": {
+"py": "xià wǔ",
+"forms": [
+{
+"py": "xià wǔ",
+"en": [
+"afternoon",
+"p.m."
+]
+}
+],
+"pos": [
+"t"
+]
+},
+"下雨": {
+"py": "xià yǔ",
+"forms": [
+{
+"py": "xià yǔ",
+"en": [
+"to rain"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"先": {
+"py": "xiān",
+"forms": [
+{
+"py": "xiān",
+"en": [
+"early",
+"prior",
+"former",
+"in advance",
+"first"
+]
+}
+],
+"pos": [
+"d",
+"g"
+]
+},
+"先生": {
+"py": "xiān sheng",
+"forms": [
+{
+"py": "xiān sheng",
+"en": [
+"teacher",
+"gentleman; sir; mister (Mr.)",
+"husband",
+"(dialect) doctor"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"现在": {
+"py": "xiàn zài",
+"forms": [
+{
+"py": "xiàn zài",
+"en": [
+"now",
+"at present",
+"at the moment",
+"modern",
+"current",
+"nowadays"
+]
+}
+],
+"pos": [
+"t"
+]
+},
+"想": {
+"py": "xiǎng",
+"forms": [
+{
+"py": "xiǎng",
+"en": [
+"to think (about)",
+"to think of; to devise",
+"to think (that); to believe (that)",
+"to desire; to want (to)",
+"to miss (feel wistful about the absence of)"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"小": {
+"py": "xiǎo",
+"forms": [
+{
+"py": "xiǎo",
+"en": [
+"small",
+"tiny",
+"few",
+"young"
+]
+}
+],
+"pos": [
+"a",
+"ad"
+]
+},
+"小孩儿": {
+"py": "xiǎo hái r",
+"forms": [
+{
+"py": "xiǎo hái r",
+"en": [
+"erhua variant of 小孩",
+"child"
+]
+}
+],
+"pos": []
+},
+"小姐": {
+"py": "xiǎo jie",
+"forms": [
+{
+"py": "xiǎo jie",
+"en": [
+"young lady",
+"miss",
+"(slang) prostitute"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"小朋友": {
+"py": "xiǎo péng yǒu",
+"forms": [
+{
+"py": "xiǎo péng yǒu",
+"en": [
+"child"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"小时": {
+"py": "xiǎo shí",
+"forms": [
+{
+"py": "xiǎo shí",
+"en": [
+"hour"
+]
+}
+],
+"pos": [
+"n",
+"q"
+]
+},
+"小学": {
+"py": "xiǎo xué",
+"forms": [
+{
+"py": "xiǎo xué",
+"en": [
+"elementary school; primary school"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"小学生": {
+"py": "xiǎo xué shēng",
+"forms": [
+{
+"py": "xiǎo xué shēng",
+"en": [
+"primary school student",
+"schoolchild",
+"(fig.) beginner"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"笑": {
+"py": "xiào",
+"forms": [
+{
+"py": "xiào",
+"en": [
+"old variant of 笑"
+]
+},
+{
+"py": "xiào",
+"en": [
+"to laugh; to smile",
+"to laugh at"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"写": {
+"py": "xiě",
+"forms": [
+{
+"py": "xiě",
+"en": [
+"to write"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"谢谢": {
+"py": "xiè xie",
+"forms": [
+{
+"py": "xiè xie",
+"en": [
+"to thank",
+"thanks",
+"thank you"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"新": {
+"py": "Xīn",
+"forms": [
+{
+"py": "Xīn",
+"en": [
+"abbr. for Xinjiang 疆 or Singapore 坡",
+"surname Xin"
+]
+},
+{
+"py": "xīn",
+"en": [
+"new",
+"newly",
+"meso- (chemistry)"
+]
+}
+],
+"pos": [
+"a",
+"d",
+"b"
+]
+},
+"新年": {
+"py": "xīn nián",
+"forms": [
+{
+"py": "xīn nián",
+"en": [
+"New Year"
+]
+}
+],
+"pos": [
+"t"
+]
+},
+"星期": {
+"py": "xīng qī",
+"forms": [
+{
+"py": "xīng qī",
+"en": [
+"week",
+"day of the week",
+"Sunday"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"星期日": {
+"py": "Xīng qī rì",
+"forms": [
+{
+"py": "Xīng qī rì",
+"en": [
+"Sunday"
+]
+}
+],
+"pos": [
+"t"
+]
+},
+"星期天": {
+"py": "Xīng qī tiān",
+"forms": [
+{
+"py": "Xīng qī tiān",
+"en": [
+"Sunday"
+]
+}
+],
+"pos": [
+"t"
+]
+},
+"行": {
+"py": "háng",
+"forms": [
+{
+"py": "háng",
+"en": [
+"row",
+"line",
+"commercial firm",
+"line of business",
+"profession",
+"to rank (first, second etc) among one's siblings (by age)",
+"(in data tables) row",
+"(Tw) column"
+]
+},
+{
+"py": "xíng",
+"en": [
+"to walk",
+"to go",
+"to travel",
+"a visit",
+"temporary",
+"makeshift",
+"current",
+"in circulation",
+"to do",
+"to perform",
+"capable",
+"competent",
+"effective",
+"all right",
+"OK!",
+"will do",
+"behavior",
+"conduct",
+"Taiwan pr. [xìng] for the behavior-conduct sense"
+]
+}
+],
+"pos": [
+"v",
+"g",
+"q",
+"a",
+"n"
+]
+},
+"休息": {
+"py": "xiū xi",
+"forms": [
+{
+"py": "xiū xi",
+"en": [
+"rest",
+"to rest"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"学": {
+"py": "xué",
+"forms": [
+{
+"py": "xué",
+"en": [
+"to learn",
+"to study",
+"to imitate",
+"science",
+"-ology"
+]
+}
+],
+"pos": [
+"v",
+"g"
+]
+},
+"学生": {
+"py": "xué sheng",
+"forms": [
+{
+"py": "xué sheng",
+"en": [
+"student",
+"schoolchild"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"学习": {
+"py": "xué xí",
+"forms": [
+{
+"py": "xué xí",
+"en": [
+"to learn",
+"to study"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"学校": {
+"py": "xué xiào",
+"forms": [
+{
+"py": "xué xiào",
+"en": [
+"school"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"学院": {
+"py": "xué yuàn",
+"forms": [
+{
+"py": "xué yuàn",
+"en": [
+"college",
+"educational institute",
+"school",
+"faculty"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"要": {
+"py": "yāo",
+"forms": [
+{
+"py": "yāo",
+"en": [
+"(bound form) to demand; to coerce"
+]
+},
+{
+"py": "yào",
+"en": [
+"to want; to need; to ask for",
+"will; shall; about to",
+"need to; should",
+"if (same as 是)",
+"(bound form) important"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"也": {
+"py": "Yě",
+"forms": [
+{
+"py": "Yě",
+"en": [
+"surname Ye"
+]
+},
+{
+"py": "yě",
+"en": [
+"(adverb) also; both ... and ... (before predicates only)",
+"(literary) particle having functions similar to 啊"
+]
+}
+],
+"pos": [
+"d",
+"y",
+"u",
+"b"
+]
+},
+"页": {
+"py": "xié",
+"forms": [
+{
+"py": "xié",
+"en": [
+"head"
+]
+},
+{
+"py": "yè",
+"en": [
+"page",
+"leaf"
+]
+}
+],
+"pos": [
+"q",
+"g"
+]
+},
+"爷爷": {
+"py": "yé ye",
+"forms": [
+{
+"py": "yé ye",
+"en": [
+"(coll.) father's father",
+"paternal grandfather"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"一": {
+"py": "yī",
+"forms": [
+{
+"py": "yī",
+"en": [
+"one",
+"single",
+"a (article)",
+"as soon as",
+"entire; whole; all; throughout",
+"\"one\" radical in Chinese characters (Kangxi radical 1)",
+"also pr. [yāo] for greater clarity when spelling out numbers digit by digit"
+]
+}
+],
+"pos": [
+"m",
+"d",
+"t"
+]
+},
+"一半": {
+"py": "yī bàn",
+"forms": [
+{
+"py": "yī bàn",
+"en": [
+"half"
+]
+}
+],
+"pos": [
+"m"
+]
+},
+"一边": {
+"py": "yī biān",
+"forms": [
+{
+"py": "yī biān",
+"en": [
+"one side",
+"either side",
+"on the one hand",
+"on the other hand",
+"doing while"
+]
+}
+],
+"pos": [
+"d",
+"f"
+]
+},
+"一点儿": {
+"py": "yī diǎn r",
+"forms": [
+{
+"py": "yī diǎn r",
+"en": [
+"erhua variant of 一点",
+"a bit; a little bit",
+"(used in negative expressions) (not) the least bit",
+"(after an adjective, used to form the comparative) a bit more"
+]
+}
+],
+"pos": [
+"mq"
+]
+},
+"一会儿": {
+"py": "yī huì r",
+"forms": [
+{
+"py": "yī huì r",
+"en": [
+"a moment",
+"a while",
+"in a moment",
+"now...now...",
+"also pr. [yī huǐ r]"
+]
+}
+],
+"pos": [
+"mq"
+]
+},
+"一块儿": {
+"py": "yī kuài r",
+"forms": [
+{
+"py": "yī kuài r",
+"en": [
+"erhua variant of 一块",
+"a piece; a chunk",
+"(coll.) one yuan; one dollar"
+]
+}
+],
+"pos": [
+"d",
+"s"
+]
+},
+"一起": {
+"py": "yī qǐ",
+"forms": [
+{
+"py": "yī qǐ",
+"en": [
+"in the same place",
+"together",
+"with",
+"altogether (in total)"
+]
+}
+],
+"pos": [
+"s",
+"d",
+"nr"
+]
+},
+"一下儿": {
+"py": "yī xià r",
+"forms": [
+{
+"py": "yī xià r",
+"en": [
+"erhua variant of 一下",
+"one time; once",
+"all of sudden"
+]
+}
+],
+"pos": []
+},
+"一些": {
+"py": "yī xiē",
+"forms": [
+{
+"py": "yī xiē",
+"en": [
+"some",
+"a few",
+"a little",
+"(following an adjective) slightly ...er"
+]
+}
+],
+"pos": [
+"mq"
+]
+},
+"一样": {
+"py": "yī yàng",
+"forms": [
+{
+"py": "yī yàng",
+"en": [
+"same",
+"like",
+"equal to",
+"the same as",
+"just like"
+]
+}
+],
+"pos": [
+"u",
+"a",
+"ad"
+]
+},
+"衣服": {
+"py": "yī fu",
+"forms": [
+{
+"py": "yī fu",
+"en": [
+"clothes"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"医生": {
+"py": "yī shēng",
+"forms": [
+{
+"py": "yī shēng",
+"en": [
+"doctor"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"医院": {
+"py": "yī yuàn",
+"forms": [
+{
+"py": "yī yuàn",
+"en": [
+"hospital"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"用": {
+"py": "yòng",
+"forms": [
+{
+"py": "yòng",
+"en": [
+"to use",
+"to employ",
+"to have to",
+"to eat or drink",
+"expense or outlay",
+"usefulness",
+"hence",
+"therefore"
+]
+}
+],
+"pos": [
+"v",
+"p",
+"g"
+]
+},
+"有": {
+"py": "yǒu",
+"forms": [
+{
+"py": "yǒu",
+"en": [
+"to have; there is",
+"(bound form) having; with; -ful; -ed; -al (as in 意 intentional)"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"有的": {
+"py": "yǒu de",
+"forms": [
+{
+"py": "yǒu de",
+"en": [
+"(there are) some (who are...)",
+"some (exist)"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"有名": {
+"py": "yǒu míng",
+"forms": [
+{
+"py": "yǒu míng",
+"en": [
+"famous",
+"well-known"
+]
+}
+],
+"pos": [
+"a"
+]
+},
+"有时": {
+"py": "yǒu shí",
+"forms": [
+{
+"py": "yǒu shí",
+"en": [
+"sometimes",
+"now and then"
+]
+}
+],
+"pos": [
+"d"
+]
+},
+"有时候": {
+"py": "yǒu shí hou",
+"forms": [
+{
+"py": "yǒu shí hou",
+"en": [
+"sometimes"
+]
+}
+],
+"pos": [
+"d"
+]
+},
+"有些": {
+"py": "yǒu xiē",
+"forms": [
+{
+"py": "yǒu xiē",
+"en": [
+"some",
+"somewhat"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"有一些": {
+"py": "yǒu yī xiē",
+"forms": [
+{
+"py": "yǒu yī xiē",
+"en": [
+"somewhat",
+"rather",
+"some"
+]
+}
+],
+"pos": []
+},
+"有用": {
+"py": "yǒu yòng",
+"forms": [
+{
+"py": "yǒu yòng",
+"en": [
+"useful"
+]
+}
+],
+"pos": [
+"a",
+"v"
+]
+},
+"右": {
+"py": "yòu",
+"forms": [
+{
+"py": "yòu",
+"en": [
+"(bound form) right; right-hand side",
+"(bound form) (politics) right of center",
+"(bound form) (old) west",
+"(literary) the right side as the side of precedence"
+]
+}
+],
+"pos": [
+"f",
+"a"
+]
+},
+"右边": {
+"py": "yòu bian",
+"forms": [
+{
+"py": "yòu bian",
+"en": [
+"right side",
+"right, to the right"
+]
+}
+],
+"pos": [
+"f"
+]
+},
+"雨": {
+"py": "yǔ",
+"forms": [
+{
+"py": "yǔ",
+"en": [
+"rain"
+]
+},
+{
+"py": "yù",
+"en": [
+"(literary) to rain",
+"(of rain, snow etc) to fall",
+"to precipitate",
+"to wet"
+]
+}
+],
+"pos": [
+"n",
+"g"
+]
+},
+"元": {
+"py": "Yuán",
+"forms": [
+{
+"py": "Yuán",
+"en": [
+"surname Yuan",
+"the Yuan or Mongol dynasty (1279-1368)"
+]
+},
+{
+"py": "yuán",
+"en": [
+"currency unit (esp. Chinese yuan)",
+"first",
+"original",
+"primary",
+"fundamental",
+"constituent",
+"part",
+"era (of a reign)",
+"meta- (prefix)",
+"(math.) argument",
+"variable",
+"(Tw) (geology) eon"
+]
+}
+],
+"pos": [
+"q",
+"tg"
+]
+},
+"远": {
+"py": "yuǎn",
+"forms": [
+{
+"py": "yuǎn",
+"en": [
+"far",
+"distant",
+"remote",
+"(intensifier in a comparison) by far",
+"much (lower etc)"
+]
+},
+{
+"py": "yuàn",
+"en": [
+"to distance oneself from (classical)"
+]
+}
+],
+"pos": [
+"a",
+"ad"
+]
+},
+"月": {
+"py": "yuè",
+"forms": [
+{
+"py": "yuè",
+"en": [
+"moon",
+"month",
+"monthly"
+]
+}
+],
+"pos": [
+"n",
+"t"
+]
+},
+"再": {
+"py": "zài",
+"forms": [
+{
+"py": "zài",
+"en": [
+"again; once more; re-",
+"second; another",
+"then (after sth, and not until then)",
+"no matter how ... (followed by an adjective or verb, and then (usually) 也 or 都 for emphasis)"
+]
+}
+],
+"pos": [
+"d",
+"g"
+]
+},
+"再见": {
+"py": "zài jiàn",
+"forms": [
+{
+"py": "zài jiàn",
+"en": [
+"goodbye",
+"see you again later"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"在": {
+"py": "zài",
+"forms": [
+{
+"py": "zài",
+"en": [
+"to exist; to be alive",
+"(of sb or sth) to be (located) at",
+"(used before a verb to indicate an action in progress)"
+]
+}
+],
+"pos": [
+"p",
+"v",
+"d"
+]
+},
+"在家": {
+"py": "zài jiā",
+"forms": [
+{
+"py": "zài jiā",
+"en": [
+"to be at home",
+"(at a workplace) to be in (as opposed to being away on official business 差)",
+"(Buddhism etc) to remain a layman (as opposed to becoming a monk or a nun 家)"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"早": {
+"py": "zǎo",
+"forms": [
+{
+"py": "zǎo",
+"en": [
+"early",
+"morning",
+"Good morning!",
+"long ago",
+"prematurely"
+]
+}
+],
+"pos": [
+"ad",
+"a",
+"tg"
+]
+},
+"早饭": {
+"py": "zǎo fàn",
+"forms": [
+{
+"py": "zǎo fàn",
+"en": [
+"breakfast"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"早上": {
+"py": "zǎo shang",
+"forms": [
+{
+"py": "zǎo shang",
+"en": [
+"early morning"
+]
+}
+],
+"pos": [
+"t"
+]
+},
+"怎么": {
+"py": "zěn me",
+"forms": [
+{
+"py": "zěn me",
+"en": [
+"how?",
+"what?",
+"why?"
+]
+},
+{
+"py": "zěn me",
+"en": [
+"variant of 怎么"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"站": {
+"py": "zhàn",
+"forms": [
+{
+"py": "zhàn",
+"en": [
+"station",
+"to stand",
+"to halt",
+"to stop",
+"branch of a company or organization",
+"website"
+]
+}
+],
+"pos": [
+"v",
+"n",
+"q"
+]
+},
+"找": {
+"py": "zhǎo",
+"forms": [
+{
+"py": "zhǎo",
+"en": [
+"to try to find",
+"to look for",
+"to call on sb",
+"to find",
+"to seek",
+"to return",
+"to give change"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"找到": {
+"py": "zhǎo dào",
+"forms": [
+{
+"py": "zhǎo dào",
+"en": [
+"to find"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"这": {
+"py": "zhè",
+"forms": [
+{
+"py": "zhè",
+"en": [
+"(pronoun) this; these",
+"(bound form) this; the (followed by a noun)",
+"(bound form) this; these (followed by a classifier) (in this sense, commonly pr. [zhèi], esp. in Beijing)"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"这边": {
+"py": "zhè biān",
+"forms": [
+{
+"py": "zhè biān",
+"en": [
+"this side",
+"here"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"这儿": {
+"py": "zhè r",
+"forms": [
+{
+"py": "zhè r",
+"en": [
+"here"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"这里": {
+"py": "zhè lǐ",
+"forms": [
+{
+"py": "zhè lǐ",
+"en": [
+"variant of 这里"
+]
+},
+{
+"py": "zhè lǐ",
+"en": [
+"here"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"这些": {
+"py": "zhè xiē",
+"forms": [
+{
+"py": "zhè xiē",
+"en": [
+"these"
+]
+}
+],
+"pos": [
+"r"
+]
+},
+"着": {
+"py": "zhāo",
+"forms": [
+{
+"py": "zhāo",
+"en": [
+"(chess) move",
+"trick",
+"all right!",
+"(dialect) to add"
+]
+},
+{
+"py": "zháo",
+"en": [
+"to touch",
+"to come in contact with",
+"to feel",
+"to be affected by",
+"to catch fire",
+"to burn",
+"(coll.) to fall asleep",
+"(after a verb) hitting the mark",
+"succeeding in"
+]
+},
+{
+"py": "zhe",
+"en": [
+"aspect particle indicating action in progress or ongoing state"
+]
+},
+{
+"py": "zhuó",
+"en": [
+"to wear (clothes)",
+"to contact",
+"to use",
+"to apply"
+]
+}
+],
+"pos": [
+"u",
+"v",
+"n",
+"q"
+]
+},
+"真": {
+"py": "zhēn",
+"forms": [
+{
+"py": "zhēn",
+"en": [
+"really",
+"truly",
+"indeed",
+"real",
+"true",
+"genuine"
+]
+}
+],
+"pos": [
+"d",
+"a",
+"g"
+]
+},
+"真的": {
+"py": "zhēn de",
+"forms": [
+{
+"py": "zhēn de",
+"en": [
+"really, truly, indeed"
+]
+}
+],
+"pos": [
+"d",
+"a"
+]
+},
+"正": {
+"py": "zhēng",
+"forms": [
+{
+"py": "zhēng",
+"en": [
+"first month of the lunar year"
+]
+},
+{
+"py": "zhèng",
+"en": [
+"straight",
+"upright",
+"proper",
+"main",
+"principal",
+"to correct",
+"to rectify",
+"exactly",
+"just (at that time)",
+"right (in that place)",
+"(math.) positive"
+]
+}
+],
+"pos": [
+"d",
+"b",
+"a",
+"v"
+]
+},
+"正在": {
+"py": "zhèng zài",
+"forms": [
+{
+"py": "zhèng zài",
+"en": [
+"just at (that time)",
+"right in (that place)",
+"right in the middle of (doing sth)"
+]
+}
+],
+"pos": [
+"d"
+]
+},
+"知道": {
+"py": "zhī dào",
+"forms": [
+{
+"py": "zhī dào",
+"en": [
+"to know; to become aware of",
+"also pr. [zhī dao]"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"知识": {
+"py": "zhī shi",
+"forms": [
+{
+"py": "zhī shi",
+"en": [
+"knowledge",
+"intellectual"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"中": {
+"py": "Zhōng",
+"forms": [
+{
+"py": "Zhōng",
+"en": [
+"China",
+"Chinese",
+"surname Zhong"
+]
+},
+{
+"py": "zhōng",
+"en": [
+"within; among; in",
+"middle; center",
+"while (doing sth); during",
+"(dialect) OK; all right"
+]
+},
+{
+"py": "zhòng",
+"en": [
+"to hit (the mark)",
+"to be hit by",
+"to suffer",
+"to win (a prize, a lottery)"
+]
+}
+],
+"pos": [
+"f",
+"b",
+"v"
+]
+},
+"中国": {
+"py": "Zhōng guó",
+"forms": [
+{
+"py": "Zhōng guó",
+"en": [
+"China"
+]
+}
+],
+"pos": [
+"ns"
+]
+},
+"中间": {
+"py": "zhōng jiān",
+"forms": [
+{
+"py": "zhōng jiān",
+"en": [
+"the middle; the inside",
+"in the middle; within; between; among",
+"during; in the meantime"
+]
+}
+],
+"pos": [
+"f"
+]
+},
+"中文": {
+"py": "Zhōng wén",
+"forms": [
+{
+"py": "Zhōng wén",
+"en": [
+"Chinese language"
+]
+}
+],
+"pos": [
+"nz"
+]
+},
+"中午": {
+"py": "zhōng wǔ",
+"forms": [
+{
+"py": "zhōng wǔ",
+"en": [
+"noon",
+"midday"
+]
+}
+],
+"pos": [
+"t"
+]
+},
+"中学": {
+"py": "zhōng xué",
+"forms": [
+{
+"py": "zhōng xué",
+"en": [
+"middle school"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"中学生": {
+"py": "zhōng xué shēng",
+"forms": [
+{
+"py": "zhōng xué shēng",
+"en": [
+"middle-school student",
+"high school student"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"重": {
+"py": "chóng",
+"forms": [
+{
+"py": "chóng",
+"en": [
+"to repeat",
+"repetition",
+"again",
+"re-",
+"classifier: layer"
+]
+},
+{
+"py": "zhòng",
+"en": [
+"heavy",
+"serious",
+"to attach importance to"
+]
+}
+],
+"pos": [
+"a",
+"d",
+"v",
+"q",
+"g"
+]
+},
+"重要": {
+"py": "zhòng yào",
+"forms": [
+{
+"py": "zhòng yào",
+"en": [
+"important",
+"significant",
+"major"
+]
+}
+],
+"pos": [
+"a"
+]
+},
+"住": {
+"py": "zhù",
+"forms": [
+{
+"py": "zhù",
+"en": [
+"to live",
+"to dwell",
+"to stay",
+"to reside",
+"to stop",
+"(suffix indicating firmness, steadiness, or coming to a halt)"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"准备": {
+"py": "zhǔn bèi",
+"forms": [
+{
+"py": "zhǔn bèi",
+"en": [
+"preparation",
+"to prepare",
+"to intend",
+"to be about to",
+"reserve (fund)"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"桌子": {
+"py": "zhuō zi",
+"forms": [
+{
+"py": "zhuō zi",
+"en": [
+"table",
+"desk"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"字": {
+"py": "zì",
+"forms": [
+{
+"py": "zì",
+"en": [
+"letter",
+"symbol",
+"character",
+"word",
+"courtesy or style name traditionally given to males aged 20 in dynastic China"
+]
+}
+],
+"pos": [
+"n"
+]
+},
+"子": {
+"py": "zǐ",
+"forms": [
+{
+"py": "zǐ",
+"en": [
+"son",
+"child",
+"seed",
+"egg",
+"small thing",
+"1st earthly branch: 11 p.m.-1 a.m., midnight, 11th solar month (7th December to 5th January), year of the Rat",
+"Viscount, fourth of five orders of nobility 位",
+"ancient Chinese compass point: 0° (north)",
+"subsidiary",
+"subordinate",
+"sub-"
+]
+},
+{
+"py": "zi",
+"en": [
+"(noun suffix)"
+]
+}
+],
+"pos": [
+"g",
+"q"
+]
+},
+"走": {
+"py": "zǒu",
+"forms": [
+{
+"py": "zǒu",
+"en": [
+"to walk",
+"to go",
+"to run",
+"to move (of vehicle)",
+"to visit",
+"to leave",
+"to go away",
+"to die (euph.)",
+"from",
+"through",
+"away (in compound verbs, such as 走)",
+"to change (shape, form, meaning)"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"走路": {
+"py": "zǒu lù",
+"forms": [
+{
+"py": "zǒu lù",
+"en": [
+"to walk",
+"to go on foot"
+]
+}
+],
+"pos": [
+"v",
+"vn"
+]
+},
+"最": {
+"py": "zuì",
+"forms": [
+{
+"py": "zuì",
+"en": [
+"variant of 最"
+]
+},
+{
+"py": "zuì",
+"en": [
+"old variant of 最"
+]
+},
+{
+"py": "zuì",
+"en": [
+"most",
+"the most",
+"-est (superlative suffix)"
+]
+}
+],
+"pos": [
+"d",
+"g"
+]
+},
+"最好": {
+"py": "zuì hǎo",
+"forms": [
+{
+"py": "zuì hǎo",
+"en": [
+"best",
+"(you) had better (do what we suggest)"
+]
+}
+],
+"pos": [
+"d"
+]
+},
+"最后": {
+"py": "zuì hòu",
+"forms": [
+{
+"py": "zuì hòu",
+"en": [
+"final",
+"last",
+"finally",
+"ultimate"
+]
+}
+],
+"pos": [
+"f"
+]
+},
+"昨天": {
+"py": "zuó tiān",
+"forms": [
+{
+"py": "zuó tiān",
+"en": [
+"yesterday"
+]
+}
+],
+"pos": [
+"t"
+]
+},
+"左": {
+"py": "Zuǒ",
+"forms": [
+{
+"py": "Zuǒ",
+"en": [
+"surname Zuo"
+]
+},
+{
+"py": "zuǒ",
+"en": [
+"left",
+"the Left (politics)",
+"east",
+"unorthodox",
+"queer",
+"wrong",
+"differing",
+"opposite",
+"variant of 佐"
+]
+}
+],
+"pos": [
+"f",
+"a"
+]
+},
+"左边": {
+"py": "zuǒ bian",
+"forms": [
+{
+"py": "zuǒ bian",
+"en": [
+"left",
+"the left side",
+"to the left of"
+]
+}
+],
+"pos": [
+"f"
+]
+},
+"坐": {
+"py": "Zuò",
+"forms": [
+{
+"py": "Zuò",
+"en": [
+"surname Zuo"
+]
+},
+{
+"py": "zuò",
+"en": [
+"to sit",
+"to take a seat",
+"to take (a bus, airplane etc)",
+"to bear fruit",
+"variant of 座"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"坐下": {
+"py": "zuò xia",
+"forms": [
+{
+"py": "zuò xia",
+"en": [
+"to sit down"
+]
+}
+],
+"pos": [
+"v"
+]
+},
+"做": {
+"py": "zuò",
+"forms": [
+{
+"py": "zuò",
+"en": [
+"to make; to produce",
+"to write; to compose",
+"to do; to engage in; to hold (a party etc)",
+"(of a person) to be (an intermediary, a good student etc); to become (husband and wife, friends etc)",
+"(of a thing) to serve as; to be used for",
+"to assume (an air or manner)"
+]
+}
+],
+"pos": [
+"v"
+]
+}
+}
