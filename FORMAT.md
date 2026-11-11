@@ -2,13 +2,18 @@
 
 ## The list (README.md)
 
-- Each `## Beginner`, `## Intermediate`, `## Advanced`, `## Characters` or `## Music` heading starts a section in the app.
+- Each `## Beginner`, `## Intermediate`, `## Advanced`, `## Characters`, `## Music` or
+  `## Other Study Materials` heading starts a section in the app. Sections start collapsed;
+  the app remembers which ones you leave open.
   Keep the space after `##` so GitHub shows it as a heading.
 - Each `- [Title](folder/file.md)` line under a heading is one entry, shown in the order written.
   The path is relative to this repository's root and must end in `.md`, except under
   `## Characters`, where entries point to character or word lists ending in `.json`.
+- Inside a section, a `### Heading` starts a group: the entries under it are shown together and
+  the group collapses on its own (the app remembers which groups are open). `## Characters` uses
+  groups for Single Characters, Words and Radicals.
 - Lines inside `<!-- … -->` are ignored, which is handy for entries that aren't ready yet.
-- Folder names: `beginner/`, `intermediate/`, `advanced/`, `music/`. A music piece may use its
+- Folder names: `beginner/`, `intermediate/`, `advanced/`, `music/`, `other/`. A music piece may use its
   own subfolder, e.g. `music/001-short-name/README.md`.
 
 ## A lesson page
@@ -62,7 +67,33 @@ The path is relative to the page, as on GitHub:
 ## Character and word lists (characters/data)
 
 Entries under `## Characters` open a list of characters or words instead of a lesson. Each list is
-a JSON file; the app downloads it once and keeps a copy, like a lesson.
+a JSON file of up to 1,000 entries; the app downloads a group only when you open it and keeps a
+copy, like a lesson.
+
+| Files | Contents |
+|---|---|
+| `hanzi-0001-1000.json` … `hanzi-6001-7000.json` | Single characters, ranks 1–7000, 1,000 per file |
+| `words-0001-1000.json` … `words-4001-5000.json` | Multi-character words, ranks 1–5000 |
+| `radicals.json` | The 214 Kangxi radicals |
+| `index.json` | Small index that links the files (below) |
+| `strokes/XX.json` | Stroke shapes, split by Unicode block: `XX` is the character's code point divided by 256, in hex (`的` U+7684 → `76.json`) |
+
+`hanzi.json`, `words.json` and `strokes.json` are the older single-file versions, kept for app
+builds from before the split; new builds don't read them.
+
+`index.json` lets any screen find what it needs without loading every group:
+
+```json
+{
+  "groups": { "characters": [ { "from": 1, "to": 1000, "path": "characters/data/hanzi-0001-1000.json" } ],
+              "words": [ … ] },
+  "characters": { "的": [1, 106, [55, 120]] },   // rank, radical number (0: none), ranks of words using it
+  "traditional": { "們": "们" }                   // traditional form → its simplified entry
+}
+```
+
+Characters past rank 7,000 are left out: they are rare or variant forms, and most have no stroke data.
+
 
 ```json
 {
@@ -86,7 +117,7 @@ a JSON file; the app downloads it once and keeps a copy, like a lesson.
   `simplifiedForms`, `name` (such as 单人旁), `position` (`left`/`right` for 阝), `characters`
   (the top-2000 characters with this radical, most common first), `totalCharacters` (of about
   9,500 common characters) and `unicode`.
-- `strokes.json` holds the stroke shapes for every character used in either list, simplified and
+- The stroke files (`strokes/`) hold the stroke shapes for every character used in either list, simplified and
   traditional, keyed by character: `strokes` (SVG outlines, in writing order) and `medians`
   (the centre line of each stroke, used to animate it). Coordinates are 1024 × 1024 with y
   pointing up and the baseline at 900, from Make Me a Hanzi (Arphic Public License).

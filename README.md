@@ -24,10 +24,32 @@ How to write a lesson page: see [FORMAT.md](FORMAT.md).
 
 ## Characters
 
-- [常用字 Top 2000 Characters](characters/data/hanzi.json)
-- [常用词 Top 5000 Words](characters/data/words.json)
+### 单字 Single Characters
+
+- [字 1–1000](characters/data/hanzi-0001-1000.json)
+- [字 1001–2000](characters/data/hanzi-1001-2000.json)
+- [字 2001–3000](characters/data/hanzi-2001-3000.json)
+- [字 3001–4000](characters/data/hanzi-3001-4000.json)
+- [字 4001–5000](characters/data/hanzi-4001-5000.json)
+- [字 5001–6000](characters/data/hanzi-5001-6000.json)
+- [字 6001–7000](characters/data/hanzi-6001-7000.json)
+
+### 词语 Words
+
+- [词 1–1000](characters/data/words-0001-1000.json)
+- [词 1001–2000](characters/data/words-1001-2000.json)
+- [词 2001–3000](characters/data/words-2001-3000.json)
+- [词 3001–4000](characters/data/words-3001-4000.json)
+- [词 4001–5000](characters/data/words-4001-5000.json)
+
+### 部首 Radicals
+
 - [部首 214 Radicals](characters/data/radicals.json)
 
 ## Music
 
 <!-- - [第1首：标题](music/001-short-name/README.md) -->
+
+## Other Study Materials
+
+<!-- - [标题 Title](other/short-name.md) -->
