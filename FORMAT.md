@@ -30,6 +30,10 @@
 - A Latin word in the Hanzi, such as a name (`我爸爸叫David。`), counts as one unit: write it
   as-is in the pinyin (`Wǒ bà ba jiào David .`).
 - Leave the English cell empty if there's no translation yet.
+- An empty row, `| | | |`, ends an exchange (a question and its answer). The app spaces the
+  lines inside an exchange closely and leaves a larger gap between exchanges; both gaps are
+  set in Settings. Without empty rows, a new exchange starts each time the group's first
+  speaker speaks again (A B | A B), so add them whenever an exchange has three or more lines.
 
 ## Page settings
 
