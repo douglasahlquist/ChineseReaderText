@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hanzi Stroke Order</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Noto+Serif+SC:wght@500&display=swap" rel="stylesheet">
+<style>
+/* Layout: practice-book feel. Character browser on the left, a large 米字格 practice square on the right; vermilion marks the stroke being written. */
+:root {
+  --paper: #f6f7f5;
+  --panel: #ffffff;
+  --ink: #1d2124;
+  --muted: #6b7276;
+  --line: #dfe2df;
+  --grid: #e3b9b2;
+  --accent: #c8321e;
+  --accent-soft: #fbe9e6;
+  --todo: #e3e5e3;
+  --dot: #1f5fbf;
+  --font-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-han: "Noto Serif SC", "Songti SC", "STSong", serif;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #15181a; --panel: #1d2124; --ink: #e9ecea; --muted: #9aa3a6; --line: #30363a;
+    --grid: #6a3a33; --accent: #ff6a52; --accent-soft: #3a211d; --todo: #2f3538; --dot: #6aa5ff;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #15181a; --panel: #1d2124; --ink: #e9ecea; --muted: #9aa3a6; --line: #30363a;
+  --grid: #6a3a33; --accent: #ff6a52; --accent-soft: #3a211d; --todo: #2f3538; --dot: #6aa5ff;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html, body { height: 100%; margin: 0; }
+body { background: var(--paper); color: var(--ink); font-family: var(--font-body); font-size: 15px; line-height: 1.45; }
+.app { display: grid; grid-template-columns: minmax(260px, 340px) 1fr; height: 100%; }
+aside { border-right: 1px solid var(--line); display: flex; flex-direction: column; min-height: 0; background: var(--panel); }
+.search { padding: 16px; display: grid; gap: 8px; border-bottom: 1px solid var(--line); }
+.search h1 { font-size: 17px; margin: 0; font-weight: 600; text-wrap: balance; }
+.search input { width: 100%; padding: 9px 11px; border: 1px solid var(--line); border-radius: 8px; background: var(--paper); color: var(--ink); font: inherit; }
+.search input:focus-visible, button:focus-visible, .tile:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.count { color: var(--muted); font-size: 12.5px; font-variant-numeric: tabular-nums; }
+.grid { overflow-y: auto; padding: 12px 16px 24px; display: grid; grid-template-columns: repeat(auto-fill, minmax(48px, 1fr)); gap: 6px; align-content: start; }
+.tile { position: relative; aspect-ratio: 1; border: 1px solid var(--line); border-radius: 6px; background: var(--paper); color: var(--ink); font-family: var(--font-han); font-size: 24px; display: grid; place-items: center; cursor: pointer; padding: 0; }
+.tile small { position: absolute; top: 2px; left: 4px; font-family: var(--font-body); font-size: 9px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.tile:hover { border-color: var(--accent); }
+.tile[aria-current="true"] { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+main { overflow-y: auto; padding: 24px clamp(16px, 4vw, 44px) 48px; min-width: 0; }
+.top { display: grid; grid-template-columns: auto 1fr; gap: 28px; align-items: start; }
+.square { width: min(360px, 80vw); aspect-ratio: 1; background: var(--panel); border: 1.5px solid var(--grid); border-radius: 4px; }
+.square svg, .frame svg { width: 100%; height: 100%; display: block; }
+.info { display: grid; gap: 10px; min-width: 0; }
+.rank { font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.py { font-size: 30px; font-weight: 600; line-height: 1.1; }
+.py span { font-size: 15px; font-weight: 400; color: var(--muted); }
+.eng { font-size: 18px; }
+dl { display: grid; grid-template-columns: max-content 1fr; gap: 6px 14px; margin: 4px 0 0; font-size: 14px; }
+dt { color: var(--muted); }
+dd { margin: 0; }
+dd .han { font-family: var(--font-han); font-size: 20px; }
+.meaning { max-width: 65ch; color: var(--ink); }
+.meaning b { font-weight: 600; }
+.controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 6px; }
+button { font: inherit; font-size: 14px; padding: 7px 13px; border-radius: 8px; border: 1px solid var(--line); background: var(--panel); color: var(--ink); cursor: pointer; }
+button:hover { border-color: var(--accent); }
+button.primary { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 500; }
+.stepper { font-variant-numeric: tabular-nums; color: var(--muted); font-size: 13.5px; min-width: 8ch; }
+input[type=range] { accent-color: var(--accent); }
+label.speed { font-size: 13px; color: var(--muted); display: flex; gap: 6px; align-items: center; }
+h2 { font-size: 14px; font-weight: 600; margin: 32px 0 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
+.frames { display: grid; grid-template-columns: repeat(auto-fill, minmax(78px, 1fr)); gap: 8px; max-width: 900px; }
+.frame { position: relative; aspect-ratio: 1; background: var(--panel); border: 1px solid var(--grid); border-radius: 3px; cursor: pointer; padding: 0; }
+.frame small { position: absolute; top: 3px; left: 5px; font-size: 10.5px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.frame[aria-current="true"] { outline: 2px solid var(--accent); outline-offset: 1px; }
+.nav { display: flex; gap: 8px; margin-top: 28px; }
+.legend { display: flex; flex-wrap: wrap; gap: 14px; font-size: 13px; color: var(--muted); margin-top: 10px; }
+.legend i { display: inline-block; width: 12px; height: 12px; border-radius: 3px; vertical-align: -2px; margin-right: 5px; }
+.foot { margin-top: 36px; font-size: 12px; color: var(--muted); max-width: 70ch; }
+.foot a { color: var(--muted); }
+.loading { padding: 40px; color: var(--muted); }
+@media (max-width: 760px) {
+  .app { grid-template-columns: 1fr; grid-template-rows: auto 1fr; height: auto; }
+  aside { border-right: 0; border-bottom: 1px solid var(--line); }
+  .grid { max-height: 220px; }
+  .top { grid-template-columns: 1fr; }
+  .square { width: min(320px, 100%); }
+}
+</style>
+</head>
+<body>
+<div class="app">
+  <aside>
+    <div class="search">
+      <h1>Stroke order · top 2,000 Hanzi</h1>
+      <input id="q" type="search" placeholder="Search 字, pinyin, English or rank" autocomplete="off" aria-label="Search characters">
+      <div class="count" id="count">2,000 characters, ranked by frequency</div>
+    </div>
+    <div class="grid" id="grid" role="list"></div>
+  </aside>
+  <main id="main">
+    <div class="loading" id="loading">Loading stroke data…</div>
+    <div id="detail" hidden>
+      <div class="top">
+        <div class="square" id="square"></div>
+        <div class="info">
+          <div class="rank" id="rank"></div>
+          <div class="py" id="py"></div>
+          <div class="eng" id="eng"></div>
+          <div class="controls">
+            <button class="primary" id="play" type="button">Animate</button>
+            <button id="back" type="button" aria-label="Previous stroke">◀ Stroke</button>
+            <button id="fwd" type="button" aria-label="Next stroke">Stroke ▶</button>
+            <button id="whole" type="button">Show whole</button>
+            <span class="stepper" id="stepper"></span>
+            <label class="speed" for="speed">Speed <input id="speed" type="range" min="0.5" max="3" step="0.25" value="1"></label>
+          </div>
+          <div class="legend">
+            <span><i style="background:var(--accent)"></i>stroke being written</span>
+            <span><i style="background:var(--ink)"></i>already written</span>
+            <span><i style="background:var(--todo)"></i>still to come</span>
+            <span><i style="background:var(--dot);border-radius:50%"></i>where it starts</span>
+          </div>
+          <dl>
+            <dt>Strokes</dt><dd id="nstrokes"></dd>
+            <dt>Traditional</dt><dd id="trad"></dd>
+            <dt>Meaning</dt><dd class="meaning" id="meaning"></dd>
+          </dl>
+        </div>
+      </div>
+      <h2>Step by step</h2>
+      <div class="frames" id="frames"></div>
+      <div class="nav">
+        <button id="prevc" type="button">← Previous character</button>
+        <button id="nextc" type="button">Next character →</button>
+      </div>
+      <p class="foot">Keyboard: ← → move between strokes, ↑ ↓ move between characters, space animates. Stroke order follows mainland (PRC) standards. Stroke data from <a href="https://github.com/skishore/makemeahanzi">Make Me a Hanzi</a> (Arphic Public License); frequency ranks from Jun Da's Modern Chinese Character Frequency List; definitions from CC-CEDICT (CC BY-SA 4.0).</p>
+    </div>
+  </main>
+</div>
+<script>
+const NS = "http://www.w3.org/2000/svg";
+let CH = [], ST = {}, idx = 0, step = -1, playing = null, visible = [];
+const reduce = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
+const $ = id => document.getElementById(id);
+
+function el(tag, attrs = {}, parent) {
+  const e = document.createElementNS(NS, tag);
+  for (const k in attrs) e.setAttribute(k, attrs[k]);
+  if (parent) parent.appendChild(e);
+  return e;
+}
+function gridLines(svg) {
+  const g = el("g", { stroke: "var(--grid)", "stroke-width": 4, "stroke-dasharray": "14 12", fill: "none" }, svg);
+  [["0","512","1024","512"],["512","0","512","1024"],["0","0","1024","1024"],["1024","0","0","1024"]].forEach(([a,b,c,d]) => el("line", { x1:a, y1:b, x2:c, y2:d }, g));
+}
+function baseSvg() {
+  const s = el("svg", { viewBox: "0 0 1024 1024", role: "img" });
+  gridLines(s);
+  const g = el("g", { transform: "scale(1,-1) translate(0,-900)" }, s);
+  return [s, g];
+}
+function medianD(m) { return "M" + m.map(p => p[0] + " " + p[1]).join(" L"); }
+
+function strip(s) { return s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase(); }
+
+function buildGrid() {
+  const grid = $("grid"), frag = document.createDocumentFragment();
+  CH.forEach((c, i) => {
+    const b = document.createElement("button");
+    b.className = "tile"; b.type = "button"; b.dataset.i = i; b.setAttribute("role", "listitem");
+    b.setAttribute("aria-label", `${c[0]} ${c[1]} ${c[2]}`);
+    b.innerHTML = `<small>${c[0]}</small>${c[1]}`;
+    b.addEventListener("click", () => select(i, true));
+    frag.appendChild(b);
+  });
+  grid.appendChild(frag);
+  visible = CH.map((_, i) => i);
+}
+function filter() {
+  const q = $("q").value.trim(), qs = strip(q);
+  const tiles = $("grid").children;
+  visible = [];
+  CH.forEach((c, i) => {
+    let ok = !q;
+    if (q) {
+      if (/^\d+$/.test(q)) ok = String(c[0]).startsWith(q);
+      else if (/[㐀-鿿]/.test(q)) ok = q.includes(c[1]) || c[4].includes(q);
+      else ok = strip(c[2]).replace(/[, ]+/g, " ").split(" ").some(p => p.startsWith(qs.replace(/\d/g, ""))) || strip(c[3]).includes(qs) || strip(c[5]).includes(qs);
+    }
+    tiles[i].hidden = !ok;
+    if (ok) visible.push(i);
+  });
+  $("count").textContent = q ? `${visible.length.toLocaleString()} match${visible.length === 1 ? "" : "es"}` : "2,000 characters, ranked by frequency";
+}
+
+function stopPlay() { if (playing) { playing.cancelled = true; playing = null; } $("play").textContent = "Animate"; }
+
+function drawSquare(upto, animateCurrent) {
+  const c = CH[idx], [strokes, medians] = ST[c[1]];
+  const [svg, g] = baseSvg();
+  svg.setAttribute("aria-label", `${c[1]} stroke order`);
+  const anims = [];
+  strokes.forEach((d, k) => {
+    if (upto === null || k < upto) { el("path", { d, fill: "var(--ink)" }, g); return; }
+    if (k > upto) { el("path", { d, fill: "var(--todo)" }, g); return; }
+    // current stroke
+    el("path", { d, fill: "var(--todo)" }, g);
+    const cp = el("clipPath", { id: "cp" + k }, g); el("path", { d }, cp);
+    const m = el("path", { d: medianD(medians[k]), fill: "none", stroke: "var(--accent)", "stroke-width": 140, "stroke-linecap": "round", "stroke-linejoin": "round", "clip-path": `url(#cp${k})` }, g);
+    anims.push(m);
+    const s0 = medians[k][0];
+    el("circle", { cx: s0[0], cy: s0[1], r: 22, fill: "var(--dot)" }, g);
+  });
+  $("square").replaceChildren(svg);
+  if (animateCurrent && anims.length && !reduce) {
+    const m = anims[0], len = m.getTotalLength() + 140;
+    m.style.strokeDasharray = `${len} ${len}`;
+    m.style.strokeDashoffset = len;
+    const dur = Math.max(260, len * 0.9) / parseFloat($("speed").value);
+    return m.animate([{ strokeDashoffset: len }, { strokeDashoffset: 0 }], { duration: dur, easing: "ease-in-out", fill: "forwards" }).finished.catch(() => {});
+  }
+  return Promise.resolve();
+}
+
+async function play() {
+  if (playing) { stopPlay(); return; }
+  const token = { cancelled: false }; playing = token;
+  $("play").textContent = "Stop";
+  const n = ST[CH[idx][1]][0].length;
+  for (let k = 0; k < n; k++) {
+    if (token.cancelled) return;
+    step = k; updateStepper();
+    await drawSquare(k, true);
+    await new Promise(r => setTimeout(r, reduce ? 500 : 140 / parseFloat($("speed").value)));
+  }
+  if (token.cancelled) return;
+  step = -1; drawSquare(null); updateStepper();
+  playing = null; $("play").textContent = "Animate again";
+}
+
+function setStep(k, animate) {
+  stopPlay();
+  const n = ST[CH[idx][1]][0].length;
+  if (k < 0 || k >= n) { step = -1; drawSquare(null); }
+  else { step = k; drawSquare(k, animate); }
+  updateStepper();
+}
+function updateStepper() {
+  const n = ST[CH[idx][1]][0].length;
+  $("stepper").textContent = step < 0 ? `${n} stroke${n === 1 ? "" : "s"}` : `Stroke ${step + 1} of ${n}`;
+  [...$("frames").children].forEach((f, k) => f.setAttribute("aria-current", k === step ? "true" : "false"));
+}
+
+function buildFrames() {
+  const [strokes, medians] = ST[CH[idx][1]], wrap = $("frames"), frag = document.createDocumentFragment();
+  strokes.forEach((_, k) => {
+    const b = document.createElement("button");
+    b.className = "frame"; b.type = "button"; b.setAttribute("aria-label", `Stroke ${k + 1}`);
+    const [svg, g] = baseSvg();
+    strokes.forEach((d, j) => el("path", { d, fill: j < k ? "var(--ink)" : j === k ? "var(--accent)" : "var(--todo)" }, g));
+    const s0 = medians[k][0]; el("circle", { cx: s0[0], cy: s0[1], r: 30, fill: "var(--dot)" }, g);
+    b.appendChild(svg);
+    const sm = document.createElement("small"); sm.textContent = k + 1; b.appendChild(sm);
+    b.addEventListener("click", () => setStep(k, true));
+    frag.appendChild(b);
+  });
+  wrap.replaceChildren(frag);
+}
+
+function select(i, fromUser) {
+  stopPlay();
+  idx = i; step = -1;
+  const c = CH[i], n = ST[c[1]][0].length;
+  $("rank").textContent = `#${c[0]} of 2,000 most common`;
+  const p = c[2].split(", ");
+  $("py").innerHTML = "";
+  $("py").append(p[0]);
+  if (p.length > 1) { const s = document.createElement("span"); s.textContent = "  also " + p.slice(1).join(", "); $("py").append(s); }
+  $("eng").textContent = c[3];
+  $("nstrokes").textContent = n;
+  $("trad").innerHTML = ""; const t = document.createElement("span"); t.className = "han"; t.textContent = c[4]; $("trad").append(t);
+  if (c[4] === c[1]) $("trad").append(" (same as simplified)");
+  const mm = $("meaning"); mm.innerHTML = "";
+  c[5].split("  |  ").forEach((part, j) => {
+    const ix = part.indexOf(": ");
+    const line = document.createElement("div");
+    const b = document.createElement("b"); b.textContent = part.slice(0, ix); line.append(b, " " + part.slice(ix + 2));
+    mm.append(line);
+  });
+  [...$("grid").children].forEach((t, k) => t.setAttribute("aria-current", k === i ? "true" : "false"));
+  buildFrames(); drawSquare(null); updateStepper();
+  $("play").textContent = "Animate";
+  document.title = `${c[1]} · Hanzi Stroke Order`;
+  if (fromUser) {
+    try { history.replaceState(null, "", "#r" + c[0]); } catch (e) { location.hash = "r" + c[0]; }
+    $("main").scrollTop = 0;
+    play();
+  }
+  const tile = $("grid").children[i];
+  if (tile && !fromUser) tile.scrollIntoView({ block: "nearest" });
+}
+function moveChar(d) {
+  const pos = visible.indexOf(idx);
+  const list = visible.length ? visible : CH.map((_, i) => i);
+  let next = pos < 0 ? list[0] : list[Math.min(list.length - 1, Math.max(0, pos + d))];
+  select(next, true);
+  $("grid").children[next].scrollIntoView({ block: "nearest" });
+}
+function fromHash() {
+  const m = /^#r(\d+)$/.exec(location.hash);
+  if (m) { const r = +m[1]; if (r >= 1 && r <= CH.length) return r - 1; }
+  return null;
+}
+
+async function init() {
+  try {
+    const [a, b] = await Promise.all([fetch("chars.json").then(r => r.json()), fetch("strokes.json").then(r => r.json())]);
+    CH = a; ST = b;
+  } catch (e) {
+    $("loading").textContent = "The stroke data didn't load. Reload the page to try again.";
+    return;
+  }
+  buildGrid();
+  $("loading").hidden = true; $("detail").hidden = false;
+  const h = fromHash();
+  select(h === null ? 0 : h, false);
+  if (h !== null) setTimeout(play, 300);
+  $("q").addEventListener("input", filter);
+  $("q").addEventListener("keydown", e => { if (e.key === "Enter" && visible.length) { select(visible[0], true); } });
+  $("play").addEventListener("click", play);
+  $("back").addEventListener("click", () => { const n = ST[CH[idx][1]][0].length; setStep(step < 0 ? n - 1 : step - 1, true); });
+  $("fwd").addEventListener("click", () => setStep(step + 1, true));
+  $("whole").addEventListener("click", () => setStep(-1));
+  $("prevc").addEventListener("click", () => moveChar(-1));
+  $("nextc").addEventListener("click", () => moveChar(1));
+  window.addEventListener("hashchange", () => { const h = fromHash(); if (h !== null && h !== idx) select(h, false); });
+  document.addEventListener("keydown", e => {
+    if (e.target.tagName === "INPUT") return;
+    if (e.key === "ArrowRight") { e.preventDefault(); $("fwd").click(); }
+    else if (e.key === "ArrowLeft") { e.preventDefault(); $("back").click(); }
+    else if (e.key === "ArrowDown") { e.preventDefault(); moveChar(1); }
+    else if (e.key === "ArrowUp") { e.preventDefault(); moveChar(-1); }
+    else if (e.key === " " && e.target.tagName !== "BUTTON") { e.preventDefault(); play(); }
+  });
+}
+init();
+</script>
+</body>
+</html>
