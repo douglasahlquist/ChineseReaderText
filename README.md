@@ -13,6 +13,12 @@ How to write a lesson page: see [FORMAT.md](FORMAT.md).
 - [第3课：我喜欢吃什么](beginner/03-wo-xihuan-chi-shenme.md)
 - [第4课：吃饭](beginner/04-chi-fan.md)
 
+### HSK 1 · 第一级
+
+- [第一课：你好 Hello](beginner/hsk1/01-ni-hao.md)
+- [第二课：你好吗 How are you?](beginner/hsk1/02-ni-hao-ma.md)
+- [第三课：我的朋友 My friends](beginner/hsk1/03-wo-de-pengyou.md)
+
 ## Intermediate
 
 <!-- - [第1课：标题](intermediate/01-short-name.md) -->
@@ -45,6 +51,23 @@ How to write a lesson page: see [FORMAT.md](FORMAT.md).
 ### 部首 Radicals
 
 - [部首 214 Radicals](characters/data/radicals.json)
+
+### HSK 词汇 HSK Vocabulary
+
+- [HSK 1 · 1–506](characters/data/hsk1-0001-0506.json)
+- [HSK 2 · 1–750](characters/data/hsk2-0001-0750.json)
+- [HSK 3 · 1–953](characters/data/hsk3-0001-0953.json)
+- [HSK 4 · 1–972](characters/data/hsk4-0001-0972.json)
+- [HSK 5 · 1–1000](characters/data/hsk5-0001-1000.json)
+- [HSK 5 · 1001–1059](characters/data/hsk5-1001-1059.json)
+- [HSK 6 · 1–1000](characters/data/hsk6-0001-1000.json)
+- [HSK 6 · 1001–1123](characters/data/hsk6-1001-1123.json)
+- [HSK 7–9 · 1–1000](characters/data/hsk7-9-0001-1000.json)
+- [HSK 7–9 · 1001–2000](characters/data/hsk7-9-1001-2000.json)
+- [HSK 7–9 · 2001–3000](characters/data/hsk7-9-2001-3000.json)
+- [HSK 7–9 · 3001–4000](characters/data/hsk7-9-3001-4000.json)
+- [HSK 7–9 · 4001–5000](characters/data/hsk7-9-4001-5000.json)
+- [HSK 7–9 · 5001–5606](characters/data/hsk7-9-5001-5606.json)
 
 ## Music
 

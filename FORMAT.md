@@ -41,6 +41,24 @@
   set in Settings. Without empty rows, a new exchange starts each time the group's first
   speaker speaks again (A B | A B), so add them whenever an exchange has three or more lines.
 
+## Notes (grammar and explanations)
+
+A line starting with `> ` is a note: a paragraph that is always shown (it isn't hidden like the
+English of a line), set off with a colored bar. Use it for grammar explanations. `**bold**` and
+`*italic*` work inside a note. Each `> ` line is its own paragraph; a line with just `>` is skipped.
+
+```markdown
+## 语法：吗 | Yǔ fǎ : ma | Grammar: yes/no questions with 吗
+
+> Put **吗** at the end of a statement to turn it into a yes/no question. The word order doesn't change.
+
+| Hanzi | Pinyin | English |
+|---|---|---|
+| 你 好 吗？ | Nǐ hǎo ma ? | How are you? |
+```
+
+Older app builds ignore notes.
+
 ## Page settings
 
 Put this line at the top of a page to change how tapping sounds:
