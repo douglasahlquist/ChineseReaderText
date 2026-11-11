@@ -1,6 +1,6 @@
 # ChineseReaderText
 
-Reading texts for the **Chinese Reader** app on iPhone and iPad (Douglas Ahlquist, Communication.IO).
+Reading texts for the **Chinese Reader** app on iPhone, iPad and Mac (Douglas Ahlquist, Communication.IO).
 The app reads this file to build its list, one section per heading below. Pull down on the
 list in the app to load your latest changes (GitHub can take a few minutes to serve them).
 
@@ -21,6 +21,11 @@ How to write a lesson page: see [FORMAT.md](FORMAT.md).
 
 - [旧约圣经书卷](advanced/01-jiu-yue-shu-juan.md)
 - [新约圣经书卷](advanced/02-xin-yue-shu-juan.md)
+
+## Characters
+
+- [常用字 Top 2000 Characters](characters/data/hanzi.json)
+- [常用词 Top 5000 Words](characters/data/words.json)
 
 ## Music
 

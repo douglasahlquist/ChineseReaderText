@@ -2,10 +2,11 @@
 
 ## The list (README.md)
 
-- Each `## Beginner`, `## Intermediate`, `## Advanced` or `## Music` heading starts a section in the app.
+- Each `## Beginner`, `## Intermediate`, `## Advanced`, `## Characters` or `## Music` heading starts a section in the app.
   Keep the space after `##` so GitHub shows it as a heading.
 - Each `- [Title](folder/file.md)` line under a heading is one entry, shown in the order written.
-  The path is relative to this repository's root and must end in `.md`.
+  The path is relative to this repository's root and must end in `.md`, except under
+  `## Characters`, where entries point to character or word lists ending in `.json`.
 - Lines inside `<!-- … -->` are ignored, which is handy for entries that aren't ready yet.
 - Folder names: `beginner/`, `intermediate/`, `advanced/`, `music/`. A music piece may use its
   own subfolder, e.g. `music/001-short-name/README.md`.
@@ -57,3 +58,34 @@ The path is relative to the page, as on GitHub:
 ```markdown
 ![Score](score.png)
 ```
+
+## Character and word lists (characters/data)
+
+Entries under `## Characters` open a list of characters or words instead of a lesson. Each list is
+a JSON file; the app downloads it once and keeps a copy, like a lesson.
+
+```json
+{
+  "kind": "characters",            // "characters" (single Hanzi) or "words" (multi-character)
+  "title": "Top 2000 Characters",
+  "strokes": "characters/data/strokes.json",
+  "items": [
+    { "rank": 5, "simplified": "了", "traditional": ["了", "瞭"],
+      "pinyin": ["le", "liǎo", "liào"], "english": "(completed action marker)",
+      "meanings": [ { "pinyin": "le", "definitions": ["(completed action marker)"] } ] }
+  ]
+}
+```
+
+- `traditional` lists every traditional form, the usual one first (Taiwan standard).
+- `pinyin` lists every reading, the most common first. A word has one, written as one word (`wǒmen`).
+- Word lists may add `"hsk": "1"` … `"7–9"` (HSK 3.0 level) per item.
+- `strokes.json` holds the stroke shapes for every character used in either list, simplified and
+  traditional, keyed by character: `strokes` (SVG outlines, in writing order) and `medians`
+  (the centre line of each stroke, used to animate it). Coordinates are 1024 × 1024 with y
+  pointing up and the baseline at 900, from Make Me a Hanzi (Arphic Public License).
+- The app links the lists: a word shows each of its characters with that character's rank,
+  and a character shows the common words that contain it.
+
+The other files in `characters/` (spreadsheets, the PDF and the web page) are for reading and
+printing; the app uses only `characters/data/`.
