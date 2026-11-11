@@ -26,6 +26,7 @@ How to write a lesson page: see [FORMAT.md](FORMAT.md).
 
 - [常用字 Top 2000 Characters](characters/data/hanzi.json)
 - [常用词 Top 5000 Words](characters/data/words.json)
+- [部首 214 Radicals](characters/data/radicals.json)
 
 ## Music
 

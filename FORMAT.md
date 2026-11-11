@@ -66,7 +66,7 @@ a JSON file; the app downloads it once and keeps a copy, like a lesson.
 
 ```json
 {
-  "kind": "characters",            // "characters" (single Hanzi) or "words" (multi-character)
+  "kind": "characters",            // "characters" (single Hanzi), "words" or "radicals"
   "title": "Top 2000 Characters",
   "strokes": "characters/data/strokes.json",
   "items": [
@@ -80,12 +80,19 @@ a JSON file; the app downloads it once and keeps a copy, like a lesson.
 - `traditional` lists every traditional form, the usual one first (Taiwan standard).
 - `pinyin` lists every reading, the most common first. A word has one, written as one word (`wǒmen`).
 - Word lists may add `"hsk": "1"` … `"7–9"` (HSK 3.0 level) per item.
+- The radicals list (`radicals.json`) uses the same fields: `rank` is the Kangxi number (1–214),
+  `traditional` the Kangxi form and `simplified` its simplified form (the same when there is none).
+  Each item adds `"radical"`: `strokes`, `forms` (shapes inside characters, such as 亻),
+  `simplifiedForms`, `name` (such as 单人旁), `position` (`left`/`right` for 阝), `characters`
+  (the top-2000 characters with this radical, most common first), `totalCharacters` (of about
+  9,500 common characters) and `unicode`.
 - `strokes.json` holds the stroke shapes for every character used in either list, simplified and
   traditional, keyed by character: `strokes` (SVG outlines, in writing order) and `medians`
   (the centre line of each stroke, used to animate it). Coordinates are 1024 × 1024 with y
   pointing up and the baseline at 900, from Make Me a Hanzi (Arphic Public License).
 - The app links the lists: a word shows each of its characters with that character's rank,
-  and a character shows the common words that contain it.
+  a character shows its radical and the common words that contain it, and a radical shows
+  the characters that use it.
 
 The other files in `characters/` (spreadsheets, the PDF and the web page) are for reading and
 printing; the app uses only `characters/data/`.
