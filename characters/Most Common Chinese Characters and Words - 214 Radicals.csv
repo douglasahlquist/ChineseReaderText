@@ -1,0 +1,215 @@
+﻿No.,Radical,Pinyin,Meaning,Strokes,Other forms,Simplified form,Component name (偏旁),Characters in top 2000,Examples from top 2000 (rank),"Characters with this radical (of ~9,500)",Meaning as a character,Unicode
+1,一,yī,one,1,,,,24,一(2) 不(4) 上(16) 下(42) 与(108) 三(125) 业(130) 两(133) 世(181) 东(194) 且(296) 万(322),34,"one; 1; single; a (article)",U+2F00
+2,丨,gǔn,line,1,,,,6,个(12) 中(14) 书(282) 临(837) 丰(1187) 串(1829),11,,U+2F01
+3,丶,zhǔ,dot,1,,,,5,为(18) 主(87) 举(586) 丽(832) 丹(1278),7,"""dot"" radical in Chinese characters (Kangxi radical 3)",U+2F02
+4,丿,piě,slash,1,,,,10,之(44) 么(63) 义(208) 乎(458) 乐(619) 久(636) 乃(1163) 乘(1229) 乌(1242) 乏(1397),19,,U+2F03
+5,乙,yǐ,second,1,乚 乛,,,7,也(31) 九(445) 卫(668) 乱(764) 乳(1828) 乙(1869) 乾(1996),17,"second of the ten Heavenly Stems 十天干[shi2 tian1 gan1]; second in order; letter ""B"" or Roman ""II"" in list ""A, B, C"", or ""I, II, III"" etc; second party (in legal contract, usually 乙方[yi3 fang1], as opposed to 甲方[jia3 fang1])",U+2F04
+6,亅,jué,hook,1,,,,4,了(5) 事(58) 争(344) 予(923),5,"""vertical stroke with hook"" radical in Chinese characters (Kangxi radical 6)",U+2F05
+7,二,èr,two,2,,,,8,于(40) 些(86) 二(157) 五(279) 云(691) 互(817) 井(1429) 亏(1736),14,"two; 2; (Beijing dialect) stupid",U+2F06
+8,亠,tóu,lid,2,,,,8,产(159) 交(320) 京(566) 亮(838) 亦(884) 亡(955) 享(1225) 亭(1999),18,"""lid"" radical in Chinese characters (Kangxi radical 8)",U+2F07
+9,人,rén,man,2,亻,,人字头 · 亻单人旁,101,人(7) 他(10) 们(13) 以(23) 会(29) 你(32) 作(49) 但(95) 从(98) 使(119) 体(149) 什(156),307,"person; people",U+2F08
+10,儿,ér,legs,2,,,,10,先(188) 儿(192) 克(262) 光(290) 元(370) 党(411) 充(689) 免(754) 兄(1087) 允(1441),24,"child; son; non-syllabic diminutive suffix; retroflex final",U+2F09
+11,入,rù,enter,2,,,,3,全(124) 内(175) 入(210),5,"to enter; to go into; to join; to become a member of",U+2F0A
+12,八,bā,eight,2,,,八字头,15,其(85) 公(115) 关(127) 共(330) 单(389) 具(391) 兵(398) 八(451) 六(478) 兴(531) 兰(641) 养(759),19,"eight; 8",U+2F0B
+13,冂,jiōng,down box,2,,,同字框,3,再(242) 冒(1220) 册(1523),13,,U+2F0C
+14,冖,mì,cover,2,,,秃宝盖,3,写(448) 农(465) 冠(1711),14,"""cover"" radical in Chinese characters (Kangxi radical 14), occurring in 軍|军[jun1], 冠[guan1] etc, known as 禿寶蓋|秃宝盖[tu1 bao3 gai4] or 平寶蓋|平宝盖[ping2 bao3 gai4]",U+2F0D
+15,冫,bīng,ice,2,⺀,,两点水,13,决(273) 准(379) 况(419) 习(675) 冷(699) 冲(701) 减(855) 冰(1068) 净(1375) 冬(1382) 凉(1579) 凝(1629),28,"""ice"" radical in Chinese characters (Kangxi radical 15), occurring in 冰[bing1], 次[ci4] etc, known as 兩點水|两点水[liang3 dian3 shui3]",U+2F0E
+16,几,jǐ,table,2,,,,5,几(211) 凡(1011) 凭(1408) 凯(1445) 凤(1502),9,"how much; how many; several; a few",U+2F0F
+17,凵,qiǎn,open box,2,,,凶字框,4,出(28) 击(395) 凶(1376) 函(1947),8,receptacle,U+2F10
+18,刀,dāo,knife,2,刂,,刂立刀旁,30,到(22) 分(79) 前(93) 利(155) 制(163) 别(222) 则(284) 切(337) 列(500) 划(522) 刻(618) 刚(621),83,"knife; blade; single-edged sword; cutlass",U+2F11
+19,力,lì,power,2,,,力字旁,18,动(73) 力(106) 加(166) 办(367) 功(452) 势(506) 助(607) 劳(678) 勒(964) 努(1079) 勇(1204) 劲(1356),44,"power; force; strength; ability",U+2F12
+20,勹,bāo,wrap,2,,,包字头,2,包(454) 匆(1620),14,archaic variant of 包[bao1],U+2F13
+21,匕,bǐ,spoon,2,,,,2,化(178) 北(315),4,"dagger; ladle; ancient type of spoon",U+2F14
+22,匚,fāng,right open box,2,,,区字框,1,巨(911),14,"""right open box"" radical (Kangxi radical 22), occurring in 区, 医, 匹 etc",U+2F15
+23,匸,xì,hiding enclosure,2,,,,3,区(265) 医(482) 匹(1905),8,"""cover"" or ""conceal"" radical in Chinese characters (Kangxi radical 23)",U+2F16
+24,十,shí,ten,2,,,,13,十(112) 南(307) 干(353) 华(412) 半(513) 千(599) 协(734) 升(835) 博(963) 卖(972) 午(1002) 丧(1402),23,"ten; 10",U+2F17
+25,卜,bo,divination,2,,,,4,卡(716) 占(736) 卢(1709) 卜(1976),9,"to divine; to forecast or estimate; (of a place to live etc) to choose",U+2F18
+26,卩,jié,seal,2,㔾,,单耳刀,5,却(287) 即(293) 印(639) 危(824) 卷(1014),16,"""seal"" radical in Chinese characters (Kangxi radical 26)",U+2F19
+27,厂,chǎng,cliff,2,,,厂字旁,9,原(193) 质(404) 历(480) 压(755) 厂(961) 厅(1215) 厚(1233) 厉(1337) 厌(1631),29,"factory; yard; depot; workhouse",U+2F1A
+28,厶,sī,private,2,,,私字儿,3,去(64) 参(507) 县(875),11,,U+2F1B
+29,又,yòu,again,2,,,又字旁,14,发(47) 又(126) 及(198) 变(225) 反(237) 受(238) 难(295) 取(323) 双(581) 友(594) 叔(1420) 叙(1605),21,"(once) again; also; both... and...; and yet",U+2F1C
+30,口,kǒu,mouth,3,,,口字旁,87,和(19) 可(30) 后(48) 同(69) 只(97) 向(146) 合(171) 员(200) 名(203) 各(209) 口(212) 命(258),428,"mouth; classifier for things with mouths (people, domestic animals, cannons, wells etc); classifier for bites or mouthfuls",U+2F1D
+31,囗,wéi,enclosure,3,,,国字框,12,国(20) 因(96) 回(172) 四(226) 团(405) 图(476) 围(576) 困(866) 固(891) 园(986) 圆(1143) 圈(1364),39,enclosure,U+2F1E
+32,土,tǔ,earth,3,,,提土旁,35,在(6) 地(21) 场(249) 基(280) 城(413) 增(446) 土(515) 型(556) 境(582) 坐(611) 坚(747) 块(791),183,"earth; dust; clay; local",U+2F1F
+33,士,shì,scholar,3,,,,4,声(195) 士(372) 壮(1430) 壳(1934),11,"member of the senior ministerial class (old); scholar (old); bachelor; honorific",U+2F20
+34,夂,zhǐ,go,3,,,,3,处(206) 务(245) 备(397),10,"""walk slowly"" component in Chinese characters",U+2F21
+35,夊,suī,go slowly,3,,,,2,复(426) 夏(1124),5,,U+2F22
+36,夕,xī,evening,3,,,,5,多(61) 外(131) 够(538) 夜(664) 夕(2000),11,"dusk; evening; Taiwan pr. [xi4]",U+2F23
+37,大,dà,big,3,,,,23,大(17) 天(78) 头(147) 太(240) 类(311) 失(375) 夫(377) 奇(563) 买(757) 央(798) 奥(970) 套(1089),46,"big; huge; large; major",U+2F24
+38,女,nǚ,woman,3,,,女字旁,30,如(67) 好(82) 她(91) 女(224) 始(381) 委(457) 威(622) 妈(749) 姐(828) 娘(879) 妇(930) 婚(940),156,"female; woman; daughter; archaic variant of 汝[ru3]",U+2F25
+39,子,zi,child,3,,,子字旁,10,子(37) 学(66) 存(384) 字(393) 孩(533) 孙(993) 季(1277) 孔(1287) 孤(1332) 孟(1573),31,"(noun suffix); son; child; seed",U+2F26
+40,宀,mián,roof,3,,,宝盖头,34,家(56) 定(77) 实(100) 它(107) 安(232) 完(301) 官(432) 容(442) 察(564) 害(579) 客(583) 密(591),67,"""roof"" radical in Chinese characters (Kangxi radical 40), occurring in 家, 定, 安 etc",U+2F27
+41,寸,cùn,inch,3,,,寸字旁,8,对(33) 导(343) 射(702) 封(869) 尊(1132) 寿(1613) 寺(1889) 寸(1901),18,"a unit of length; inch; thumb",U+2F28
+42,小,xiǎo,small,3,,,小字头,9,当(71) 小(83) 尔(220) 少(233) 尚(876) 尖(1319) 尝(1619) 辉(1621) 尘(1716),16,"small; tiny; few; young",U+2F29
+43,尢,yóu,lame,3,尣,,,2,就(27) 尤(1097),9,lame,U+2F2A
+44,尸,shī,corpse,3,,,尸字头,14,展(275) 局(483) 尽(488) 属(610) 尼(653) 层(698) 屋(861) 尾(1280) 尺(1472) 尸(1515) 届(1520) 屈(1682),40,"person representing the dead (during burial ceremonies); to put a corpse on display (after execution); corpse",U+2F2B
+45,屮,chè,sprout,3,,,,0,,3,plants sprouting,U+2F2C
+46,山,shān,mountain,3,,,山字旁,11,山(259) 岁(771) 岛(796) 岸(969) 岩(1421) 峰(1471) 崇(1480) 岂(1724) 峡(1725) 岗(1793) 岳(1841),111,"mountain; hill; anything that resembles a mountain; bundled straw in which silkworms spin cocoons",U+2F2D
+47,巛,chuān,river,3,,,,3,州(720) 川(1107) 巡(1542),8,archaic variant of 川[chuan1],U+2F2E
+48,工,gōng,work,3,,,,4,工(118) 差(731) 左(780) 巧(1217),7,"work; worker; skill; profession",U+2F2F
+49,己,jǐ,oneself,3,巳,,,3,已(117) 己(162) 巴(546),10,"self; oneself; sixth of the ten Heavenly Stems 十天干[shi2 tian1 gan1]; sixth in order",U+2F30
+50,巾,jīn,turban,3,,,巾字旁,16,常(187) 市(254) 师(333) 带(342) 布(380) 希(508) 帝(612) 帮(768) 席(892) 币(1186) 幕(1313) 幅(1442),53,"towel; general purpose cloth; women's headcovering (old)",U+2F31
+51,干,gàn,dry,3,,,,3,年(45) 并(141) 幸(900),5,"tree trunk; main part of sth; to manage; to work",U+2F32
+52,幺,yāo,short thread,3,,,,4,乡(920) 幻(1415) 幼(1575) 幽(1634),6,"youngest; most junior; tiny; one (unambiguous spoken form when spelling out numbers, esp. on telephone or in military)",U+2F33
+53,广,guǎng,dotted cliff,3,,,广字旁,19,应(144) 度(184) 平(215) 府(417) 广(468) 底(543) 座(810) 序(834) 康(898) 庭(929) 庄(1022) 店(1039),60,"wide; numerous; to spread; ""house on a cliff"" radical in Chinese characters (Kangxi radical 53), occurring in 店, 序, 底 etc",U+2F34
+54,廴,yǐn,long stride,3,,,建之旁,3,建(244) 延(1101) 廷(1624),5,"""long stride"" radical in Chinese characters (Kangxi radical 54), occurring in 建, 延, 廷 etc",U+2F35
+55,廾,gǒng,two hands,3,,,,4,开(94) 异(708) 弄(1051) 弃(1103),10,hands joined,U+2F36
+56,弋,yì,shoot,3,,,,1,式(303),6,to shoot,U+2F37
+57,弓,gōng,bow,3,,,弓字旁,9,强(292) 张(318) 引(479) 弹(631) 弟(814) 弱(1036) 弗(1255) 弯(1660) 弥(1783),29,"a bow (weapon); to bend; to arch (one's back etc)",U+2F38
+58,彐,jì,snout,3,彑,,,4,灵(733) 录(917) 归(931) 寻(960),15,pig snout (Kangxi radical 58),U+2F39
+59,彡,shān,bristle,3,,,三撇儿,5,形(269) 影(390) 须(444) 彩(1175) 彭(1499),14,"""bristle"" radical in Chinese characters (Kangxi radical 59)",U+2F3A
+60,彳,chì,step,3,,,双人旁,16,得(39) 很(138) 德(256) 往(369) 律(526) 微(652) 待(672) 征(738) 徒(1058) 彻(1238) 役(1243) 彼(1254),42,step with the left foot (Kangxi radical 60),U+2F3B
+61,心,xīn,heart,4,忄,,忄竖心旁 · 心字底,73,心(90) 想(99) 意(104) 情(120) 性(122) 总(228) 感(243) 必(248) 思(298) 快(366) 怎(382) 息(428),268,"heart; mind; intention; center",U+2F3C
+62,戈,gē,halberd,4,,,,10,我(9) 成(59) 战(145) 或(160) 载(975) 戏(1031) 戴(1226) 截(1550) 戒(1564) 戈(1693),34,"dagger-axe; abbr. for 戈瑞[ge1 rui4]; (Tw) abbr. for 戈雷[ge1 lei2]",U+2F3D
+63,戶,hù,door,4,户,,,7,所(54) 房(512) 居(677) 户(799) 扁(1735) 屏(1888) 扇(1990),15,"a household; door; family",U+2F3E
+64,手,shǒu,hand,4,扌,,扌提手旁,106,把(110) 手(143) 提(196) 打(223) 报(234) 才(235) 接(247) 指(261) 据(313) 拉(324) 持(357) 技(422),365,"hand; (formal) to hold; person engaged in certain types of work; person skilled in certain types of work",U+2F3F
+65,支,zhī,branch,4,,,,1,支(437),1,"to support; to sustain; to erect; to raise",U+2F40
+66,攴,pū,rap,4,攵,,攵反文旁,17,政(150) 教(191) 数(231) 放(291) 改(350) 收(351) 整(416) 效(551) 故(572) 攻(588) 敢(793) 散(864),38,"to tap; to knock lightly",U+2F41
+67,文,wén,script,4,,,,1,文(148),7,"language; culture; writing; formal",U+2F42
+68,斗,dòu,dipper,4,,,,3,料(557) 斗(580) 斜(1784),6,"to fight; to struggle; to condemn; to censure",U+2F43
+69,斤,jīn,axe,4,,,,5,新(161) 斯(168) 断(434) 斥(1854) 斤(1863),12,"catty; (PRC) weight equal to 500 g; (Tw) weight equal to 600 g; (HK, Malaysia, Singapore) slightly over 604 g",U+2F44
+70,方,fāng,square,4,,,,7,方(60) 族(549) 施(553) 旅(948) 旁(979) 旋(1381) 旗(1405),17,"square; power or involution (math.); upright; honest",U+2F45
+71,无,wú,not,4,旡,,,2,无(105) 既(723),3,"not to have; no; none; not",U+2F46
+72,日,rì,sun,4,,,,33,是(3) 时(25) 日(101) 明(121) 易(461) 早(462) 显(469) 星(537) 普(629) 晚(640) 景(812) 暗(827),116,"sun; day; date, day of the month",U+2F47
+73,曰,yuē,say,4,,,,8,最(139) 更(221) 电(230) 曾(463) 曲(1064) 替(1077) 曹(1568) 曰(1654),14,"to speak; to say",U+2F48
+74,月,yuè,moon,4,,,,8,有(8) 月(169) 期(253) 望(326) 服(365) 朝(593) 朋(880) 朗(1274),14,"moon; month; monthly",U+2F49
+75,木,mù,tree,4,,,木字旁,71,来(15) 样(88) 本(92) 机(111) 果(165) 条(214) 权(297) 格(325) 术(328) 根(352) 极(363) 林(364),388,"tree; wood; coffin; wooden",U+2F4A
+76,欠,qiàn,lack,4,,,欠字旁,10,次(183) 欢(684) 款(805) 欧(821) 歌(1038) 欲(1043) 欣(1521) 欺(1697) 歇(1825) 欠(1945),28,"deficient; to owe; to lack; yawn",U+2F4B
+77,止,zhǐ,stop,4,,,,5,此(116) 正(129) 步(349) 武(501) 止(596),12,"to stop; to prohibit; until; only",U+2F4C
+78,歹,dǎi,death,4,歺,,歹字旁,5,死(317) 残(1148) 殊(1189) 殖(1436) 歼(1813),30,"bad; wicked; evil",U+2F4D
+79,殳,shū,weapon,4,,,,4,段(567) 毁(1158) 殿(1553) 毅(1943),16,bamboo or wooden spear,U+2F4E
+80,毋,wú,do not,4,母,,,3,每(359) 母(565) 毒(945),6,"(literary) no; don't; to not have; nobody",U+2F4F
+81,比,bǐ,compare,4,,,,2,比(199) 毕(1091),6,"to compare; (followed by a noun and adjective) more {adj.} than {noun}; ratio; to gesture",U+2F50
+82,毛,máo,fur,4,,,,2,毛(623) 毫(877),15,"hair; feather; down; wool",U+2F51
+83,氏,shì,clan,4,民,,,2,民(113) 氏(1498),4,"clan name; maiden name",U+2F52
+84,气,qì,steam,4,,,,2,气(217) 氧(1860),24,"gas; air; smell; weather",U+2F53
+85,水,shuǐ,water,4,氵 氺,,氵三点水,90,法(65) 没(72) 海(189) 水(202) 活(219) 治(274) 求(312) 清(335) 济(360) 流(396) 深(401) 满(436),486,"water; river; liquid; beverage",U+2F54
+86,火,huǒ,fire,4,灬,,火字旁 · 灬四点底,26,然(55) 点(128) 火(433) 照(443) 热(606) 烈(800) 炮(912) 灭(951) 烟(965) 炸(974) 熟(1033) 灯(1113),158,"fire; urgent; ammunition; fiery or flaming",U+2F55
+87,爪,zhǎo,claw,4,爫,,,3,爱(394) 爬(1424) 爵(1922),9,"foot of a bird or animal; paw; claws; talons",U+2F56
+88,父,fù,father,4,,,,3,父(589) 爷(1005) 爸(1048),5,father,U+2F57
+89,爻,yáo,double x,4,,,,0,,3,"the solid and broken lines of the eight trigrams 八卦[ba1 gua4], e.g. ☶",U+2F58
+90,爿,pán,half tree trunk,4,丬,,,1,将(132),4,"classifier for strips of land or bamboo, shops, factories etc; slit bamboo or chopped wood (dialect); ""piece of wood"" radical in Chinese characters (Kangxi radical 90), mirror image of 片[pian4]",U+2F59
+91,片,piàn,slice,4,,,,3,片(455) 版(808) 牌(1259),7,"thin piece; flake; a slice; film",U+2F5A
+92,牙,yá,fang,4,,,,1,牙(995),2,"tooth; ivory",U+2F5B
+93,牛,niú,cow,4,,,牛字旁,7,物(142) 特(173) 牛(1016) 牧(1578) 牲(1580) 牢(1694) 牺(1812),34,"ox; cow; bull; newton (abbr. for 牛頓|牛顿[niu2 dun4])",U+2F5C
+94,犬,quǎn,dog,4,犭,,犭反犬旁,15,状(624) 独(626) 犯(766) 狂(1145) 猛(1155) 献(1190) 犹(1228) 狗(1279) 狱(1595) 猜(1596) 狠(1652) 猫(1671),102,dog,U+2F5D
+95,玄,xuán,profound,5,,,,2,率(625) 玄(1715),2,"black; mysterious",U+2F5E
+96,玉,yù,jade,5,王,,王字旁,17,现(70) 理(89) 王(299) 球(627) 环(680) 班(882) 玉(999) 玩(1070) 玛(1246) 珠(1284) 珍(1312) 瑞(1330),110,jade,U+2F5F
+97,瓜,guā,melon,5,,,,1,瓜(1824),7,"melon; gourd; squash",U+2F60
+98,瓦,wǎ,tile,5,,,,2,瓦(1193) 瓶(1701),14,"roof tile; abbr. for 瓦特[wa3 te4]",U+2F61
+99,甘,gān,sweet,5,,,,1,甘(1406),3,"sweet; willing",U+2F62
+100,生,shēng,life,5,,,,1,生(34),6,"to be born; to give birth; life; to grow",U+2F63
+101,用,yòng,use,5,,,,1,用(51),7,"to use; to employ; to have to; to eat or drink",U+2F64
+102,田,tián,field,5,,,田字旁,10,由(136) 界(288) 留(554) 男(602) 略(703) 田(776) 画(881) 甲(1104) 申(1108) 番(1450),46,"field; farm",U+2F65
+103,疋,pǐ,bolt of cloth,5,,,,2,疑(697) 疏(1894),5,"classifier for cloth: bolt; foot",U+2F66
+104,疒,nè,sickness,5,,,病字旁,12,病(427) 痛(729) 疗(947) 症(1256) 疾(1271) 疯(1547) 疼(1708) 疲(1776) 疫(1789) 癌(1797) 瘦(1838) 痕(1935),127,"sick; sickness; Kang Xi radical 104; also pr. [chuang2]",U+2F67
+105,癶,bō,dotted tent,5,,,登字头,1,登(815),4,,U+2F68
+106,白,bái,white,5,,,,5,的(1) 白(286) 百(407) 皇(758) 皆(1417),21,"white; snowy; pure; bright",U+2F69
+107,皮,pí,skin,5,,,,2,皮(740) 皱(1951),7,"leather; skin; fur; pico- (one trillionth)",U+2F6A
+108,皿,mǐn,dish,5,,,皿字底,8,益(648) 监(836) 盘(1047) 盖(1050) 盛(1140) 盟(1161) 盗(1617) 盐(1882),28,"dish; vessel; shallow container; rad. no. 108",U+2F6B
+109,目,mù,eye,5,,,目字旁,17,着(41) 看(76) 相(152) 真(204) 目(239) 直(255) 眼(281) 省(665) 睛(932) 督(944) 睡(962) 盾(1393),100,"eye; item; section; list",U+2F6C
+110,矛,máo,spear,5,,,,1,矛(1439),3,"spear; lance; pike",U+2F6D
+111,矢,shǐ,arrow,5,,,,2,知(123) 短(887),11,"arrow; dart; straight; to vow",U+2F6E
+112,石,shí,stone,5,,,石字旁,14,确(331) 石(414) 研(447) 破(604) 础(1012) 硬(1168) 码(1343) 碰(1369) 矿(1383) 碎(1418) 碍(1435) 磨(1535),114,"rock; stone; stone inscription; one of the eight categories of ancient musical instruments 八音[ba1 yin1]",U+2F6F
+113,示,shì,spirit,5,礻,,礻示字旁,12,神(227) 社(270) 示(425) 福(682) 票(908) 礼(924) 禁(984) 祖(1023) 祝(1649) 祥(1672) 祭(1780) 祸(1867),51,"to show; to reveal",U+2F70
+114,禸,róu,track,5,,,,1,离(418),6,trample,U+2F71
+115,禾,hé,grain,5,,,禾木旁,19,种(57) 科(277) 程(314) 称(449) 积(727) 税(779) 移(878) 秘(894) 私(1021) 稳(1053) 秀(1134) 秋(1149),66,"cereal; grain",U+2F72
+116,穴,xué,cave,5,,,穴宝盖,8,空(272) 究(429) 突(484) 穿(783) 窗(1072) 穷(1341) 穴(1937) 窝(1959),46,"cave; cavity; hole; acupuncture point",U+2F73
+117,立,lì,stand,5,,,立字旁,9,立(197) 亲(362) 章(539) 站(544) 竟(705) 端(914) 竞(1098) 童(1227) 竭(1984),14,"to stand; to set up; to establish; to lay down",U+2F74
+118,竹,zhú,bamboo,6,,,竹字头,19,第(114) 等(158) 管(252) 笑(346) 算(403) 答(559) 策(713) 简(715) 笔(954) 篇(1006) 筑(1128) 符(1203),151,bamboo,U+2F75
+119,米,mǐ,rice,6,,,米字旁,10,精(435) 米(575) 粮(1301) 糊(1391) 粗(1412) 粉(1496) 粒(1712) 粹(1734) 糖(1744) 糟(1915),50,"rice; meter (classifier)",U+2F76
+120,糸,mì,silk,6,糹,纟,纟绞丝旁,49,经(62) 给(180) 系(216) 结(236) 统(264) 组(358) 级(415) 约(424) 线(430) 红(502) 维(520) 续(552),296,fine silk,U+2F77
+121,缶,fǒu,jar,6,,,,1,缺(873),11,pottery,U+2F78
+122,网,wǎng,net,6,罓 罒,,罒四字头,8,罗(392) 网(605) 置(676) 罪(717) 罚(1213) 罢(1303) 署(1377) 罩(1975),30,"net; network",U+2F79
+123,羊,yáng,sheep,6,羋,,,3,美(151) 群(570) 羊(1335),25,"sheep; goat",U+2F7A
+124,羽,yǔ,feather,6,,,,5,翻(1025) 翼(1292) 耀(1802) 羽(1862) 翰(1878),26,"feather; 5th note in pentatonic scale",U+2F7B
+125,老,lǎo,old,6,耂,,,3,者(103) 老(179) 考(495),7,"prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity; old (of people); venerable (person); experienced",U+2F7C
+126,而,ér,and,6,,,,2,而(36) 耐(1407),4,"and; as well as; and so; but (not)",U+2F7D
+127,耒,lěi,plow,6,,,,2,耗(1728) 耕(1847),18,plow,U+2F7E
+128,耳,ěr,ear,6,,,耳字旁,7,联(356) 职(616) 耳(885) 耶(1172) 聚(1304) 聪(1667) 聊(1929),34,"ear; handle (archaeology); and that is all (Classical Chinese)",U+2F7F
+129,聿,yù,brush,6,肀,,,1,肃(1516),7,"(arch. introductory particle); then; and then",U+2F80
+130,肉,ròu,meat,6,,,月字旁 (肉月),40,能(35) 育(609) 脸(615) 股(643) 脑(645) 胜(742) 背(785) 脚(788) 胡(804) 肯(858) 脱(941) 肉(1007),182,"meat; flesh; pulp (of a fruit); (coll.) (of a fruit) squashy",U+2F81
+131,臣,chén,minister,6,,,,2,臣(1136) 卧(1941),7,"state official or subject in dynastic China; I, your servant (used in addressing the sovereign)",U+2F82
+132,自,zì,self,6,,,,1,自(43),5,"self; oneself; from; since",U+2F83
+133,至,zhì,arrive,6,,,,2,至(267) 致(524),4,"to arrive; most; to; until",U+2F84
+134,臼,jiù,mortar,6,,,,0,,13,mortar,U+2F85
+135,舌,shé,tongue,6,,,,5,敌(523) 舍(1342) 舒(1457) 辞(1467) 舌(1955),8,"tongue; used in 喇舌[la3 ji1] to transcribe the Taiwanese word for ""tongue""",U+2F86
+136,舛,chuǎn,oppose,6,,,,1,舞(1142),3,"mistaken; erroneous; contradictory",U+2F87
+137,舟,zhōu,boat,6,,,,7,船(614) 般(628) 航(772) 舰(849) 艇(1370) 艘(1468) 舱(1843),35,boat,U+2F88
+138,艮,gěn,stopping,6,,,,1,良(833),3,"blunt; tough; chewy; one of the Eight Trigrams 八卦[ba1 gua4], symbolizing mountain",U+2F89
+139,色,sè,color,6,,,,1,色(304),4,"color; look; appearance; sex",U+2F8A
+140,艸,cǎo,grass,6,艹,,草字头,45,英(371) 花(410) 落(496) 节(514) 营(536) 苏(590) 苦(633) 若(650) 药(661) 获(687) 范(704) 艺(784),423,,U+2F8B
+141,虍,hū,tiger,6,虎,,虎字头,2,虚(1069) 虎(1081),17,"stripes of a tiger; ""tiger"" radical in Chinese characters (Kangxi radical 141)",U+2F8C
+142,虫,chóng,insect,6,,,虫字旁,5,虽(504) 虫(1285) 蛋(1385) 蛇(1687) 蜂(1909),197,"lower form of animal life, including insects, insect larvae, worms and similar creatures; (fig.) person with a particular undesirable characteristic",U+2F8D
+143,血,xuè,blood,6,,,,1,血(657),5,"blood; colloquial pr. [xie3]",U+2F8E
+144,行,xíng,walk enclosure,6,,,,3,行(53) 街(1099) 衡(1338),12,"to walk; to go; to travel; a visit",U+2F8F
+145,衣,yī,clothes,6,衤,,衤衣字旁,11,被(154) 表(177) 装(467) 衣(724) 补(942) 裁(1201) 袋(1308) 裂(1315) 袖(1684) 衰(1700) 袁(1753),105,"clothes; to dress; to wear; to put on (clothes)",U+2F90
+146,襾,yà,west,6,覀 西,,,2,要(26) 西(167),8,cover,U+2F91
+147,見,jiàn,see,7,,见,,6,见(153) 规(321) 觉(327) 观(334) 视(438) 览(1883),28,"to see; to meet; to appear (to be sth); to interview",U+2F92
+148,角,jiǎo,horn,7,𧢲,,,3,解(201) 角(735) 触(1205),14,"angle; corner; horn; horn-shaped",U+2F93
+149,言,yán,speech,7,,讠,讠言字旁,49,说(24) 话(170) 论(205) 认(213) 计(251) 许(263) 设(302) 记(306) 该(319) 让(339) 识(340) 言(355),300,"words; speech; to say; to talk",U+2F94
+150,谷,gǔ,valley,7,,,,1,谷(1093),4,"grain; corn; valley",U+2F95
+151,豆,dòu,bean,7,,,,1,豆(1791),9,"bean; pea; sacrificial vessel",U+2F96
+152,豕,shǐ,pig,7,,,,3,象(300) 豪(1511) 豫(1953),14,"hog; swine",U+2F97
+153,豸,zhì,badger,7,,,,1,貌(1593),14,"worm-like invertebrate; mythical animal (see 獬豸[xie4 zhi4])",U+2F98
+154,貝,bèi,shell,7,,贝,贝字旁,27,资(257) 费(486) 责(535) 财(679) 负(690) 货(816) 败(860) 贵(871) 赛(1062) 购(1076) 贸(1090) 贝(1131),125,"cowrie; shellfish; currency (archaic)",U+2F99
+155,赤,chì,red,7,,,,2,赫(1344) 赤(1658),5,"red; scarlet; bare; naked",U+2F9A
+156,走,zǒu,run,7,,,,9,起(75) 走(207) 越(440) 超(753) 赶(906) 趣(1063) 赵(1167) 趋(1484) 赴(1840),22,"to walk; to go; to run; to move (of vehicle)",U+2F9B
+157,足,zú,foot,7,,,足字旁,12,路(305) 足(527) 跟(541) 跑(862) 跳(997) 距(1200) 跃(1514) 踪(1530) 践(1576) 跌(1588) 踏(1751) 跨(1772),119,"foot; to be sufficient; ample; excessive",U+2F9C
+158,身,shēn,body,7,,,,3,身(164) 躺(1606) 躲(1642),7,"body; life; oneself; personally",U+2F9D
+159,車,chē,cart,7,,车,车字旁,13,军(102) 车(361) 转(376) 轻(460) 较(491) 输(937) 软(1041) 轮(1094) 轰(1262) 辑(1360) 辆(1373) 辖(1641),99,"car; vehicle; machine; to shape with a lathe",U+2F9E
+160,辛,xīn,bitter,7,,,,3,辩(1353) 辛(1461) 辨(1907),11,"(of taste) hot or pungent; hard; laborious; suffering",U+2F9F
+161,辰,chén,morning,7,,,,1,辱(1904),3,"5th earthly branch: 7-9 a.m., 3rd solar month (5th April-4th May), year of the Dragon; ancient Chinese compass point: 120°",U+2FA0
+162,辵,chuò,walk,7,,辶,走之底,49,这(11) 过(46) 道(52) 还(80) 进(81) 通(190) 达(289) 边(316) 运(345) 造(354) 近(374) 远(386),132,to walk (side part of split character),U+2FA1
+163,邑,yì,city,7,阝 (on the right),,阝右耳旁,12,那(38) 都(68) 部(84) 郑(1130) 邦(1361) 郎(1455) 邪(1537) 邓(1612) 邮(1650) 邻(1657) 郭(1811) 郁(1912),79,"city; village",U+2FA2
+164,酉,yǒu,wine,7,,,,6,配(737) 酒(795) 醒(1073) 酸(1454) 醉(1781) 酷(1864),67,"10th earthly branch: 5-7 p.m., 8th solar month (8th September-7th October), year of the Rooster; ancient Chinese compass point: 270° (west)",U+2FA3
+165,釆,biàn,distinguish,7,,,,2,采(585) 释(811),5,,U+2FA4
+166,里,lǐ,village,7,,,,4,里(50) 重(140) 量(241) 野(843),5,"lining; interior; inside; internal",U+2FA5
+167,金,jīn,gold,8,,钅,钅金字旁,21,金(260) 钱(603) 错(637) 银(756) 铁(777) 销(902) 钟(903) 镇(1000) 针(1114) 镜(1249) 键(1469) 锁(1556),376,"gold; chemical element Au; generic term for lustrous and ductile metals; money",U+2FA6
+168,長,zhǎng,long,8,镸,长,,1,长(109),3,"chief; head; elder; to grow",U+2FA7
+169,門,mén,gate,8,,门,门字框,12,间(135) 问(137) 门(185) 闻(823) 闪(1111) 闭(1265) 闹(1334) 阅(1487) 闲(1527) 阔(1673) 阁(1680) 闷(1827),89,"gate; door; gateway; doorway",U+2FA8
+170,阜,fù,mound,8,阝 (on the left),,阝左耳旁,26,队(268) 院(338) 际(423) 除(464) 阿(471) 随(498) 陈(525) 防(548) 限(613) 阳(649) 险(671) 陆(674),84,"abundant; mound",U+2FA9
+171,隶,lì,slave,8,,,,1,隶(1799),2,"attached to; scribe",U+2FAA
+172,隹,zhuī,short tailed bird,8,,,,5,集(406) 雄(1052) 雅(1137) 雇(1815) 雕(1826),32,short-tailed bird,U+2FAB
+173,雨,yǔ,rain,8,,,雨字头,10,需(408) 雷(685) 露(839) 雨(926) 雪(1001) 震(1102) 零(1340) 霍(1440) 雾(1668) 霸(1835),42,"rain; to rain; (of rain, snow etc) to fall; to precipitate",U+2FAC
+174,靑,qīng,blue,8,青,,,2,青(497) 静(721),8,,U+2FAD
+175,非,fēi,wrong,8,,,,3,非(283) 靠(806) 辈(1475),4,"to not be; not; wrong; incorrect",U+2FAE
+176,面,miàn,face,9,,,,1,面(74),2,"face; side; surface; aspect",U+2FAF
+177,革,gé,leather,9,,,,2,革(521) 鞋(1636),25,"animal hide; leather; to reform; to remove",U+2FB0
+178,韋,wéi,tanned leather,9,,韦,,2,韩(1219) 韦(1665),11,soft leather,U+2FB1
+179,韭,jiǔ,leek,9,,,,0,,3,leek,U+2FB2
+180,音,yīn,sound,9,,,,1,音(540),6,"sound; noise; note (of musical scale); tone",U+2FB3
+181,頁,yè,leaf,9,,页,页字旁,15,题(218) 领(329) 项(571) 预(646) 顿(792) 顾(813) 额(934) 顺(936) 顶(998) 页(1126) 颗(1446) 频(1533),84,"page; leaf; head",U+2FB4
+182,風,fēng,wind,9,,风,,2,风(348) 飘(1525),20,"wind; news; style; custom",U+2FB5
+183,飛,fēi,fly,9,,飞,,1,飞(347),2,to fly,U+2FB6
+184,食,shí,eat,9,𩙿 飠,饣,饣食字旁,9,食(670) 饭(933) 馆(1009) 餐(1463) 饮(1567) 饰(1602) 饿(1908) 饲(1968) 饱(1995),99,"to eat; food; animal feed; eclipse",U+2FB7
+185,首,shǒu,head,9,,,,1,首(481),3,"head; chief; first (occasion, thing etc); classifier for poems, songs etc",U+2FB8
+186,香,xiāng,fragrant,9,,,,1,香(775),3,"fragrant; sweet smelling; aromatic; savory or appetizing",U+2FB9
+187,馬,mǎ,horse,10,,马,马字旁,9,马(276) 验(534) 驻(1286) 骑(1396) 骗(1501) 驱(1509) 驶(1518) 驾(1565) 冯(1717),101,"horse; horse or cavalry piece in Chinese chess; knight in Western chess",U+2FBA
+188,骨,gǔ,bone,10,,,,1,骨(1034),21,bone,U+2FBB
+189,高,gāo,tall,10,,,,1,高(134),1,"high; tall; above average; loud",U+2FBC
+190,髟,biāo,hair,10,,,,0,,21,"hair; shaggy",U+2FBD
+191,鬥,dòu,fight,10,,,,0,,6,"to fight; to struggle; to condemn; to censure",U+2FBE
+192,鬯,chàng,sacrificial wine,10,,,,0,,2,sacrificial spirit,U+2FBF
+193,鬲,gé,cauldron,10,,,,1,融(1223),4,"earthen pot; iron cauldron; ancient ceramic three-legged vessel used for cooking with cord markings on the outside and hollow legs",U+2FC0
+194,鬼,guǐ,ghost,10,,,,4,鬼(1040) 魔(1178) 魂(1346) 魏(1646),17,"ghost; demon; terrible; damnable",U+2FC1
+195,魚,yú,fish,11,,鱼,鱼字旁,3,鱼(850) 鲁(896) 鲜(956),142,fish,U+2FC2
+196,鳥,niǎo,bird,11,,鸟,鸟字旁,5,鸟(1261) 鸡(1389) 鸿(1921) 鹏(1923) 鹰(1924),150,"bird; (dialect) to pay attention to; (intensifier) damned; goddam",U+2FC3
+197,鹵,lǔ,salt,11,,卤,,0,,6,"alkaline soil; salt; brine; halogen (chemistry)",U+2FC4
+198,鹿,lù,deer,11,,,,0,,12,deer,U+2FC5
+199,麥,mài,wheat,11,,麦,,1,麦(1169),7,"wheat; barley; oats",U+2FC6
+200,麻,má,hemp,11,,,,1,麻(1106),5,"generic name for hemp, flax etc; hemp or flax fiber for textile materials; sesame; (of materials) rough or coarse",U+2FC7
+201,黃,huáng,yellow,12,,黄,,1,黄(561),3,"yellow; pornographic; to fall through",U+2FC8
+202,黍,shǔ,millet,12,,,,1,黎(1474),3,"broomcorn millet; glutinous millet",U+2FC9
+203,黑,hēi,black,12,,,,2,黑(519) 默(1029),17,"black; dark; sinister; secret",U+2FCA
+204,黹,zhǐ,embroidery,12,,,,0,,3,embroidery,U+2FCB
+205,黽,miǎn,frog,13,,黾,,0,,6,"toad; to strive",U+2FCC
+206,鼎,dǐng,tripod,13,,,,0,,2,"ancient cooking cauldron with two looped handles and three or four legs; pot (dialect); to enter upon a period of (classical); one of the 64 hexagrams of the Book of Changes",U+2FCD
+207,鼓,gǔ,drum,13,,,,1,鼓(1121),4,"drum; to drum; to strike; to rouse",U+2FCE
+208,鼠,shǔ,rat,13,,,,1,鼠(1691),9,"rat; mouse",U+2FCF
+209,鼻,bí,nose,14,,,,1,鼻(1333),4,nose,U+2FD0
+210,齊,qí,even,14,,齐,,1,齐(1061),6,"neat; even; level with; identical",U+2FD1
+211,齒,chǐ,tooth,15,,齿,,2,龄(1508) 齿(1771),27,tooth,U+2FD2
+212,龍,lóng,dragon,16,,龙,,2,龙(695) 袭(1211),10,"dragon; imperial",U+2FD3
+213,龜,guī,turtle,16,,龟,,0,,3,"tortoise; turtle",U+2FD4
+214,龠,yuè,flute,17,,,,0,,2,"ancient unit of volume (half a 合[ge3], equivalent to 50ml); ancient flute",U+2FD5
