@@ -27,7 +27,23 @@
 - Each table row is one line of text. A leading `A：` or `B：` is shown as the speaker.
 - Pinyin: **one space-separated syllable per Hanzi character**. Punctuation in the pinyin is
   optional; each syllable is matched to the next non-punctuation character.
+- A Latin word in the Hanzi, such as a name (`我爸爸叫David。`), counts as one unit: write it
+  as-is in the pinyin (`Wǒ bà ba jiào David .`).
 - Leave the English cell empty if there's no translation yet.
+
+## Page settings
+
+Put this line at the top of a page to change how tapping sounds:
+
+```markdown
+<!-- reader: speak=word -->
+```
+
+- `speak=character` (the default): tapping speaks just that character.
+- `speak=word`: tapping speaks the whole word the character belongs to. Words are separated
+  by spaces in the Hanzi; a line with no spaces counts as one word (e.g. a book name).
+
+GitHub hides the line, since it's an HTML comment.
 
 ## Sheet music (music pages)
 

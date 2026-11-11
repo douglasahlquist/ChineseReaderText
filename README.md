@@ -8,6 +8,7 @@ How to write a lesson page: see [FORMAT.md](FORMAT.md).
 
 ## Beginner
 
+- [第2课：我的家人](beginner/02-wo-de-jiaren.md)
 - [第3课：我喜欢吃什么](beginner/03-wo-xihuan-chi-shenme.md)
 - [第4课：吃饭](beginner/04-chi-fan.md)
 
@@ -17,7 +18,8 @@ How to write a lesson page: see [FORMAT.md](FORMAT.md).
 
 ## Advanced
 
-<!-- - [第1课：标题](advanced/01-short-name.md) -->
+- [旧约圣经书卷](advanced/01-jiu-yue-shu-juan.md)
+- [新约圣经书卷](advanced/02-xin-yue-shu-juan.md)
 
 ## Music
 
