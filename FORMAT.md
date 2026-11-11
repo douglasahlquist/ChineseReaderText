@@ -11,7 +11,7 @@
   `## Characters`, where entries point to character or word lists ending in `.json`.
 - Inside a section, a `### Heading` starts a group: the entries under it are shown together and
   the group collapses on its own (the app remembers which groups are open). `## Characters` uses
-  groups for Single Characters, Words and Radicals.
+  groups for Single Characters, Multi Character Words and Radicals.
 - Lines inside `<!-- … -->` are ignored, which is handy for entries that aren't ready yet.
 - Folder names: `beginner/`, `intermediate/`, `advanced/`, `music/`, `other/`. A music piece may use its
   own subfolder, e.g. `music/001-short-name/README.md`.

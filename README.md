@@ -34,7 +34,7 @@ How to write a lesson page: see [FORMAT.md](FORMAT.md).
 - [字 5001–6000](characters/data/hanzi-5001-6000.json)
 - [字 6001–7000](characters/data/hanzi-6001-7000.json)
 
-### 词语 Words
+### 词语 Multi Character Words
 
 - [词 1–1000](characters/data/words-0001-1000.json)
 - [词 1001–2000](characters/data/words-1001-2000.json)
