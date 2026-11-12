@@ -2,7 +2,7 @@
 
 # 罗马书 12 | Luó mǎ shū 12 | Romans 12
 
-> 和合本 (Chinese Union Version, 1919), simplified and traditional · SBL Greek New Testament (SBLGNT) · World English Bible (WEB)
+> **Study** · 和合本 (Chinese Union Version, 1919), simplified and traditional · SBL Greek New Testament (SBLGNT) · World English Bible (WEB)
 
 ## 第1–2节 | Dì 1–2 jié | Verses 1–2
 

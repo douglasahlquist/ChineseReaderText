@@ -2,7 +2,7 @@
 
 # 诗篇 1 | Shī piān 1 | Psalms 1
 
-> 和合本 (Chinese Union Version, 1919), simplified and traditional · Westminster Leningrad Codex (WLC), without cantillation marks · World English Bible (WEB)
+> **Study** · 和合本 (Chinese Union Version, 1919), simplified and traditional · Westminster Leningrad Codex (WLC), without cantillation marks · World English Bible (WEB)
 
 ## 第1–6节 | Dì 1–6 jié | Verses 1–6
 

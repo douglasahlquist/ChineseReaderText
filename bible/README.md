@@ -12,7 +12,7 @@
 ##### 诗篇 Psalms
 
 - [1](passages/psalms-1.md)
-- [23](passages/psalms-23.md)
+- [23](passages/psalms-23.md) · [Study](passages/psalms-23.md) · [Classic](passages/psalms-23.classic.md) · [Basic English](passages/psalms-23.basic.md)
 - [91](passages/psalms-91.md)
 
 #### 新约 New Testament
@@ -23,4 +23,4 @@
 
 ##### 罗马书 Romans
 
-- [12](passages/romans-12.md)
+- [12](passages/romans-12.md) · [Study](passages/romans-12.md) · [Classic](passages/romans-12.classic.md) · [Basic English](passages/romans-12.basic.md)

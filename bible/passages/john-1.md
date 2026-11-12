@@ -2,7 +2,7 @@
 
 # 约翰福音 1 | Yuē hàn fú yīn 1 | John 1
 
-> 和合本 (Chinese Union Version, 1919), simplified and traditional · SBL Greek New Testament (SBLGNT) · World English Bible (WEB)
+> **Study** · 和合本 (Chinese Union Version, 1919), simplified and traditional · SBL Greek New Testament (SBLGNT) · World English Bible (WEB)
 
 ## 第1–9节 | Dì 1–9 jié | Verses 1–9
 
