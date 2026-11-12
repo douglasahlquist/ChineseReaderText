@@ -1,7 +1,7 @@
 """Builds the HSK 1 lesson pages from the lesson data, checking the vocabulary rules.
 
-    python3 tools/hsk/build_course.py beginner/hsk1            write the pages
-    python3 tools/hsk/build_course.py beginner/hsk1 --review x.csv  also write a review sheet
+    python3 tools/hsk/build_course.py hsk-2021/hsk1            write the pages
+    python3 tools/hsk/build_course.py hsk-2021/hsk1 --review x.csv  also write a review sheet
 
 Rules checked for every sentence (word sections, grammar examples and dialogs):
   * every word is an HSK 1 word already taught (earlier lessons, or this lesson up to the word

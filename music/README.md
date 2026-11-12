@@ -1,3 +1,5 @@
-# Music
+## 诗歌 Music
 
-Hymns and songs, one subfolder per piece (layout still being designed). Listed in the root [README.md](../README.md).
+### 赞美诗 Hymnal
+
+<!-- - [第1首：标题](hymnal/001-short-name.md) -->

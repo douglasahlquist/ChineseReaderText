@@ -1,6 +1,6 @@
 # HSK lessons: source and build
 
-The HSK 1 lesson pages (`beginner/hsk1/01.md` …) are generated from the files here.
+The HSK 1 lesson pages (`hsk-2021/hsk1/01.md` …) are generated from the files here.
 
 | File | What it holds |
 |---|---|
@@ -23,7 +23,7 @@ of 不 and 一 (yí / yì; yī in numbers, dates and 星期一), and the neutral
 
 ```bash
 pip3 install pypinyin
-python3 tools/hsk/build_course.py beginner/hsk1 --review hsk1-review.csv
+python3 tools/hsk/build_course.py hsk-2021/hsk1 --review hsk1-review.csv
 ```
 
 `--review` also writes every sentence to a CSV for the native-speaker review sheet.
@@ -38,7 +38,7 @@ reviewed, remove that note (or ask Claude to) after fixing what the reviewer fou
 `hsk2_plan.py` puts every HSK 2 word into one of 51 lessons (about 15 words each); the lessons
 are in `hsk2_lNN_MM.py`, and `hsk2_words.json` holds the HSK 2 word list. Build with `--level 2`:
 
-    python3 tools/hsk/build_course.py beginner/hsk2 --level 2 [--review review.csv]
+    python3 tools/hsk/build_course.py hsk-2021/hsk2 --level 2 [--review review.csv]
 
 At level 2 every HSK 1 word, and every extra word taught in the HSK 1 lessons, counts as known.
 The six HSK 2 words already taught in HSK 1 (千 万 亿 喂 刻 分钟) are not repeated.

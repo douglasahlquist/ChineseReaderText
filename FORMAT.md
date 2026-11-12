@@ -13,8 +13,10 @@
   the group collapses on its own (the app remembers which groups are open). `## Characters` uses
   groups for Single Characters, Multi Character Words and Radicals.
 - Lines inside `<!-- … -->` are ignored, which is handy for entries that aren't ready yet.
-- Folder names: `beginner/`, `intermediate/`, `advanced/`, `music/`, `other/`. A music piece may use its
-  own subfolder, e.g. `music/001-short-name/README.md`.
+- Folders: `dialogs/beginner/`, `dialogs/intermediate/`, `dialogs/advanced/`, `hsk-2021/hsk1/` …,
+  `hsk-2025/`, `bible/`, `idioms/`, `music/hymnal/`, `other_topics/food/` …. Each addable section has its own index file
+  (`dialogs/`, `hsk-2021/`, `hsk-2025/`, `bible/`, `idioms/`, `music/`, `other_topics/` each have a `README.md`), listed in
+  `catalog.md`; links in an index are relative to that index file.
 
 ## A lesson page
 
