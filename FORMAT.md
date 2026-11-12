@@ -12,6 +12,10 @@
 - Inside a section, a `### Heading` starts a group: the entries under it are shown together and
   the group collapses on its own (the app remembers which groups are open). `## Characters` uses
   groups for Single Characters, Multi Character Words and Radicals.
+- Inside a group, `####` and deeper headings nest further: the Bible's 经文 Passages list is
+  `### 经文 Passages` › `#### 新约 New Testament` › `##### 罗马书 Romans` › `- [12](passages/romans-12.md)`.
+  Settings › Bible passages in the list shows them nested like that, or as *Book and chapter*:
+  the innermost heading joined to the entry (罗马书 Romans 12), the levels between left out.
 - Lines inside `<!-- … -->` are ignored, which is handy for entries that aren't ready yet.
 - Folders: `dialogs/beginner/`, `dialogs/intermediate/`, `dialogs/advanced/`, `hsk-2021/hsk1/` …,
   `hsk-2025/`, `bible/`, `idioms/`, `music/hymnal/`, `other_topics/food/` …. Each addable section has its own index file
@@ -183,9 +187,11 @@ printing; the app uses only `characters/data/`.
 ## Bible verses (versions stacked)
 
 Only Bible passage pages use this. Put this line directly above a table: each row is one verse,
-shown as the Hanzi (pinyin on tap), then each version as a labeled row of its own underneath:
-the Greek or Hebrew first, then the English, then any other versions. The header names the
-versions, in the order they are shown. Greek and Hebrew are recognized by
+shown as the Hanzi (pinyin on tap), then each version as a row of its own underneath: the Greek
+or Hebrew first, then the English, then any other versions. The header names the versions, in
+the order they are shown; the rows aren't labeled, so name the versions in a `> ` note at the
+top of the page. A leading verse number ("16 …") is shown small beside the verse. The `##`
+group headings of a verses page aren't shown, and its Hanzi have a size of their own. Greek and Hebrew are recognized by
 their letters; Hebrew is set right to left. An empty cell is left out. Settings can hide the
 English rows or the Greek and Hebrew rows.
 
@@ -206,5 +212,5 @@ in Settings > Display. Put it right after Pinyin:
 | 1 所以， 弟兄们， … | 1 Suǒ yǐ , dì xiong men , … | 1 所以， 弟兄們， … | Παρακαλῶ … | Therefore … |
 ```
 
-`tools/bible/bible_pages.py` writes these pages (see `tools/bible/README.md`). Older app builds
+`bible/bible_pages.py` in the ChineseReaderTools repository writes these pages (see its `bible/README.md`). Older app builds
 show the Hanzi, pinyin and the first version (the Greek or Hebrew) as an ordinary line.

@@ -7,4 +7,15 @@
 
 ### 经文 Passages
 
-- [罗马书 12 · Romans 12](passages/romans-12.md)
+#### 旧约 Old Testament
+
+##### 诗篇 Psalms
+
+- [1](passages/psalms-1.md)
+- [23](passages/psalms-23.md)
+
+#### 新约 New Testament
+
+##### 罗马书 Romans
+
+- [12](passages/romans-12.md)
