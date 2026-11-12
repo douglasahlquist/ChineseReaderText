@@ -337,3 +337,48 @@ GLOSS.update({
  "称": "to call; to weigh", "声音": "sound; voice", "安静": "quiet", "名单": "list of names", "报名": "to sign up",
  "故意": "on purpose", "随便": "as you like; casual", "重复": "to repeat", "作文": "essay; composition",
 })
+
+GLOSS.update({
+ # HSK 2 · 41
+ "方向": "direction", "东方": "east; the East", "西方": "west; the West", "南方": "the south", "北方": "the north", "东北": "northeast",
+ "西北": "northwest", "东南": "southeast", "西南": "southwest", "面前": "in front of", "以上": "above; over", "以下": "below; under",
+ "以外": "beyond; besides", "到处": "everywhere", "里头": "inside",
+ # 42
+ "好处": "benefit; advantage", "坏处": "harm; disadvantage", "正常": "normal", "普通": "ordinary", "一般": "ordinary; usually",
+ "正确": "correct", "准确": "accurate", "清楚": "clear", "方便": "convenient", "安全": "safe; safety", "合适": "suitable",
+ "公平": "fair", "平等": "equal; equality", "重点": "key point", "主要": "main; mainly",
+ # 43
+ "生活": "life; to live", "日子": "day; date; life", "习惯": "habit; to be used to", "经过": "to pass by; through", "过去": "the past; to go over",
+ "过来": "to come over", "生": "to be born; to give birth; raw", "自由": "free; freedom", "理想": "ideal; dream", "目的": "purpose",
+ "条件": "condition; terms", "常见": "common", "常用": "commonly used", "重视": "to value; to take seriously", "好像": "to seem; to be like",
+ # 44
+ "办法": "way; method", "方法": "method", "做法": "way of doing; recipe", "怎样": "how", "怎么办": "what to do",
+ "这样": "like this", "那样": "like that", "这么": "so; like this", "那么": "so; then", "什么样": "what kind", "样子": "appearance; look",
+ "例如": "for example", "比如": "for example", "比如说": "for instance", "例子": "example",
+ # 45
+ "问题": "question; problem", "难题": "difficult problem", "事情": "matter; thing", "影响": "influence; to affect", "作用": "effect; role",
+ "方面": "aspect; side", "特点": "characteristic", "原来": "originally; so it turns out", "实际": "actual; practical", "实在": "really; honest",
+ "真正": "real; true", "完全": "completely", "当": "to work as; when", "大小": "size", "正是": "precisely",
+ # 46
+ "满": "full", "够": "enough", "不够": "not enough", "低": "low", "轻": "light", "平": "flat; level", "熟": "ripe; cooked; familiar",
+ "脏": "dirty", "长": "long", "短": "short", "假": "fake", "高级": "advanced; high-end", "中级": "intermediate", "角": "jiao (0.1 yuan); corner",
+ # 47
+ "科学": "science", "科学家": "scientist", "科": "subject; department", "国际": "international", "等于": "to equal", "加": "to add; plus",
+ "度": "degree", "发": "to send; to hand out", "只": "only", "像": "to resemble; to be like", "正好": "just right; to happen to",
+ "直接": "direct; directly",
+ # 48
+ "停": "to stop", "靠": "to lean on; near; to rely on", "排": "row; to line up", "排队": "to queue", "选": "to choose", "查": "to check; to look up",
+ "求": "to ask; to beg", "通": "to get through; to lead to", "通过": "to pass; through; via", "进入": "to enter", "离开": "to leave",
+ "超过": "to exceed; to overtake", "来自": "to come from", "受到": "to receive; to be subject to", "让": "to let; to make",
+ # 49
+ "完": "to finish", "办": "to do; to handle", "算": "to calculate; to count as", "接": "to meet; to pick up; to answer", "接着": "to go on; next",
+ "接下来": "next", "然后": "then; after that", "使用": "to use", "顺利": "smooth; successful", "努力": "to work hard",
+ "得": "(links a verb to how it is done)", "行动": "action; to act", "行为": "behavior",
+ # 50
+ "有空儿": "to be free", "多久": "how long", "出发": "to set off", "参观": "to visit (a place)", "船": "boat; ship", "等到": "to wait until; by the time",
+ "分开": "to separate", "快点儿": "hurry up", "天上": "in the sky", "点头": "to nod", "行人": "pedestrian",
+ # 51
+ "最近": "recently; nearest", "啊": "(friendly particle)", "不要": "don't; don't want", "不行": "no; won't do", "不太": "not very",
+ "外卖": "takeout", "洗衣机": "washing machine", "油": "oil; fuel", "店": "shop", "面": "noodles; side; face", "省": "province; to save",
+ "流": "to flow",
+})

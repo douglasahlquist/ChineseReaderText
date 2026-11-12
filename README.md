@@ -112,6 +112,17 @@ How to write a lesson page: see [FORMAT.md](FORMAT.md).
 - [第三十八课：变化 · Changes](beginner/hsk2/38.md)
 - [第三十九课：发现 · Finding out](beginner/hsk2/39.md)
 - [第四十课：大声说 · Speaking up](beginner/hsk2/40.md)
+- [第四十一课：东西南北 · Directions and places](beginner/hsk2/41.md)
+- [第四十二课：好处和坏处 · Pros and cons](beginner/hsk2/42.md)
+- [第四十三课：生活 · Life](beginner/hsk2/43.md)
+- [第四十四课：怎么办 · What to do](beginner/hsk2/44.md)
+- [第四十五课：问题 · Problems](beginner/hsk2/45.md)
+- [第四十六课：满了 · Full, light and dirty](beginner/hsk2/46.md)
+- [第四十七课：科学 · Science](beginner/hsk2/47.md)
+- [第四十八课：排队 · Waiting in line](beginner/hsk2/48.md)
+- [第四十九课：完成了 · All done](beginner/hsk2/49.md)
+- [第五十课：周末去哪儿 · Where to this weekend?](beginner/hsk2/50.md)
+- [第五十一课：最近怎么样 · How have you been?](beginner/hsk2/51.md)
 
 ## Intermediate
 

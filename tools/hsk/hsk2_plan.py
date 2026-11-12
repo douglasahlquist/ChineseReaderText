@@ -112,3 +112,17 @@ GOALS.update({
  39: "Notice and remember: discover, meet, have seen, think of, remember, hear that, receive, walk in and out, and appear.",
  40: "Use your voice: shout, speak loudly or quietly, notices, lists and signing up, on purpose, as you like, repeat, and essays.",
 })
+
+GOALS.update({
+ 41: "Find your way: directions and compass points, north and south China, in front of, above, below, outside, everywhere and inside.",
+ 42: "Weigh things up: pros and cons, normal and ordinary, correct and clear, convenient, safe, suitable, fair and equal, and the main point.",
+ 43: "Talk about daily life: habits, the past, being born, freedom, dreams and purposes, conditions, and what seems to be.",
+ 44: "Solve problems: ways and methods, what to do, like this and like that, what kind, and giving examples.",
+ 45: "Talk about questions and problems: matters, influence and effect, aspects, features, “so it turns out”, really and truly.",
+ 46: "Describe things: full, enough, low, light, flat, ripe, dirty, long and short, fake, levels, and money in jiao.",
+ 47: "Talk about science and numbers: plus and equals, degrees, sending, only, looking like, just right, and directly.",
+ 48: "Get things done in public: stop, queue, choose, check, ask, pass, enter and leave, exceed, come from, and let.",
+ 49: "Describe how things go: finish, handle, work out, pick up, next and then, use, smoothly, work hard, and verb + 得.",
+ 50: "Plan an outing: being free, how long, setting off, visiting, boats, waiting until, splitting up, and hurrying.",
+ 51: "Catch up with friends: lately, friendly 啊, don't and won't do, takeout, the washing machine, shops, noodles and provinces.",
+})
