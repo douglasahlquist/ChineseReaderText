@@ -69,6 +69,20 @@ How to write a lesson page: see [FORMAT.md](FORMAT.md).
 - [第五十一课：考试 · The test](beginner/hsk1/51.md)
 - [第五十二课：说时间 · Telling time](beginner/hsk1/52.md)
 
+### HSK 2 · 第二级 · 草稿 Draft
+
+- [HSK 2 介绍 · About HSK 2](beginner/hsk2/00.md)
+- [第一课：欢迎你 · Welcome!](beginner/hsk2/01.md)
+- [第二课：我们的教室 · Our classroom](beginner/hsk2/02.md)
+- [第三课：说普通话 · Speaking Mandarin](beginner/hsk2/03.md)
+- [第四课：我的一天 · My day](beginner/hsk2/04.md)
+- [第五课：春夏秋冬 · The four seasons](beginner/hsk2/05.md)
+- [第六课：上周和下周 · Last week and next week](beginner/hsk2/06.md)
+- [第七课：我的家庭 · My family](beginner/hsk2/07.md)
+- [第八课：身体 · The body](beginner/hsk2/08.md)
+- [第九课：去看医生 · Seeing a doctor](beginner/hsk2/09.md)
+- [第十课：中餐和西餐 · Chinese and Western food](beginner/hsk2/10.md)
+
 ## Intermediate
 
 <!-- - [第1课：标题](intermediate/01-short-name.md) -->

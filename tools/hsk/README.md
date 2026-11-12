@@ -32,3 +32,13 @@ python3 tools/hsk/build_course.py beginner/hsk1 --review hsk1-review.csv
 
 Every page starts with a **Draft** note until a native speaker has reviewed it. To mark a lesson
 reviewed, remove that note (or ask Claude to) after fixing what the reviewer found.
+
+## HSK 2
+
+`hsk2_plan.py` puts every HSK 2 word into one of 51 lessons (about 15 words each); the lessons
+are in `hsk2_lNN_MM.py`, and `hsk2_words.json` holds the HSK 2 word list. Build with `--level 2`:
+
+    python3 tools/hsk/build_course.py beginner/hsk2 --level 2 [--review review.csv]
+
+At level 2 every HSK 1 word, and every extra word taught in the HSK 1 lessons, counts as known.
+The six HSK 2 words already taught in HSK 1 (千 万 亿 喂 刻 分钟) are not repeated.

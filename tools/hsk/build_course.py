@@ -12,10 +12,42 @@ import csv, importlib, json, os, re, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
+import hsk1_plan
 from hsk1_plan import PLAN, NOT_HSK1_OK, GOALS
+
+# Which HSK level is being built. `configure(2)` switches to HSK 2: every HSK 1 word and HSK 1
+# extra word then counts as already taught.
+LEVEL = 1
+PREFIX = "hsk1"
 from pypinyin import pinyin as _pinyin, Style
 
 WORDS = json.load(open(os.path.join(HERE, "hsk1_words.json"), encoding="utf-8"))
+WORDS1 = WORDS
+
+
+def configure(level):
+    """Switch the module to build HSK `level` (1 or 2)."""
+    global LEVEL, PREFIX, PLAN, NOT_HSK1_OK, GOALS, WORDS
+    LEVEL, PREFIX = level, f"hsk{level}"
+    plan = importlib.import_module(f"hsk{level}_plan")
+    PLAN, GOALS = plan.PLAN, plan.GOALS
+    NOT_HSK1_OK = getattr(plan, "NOT_OK", getattr(plan, "NOT_HSK1_OK", set()))
+    if level > 1:
+        words = json.load(open(os.path.join(HERE, f"hsk{level}_words.json"), encoding="utf-8"))
+        WORDS = {**WORDS1, **words}
+
+
+def earlier_levels(course):
+    """Words and extras taught by the levels before LEVEL (all count as known)."""
+    known = set()
+    for level in range(1, LEVEL):
+        plan = importlib.import_module(f"hsk{level}_plan")
+        for n, _, _, _, words in plan.PLAN:
+            known.update(words.split())
+            mod = importlib.import_module(f"hsk{level}_l{((n - 1) // 5) * 5 + 1:02d}_{((n - 1) // 5) * 5 + 5:02d}")
+            for w, py, en in getattr(mod, f"L{n:02d}")["extra"]:
+                course.extras.setdefault(w, (py, en, 0))
+    return known
 NAMES = {"大明": "Dà míng", "小月": "Xiǎo yuè", "小明": "Xiǎo míng", "安娜": "Ān nà"}
 NUMERALS = set("零一二三四五六七八九十百千万亿两")
 # Readings that the word list gets wrong or that need the neutral tone / tone change.
@@ -29,7 +61,7 @@ OVERRIDE = {"都": "dōu", "那": "nà", "号": "hào", "哪里": "nǎ li", "这
             "行": "xíng", "差": "chà", "读": "dú", "干": "gàn", "东西": "dōng xi", "告诉": "gào su",
             "是不是": "shì bu shì", "子": "zi", "小朋友": "xiǎo péng you", "地方": "dì fang", "这边": "zhè bian",
             "西边": "xī bian", "不大": "bú dà", "不对": "bú duì", "不用": "bú yòng", "中国": "Zhōng guó",
-            "北京": "Běi jīng", "汉语": "Hàn yǔ", "中文": "Zhōng wén", "汉字": "Hàn zì", "礼拜": "lǐ bài", "北边": "běi bian", "进来": "jìn lai", "进去": "jìn qu", "出来": "chū lai", "出去": "chū qu", "记住": "jì zhù", "关上": "guān shang"}
+            "北京": "Běi jīng", "汉语": "Hàn yǔ", "中文": "Zhōng wén", "汉字": "Hàn zì", "礼拜": "lǐ bài", "北边": "běi bian", "进来": "jìn lai", "进去": "jìn qu", "出来": "chū lai", "出去": "chū qu", "记住": "jì zhù", "关上": "guān shang", "一路平安": "yí lù píng ān", "一路顺风": "yí lù shùn fēng", "得": "de", "长": "cháng", "这时候": "zhè shí hou", "过节": "guò jié", "节": "jié", "东西南北": "dōng xī nán běi", "好处": "hǎo chu", "坏处": "huài chu"}
 PUNCT = {"，": ",", "。": ".", "？": "?", "！": "!", "、": ",", "：": ":", "——": ""}
 TONE4 = set("àèìòùǜ")
 TONE_OF = {c: t for t, cs in enumerate(["āēīōūǖ", "áéíóúǘ", "ǎěǐǒǔǚ", "àèìòùǜ"], 1) for c in cs}
@@ -218,15 +250,47 @@ def intro(out_dir, course, built):
     open(os.path.join(out_dir, "00.md"), "w", encoding="utf-8").write("\n".join(L))
 
 
+def intro2(out_dir, course, built):
+    """00.md for HSK 2: the level's goals, how it builds on HSK 1, and the lessons."""
+    total = sum(len(p[4].split()) for p in PLAN)
+    L = ["<!-- reader: speak=word -->",
+         "# HSK 2 介绍 | HSK èr jiè shào | About HSK 2", "",
+         "> **Draft** — the lessons are not yet reviewed by a native speaker.", "",
+         "## 目标 | Mù biāo | The goal", "",
+         f"> HSK 2 is the second level of the HSK 3.0 standard (2021). It adds about 750 words to the 500 of HSK 1. This course teaches the "
+         f"**{total} HSK 2 words** not already met in the HSK 1 lessons, in **{len(PLAN)} lessons** of about fifteen new words each. "
+         "Every sentence uses only HSK 1 words and the HSK 2 words taught before it.",
+         "",
+         "> By the end you can talk about your day, the seasons and the weather, your health, food, shopping, getting around and travel; "
+         "give reasons and opinions with 因为, 所以, 但是 and 如果; compare things; say what has already happened or is about to; "
+         "and follow longer conversations at home, at church and in town.",
+         "",
+         "## 每课 | Měi kè | How each lesson works", "",
+         "> Each lesson works like HSK 1: the goal and an always-visible word list first, then about ten sentences for each new word, "
+         "grammar notes, and dialogs that use everything learned so far. Tap a word for its pinyin and sound; double-tap a line for its English.",
+         "",
+         "> Six HSK 2 words were already taught in HSK 1 and aren't repeated: 千, 万, 亿 (lesson 6), 喂 (lesson 23) and 刻, 分钟 (lesson 52).",
+         "",
+         "## 课文 | Kè wén | The lessons", "",
+         "<!-- reader: table=glossary -->", "| Hanzi | Pinyin | English |", "|---|---|---|"]
+    for n, zh, en, setting, words in PLAN:
+        num = lesson_number_zh(n)
+        py = f"Dì {course.word_py(num)} kè : {course.sentence_py(course.segment(zh)).lower()}"
+        status = "" if n <= built else " (coming)"
+        L.append(f"| 第{num}课：{zh} | {py} | {en}{status} |")
+    L.append("")
+    open(os.path.join(out_dir, "00.md"), "w", encoding="utf-8").write("\n".join(L))
+
+
 def build(out_dir, review_csv=None, upto=None):
     course = Course()
-    known = set()
+    known = earlier_levels(course)
     os.makedirs(out_dir, exist_ok=True)
     pages, review = [], []
     for n, zh_title, en_title, setting, words in PLAN:
         if upto and n > upto: break
         try:
-            mod = importlib.import_module(f"hsk1_l{((n - 1) // 5) * 5 + 1:02d}_{((n - 1) // 5) * 5 + 5:02d}")
+            mod = importlib.import_module(f"{PREFIX}_l{((n - 1) // 5) * 5 + 1:02d}_{((n - 1) // 5) * 5 + 5:02d}")
         except ModuleNotFoundError:
             break
         data = getattr(mod, f"L{n:02d}", None)
@@ -240,7 +304,7 @@ def build(out_dir, review_csv=None, upto=None):
         title_zh = f"第{num}课：{zh_title}"
         title_py = f"Dì {course.word_py(num)} kè : {course.sentence_py(course.segment(zh_title)).lower()}"
         L = ["<!-- reader: speak=word -->",
-             f"# {title_zh} | {title_py} | HSK 1 · Lesson {n}: {en_title}", "",
+             f"# {title_zh} | {title_py} | HSK {LEVEL} · Lesson {n}: {en_title}", "",
              "> **Draft** — not yet reviewed by a native speaker.", ""]
         if n in GOALS:
             L += [f"> **Goal:** {GOALS[n]}", ""]
@@ -249,12 +313,12 @@ def build(out_dir, review_csv=None, upto=None):
               "<!-- reader: table=glossary -->", "| Hanzi | Pinyin | English |", "|---|---|---|"]
         for w in plan_words:
             g = gloss(w) if (w in WORDS or w in GLOSS) else dict((e[0], e[2]) for e in data["extra"]).get(w, "")
-            mark = " · 补充 extra (not HSK 1)" if w in NOT_HSK1_OK else ""
+            mark = f" · 补充 extra (not HSK {LEVEL})" if w in NOT_HSK1_OK else ""
             L.append(f"| {w} | {course.word_py(w)} | {cell(g)}{mark} |")
         L.append("")
         if data["extra"]:
-            L += ["## 补充 | Bǔ chōng | Extra words (not in HSK 1)", "",
-                  "> These words aren't on the HSK 1 list; they're here for the church and family settings.", "",
+            L += [f"## 补充 | Bǔ chōng | Extra words (not in HSK {LEVEL})", "",
+                  f"> These words aren't on the HSK {LEVEL} list; they're here for the church and family settings.", "",
                   "<!-- reader: table=glossary -->", "| Hanzi | Pinyin | English |", "|---|---|---|"]
             for w, py, en in data["extra"]:
                 L.append(f"| {w} | {py} | {cell(en)} |")
@@ -299,7 +363,7 @@ def build(out_dir, review_csv=None, upto=None):
         fname = f"{n:02d}.md"
         open(os.path.join(out_dir, fname), "w", encoding="utf-8").write("\n".join(L))
         pages.append((n, title_zh, en_title, fname))
-    intro(out_dir, course, built=len(pages))
+    (intro if LEVEL == 1 else intro2)(out_dir, course, built=len(pages))
     if review_csv:
         with open(review_csv, "w", newline="", encoding="utf-8") as f:
             w = csv.writer(f)
@@ -310,6 +374,8 @@ def build(out_dir, review_csv=None, upto=None):
 
 if __name__ == "__main__":
     out = sys.argv[1]
+    if "--level" in sys.argv:
+        configure(int(sys.argv[sys.argv.index("--level") + 1]))
     review = sys.argv[sys.argv.index("--review") + 1] if "--review" in sys.argv else None
     pages, count = build(out, review)
     for p in pages: print(p)

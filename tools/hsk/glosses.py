@@ -159,4 +159,50 @@ GLOSS = {
  "千": "thousand", "万": "ten thousand", "亿": "hundred million",
  # 52 (extras)
  "钟": "clock; o'clock (三点钟)", "刻": "quarter of an hour", "分钟": "minute (length of time)",
+ # ---- HSK 2 ----
+ # 1
+ "欢迎": "to welcome; welcome", "晚安": "good night", "不好意思": "sorry; excuse me; embarrassed", "好久": "a long time",
+ "感谢": "to thank; thanks", "快乐": "happy", "开心": "happy; having fun", "加油": "come on! you can do it! (also: get gas)",
+ "干杯": "cheers! (a toast)", "平安": "safe and sound", "一路平安": "have a safe trip", "一路顺风": "bon voyage; have a good trip",
+ "怎么样": "how is it? how about …?", "挺": "quite; pretty (挺……的)", "挺好": "pretty good",
+ # 2
+ "教室": "classroom", "黑板": "blackboard", "椅子": "chair", "座位": "seat", "课堂": "class; classroom (during class)",
+ "作业": "homework", "练习": "to practice; exercise", "复习": "to review", "生词": "new word (in a lesson)", "句子": "sentence",
+ "词语": "words and phrases", "词": "word", "字典": "(character) dictionary", "词典": "dictionary (of words)", "题": "question; problem (in an exercise)",
+ # 3
+ "语言": "language", "英语": "English (language)", "英文": "English (esp. written)", "普通话": "Mandarin; standard Chinese",
+ "读音": "pronunciation", "音节": "syllable", "意思": "meaning", "有意思": "interesting", "懂": "to understand",
+ "懂得": "to understand; to know", "讲": "to speak; to explain; to tell", "讲话": "to speak; to give a talk", "对话": "dialog; conversation",
+ "听讲": "to listen (to a teacher or talk)", "流利": "fluent",
+ # 4
+ "早晨": "early morning", "早餐": "breakfast", "午餐": "lunch", "晚餐": "dinner", "午睡": "afternoon nap; to nap",
+ "洗澡": "to take a bath or shower", "出门": "to go out; to leave home", "做饭": "to cook", "平时": "usually; normally",
+ "平常": "usually; ordinary", "经常": "often", "老是": "always (complaining)", "半夜": "midnight; the middle of the night",
+ "夜里": "at night", "夜": "night",
+ # 5
+ "春天": "spring", "夏天": "summer", "秋天": "autumn; fall", "冬天": "winter", "晴": "sunny; clear", "晴天": "sunny day",
+ "阴": "overcast", "阴天": "overcast day", "多云": "cloudy", "云": "cloud", "雪": "snow", "下雪": "to snow",
+ "气温": "air temperature", "温度": "temperature", "零下": "below zero", "凉": "cool; cold", "凉快": "pleasantly cool",
+ # 6
+ "周": "week", "周末": "weekend", "上周": "last week", "下周": "next week", "月份": "month", "前年": "the year before last",
+ "今后": "from now on", "以前": "before; in the past", "以后": "after; later; in the future", "后来": "afterwards (in the past)",
+ "当时": "at that time", "那时": "then; at that time", "那时候": "at that time; back then", "这时": "at this moment; just then",
+ "这时候": "at this time; just then", "那会儿": "back then (spoken)",
+ # 7
+ "家庭": "family; household", "家长": "parent; guardian", "爱人": "husband or wife; spouse", "太太": "Mrs.; wife", "大人": "adult; grown-up",
+ "小时候": "in childhood; when little", "从小": "since childhood", "长大": "to grow up", "出生": "to be born", "姓": "surname; to be surnamed",
+ "姓名": "full name", "名": "given name; name", "年轻": "young", "少年": "teenager; youth", "青年": "young person; youth",
+ # 8
+ "头": "head", "头发": "hair", "眼": "eye", "眼睛": "eye; eyes", "脸": "face", "嘴": "mouth", "脚": "foot", "腿": "leg",
+ "个子": "height; build", "全身": "the whole body", "身边": "by one's side; at hand", "健康": "healthy; health",
+ "舒服": "comfortable; feeling well", "疼": "to hurt; to ache; to dote on", "药": "medicine",
+ # 9
+ "中医": "Chinese medicine; doctor of Chinese medicine", "西医": "Western medicine; Western-trained doctor", "住院": "to be in hospital",
+ "出院": "to leave hospital", "药店": "pharmacy", "药片": "pill; tablet", "药水": "liquid medicine", "难受": "to feel ill; to feel bad",
+ "检查": "to check; to examine", "小心": "careful; to watch out", "急": "anxious; in a hurry; urgent", "怕": "to be afraid of; to dread",
+ "可怕": "frightening; terrible", "感觉": "to feel; feeling", "感到": "to feel",
+ # 10
+ "中餐": "Chinese food", "西餐": "Western food", "快餐": "fast food", "饺子": "dumplings", "方便面": "instant noodles", "蛋": "egg",
+ "鸡": "chicken", "鱼": "fish", "酒": "alcohol; wine; liquor", "筷子": "chopsticks", "碗": "bowl", "菜单": "menu", "饱": "full (after eating)",
+ "味道": "taste; flavor", "饭馆": "restaurant",
 }
