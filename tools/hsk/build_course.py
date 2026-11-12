@@ -17,7 +17,7 @@ from pypinyin import pinyin as _pinyin, Style
 
 WORDS = json.load(open(os.path.join(HERE, "hsk1_words.json"), encoding="utf-8"))
 NAMES = {"大明": "Dà míng", "小月": "Xiǎo yuè", "小明": "Xiǎo míng", "安娜": "Ān nà"}
-NUMERALS = set("零一二三四五六七八九十百两")
+NUMERALS = set("零一二三四五六七八九十百千万亿两")
 # Readings that the word list gets wrong or that need the neutral tone / tone change.
 OVERRIDE = {"都": "dōu", "那": "nà", "号": "hào", "哪里": "nǎ li", "这里": "zhè li", "那里": "nà li",
             "不客气": "bú kè qi", "星期天": "xīng qī tiān", "星期日": "xīng qī rì", "教会": "jiào huì",
@@ -34,7 +34,7 @@ PUNCT = {"，": ",", "。": ".", "？": "?", "！": "!", "、": ",", "：": ":",
 TONE4 = set("àèìòùǜ")
 TONE_OF = {c: t for t, cs in enumerate(["āēīōūǖ", "áéíóúǘ", "ǎěǐǒǔǚ", "àèìòùǜ"], 1) for c in cs}
 NUM_PY = {"零": "líng", "一": "yī", "二": "èr", "三": "sān", "四": "sì", "五": "wǔ", "六": "liù", "七": "qī",
-          "八": "bā", "九": "jiǔ", "十": "shí", "百": "bǎi", "两": "liǎng"}
+          "八": "bā", "九": "jiǔ", "十": "shí", "百": "bǎi", "千": "qiān", "万": "wàn", "亿": "yì", "两": "liǎng"}
 
 
 def _plain(p):
@@ -76,8 +76,13 @@ class Course:
         if w in self.extras: return self.extras[w][0]
         if w in WORDS: return WORDS[w]["py"].lower()
         if w.endswith("们") and len(w) > 1: return self.word_py(w[:-1]) + " men"
-        if w and all(c in NUMERALS for c in w): return " ".join(NUM_PY[c] for c in w)
-        m = re.fullmatch(r"([零一二三四五六七八九十百两]+)([月号日点])", w)
+        if w and all(c in NUMERALS for c in w):
+            out = [NUM_PY[c] for c in w]
+            # A leading 一 changes tone before 百, 千, 万 (yì) and 亿 (yí): 一千 yì qiān, 一亿 yí yì.
+            if len(w) > 1 and w[0] == "一" and w[1] in "百千万亿":
+                out[0] = "yí" if w[1] == "亿" else "yì"
+            return " ".join(out)
+        m = re.fullmatch(r"([零一二三四五六七八九十百千万亿两]+)([月号日点])", w)
         if m: return " ".join(NUM_PY[c] for c in m.group(1)) + " " + self.word_py(m.group(2))
         m = re.fullmatch(r"星期([一二三四五六])", w)
         if m: return "xīng qī " + NUM_PY[m.group(1)]
@@ -135,7 +140,7 @@ class Course:
         if t.endswith("们") and "们" in known and self.allowed(t[:-1], known): return True
         if all(c in NUMERALS for c in t) and all(c in known for c in t): return True
         # dates and times written as one word: 十二月, 二十五号, 十月一日, 三点
-        m = re.fullmatch(r"([零一二三四五六七八九十百两]+)([月号日点])", t)
+        m = re.fullmatch(r"([零一二三四五六七八九十百千万亿两]+)([月号日点])", t)
         if m and all(c in known for c in m.group(1)) and m.group(2) in known: return True
         # 星期一 … 星期六
         m = re.fullmatch(r"星期([一二三四五六])", t)
@@ -150,7 +155,7 @@ class Course:
         def has(t):
             if t == target: return True
             if target not in t: return False
-            return t.endswith("们") or all(c in NUMERALS for c in t) or bool(re.fullmatch(r"[零一二三四五六七八九十百两]+[月号日点]|星期[一二三四五六]", t))
+            return t.endswith("们") or all(c in NUMERALS for c in t) or bool(re.fullmatch(r"[零一二三四五六七八九十百千万亿两]+[月号日点]|星期[一二三四五六]", t))
         if target and not any(has(t) for t in words):
             raise SystemExit(f"{where}: sentence doesn't use “{target}”\n    “{sentence}”")
 
@@ -243,7 +248,7 @@ def build(out_dir, review_csv=None, upto=None):
         L += [f"## 生词 | Shēng cí | New words ({len(plan_words)})", "",
               "<!-- reader: table=glossary -->", "| Hanzi | Pinyin | English |", "|---|---|---|"]
         for w in plan_words:
-            g = gloss(w) if w in WORDS else dict((e[0], e[2]) for e in data["extra"]).get(w, "")
+            g = gloss(w) if (w in WORDS or w in GLOSS) else dict((e[0], e[2]) for e in data["extra"]).get(w, "")
             mark = " · 补充 extra (not HSK 1)" if w in NOT_HSK1_OK else ""
             L.append(f"| {w} | {course.word_py(w)} | {cell(g)}{mark} |")
         L.append("")

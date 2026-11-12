@@ -21,7 +21,7 @@ How to write a lesson page: see [FORMAT.md](FORMAT.md).
 - [第三课：我的家 · My family](beginner/hsk1/03.md)
 - [第四课：他们是谁 · Who are they?](beginner/hsk1/04.md)
 - [第五课：一二三 · Numbers 1–10](beginner/hsk1/05.md)
-- [第六课：你几岁 · How old are you?](beginner/hsk1/06.md)
+- [第六课：你几岁 · How old are you? · Big numbers](beginner/hsk1/06.md)
 - [第七课：爷爷奶奶 · Grandparents](beginner/hsk1/07.md)
 - [第八课：去教会 · Going to church](beginner/hsk1/08.md)
 - [第九课：今天星期天 · Today is Sunday](beginner/hsk1/09.md)
@@ -67,6 +67,7 @@ How to write a lesson page: see [FORMAT.md](FORMAT.md).
 - [第四十九课：在路上 · On the road](beginner/hsk1/49.md)
 - [第五十课：爸妈 · Mom and Dad (short forms)](beginner/hsk1/50.md)
 - [第五十一课：考试 · The test](beginner/hsk1/51.md)
+- [第五十二课：说时间 · Telling time](beginner/hsk1/52.md)
 
 ## Intermediate
 

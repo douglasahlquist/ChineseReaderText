@@ -155,4 +155,8 @@ GLOSS = {
  # 51
  "考": "to test; to take an exam", "考试": "exam; test; to take an exam", "准备": "to prepare; to plan to", "正在": "(before a verb) right now; in the middle of",
  "着": "(after a verb: an ongoing state)", "过": "(after a verb: have ever done)", "从": "from",
+ # 6 (extras)
+ "千": "thousand", "万": "ten thousand", "亿": "hundred million",
+ # 52 (extras)
+ "钟": "clock; o'clock (三点钟)", "刻": "quarter of an hour", "分钟": "minute (length of time)",
 }

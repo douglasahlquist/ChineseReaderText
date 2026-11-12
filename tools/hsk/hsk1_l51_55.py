@@ -48,3 +48,46 @@ L51 = {
      ("Baba", "我们 去 饭店 吃饭 吧！", "Let's go out for dinner!")]),
  ],
 }
+
+# Lesson 52: telling time, using everything from the course (点 10, 分 32, 差 41, 半 47) plus three extras.
+L52 = {
+ "extra": [],
+ "words": {
+  "钟": [("钟。", "Clock."), ("房间 里 有 一 个 钟。", "There's a clock in the room."), ("三 点 钟。", "Three o'clock."), ("现在 八 点 钟。", "It's eight o'clock."),
+         ("我们 十 点 钟 见面。", "Let's meet at ten o'clock."), ("这 个 钟 不对， 现在 九 点。", "This clock is wrong — it's nine."), ("钟 在 哪儿？", "Where's the clock?"),
+         ("学校 门口 有 一 个 大 钟。", "There's a big clock at the school gate.")],
+  "刻": [("一 刻。", "A quarter of an hour."), ("三 点 一 刻。", "A quarter past three (3:15)."), ("八 点 三 刻。", "A quarter to nine (8:45)."), ("现在 两 点 一 刻。", "It's a quarter past two."),
+         ("我们 九 点 一 刻 上课。", "Class starts at 9:15."), ("差 一 刻 十 点。", "A quarter to ten."), ("一 刻 是 十五 分。", "A quarter is fifteen minutes."),
+         ("火车 六 点 三 刻 到。", "The train arrives at 6:45.")],
+  "分钟": [("十 分钟。", "Ten minutes."), ("五 分钟。", "Five minutes."), ("等 我 五 分钟！", "Give me five minutes!"), ("走路 去 学校 要 十五 分钟。", "It takes fifteen minutes to walk to school."),
+           ("还有 十 分钟 上课。", "Class starts in ten minutes."), ("一 个 小时 有 六十 分钟。", "An hour has sixty minutes."), ("我 等 了 二十 分钟。", "I waited twenty minutes."),
+           ("十 分钟 后 见！", "See you in ten minutes!"), ("坐 车 要 多少 分钟？", "How many minutes does it take by bus?"), ("半 个 小时 是 三十 分钟。", "Half an hour is thirty minutes.")],
+ },
+ "grammar": [
+  ("点分", "Hours and minutes: 点 and 分",
+   ["Say the hour with **点** and the minutes with **分**: 三点十分 “3:10”, 八点二十五分 “8:25”. For one to nine minutes add 零: 八点零五分 “8:05”. Two o'clock is 两点, never 二点.",
+    "On the hour you can add **钟**: 三点钟 “three o'clock”. Ask 现在几点？ or, for the exact time, 现在几点几分？"],
+   [("现在 几 点 几 分？", "What's the exact time?"), ("八 点 零 五 分。", "8:05."), ("两 点 钟。", "Two o'clock.")]),
+  ("半刻", "Half and quarter hours: 半 and 刻",
+   ["**半** is half past: 三点半 “3:30”. **刻** is a quarter of an hour: 一刻 is 15 minutes and 三刻 is 45, so 三点一刻 is 3:15 and 八点三刻 is 8:45. (There's no 两刻; say 半.)"],
+   [("三 点 半。", "Half past three."), ("三 点 一 刻。", "A quarter past three."), ("八 点 三 刻。", "A quarter to nine.")]),
+  ("差", "Before the hour: 差",
+   ["**差** “short of” counts the minutes left before the hour, and comes first: 差五分十点 “five to ten”, 差一刻八点 “a quarter to eight”. You can also simply say 九点五十五分."],
+   [("差 五 分 十 点。", "Five to ten."), ("差 一 刻 八 点。", "A quarter to eight.")]),
+  ("上午下午", "The part of the day comes first",
+   ["Chinese uses the part of the day instead of a.m. and p.m., and puts it before the time: 早上七点, 上午十点, 中午十二点, 下午三点半, 晚上八点一刻. The whole time goes before the verb: 我晚上八点吃晚饭."],
+   [("下午 三 点 半。", "3:30 p.m."), ("我 晚上 八 点 吃 晚饭。", "I have dinner at 8 p.m.")]),
+  ("分钟", "A point in time, or how long",
+   ["**分** and **点** name a point on the clock and go before the verb: 我八点上课. **分钟** and **小时** say how long something lasts, and go after the verb: 我等了二十分钟, 我学习了两个小时.",
+    "**从……到……** gives a span: 礼拜从十点到十一点半."],
+   [("我 八 点 上课。", "I have class at eight."), ("我 等 了 二十 分钟。", "I waited twenty minutes."), ("礼拜 从 十 点 到 十一 点 半。", "The service is from 10:00 to 11:30.")]),
+ ],
+ "dialogs": [
+  ("What time is it?", [("Xiao", "妈妈， 现在 几 点？", "Mom, what time is it?"), ("Mama", "七 点 一 刻。", "A quarter past seven."), ("Xiao", "我 几 点 上学？", "What time do I leave for school?"),
+     ("Mama", "七 点 半。 你 还有 十五 分钟！", "Half past seven. You have fifteen minutes!"), ("Xiao", "我 马上 好！", "I'll be ready in a moment!")]),
+  ("Train times", [("Anna", "请问， 去 北京 的 火车 几 点？", "Excuse me, what time are the trains to Beijing?"), ("Man", "上午 九 点 二十 分， 下午 三 点 零 五 分。", "9:20 in the morning and 3:05 in the afternoon."),
+     ("Anna", "坐 火车 要 多少 时间？", "How long does the train take?"), ("Man", "两 个 半 小时。", "Two and a half hours."), ("Anna", "谢谢！", "Thank you!")]),
+  ("Sunday", [("Ming", "星期天 我们 几 点 去 教会？", "What time do we leave for church on Sunday?"), ("Mama", "差 一 刻 十 点 出 门。 礼拜 从 十 点 到 十一 点 半。", "We leave at a quarter to ten. The service is from ten to half past eleven."),
+     ("Ming", "礼拜 后 我们 做 什么？", "What do we do after the service?"), ("Mama", "十二 点 钟 在 奶奶 家 吃 午饭。", "Lunch at Grandma's at twelve o'clock.")]),
+ ],
+}

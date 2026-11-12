@@ -6,7 +6,7 @@ PLAN = [
  (3, "我的家", "My family", "home", "这 家 爸爸 妈妈 哥哥 姐姐 弟弟 妹妹 有 没有"),
  (4, "他们是谁", "Who are they?", "church", "那 谁 人 朋友 我们 你们 他们 她们 都 们"),
  (5, "一二三", "Numbers 1–10", "home", "一 二 三 四 五 六 七 八 九 十"),
- (6, "你几岁", "How old are you?", "home", "个 几 两 岁 孩子 儿子 女儿 多少 零 百"),
+ (6, "你几岁", "How old are you? · Big numbers", "home", "个 几 两 岁 孩子 儿子 女儿 多少 零 百 千 万 亿"),
  (7, "爷爷奶奶", "Grandparents", "home", "爷爷 奶奶 家人 老人 小朋友 大 小 老 爱 想"),
  (8, "去教会", "Going to church", "church", "去 来 在 这儿 那儿 哪儿 这里 那里 哪里 和"),
  (9, "今天星期天", "Today is Sunday", "church", "天 今天 明天 昨天 月 号 日 星期 星期天 星期日"),
@@ -52,10 +52,11 @@ PLAN = [
  (49, "在路上", "On the road", "town", "马路 路口 路上 地点 到 没 间 一半 半年 日期"),
  (50, "爸妈", "Mom and Dad (short forms)", "home", "爸 妈 哥 姐 弟 妹 奶 小孩儿 小姐 知识"),
  (51, "考试", "The test", "town", "考 考试 准备 正在 着 过 从"),
+ (52, "说时间", "Telling time", "home", "钟 刻 分钟"),
 ]
 
 # Words that aren't HSK 1 but are allowed (marked 补充 Extra on the lesson page).
-NOT_HSK1_OK = {"喂"}
+NOT_HSK1_OK = {"喂", "千", "万", "亿", "钟", "刻", "分钟"}
 
 # What each lesson sets out to teach (shown at the top of the lesson).
 GOALS = {
@@ -63,8 +64,8 @@ GOALS = {
  2: "Ask how someone is and answer; ask yes/no questions with 吗; say “not” with 不; apologize and reply.",
  3: "Introduce your home and family, and say what you have and don't have.",
  4: "Ask who someone is, talk about friends and groups of people (we, you, they), and say “all”.",
- 5: "Count from 1 to 99 and read phone numbers digit by digit.",
- 6: "Count people and things with 个, ask how many (几, 多少) and how old someone is, and use numbers into the hundreds.",
+ 5: "Count from 1 to 99 and read phone numbers digit by digit. (Bigger numbers come in lesson 6.)",
+ 6: "Count people and things with 个, ask how many (几, 多少) and how old someone is, and say big numbers: hundreds, thousands, ten thousands (万) and hundreds of millions (亿).",
  7: "Talk about grandparents and older and younger family members, and say who you love and who you miss.",
  8: "Say where people are and where they are going — home, church, here and there — and join people with 和.",
  9: "Say dates and days of the week, and talk about today, tomorrow and yesterday.",
@@ -110,4 +111,5 @@ GOALS = {
  49: "Find your way on roads and at crossings, arrive with 到, say “didn't” with 没, and talk about halves and dates.",
  50: "Use the short family words people say every day — 爸, 妈, 哥, 姐 — and talk about kids, “Miss”, and knowledge.",
  51: "Prepare for a test, say what is happening right now (正在, 着), what you have ever done (过), and from where to where (从……到……).",
+ 52: "Tell the time every way: hours and minutes, half and quarter hours, the minutes before the hour with 差, parts of the day, and how long with 分钟 and 小时.",
 }
