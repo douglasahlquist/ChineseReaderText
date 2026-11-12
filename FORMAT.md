@@ -78,6 +78,13 @@ affected; it ends at the first line that isn't a table row.
 The HSK lessons use glossaries for their new-word and extra-word lists, and each starts with a
 `> **Goal:** …` note. Older app builds show a glossary as an ordinary table.
 
+## Cards (the idioms)
+
+Put `<!-- reader: table=cards -->` directly above a table to show each row as a card of its own,
+with everything visible: the Hanzi, the pinyin, a Chinese explanation and the English. Tapping the
+Hanzi speaks it. Columns: Hanzi | Pinyin | English | 中文 (explanation) | No. — the last two are
+optional. Older app builds show such a table as ordinary lines.
+
 ## Page settings
 
 Put this line at the top of a page to change how tapping sounds:
@@ -89,6 +96,12 @@ Put this line at the top of a page to change how tapping sounds:
 - `speak=character` (the default): tapping speaks just that character.
 - `speak=word`: tapping speaks the whole word the character belongs to. Words are separated
   by spaces in the Hanzi; a line with no spaces counts as one word (e.g. a book name).
+
+- `english=inline`: each line's English follows its Hanzi on the same line, without a
+  double-tap (used for the Books of the Bible). Readers can turn this off in Settings
+  (“Show English after the Hanzi”), and the English goes back to double-tap.
+
+Several settings go in one line, separated by spaces: `<!-- reader: speak=word english=inline -->`.
 
 GitHub hides the line, since it's an HTML comment.
 

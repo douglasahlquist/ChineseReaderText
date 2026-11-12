@@ -1,4 +1,4 @@
-<!-- reader: speak=word -->
+<!-- reader: speak=word english=inline -->
 
 # 新约圣经书卷 | Xīn yuē shèng jīng shū juàn | Books of the New Testament
 

@@ -1,4 +1,4 @@
-<!-- reader: speak=word -->
+<!-- reader: speak=word english=inline -->
 
 # 旧约圣经书卷 | Jiù yuē shèng jīng shū juàn | Books of the Old Testament
 
