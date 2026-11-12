@@ -23,13 +23,13 @@ OVERRIDE = {"都": "dōu", "那": "nà", "号": "hào", "哪里": "nǎ li", "这
             "不客气": "bú kè qi", "星期天": "xīng qī tiān", "星期日": "xīng qī rì", "教会": "jiào huì",
             "喂": "wéi", "一下儿": "yí xià r", "一会儿": "yí huì r", "一点儿": "yì diǎn r", "一些": "yì xiē",
             "一起": "yì qǐ", "一样": "yí yàng", "一半": "yí bàn", "一边": "yì biān", "一块儿": "yí kuài r",
-            "有一些": "yǒu yì xiē", "一百": "yì bǎi", "一百零五": "yì bǎi líng wǔ", "吗": "ma", "吧": "ba", "打": "dǎ", "地": "dì", "个": "gè", "过": "guò",
+            "有一些": "yǒu yì xiē", "一百": "yì bǎi", "一百零五": "yì bǎi líng wǔ", "吗": "ma", "吧": "ba", "打": "dǎ", "地": "dì", "个": "gè", "过": "guo",
             "还": "hái", "几": "jǐ", "教": "jiāo", "看": "kàn", "累": "lèi", "跑": "pǎo", "上": "shàng",
             "说": "shuō", "听": "tīng", "页": "yè", "要": "yào", "着": "zhe", "正": "zhèng", "重": "zhòng",
             "行": "xíng", "差": "chà", "读": "dú", "干": "gàn", "东西": "dōng xi", "告诉": "gào su",
             "是不是": "shì bu shì", "子": "zi", "小朋友": "xiǎo péng you", "地方": "dì fang", "这边": "zhè bian",
             "西边": "xī bian", "不大": "bú dà", "不对": "bú duì", "不用": "bú yòng", "中国": "Zhōng guó",
-            "北京": "Běi jīng", "汉语": "Hàn yǔ", "中文": "Zhōng wén", "汉字": "Hàn zì", "礼拜": "lǐ bài"}
+            "北京": "Běi jīng", "汉语": "Hàn yǔ", "中文": "Zhōng wén", "汉字": "Hàn zì", "礼拜": "lǐ bài", "北边": "běi bian", "进来": "jìn lai", "进去": "jìn qu", "出来": "chū lai", "出去": "chū qu", "记住": "jì zhù", "关上": "guān shang"}
 PUNCT = {"，": ",", "。": ".", "？": "?", "！": "!", "、": ",", "：": ":", "——": ""}
 TONE4 = set("àèìòùǜ")
 TONE_OF = {c: t for t, cs in enumerate(["āēīōūǖ", "áéíóúǘ", "ǎěǐǒǔǚ", "àèìòùǜ"], 1) for c in cs}
@@ -117,7 +117,7 @@ class Course:
             # 一 changes tone before another word, but stays yī in numbers, dates (一月, 一号,
             # 一日), days of the week (星期一) and ordinals (第一).
             if t == "一" and nxt and nxt[0] == "w" and nxt[1][0] not in NUMERALS \
-                    and nxt[1] not in ("月", "号", "日") \
+                    and nxt[1] not in ("月", "号", "日", "楼") \
                     and not (prev and prev[0] == "w" and (prev[1][-1] in NUMERALS or prev[1] in ("星期", "第"))):
                 p = "yí" if tone(nxt_py) == 4 else "yì"
             parts.append(p)
