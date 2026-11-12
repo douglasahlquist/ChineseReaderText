@@ -102,6 +102,16 @@ How to write a lesson page: see [FORMAT.md](FORMAT.md).
 - [第二十八课：心情 · Feelings](beginner/hsk2/28.md)
 - [第二十九课：比一比 · Comparing](beginner/hsk2/29.md)
 - [第三十课：因为所以 · Because and so](beginner/hsk2/30.md)
+- [第三十一课：如果 · If](beginner/hsk2/31.md)
+- [第三十二课：已经和刚才 · Already and just now](beginner/hsk2/32.md)
+- [第三十三课：所有的人 · Everyone](beginner/hsk2/33.md)
+- [第三十四课：一辆车 · Measure words](beginner/hsk2/34.md)
+- [第三十五课：大家 · All of us](beginner/hsk2/35.md)
+- [第三十六课：拿来拿去 · Taking and giving](beginner/hsk2/36.md)
+- [第三十七课：推和拉 · Push and pull](beginner/hsk2/37.md)
+- [第三十八课：变化 · Changes](beginner/hsk2/38.md)
+- [第三十九课：发现 · Finding out](beginner/hsk2/39.md)
+- [第四十课：大声说 · Speaking up](beginner/hsk2/40.md)
 
 ## Intermediate
 

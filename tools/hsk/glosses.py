@@ -293,3 +293,47 @@ GLOSS.update({
  "但": "but", "但是": "but; however", "可是": "but", "不过": "however; only", "虽然": "although", "而且": "and also; moreover",
  "不但": "not only", "因为": "because", "所以": "so; therefore", "为": "for", "为什么": "why", "原因": "reason; cause", "结果": "result; in the end",
 })
+
+GLOSS.update({
+ # HSK 2 · 31
+ "如果": "if", "的话": "if (at the end of a clause)", "只要": "as long as", "或": "or", "或者": "or", "必须": "must", "应该": "should",
+ "该": "should; to be one's turn", "可以": "can; may", "可能": "possibly; possible", "也许": "perhaps", "一定": "certainly; must",
+ "不一定": "not necessarily", "能够": "to be able to", "只能": "can only",
+ # 32
+ "已经": "already", "刚": "just", "刚刚": "just now", "刚才": "a moment ago", "才": "only then; not until", "就要": "about to",
+ "快要": "soon; nearly", "早就": "long ago", "又": "again", "一直": "all along; straight", "永远": "forever", "忽然": "suddenly",
+ "同时": "at the same time", "随时": "any time", "不久": "soon; not long",
+ # 33
+ "全": "all; whole", "全部": "all; entire", "全体": "all (members)", "所有": "all", "部分": "part", "大部分": "most", "一部分": "a part; some",
+ "多数": "majority", "大多数": "the great majority", "少数": "minority; few", "不少": "quite a few", "许多": "many", "好多": "lots",
+ "大量": "a large amount", "人数": "number of people",
+ # 34
+ "位": "(polite measure word for people)", "条": "(measure word for long things)", "件": "(measure word for clothes, matters)",
+ "辆": "(measure word for vehicles)", "座": "(measure word for mountains, buildings)", "套": "set; suite", "瓶": "bottle (of)",
+ "瓶子": "bottle", "篇": "(measure word for articles)", "段": "section; period", "片": "slice; tablet", "节": "class period; section; festival",
+ "遍": "time (all the way through)", "道": "(measure word for questions, dishes)", "句": "(measure word for sentences)",
+ # 35
+ "自己": "oneself", "大家": "everyone", "咱": "we; us (including you)", "咱们": "we; us (including you)", "人们": "people", "有人": "someone",
+ "其他": "other", "其中": "among them", "老年": "old age", "青少年": "young people; teenagers", "人口": "population",
+ "全国": "the whole country", "全年": "the whole year", "不一会儿": "before long",
+ # 36
+ "拿到": "to get; to obtain", "拿出": "to take out", "放下": "to put down", "留": "to stay; to keep; to leave", "留下": "to leave behind; to stay",
+ "带": "to bring; to take; to carry", "带来": "to bring", "送给": "to give (as a gift)", "交给": "to hand over to", "交": "to hand in; to pay",
+ "取": "to take; to collect; to withdraw", "借": "to borrow; to lend", "换": "to change; to exchange", "租": "to rent",
+ # 37
+ "推": "to push", "拉": "to pull", "碰": "to touch; to bump", "碰到": "to run into; to touch", "碰见": "to bump into", "掉": "to fall; to drop",
+ "倒": "to fall over", "吹": "to blow", "装": "to load; to pack; to pretend", "弄": "to do; to handle", "占": "to occupy; to take up",
+ "背": "to carry on the back", "闻": "to smell", "响": "to make a sound; to ring; loud", "干活儿": "to work; to do chores",
+ # 38
+ "变": "to change", "变成": "to become; to turn into", "改": "to change; to correct", "改变": "to change; to transform", "成": "to become; OK",
+ "成为": "to become", "组成": "to make up; to form", "重新": "again; anew", "实现": "to realize; to achieve", "完成": "to complete",
+ "做到": "to achieve; to manage to do", "进行": "to carry out; to be under way", "提高": "to raise; to improve", "取得": "to obtain; to achieve",
+ # 39
+ "发现": "to discover; to notice", "见到": "to see; to meet", "见过": "to have seen", "想到": "to think of; to expect", "想起": "to remember; to recall",
+ "找出": "to find out", "听说": "to hear (that)", "接到": "to receive", "得出": "to reach (a conclusion)", "走过": "to walk past",
+ "走进": "to walk into", "走开": "to go away", "站住": "to stop; to stand still", "出现": "to appear",
+ # 40
+ "喊": "to shout; to call", "大声": "loudly", "小声": "quietly", "通知": "to notify; notice", "提": "to mention; to carry",
+ "称": "to call; to weigh", "声音": "sound; voice", "安静": "quiet", "名单": "list of names", "报名": "to sign up",
+ "故意": "on purpose", "随便": "as you like; casual", "重复": "to repeat", "作文": "essay; composition",
+})

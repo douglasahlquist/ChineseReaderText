@@ -99,3 +99,16 @@ GOALS.update({
  29: "Compare things: same and different, about the same, not as good as, even more, more and more, especially, and a bit.",
  30: "Join ideas with but, although, not only… but also, because… so, and ask why.",
 })
+
+GOALS.update({
+ 31: "Talk about conditions and possibility: if, as long as, or, must, should, can, maybe, certainly, and can only.",
+ 32: "Talk about time: already, just, a moment ago, not until, about to, again, all along, forever, suddenly and soon.",
+ 33: "Talk about how many: all, every one, most, some, the majority and the few, many, lots, and headcounts.",
+ 34: "Count things with the right measure words: people, long things, clothes, vehicles, buildings, bottles, classes, questions, sentences.",
+ 35: "Talk about people: myself, everyone, “we” including you, someone, others, young and old, and the whole country.",
+ 36: "Handle things: get and take out, put down, leave, bring, give and hand over, collect, borrow, change and rent.",
+ 37: "Describe actions: push and pull, bump into, drop and fall, blow, pack, carry, smell, ring, and do the chores.",
+ 38: "Talk about change and achievement: change, become, correct, start again, complete, manage, improve and achieve.",
+ 39: "Notice and remember: discover, meet, have seen, think of, remember, hear that, receive, walk in and out, and appear.",
+ 40: "Use your voice: shout, speak loudly or quietly, notices, lists and signing up, on purpose, as you like, repeat, and essays.",
+})
