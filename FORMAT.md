@@ -179,3 +179,32 @@ Characters past rank 7,000 are left out: they are rare or variant forms, and mos
 
 The other files in `characters/` (spreadsheets, the PDF and the web page) are for reading and
 printing; the app uses only `characters/data/`.
+
+## Bible verses (versions stacked)
+
+Only Bible passage pages use this. Put this line directly above a table: each row is one verse,
+shown as the Hanzi (pinyin on tap), then each version as a labeled row of its own underneath:
+the Greek or Hebrew first, then the English, then any other versions. The header names the
+versions, in the order they are shown. Greek and Hebrew are recognized by
+their letters; Hebrew is set right to left. An empty cell is left out. Settings can hide the
+English rows or the Greek and Hebrew rows.
+
+```markdown
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | SBLGNT | WEB | KJV |
+|---|---|---|---|---|
+| 1 所以， 弟兄们， … | 1 Suǒ yǐ , dì xiong men , … | Παρακαλῶ οὖν ὑμᾶς, ἀδελφοί, … | Therefore I urge you, brothers, … | I beseech you therefore, brethren, … |
+```
+
+A column of Chinese characters (`简体` or `繁體`) is a second Hanzi line: it shares the row's
+pinyin (same characters one for one, same word spaces) and is drawn in its own color, chosen
+in Settings > Display. Put it right after Pinyin:
+
+```markdown
+| Hanzi | Pinyin | 繁體 | SBLGNT | WEB |
+|---|---|---|---|---|
+| 1 所以， 弟兄们， … | 1 Suǒ yǐ , dì xiong men , … | 1 所以， 弟兄們， … | Παρακαλῶ … | Therefore … |
+```
+
+`tools/bible/bible_pages.py` writes these pages (see `tools/bible/README.md`). Older app builds
+show the Hanzi, pinyin and the first version (the Greek or Hebrew) as an ordinary line.
