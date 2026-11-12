@@ -70,3 +70,32 @@ GOALS = {
  9: "See a doctor, Chinese or Western medicine; go into and out of hospital; and say you're worried or afraid.",
  10: "Talk about Chinese and Western food, order from a menu, and say how something tastes and that you're full.",
 }
+
+GOALS.update({
+ 11: "Shop at the supermarket and the market: prices per jin and kilo, “altogether”, and paying by card.",
+ 12: "Name the colors, and say whether something is beautiful, cute or ugly.",
+ 13: "Talk about your things: coat and shoes, watch, pen and paper, notebooks, letters, photos and presents.",
+ 14: "Get around town by subway, bus, taxi and bicycle, and find somewhere to park.",
+ 15: "Ask the way and give directions: toward, opposite, how far, kilometers and meters, exits and entrances.",
+})
+
+GOALS.update({
+ 16: "Plan a trip: travel and tourism, passports, going abroad and coming home, hotels, flights and opportunities.",
+ 17: "Describe your city: parks, gardens and the zoo, sports grounds, the city center, courtyards, gates, walls and floors.",
+ 18: "Talk about nature: sun, moon and stars, the Earth and the air, sea, rivers and lakes, grass and light.",
+ 19: "Talk about animals and pets: cats, dogs and birds, “it” and “they”, looking after them, and what things are called.",
+ 20: "Talk about sport: basketball, volleyball and tennis, teams and captains, practice, games, levels and standards.",
+})
+
+GOALS.update({
+ 21: "Talk about music, art, books and films: concerts, paintings, novels, stories, shows, news, ads and stars.",
+ 22: "Read the news and get online: newspapers, information, websites, printing, texts, signal and numbers.",
+ 23: "Talk about work: companies and offices, managers and colleagues, part-time jobs, customers, hosts, guests and treating.",
+ 24: "Talk about school life: principals and campuses, terms and grades, groups and leaders, results and scores.",
+ 25: "Celebrate festivals and holidays: the Spring Festival, anniversaries, events and taking part, and the whole family.",
+ 26: "Make friends: old friends, good and bad people, believing and trusting, helping, promising and accepting.",
+ 27: "Give and ask for opinions: “I think” and “I thought”, ideas, views, discussing, talking things over, and making sense.",
+ 28: "Talk about feelings: mood, being moved or sad, crying and joking, satisfied or not, don't worry, and anger.",
+ 29: "Compare things: same and different, about the same, not as good as, even more, more and more, especially, and a bit.",
+ 30: "Join ideas with but, although, not only… but also, because… so, and ask why.",
+})

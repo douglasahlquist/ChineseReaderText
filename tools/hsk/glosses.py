@@ -206,3 +206,90 @@ GLOSS = {
  "鸡": "chicken", "鱼": "fish", "酒": "alcohol; wine; liquor", "筷子": "chopsticks", "碗": "bowl", "菜单": "menu", "饱": "full (after eating)",
  "味道": "taste; flavor", "饭馆": "restaurant",
 }
+
+GLOSS.update({
+ # HSK 2 · 11
+ "超市": "supermarket", "便宜": "cheap", "卖": "to sell", "卡": "card", "信用卡": "credit card", "银行": "bank", "银行卡": "bank card",
+ "收": "to receive; to accept", "收到": "to receive; to get", "一共": "altogether; in all", "斤": "jin (500 g)", "公斤": "kilogram",
+ "千克": "kilogram", "克": "gram", "份": "portion; copy; share",
+ # 12
+ "颜色": "color", "红": "red", "红色": "red", "黄": "yellow", "黄色": "yellow", "蓝": "blue", "蓝色": "blue", "绿": "green", "绿色": "green",
+ "黑": "black; dark", "黑色": "black", "白色": "white", "漂亮": "beautiful; pretty", "难看": "ugly", "可爱": "cute; lovable",
+ # 13
+ "大衣": "overcoat", "鞋": "shoe; shoes", "球鞋": "sneakers", "手表": "wristwatch", "笔": "pen", "纸": "paper", "笔记": "notes",
+ "笔记本": "notebook; laptop", "表": "watch; form; table", "信": "letter", "封": "(measure word for letters)", "照片": "photo",
+ "相机": "camera", "照相": "to take a photo", "礼物": "gift; present",
+ # 14
+ "交通": "traffic; transport", "地铁": "subway", "地铁站": "subway station", "公交车": "bus", "公共汽车": "bus", "出租车": "taxi",
+ "出租": "to rent out", "司机": "driver", "停车": "to park", "停车场": "parking lot", "骑": "to ride", "骑车": "to ride a bike",
+ "自行车": "bicycle", "车辆": "vehicles", "道路": "road",
+ # 15
+ "问路": "to ask the way", "往": "toward", "向": "toward; to", "离": "from (distance)", "近": "near; close", "对面": "opposite; across",
+ "边": "side; edge", "路边": "roadside", "公路": "highway", "公里": "kilometer", "米": "meter; rice", "街": "street", "广场": "square; plaza",
+ "出口": "exit", "入口": "entrance",
+})
+
+GLOSS.update({
+ # HSK 2 · 16
+ "旅行": "to travel; travel", "旅游": "to tour; tourism", "旅客": "traveller; passenger", "游客": "tourist", "护照": "passport",
+ "出国": "to go abroad", "回国": "to return to one's country", "外地": "another part of the country; out of town", "酒店": "hotel",
+ "起飞": "to take off", "送到": "to deliver to; to see off to", "留学生": "international student", "机会": "opportunity; chance",
+ "计划": "plan; to plan", "打算": "to plan; to intend; plan",
+ # 17
+ "市": "city", "市长": "mayor", "公园": "park", "花园": "garden", "动物园": "zoo", "体育馆": "gym; indoor stadium", "体育场": "stadium",
+ "中心": "center", "院": "courtyard; institution", "院子": "courtyard; yard", "大门": "main gate; front door", "墙": "wall",
+ "层": "floor; storey; layer", "住房": "housing", "院长": "dean; director",
+ # 18
+ "大自然": "nature", "太阳": "sun", "月亮": "moon", "星星": "star", "地球": "the Earth", "空气": "air", "海": "sea", "大海": "the sea; the ocean",
+ "海边": "seaside", "河": "river", "湖": "lake", "草": "grass", "草地": "lawn; grassland", "灯": "light; lamp", "亮": "bright; light",
+ # 19
+ "动物": "animal", "猫": "cat", "狗": "dog", "鸟": "bird", "它": "it", "它们": "they (animals, things)", "养": "to raise; to keep; to grow",
+ "照顾": "to look after", "关心": "to care about", "爬": "to climb; to crawl", "爬山": "to climb a mountain; to hike",
+ "叫作": "to be called", "名称": "name (of a thing)", "食物": "food",
+ # 20
+ "运动": "sport; to exercise", "体育": "sport; physical education", "篮球": "basketball", "排球": "volleyball", "网球": "tennis",
+ "球队": "team", "球场": "court; field", "队": "team; line", "队长": "captain", "练": "to practice; to train", "举": "to raise; to lift",
+ "举手": "to raise one's hand", "场": "(measure word for games, films, rain)", "级": "level; grade", "水平": "level; standard",
+})
+
+GLOSS.update({
+ # HSK 2 · 21
+ "音乐": "music", "音乐会": "concert", "画": "to draw; to paint", "画儿": "picture; painting", "画家": "painter; artist", "小说": "novel",
+ "作家": "writer", "故事": "story", "影片": "film", "节目": "program; show", "晚会": "evening party", "新闻": "news", "广告": "advertisement",
+ "明星": "star; celebrity", "流行": "popular; fashionable",
+ # 22
+ "报纸": "newspaper", "日报": "daily newspaper", "晚报": "evening newspaper", "信息": "information; message", "网": "net; the internet",
+ "网站": "website", "打印": "to print", "短信": "text message", "信号": "signal", "开机": "to turn on (a device)", "关机": "to turn off (a device)",
+ "图片": "picture; image", "计算机": "computer", "数字": "number; digit", "数": "number",
+ # 23
+ "公司": "company", "办公室": "office", "经理": "manager", "同事": "colleague", "单位": "workplace; unit", "打工": "to work a (part-time) job",
+ "收入": "income", "顾客": "customer", "商人": "businessman", "服务": "service; to serve", "主人": "host; owner", "客人": "guest",
+ "请客": "to treat; to pay for others", "实习": "internship; to intern", "中年": "middle age",
+ # 24
+ "校长": "principal", "校园": "campus", "学期": "semester; term", "开学": "school starts", "年级": "grade; year", "班长": "class monitor",
+ "组": "group", "组长": "group leader", "小组": "small group", "考生": "exam candidate", "成绩": "results; grades", "分数": "score; marks",
+ "高中": "senior high school", "中小学": "primary and secondary schools", "教学": "teaching",
+ # 25
+ "节日": "festival; holiday", "春节": "Spring Festival", "过年": "to celebrate New Year", "周年": "anniversary", "假期": "holiday; vacation",
+ "休假": "to take leave", "举行": "to hold (an event)", "参加": "to take part in; to join", "活动": "activity; event", "热情": "warm; enthusiastic",
+ "好事": "a good thing", "一生": "lifetime", "教育": "education; to educate", "教师": "teacher", "全家": "the whole family",
+ # 26
+ "交朋友": "to make friends", "老朋友": "old friend", "好人": "good person", "坏人": "bad person", "友好": "friendly", "相信": "to believe; to trust",
+ "信心": "confidence; faith", "答应": "to agree; to promise", "帮助": "to help; help", "愿意": "to be willing", "请求": "request; to ask",
+ "要求": "to require; requirement", "接受": "to accept", "不错": "not bad; pretty good",
+ # 27
+ "认为": "to think; to believe", "以为": "to think (mistakenly)", "看法": "view; opinion", "想法": "idea; thought", "观点": "point of view",
+ "意见": "opinion; suggestion", "态度": "attitude", "角度": "angle; viewpoint", "说明": "to explain; explanation", "讨论": "to discuss",
+ "商量": "to talk over", "提出": "to put forward", "提到": "to mention", "道理": "reason; sense",
+ # 28
+ "心情": "mood", "心里": "in one's heart; inside", "心中": "in one's heart", "感动": "moved; touched; to move", "难过": "sad", "哭": "to cry",
+ "笑话": "joke; to laugh at", "笑话儿": "joke", "满意": "satisfied", "不满": "dissatisfied", "放心": "to be at ease; don't worry",
+ "爱情": "love (romantic)", "难听": "unpleasant to hear", "气": "anger; to be angry; air",
+ # 29
+ "相同": "the same", "不同": "different", "同样": "equally; the same", "差不多": "about the same; almost", "不如": "not as good as",
+ "更": "even more", "越": "the more…", "越来越": "more and more", "特别": "special; especially", "十分": "very; fully",
+ "多么": "how (exclamation)", "大大": "greatly", "一点点": "a tiny bit", "有点儿": "a bit (too)", "有一点儿": "a little",
+ # 30
+ "但": "but", "但是": "but; however", "可是": "but", "不过": "however; only", "虽然": "although", "而且": "and also; moreover",
+ "不但": "not only", "因为": "because", "所以": "so; therefore", "为": "for", "为什么": "why", "原因": "reason; cause", "结果": "result; in the end",
+})

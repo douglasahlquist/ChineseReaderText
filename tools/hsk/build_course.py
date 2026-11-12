@@ -61,7 +61,9 @@ OVERRIDE = {"都": "dōu", "那": "nà", "号": "hào", "哪里": "nǎ li", "这
             "行": "xíng", "差": "chà", "读": "dú", "干": "gàn", "东西": "dōng xi", "告诉": "gào su",
             "是不是": "shì bu shì", "子": "zi", "小朋友": "xiǎo péng you", "地方": "dì fang", "这边": "zhè bian",
             "西边": "xī bian", "不大": "bú dà", "不对": "bú duì", "不用": "bú yòng", "中国": "Zhōng guó",
-            "北京": "Běi jīng", "汉语": "Hàn yǔ", "中文": "Zhōng wén", "汉字": "Hàn zì", "礼拜": "lǐ bài", "北边": "běi bian", "进来": "jìn lai", "进去": "jìn qu", "出来": "chū lai", "出去": "chū qu", "记住": "jì zhù", "关上": "guān shang", "一路平安": "yí lù píng ān", "一路顺风": "yí lù shùn fēng", "得": "de", "长": "cháng", "这时候": "zhè shí hou", "过节": "guò jié", "节": "jié", "东西南北": "dōng xī nán běi", "好处": "hǎo chu", "坏处": "huài chu"}
+            "北京": "Běi jīng", "汉语": "Hàn yǔ", "中文": "Zhōng wén", "汉字": "Hàn zì", "礼拜": "lǐ bài", "北边": "běi bian", "进来": "jìn lai", "进去": "jìn qu", "出来": "chū lai", "出去": "chū qu", "记住": "jì zhù", "关上": "guān shang", "一路平安": "yí lù píng ān", "一路顺风": "yí lù shùn fēng", "得": "de", "长": "cháng", "这时候": "zhè shí hou", "过节": "guò jié", "节": "jié", "东西南北": "dōng xī nán běi", "好处": "hǎo chu", "坏处": "huài chu",
+            "便宜": "pián yi", "一共": "yí gòng", "骑": "qí", "离": "lí", "鸟": "niǎo", "场": "chǎng", "故事": "gù shi", "数": "shù", "教学": "jiào xué", "更": "gèng", "为": "wèi", "结果": "jié guǒ", "片": "piàn", "句": "jù", "倒": "dǎo", "弄": "nòng", "背": "bēi", "提": "tí", "称": "chēng", "重点": "zhòng diǎn", "当": "dāng", "脏": "zāng", "假": "jiǎ", "角": "jiǎo", "只": "zhǐ", "查": "chá", "啊": "a",
+            "一生": "yì shēng", "不错": "bú cuò", "一点点": "yì diǎn diǎn", "有一点儿": "yǒu yì diǎn r", "不过": "bú guò", "不但": "bú dàn", "一定": "yí dìng", "不一定": "bù yí dìng", "一直": "yì zhí", "一部分": "yí bù fen", "不一会儿": "bù yí huì r", "一般": "yì bān", "不够": "bú gòu", "不要": "bú yào", "不太": "bú tài", "笑话儿": "xiào hua r"}
 PUNCT = {"，": ",", "。": ".", "？": "?", "！": "!", "、": ",", "：": ":", "——": ""}
 TONE4 = set("àèìòùǜ")
 TONE_OF = {c: t for t, cs in enumerate(["āēīōūǖ", "áéíóúǘ", "ǎěǐǒǔǚ", "àèìòùǜ"], 1) for c in cs}
@@ -75,6 +77,12 @@ def _plain(p):
 
 
 from glosses import GLOSS
+
+ERRORS = []
+def _fail(msg):
+    if os.environ.get("ALL_ERRORS"):
+        ERRORS.append(msg); return
+    raise SystemExit(msg)
 
 
 def gloss(w):
@@ -183,13 +191,13 @@ class Course:
         words = [t for kind, t in self.tokens(sentence) if kind == "w"]
         bad = [t for t in words if not self.allowed(t, known)]
         if bad:
-            raise SystemExit(f"{where}: not taught yet: {bad}\n    “{sentence}”")
+            return _fail(f"{where}: not taught yet: {bad}\n    “{sentence}”")
         def has(t):
             if t == target: return True
             if target not in t: return False
             return t.endswith("们") or all(c in NUMERALS for c in t) or bool(re.fullmatch(r"[零一二三四五六七八九十百千万亿两]+[月号日点]|星期[一二三四五六]", t))
         if target and not any(has(t) for t in words):
-            raise SystemExit(f"{where}: sentence doesn't use “{target}”\n    “{sentence}”")
+            return _fail(f"{where}: sentence doesn't use “{target}”\n    “{sentence}”")
 
 
 NUMBERS_ZH = "一二三四五六七八九十"
@@ -380,3 +388,5 @@ if __name__ == "__main__":
     pages, count = build(out, review)
     for p in pages: print(p)
     print(f"{len(pages)} lessons, {count} sentences checked")
+    if ERRORS:
+        print("\n".join(ERRORS)); print(f"{len(ERRORS)} problems"); sys.exit(1)
