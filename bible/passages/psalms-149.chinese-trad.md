@@ -1,0 +1,20 @@
+<!-- reader: speak=word -->
+
+# 詩篇 149 | Shī piān 149 | Psalms 149
+
+> **繁體 Traditional** · 和合本 (Chinese Union Version, 1919), traditional and simplified · Westminster Leningrad Codex (WLC) · World English Bible (WEB) · King James Version (KJV, 1769)
+
+## 第1–9节 | Dì 1–9 jié | Verses 1–9
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 简体 | WLC | WEB | KJV |
+|---|---|---|---|---|---|
+| 1 你們 要 讚美 耶和華！ 向 耶和華 唱新歌， 在 聖民 的 會 中 讚美 他！ | 1 Nǐ men yào zàn měi yē hé huá ! Xiàng yē hé huá chàng xīn gē , zài shèng mín de huì zhōng zàn měi tā ! | 1 你们 要 赞美 耶和华！ 向 耶和华 唱新歌， 在 圣民 的 会 中 赞美 他！ | הַלְלוּ יָהּ ׀ שִׁירוּ לַֽיהוָה שִׁיר חָדָשׁ תְּהִלָּתוֹ בִּקְהַל חֲסִידִֽים׃ | Praise Yahweh! Sing to Yahweh a new song, his praise in the assembly of the saints. | Praise ye the Lord. Sing unto the Lord a new song, and his praise in the congregation of saints. |
+| 2 願 以色列 因造 他 的 主 歡喜！ 願 錫安 的 民因 他們 的 王 快樂！ | 2 Yuàn yǐ sè liè yīn zào tā de zhǔ huān xǐ ! Yuàn xī ān de mín yīn tā men de wáng kuài lè ! | 2 愿 以色列 因造 他 的 主 欢喜！ 愿 锡安 的 民因 他们 的 王 快乐！ | יִשְׂמַח יִשְׂרָאֵל בְּעֹשָׂיו בְּנֵֽי־צִיּוֹן יָגִילוּ בְמַלְכָּֽם׃ | Let Israel rejoice in him who made them. Let the children of Zion be joyful in their King. | Let Israel rejoice in him that made him: let the children of Zion be joyful in their King. |
+| 3 願 他們 跳舞 讚美 他 的 名， 擊鼓 彈琴 歌頌 他！ | 3 Yuàn tā men tiào wǔ zàn měi tā de míng , jī gǔ tán qín gē sòng tā ! | 3 愿 他们 跳舞 赞美 他 的 名， 击鼓 弹琴 歌颂 他！ | יְהַֽלְלוּ שְׁמוֹ בְמָחוֹל בְּתֹף וְכִנּוֹר יְזַמְּרוּ־לֽוֹ׃ | Let them praise his name in the dance! Let them sing praises to him with tambourine and harp! | Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp. |
+| 4 因為 耶和華 喜愛 他 的 百姓； 他 要 用 救恩 當作 謙卑 人 的 妝飾。 | 4 Yīn wèi yē hé huá xǐ ài tā de bǎi xìng ; tā yào yòng jiù ēn dàng zuò qiān bēi rén de zhuāng shì . | 4 因为 耶和华 喜爱 他 的 百姓； 他 要 用 救恩 当作 谦卑 人 的 妆饰。 | כִּֽי־רוֹצֶה יְהוָה בְּעַמּוֹ יְפָאֵר עֲנָוִים בִּישׁוּעָֽה׃ | For Yahweh takes pleasure in his people. He crowns the humble with salvation. | For the Lord taketh pleasure in his people: he will beautify the meek with salvation. |
+| 5 願聖民因 所得 的 榮耀 高興！ 願 他們 在 床上 歡呼！ | 5 Yuàn shèng mín yīn suǒ dé de róng yào gāo xìng ! Yuàn tā men zài chuáng shàng huān hū ! | 5 愿圣民因 所得 的 荣耀 高兴！ 愿 他们 在 床上 欢呼！ | יַעְלְזוּ חֲסִידִים בְּכָבוֹד יְרַנְּנוּ עַל־מִשְׁכְּבוֹתָֽם׃ | Let the saints rejoice in honor. Let them sing for joy on their beds. | Let the saints be joyful in glory: let them sing aloud upon their beds. |
+| 6 願 他們 口中 稱讚 神為 高， 手裡 有 兩刃 的 刀， | 6 Yuàn tā men kǒu zhōng chēng zàn shén wèi gāo , shǒu lǐ yǒu liǎng rèn de dāo , | 6 愿 他们 口中 称赞 神为 高， 手里 有 两刃 的 刀， | רוֹמְמוֹת אֵל בִּגְרוֹנָם וְחֶרֶב פִּֽיפִיּוֹת בְּיָדָֽם׃ | May the high praises of God be in their mouths, and a two-edged sword in their hand, | Let the high praises of God be in their mouth, and a twoedged sword in their hand; |
+| 7 為 要 報復 列邦， 刑罰 萬民。 | 7 Wèi yào bào fù liè bāng , xíng fá wàn mín . | 7 为 要 报复 列邦， 刑罚 万民。 | לַעֲשׂוֹת נְקָמָה בַּגּוֹיִם תּֽוֹכֵחֹת בַּל־אֻמִּֽים׃ | to execute vengeance on the nations, and punishments on the peoples; | To execute vengeance upon the heathen, and punishments upon the people; |
+| 8 要 用 鍊子 捆 他們 的 君王， 用鐵鐐 鎖 他們 的 大臣； | 8 Yào yòng liàn zi kǔn tā men de jūn wáng , yòng tiě liào suǒ tā men de dà chén ; | 8 要 用 链子 捆 他们 的 君王， 用铁镣 锁 他们 的 大臣； | לֶאְסֹר מַלְכֵיהֶם בְּזִקִּים וְנִכְבְּדֵיהֶם בְּכַבְלֵי בַרְזֶֽל׃ | to bind their kings with chains, and their nobles with fetters of iron; | To bind their kings with chains, and their nobles with fetters of iron; |
+| 9 要 在 他們 身上 施行 所 記錄 的 審判。 他 的 聖民 都 有 這 榮耀。 你們 要 讚美 耶和華！ | 9 Yào zài tā men shēn shàng shī xíng suǒ jì lù de shěn pàn . Tā de shèng mín dōu yǒu zhè róng yào . Nǐ men yào zàn měi yē hé huá ! | 9 要 在 他们 身上 施行 所 记录 的 审判。 他 的 圣民 都 有 这 荣耀。 你们 要 赞美 耶和华！ | לַעֲשׂוֹת בָּהֶם ׀ מִשְׁפָּט כָּתוּב הָדָר הוּא לְכָל־חֲסִידָיו הַֽלְלוּ־יָֽהּ׃ | to execute on them the written judgment. All his saints have this honor. Praise Yah! | To execute upon them the judgment written: this honour have all his saints. Praise ye the Lord. |
