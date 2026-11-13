@@ -1,0 +1,21 @@
+<!-- reader: speak=word -->
+
+# 詩篇 47 | Shī piān 47 | Psalms 47
+
+> **繁體 Traditional** · 和合本 (Chinese Union Version, 1919), traditional and simplified · Westminster Leningrad Codex (WLC) · World English Bible (WEB) · King James Version (KJV, 1769)
+
+## 第1–10节 | Dì 1–10 jié | Verses 1–10
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 简体 | WLC | WEB | KJV |
+|---|---|---|---|---|---|
+| 1 （可拉 後裔 的 詩， 交與 伶長。） 萬民 哪， 你們 都 要 拍掌！ 要用 誇勝 的 聲音 向 神 呼喊！ | 1 ( Kě lā hòu yì de shī , jiāo yǔ líng zhǎng . ) Wàn mín nǎ , nǐ men dōu yào pāi zhǎng ! Yào yòng kuā shèng de shēng yīn xiàng shén hū hǎn ! | 1 （可拉 后裔 的 诗， 交与 伶长。） 万民 哪， 你们 都 要 拍掌！ 要用 夸胜 的 声音 向 神 呼喊！ | לַמְנַצֵּחַ ׀ לִבְנֵי־קֹרַח מִזְמֽוֹר׃ | Oh clap your hands, all you nations. Shout to God with the voice of triumph! | To the chief Musician, A Psalm for the sons of Korah. O clap your hands, all ye people; shout unto God with the voice of triumph. |
+| 2 因為 耶和華 至 高者 是 可畏 的； 他 是 治理 全地 的 大 君王。 | 2 Yīn wèi yē hé huá zhì gāo zhě shì kě wèi de ; tā shì zhì lǐ quán dì de dà jūn wáng . | 2 因为 耶和华 至 高者 是 可畏 的； 他 是 治理 全地 的 大 君王。 | כָּֽל־הָעַמִּים תִּקְעוּ־כָף הָרִיעוּ לֵאלֹהִים בְּקוֹל רִנָּֽה׃ | For Yahweh Most High is awesome. He is a great King over all the earth. | For the Lord most high is terrible; he is a great King over all the earth. |
+| 3 他 叫 萬民 服在 我們 以下， 又 叫 列邦服 在 我們 腳下。 | 3 Tā jiào wàn mín fú zài wǒ men yǐ xià , yòu jiào liè bāng fú zài wǒ men jiǎo xià . | 3 他 叫 万民 服在 我们 以下， 又 叫 列邦服 在 我们 脚下。 | כִּֽי־יְהוָה עֶלְיוֹן נוֹרָא מֶלֶךְ גָּדוֹל עַל־כָּל־הָאָֽרֶץ׃ | He subdues nations under us, and peoples under our feet. | He shall subdue the people under us, and the nations under our feet. |
+| 4 他 為 我們 選擇 產業， 就是 他 所 愛 之 雅各 的 榮耀。 （細拉） | 4 Tā wèi wǒ men xuǎn zé chǎn yè , jiù shì tā suǒ ài zhī yǎ gè de róng yào . ( Xì lā ) | 4 他 为 我们 选择 产业， 就是 他 所 爱 之 雅各 的 荣耀。 （细拉） | יַדְבֵּר עַמִּים תַּחְתֵּינוּ וּלְאֻמִּים תַּחַת רַגְלֵֽינוּ׃ | He chooses our inheritance for us, the glory of Jacob whom he loved. | He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah. |
+| 5 神 上升， 有 喊聲 相 送； 耶和華 上升， 有角聲 相送。 | 5 Shén shàng shēng , yǒu hǎn shēng xiāng sòng ; yē hé huá shàng shēng , yǒu jiǎo shēng xiāng sòng . | 5 神 上升， 有 喊声 相 送； 耶和华 上升， 有角声 相送。 | יִבְחַר־לָנוּ אֶת־נַחֲלָתֵנוּ אֶת גְּאוֹן יַעֲקֹב אֲשֶׁר־אָהֵב סֶֽלָה׃ | God has gone up with a shout, Yahweh with the sound of a trumpet. | God is gone up with a shout, the Lord with the sound of a trumpet. |
+| 6 你們 要 向 神 歌頌， 歌頌！ 向 我們 王 歌頌， 歌頌！ | 6 Nǐ men yào xiàng shén gē sòng , gē sòng ! Xiàng wǒ men wáng gē sòng , gē sòng ! | 6 你们 要 向 神 歌颂， 歌颂！ 向 我们 王 歌颂， 歌颂！ | עָלָה אֱלֹהִים בִּתְרוּעָה יְהֹוָה בְּקוֹל שׁוֹפָֽר׃ | Sing praises to God! Sing praises! Sing praises to our King! Sing praises! | Sing praises to God, sing praises: sing praises unto our King, sing praises. |
+| 7 因為 神是 全地 的 王； 你們 要 用 悟性 歌頌。 | 7 Yīn wèi shén shì quán dì de wáng ; nǐ men yào yòng wù xìng gē sòng . | 7 因为 神是 全地 的 王； 你们 要 用 悟性 歌颂。 | זַמְּרוּ אֱלֹהִים זַמֵּרוּ זַמְּרוּ לְמַלְכֵּנוּ זַמֵּֽרוּ׃ | For God is the King of all the earth. Sing praises with understanding. | For God is the King of all the earth: sing ye praises with understanding. |
+| 8 神作王 治理 萬國； 神 坐在 他 的 聖 寶座 上。 | 8 Shén zuò wáng zhì lǐ wàn guó ; shén zuò zài tā de shèng bǎo zuò shàng . | 8 神作王 治理 万国； 神 坐在 他 的 圣 宝座 上。 | כִּי מֶלֶךְ כָּל־הָאָרֶץ אֱלֹהִים זַמְּרוּ מַשְׂכִּֽיל׃ | God reigns over the nations. God sits on his holy throne. | God reigneth over the heathen: God sitteth upon the throne of his holiness. |
+| 9 列邦 的 君王 聚集 要作 亞伯拉罕 之 神 的 民。 因為 世界 的 盾牌 是 屬 神 的； 他 為 至 高！ | 9 Liè bāng de jūn wáng jù jí yào zuò yà bó lā hǎn zhī shén de mín . Yīn wèi shì jiè de dùn pái shì shǔ shén de ; tā wèi zhì gāo ! | 9 列邦 的 君王 聚集 要作 亚伯拉罕 之 神 的 民。 因为 世界 的 盾牌 是 属 神 的； 他 为 至 高！ | מָלַךְ אֱלֹהִים עַל־גּוֹיִם אֱלֹהִים יָשַׁב ׀ עַל־כִּסֵּא קָדְשֽׁוֹ׃ | The princes of the peoples are gathered together, the people of the God of Abraham. For the shields of the earth belong to God. He is greatly exalted! | The princes of the people are gathered together, even the people of the God of Abraham: for the shields of the earth belong unto God: he is greatly exalted. |
+|  |  |  | נְדִיבֵי עַמִּים ׀ נֶאֱסָפוּ עַם אֱלֹהֵי אַבְרָהָם כִּי לֵֽאלֹהִים מָֽגִנֵּי־אֶרֶץ מְאֹד נַעֲלָֽה׃ |  |  |

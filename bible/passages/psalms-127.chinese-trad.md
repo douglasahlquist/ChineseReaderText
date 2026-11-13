@@ -1,0 +1,16 @@
+<!-- reader: speak=word -->
+
+# 詩篇 127 | Shī piān 127 | Psalms 127
+
+> **繁體 Traditional** · 和合本 (Chinese Union Version, 1919), traditional and simplified · Westminster Leningrad Codex (WLC) · World English Bible (WEB) · King James Version (KJV, 1769)
+
+## 第1–5节 | Dì 1–5 jié | Verses 1–5
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 简体 | WLC | WEB | KJV |
+|---|---|---|---|---|---|
+| 1 （所羅門 上行 之詩。） 若 不是 耶和華 建造 房屋， 建造 的 人 就 枉然 勞力； 若 不是 耶和華 看守 城池， 看守 的 人 就 枉然 警醒。 | 1 ( Suǒ luó mén shàng háng zhī shī . ) Ruò bú shì yē hé huá jiàn zào fáng wū , jiàn zào de rén jiù wǎng rán láo lì ; ruò bú shì yē hé huá kān shǒu chéng chí , kān shǒu de rén jiù wǎng rán jǐng xǐng . | 1 （所罗门 上行 之诗。） 若 不是 耶和华 建造 房屋， 建造 的 人 就 枉然 劳力； 若 不是 耶和华 看守 城池， 看守 的 人 就 枉然 警醒。 | שִׁיר הַֽמַּֽעֲלוֹת לִשְׁלֹמֹה אִם־יְהוָה ׀ לֹא־יִבְנֶה בַיִת שָׁוְא ׀ עָמְלוּ בוֹנָיו בּוֹ אִם־יְהוָה לֹֽא־יִשְׁמָר־עִיר שָׁוְא ׀ שָׁקַד שׁוֹמֵֽר׃ | Unless Yahweh builds the house, they who build it labor in vain. Unless Yahweh watches over the city, the watchman guards it in vain. | A Song of degrees for Solomon. Except the Lord build the house, they labour in vain that build it: except the Lord keep the city, the watchman waketh but in vain. |
+| 2 你們 清晨 早起， 夜晚 安歇， 吃 勞碌 得來 的 飯， 本是 枉然； 惟有 耶和華 所 親愛 的， 必叫 他 安然 睡覺。 | 2 Nǐ men qīng chén zǎo qǐ , yè wǎn ān xiē , chī láo lù dé lái de fàn , běn shì wǎng rán ; wéi yǒu yē hé huá suǒ qīn ài de , bì jiào tā ān rán shuì jiào . | 2 你们 清晨 早起， 夜晚 安歇， 吃 劳碌 得来 的 饭， 本是 枉然； 惟有 耶和华 所 亲爱 的， 必叫 他 安然 睡觉。 | שָׁוְא לָכֶם ׀ מַשְׁכִּימֵי קוּם מְאַֽחֲרֵי־שֶׁבֶת אֹכְלֵי לֶחֶם הָעֲצָבִים כֵּן יִתֵּן לִֽידִידוֹ שֵׁנָֽא׃ | It is vain for you to rise up early, to stay up late, eating the bread of toil, for he gives sleep to his loved ones. | It is vain for you to rise up early, to sit up late, to eat the bread of sorrows: for so he giveth his beloved sleep. |
+| 3 兒女 是 耶和華 所賜 的 產業； 所懷 的 胎 是 他 所 給 的 賞賜。 | 3 Ér nǚ shì yē hé huá suǒ cì de chǎn yè ; suǒ huái de tāi shì tā suǒ gěi de shǎng cì . | 3 儿女 是 耶和华 所赐 的 产业； 所怀 的 胎 是 他 所 给 的 赏赐。 | הִנֵּה נַחֲלַת יְהוָה בָּנִים שָׂכָר פְּרִי הַבָּֽטֶן׃ | Behold, children are a heritage of Yahweh. The fruit of the womb is his reward. | Lo, children are an heritage of the Lord: and the fruit of the womb is his reward. |
+| 4 少年 時所生 的 兒女 好像 勇士 手中 的 箭。 | 4 Shào nián shí suǒ shēng de ér nǚ hǎo xiàng yǒng shì shǒu zhōng de jiàn . | 4 少年 时所生 的 儿女 好像 勇士 手中 的 箭。 | כְּחִצִּים בְּיַד־גִּבּוֹר כֵּן בְּנֵי הַנְּעוּרִֽים׃ | As arrows in the hand of a mighty man, so are the children of youth. | As arrows are in the hand of a mighty man; so are children of the youth. |
+| 5 箭袋 充滿 的 人 便 為 有福； 他們 在 城門口 和 仇敵 說話 的 時候， 必 不至於 羞愧。 | 5 Jiàn dài chōng mǎn de rén biàn wéi yǒu fú ; tā men zài chéng mén kǒu hé chóu dí shuō huà de shí hou , bì bú zhì yú xiū kuì . | 5 箭袋 充满 的 人 便 为 有福； 他们 在 城门口 和 仇敌 说话 的 时候， 必 不至于 羞愧。 | אַשְׁרֵי הַגֶּבֶר אֲשֶׁר מִלֵּא אֶת־אַשְׁפָּתוֹ מֵהֶם לֹֽא־יֵבֹשׁוּ כִּֽי־יְדַבְּרוּ אֶת־אוֹיְבִים בַּשָּֽׁעַר׃ | Happy is the man who has his quiver full of them. They won’t be disappointed when they speak with their enemies in the gate. | Happy is the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate. |
