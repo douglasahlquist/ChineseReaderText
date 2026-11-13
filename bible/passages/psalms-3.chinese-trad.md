@@ -1,0 +1,20 @@
+<!-- reader: speak=word -->
+
+# 詩篇 3 | Shī piān 3 | Psalms 3
+
+> **繁體 Traditional** · 和合本 (Chinese Union Version, 1919), traditional and simplified · Westminster Leningrad Codex (WLC) · World English Bible (WEB) · King James Version (KJV, 1769)
+
+## 第1–9节 | Dì 1–9 jié | Verses 1–9
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 简体 | WLC | WEB | KJV |
+|---|---|---|---|---|---|
+| 1 （大衛 逃避 他 兒子 押 沙龍 的 時候 作 的 詩。） 耶和華 啊， 我 的 敵人 何其 加增； 有 許多 人 起來 攻擊 我。 | 1 ( Dà wèi táo bì tā ér zi yā shā lóng de shí hou zuò de shī . ) Yē hé huá a , wǒ de dí rén hé qí jiā zēng ; yǒu xǔ duō rén qǐ lái gōng jī wǒ . | 1 （大卫 逃避 他 儿子 押 沙龙 的 时候 作 的 诗。） 耶和华 啊， 我 的 敌人 何其 加增； 有 许多 人 起来 攻击 我。 | מִזְמוֹר לְדָוִד בְּבָרְחוֹ מִפְּנֵי ׀ אַבְשָׁלוֹם בְּנֽוֹ׃ | Yahweh, how my adversaries have increased! Many are those who rise up against me. | A Psalm of David, when he fled from Absalom his son. Lord, how are they increased that trouble me! many are they that rise up against me. |
+| 2 有 許多 人 議論 我 說： 他 得 不 著 神 的 幫助。 （細拉） | 2 Yǒu xǔ duō rén yì lùn wǒ shuō : tā de bù zhe shén de bāng zhù . ( Xì lā ) | 2 有 许多 人 议论 我 说： 他 得 不 着 神 的 帮助。 （细拉） | יְהוָה מָֽה־רַבּוּ צָרָי רַבִּים קָמִים עָלָֽי׃ | Many there are who say of my soul, “There is no help for him in God.” | Many there be which say of my soul, There is no help for him in God. Selah. |
+| 3 但 你─ 耶和華 是 我 四圍 的 盾牌， 是 我 的 榮耀， 又 是 叫 我 抬起頭來 的。 | 3 Dàn nǐ ─ yē hé huá shì wǒ sì wéi de dùn pái , shì wǒ de róng yào , yòu shì jiào wǒ tái qǐ tóu lái de . | 3 但 你─ 耶和华 是 我 四围 的 盾牌， 是 我 的 荣耀， 又 是 叫 我 抬起头来 的。 | רַבִּים אֹמְרִים לְנַפְשִׁי אֵין יְֽשׁוּעָתָה לּוֹ בֵֽאלֹהִים סֶֽלָה׃ | But you, Yahweh, are a shield around me, my glory, and the one who lifts up my head. | But thou, O Lord, art a shield for me; my glory, and the lifter up of mine head. |
+| 4 我用 我 的 聲音 求告 耶和華， 他 就 從 他 的 聖 山上 應允 我。 （細拉） | 4 Wǒ yòng wǒ de shēng yīn qiú gào yē hé huá , tā jiù cóng tā de shèng shān shàng yīng yǔn wǒ . ( Xì lā ) | 4 我用 我 的 声音 求告 耶和华， 他 就 从 他 的 圣 山上 应允 我。 （细拉） | וְאַתָּה יְהוָה מָגֵן בַּעֲדִי כְּבוֹדִי וּמֵרִים רֹאשִֽׁי׃ | I cry to Yahweh with my voice, and he answers me out of his holy hill. | I cried unto the Lord with my voice, and he heard me out of his holy hill. Selah. |
+| 5 我 躺 下 睡覺， 我醒 著， 耶和華 都 保佑 我。 | 5 Wǒ tǎng xià shuì jiào , wǒ xǐng zhe , yē hé huá dōu bǎo yòu wǒ . | 5 我 躺 下 睡觉， 我醒 着， 耶和华 都 保佑 我。 | קוֹלִי אֶל־יְהוָה אֶקְרָא וַיַּֽעֲנֵנִי מֵהַר קָדְשׁוֹ סֶֽלָה׃ | I laid myself down and slept. I awakened; for Yahweh sustains me. | I laid me down and slept; I awaked; for the Lord sustained me. |
+| 6 雖有 成萬 的 百姓 來 周圍 攻擊 我， 我 也 不怕。 | 6 Suī yǒu chéng wàn de bǎi xìng lái zhōu wéi gōng jī wǒ , wǒ yě bú pà . | 6 虽有 成万 的 百姓 来 周围 攻击 我， 我 也 不怕。 | אֲנִי שָׁכַבְתִּי וָֽאִישָׁנָה הֱקִיצוֹתִי כִּי יְהוָה יִסְמְכֵֽנִי׃ | I will not be afraid of tens of thousands of people who have set themselves against me on every side. | I will not be afraid of ten thousands of people, that have set themselves against me round about. |
+| 7 耶和華 啊， 求 你 起來！ 我 的 神 啊， 求 你 救 我！ 因為 你 打 了 我 一切 仇敵 的 腮 骨， 敲碎 了 惡人 的 牙齒。 | 7 Yē hé huá a , qiú nǐ qǐ lái ! Wǒ de shén a , qiú nǐ jiù wǒ ! Yīn wèi nǐ dǎ le wǒ yí qiè chóu dí de sāi gǔ , qiāo suì le è rén de yá chǐ . | 7 耶和华 啊， 求 你 起来！ 我 的 神 啊， 求 你 救 我！ 因为 你 打 了 我 一切 仇敌 的 腮 骨， 敲碎 了 恶人 的 牙齿。 | לֹֽא־אִירָא מֵרִבְבוֹת עָם אֲשֶׁר סָבִיב שָׁתוּ עָלָֽי׃ | Arise, Yahweh! Save me, my God! For you have struck all of my enemies on the cheek bone. You have broken the teeth of the wicked. | Arise, O Lord; save me, O my God: for thou hast smitten all mine enemies upon the cheek bone; thou hast broken the teeth of the ungodly. |
+| 8 救恩屬乎 耶和華； 願 你 賜福 給 你 的 百姓。 （細拉） | 8 Jiù ēn shǔ hū yē hé huá ; yuàn nǐ cì fú gěi nǐ de bǎi xìng . ( Xì lā ) | 8 救恩属乎 耶和华； 愿 你 赐福 给 你 的 百姓。 （细拉） | קוּמָה יְהוָה ׀ הוֹשִׁיעֵנִי אֱלֹהַי כִּֽי־הִכִּיתָ אֶת־כָּל־אֹיְבַי לֶחִי שִׁנֵּי רְשָׁעִים שִׁבַּֽרְתָּ׃ | Salvation belongs to Yahweh. May your blessing be on your people. | Salvation belongeth unto the Lord: thy blessing is upon thy people. Selah. |
+|  |  |  | לַיהוָה הַיְשׁוּעָה עַֽל־עַמְּךָ בִרְכָתֶךָ סֶּֽלָה׃ |  |  |

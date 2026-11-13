@@ -1,0 +1,17 @@
+<!-- reader: speak=word -->
+
+# 诗篇 1 | Shī piān 1 | Psalms 1
+
+> **개역한글** · 和合本 (Chinese Union Version, 1919), simplified and traditional · 개역한글 (Korean Revised Version, 1961) · Westminster Leningrad Codex (WLC), without cantillation marks · World English Bible (WEB)
+
+## 第1–6节 | Dì 1–6 jié | Verses 1–6
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | 개역한글 | WLC | WEB |
+|---|---|---|---|---|---|
+| 1 不 从 恶人 的 计谋， 不站 罪人 的 道路， 不 坐 亵慢 人 的 座位， | 1 Bù cóng è rén de jì móu , bú zhàn zuì rén de dào lù , bù zuò xiè màn rén de zuò wèi , | 1 不 從 惡人 的 計謀， 不站 罪人 的 道路， 不 坐 褻慢 人 的 座位， | 복 있는 사람은 악인의 꾀를 좇지 아니하며 죄인의 길에 서지 아니하며 오만한 자의 자리에 앉지 아니하고 | אַשְֽׁרֵי־הָאִישׁ אֲשֶׁר ׀ לֹא הָלַךְ בַּעֲצַת רְשָׁעִים וּבְדֶרֶךְ חַטָּאִים לֹא עָמָד וּבְמוֹשַׁב לֵצִים לֹא יָשָֽׁב׃ | Blessed is the man who doesn’t walk in the counsel of the wicked, nor stand on the path of sinners, nor sit in the seat of scoffers; |
+| 2 惟 喜爱 耶和华 的 律法， 昼夜 思想， 这人 便 为 有福！ | 2 Wéi xǐ ài yē hé huá de lǜ fǎ , zhòu yè sī xiǎng , zhè rén biàn wéi yǒu fú ! | 2 惟 喜愛 耶和華 的 律法， 晝夜 思想， 這人 便 為 有福！ | 오직 여호와의 율법을 즐거워하여 그 율법을 주야로 묵상하는 자로다 | כִּי אִם בְּתוֹרַת יְהוָה חֶפְצוֹ וּֽבְתוֹרָתוֹ יֶהְגֶּה יוֹמָם וָלָֽיְלָה׃ | but his delight is in Yahweh’s law. On his law he meditates day and night. |
+| 3 他 要 像 一棵树 栽 在 溪水 旁， 按 时候 结果 子， 叶子 也 不 枯干。 凡 他 所 做 的 尽 都 顺利。 | 3 Tā yào xiàng yì kē shù zāi zài xī shuǐ páng , àn shí hou jié guǒ zi , yè zi yě bù kū gān . Fán tā suǒ zuò de jǐn dōu shùn lì . | 3 他 要 像 一棵樹 栽 在 溪水 旁， 按 時候 結果 子， 葉子 也 不 枯乾。 凡 他 所 做 的 盡 都 順利。 | 저는 시냇가에 심은 나무가 시절을 좇아 과실을 맺으며 그 잎사귀가 마르지 아니함 같으니 그 행사가 다 형통하리로다 | וְֽהָיָה כְּעֵץ שָׁתוּל עַֽל־פַּלְגֵי מָיִם אֲשֶׁר פִּרְיוֹ ׀ יִתֵּן בְּעִתּוֹ וְעָלֵהוּ לֹֽא־יִבּוֹל וְכֹל אֲשֶׁר־יַעֲשֶׂה יַצְלִֽיחַ׃ | He will be like a tree planted by the streams of water, that produces its fruit in its season, whose leaf also does not wither. Whatever he does shall prosper. |
+| 4 恶人 并 不是 这样， 乃 像 糠秕 被 风 吹散。 | 4 È rén bìng bú shì zhè yàng , nǎi xiàng kāng bǐ bèi fēng chuī sàn . | 4 惡人 並 不是 這樣， 乃 像 糠秕 被 風 吹散。 | 악인은 그렇지 않음이여 오직 바람에 나는 겨와 같도다 | לֹא־כֵן הָרְשָׁעִים כִּי אִם־כַּמֹּץ אֲ‍ֽשֶׁר־תִּדְּפֶנּוּ רֽוּחַ׃ | The wicked are not so, but are like the chaff which the wind drives away. |
+| 5 因此， 当 审判 的 时候 恶人 必 站立 不住； 罪人 在 义人 的 会 中 也 是 如此。 | 5 Yīn cǐ , dāng shěn pàn de shí hou è rén bì zhàn lì bú zhù ; zuì rén zài yì rén de huì zhōng yě shì rú cǐ . | 5 因此， 當 審判 的 時候 惡人 必 站立 不住； 罪人 在 義人 的 會 中 也 是 如此。 | 그러므로 악인이 심판을 견디지 못하며 죄인이 의인의 회중에 들지 못하리로다 | עַל־כֵּן ׀ לֹא־יָקֻמוּ רְשָׁעִים בַּמִּשְׁפָּט וְחַטָּאִים בַּעֲדַת צַדִּיקִֽים׃ | Therefore the wicked shall not stand in the judgment, nor sinners in the congregation of the righteous. |
+| 6 因为 耶和华 知道 义人 的 道路； 恶人 的 道路 却 必 灭亡。 | 6 Yīn wèi yē hé huá zhī dào yì rén de dào lù ; è rén de dào lù què bì miè wáng . | 6 因為 耶和華 知道 義人 的 道路； 惡人 的 道路 卻 必 滅亡。 | 대저 의인의 길은 여호와께서 인정하시나 악인의 길은 망하리로다 | כִּֽי־יוֹדֵעַ יְהוָה דֶּרֶךְ צַדִּיקִים וְדֶרֶךְ רְשָׁעִים תֹּאבֵֽד׃ | For Yahweh knows the way of the righteous, but the way of the wicked shall perish. |

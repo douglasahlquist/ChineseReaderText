@@ -1,0 +1,20 @@
+<!-- reader: speak=word -->
+
+# 詩篇 61 | Shī piān 61 | Psalms 61
+
+> **繁體 Traditional** · 和合本 (Chinese Union Version, 1919), traditional and simplified · Westminster Leningrad Codex (WLC) · World English Bible (WEB) · King James Version (KJV, 1769)
+
+## 第1–9节 | Dì 1–9 jié | Verses 1–9
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 简体 | WLC | WEB | KJV |
+|---|---|---|---|---|---|
+| 1 （大衛 的 詩， 交與 伶長。 用 絲弦 的 樂器。） 神 啊， 求 你 聽 我 的 呼求， 側耳 聽 我 的 禱告！ | 1 ( Dà wèi de shī , jiāo yǔ líng zhǎng . Yòng sī xián de yuè qì . ) Shén a , qiú nǐ tīng wǒ de hū qiú , cè ěr tīng wǒ de dǎo gào ! | 1 （大卫 的 诗， 交与 伶长。 用 丝弦 的 乐器。） 神 啊， 求 你 听 我 的 呼求， 侧耳 听 我 的 祷告！ | לַמְנַצֵּחַ ׀ עַֽל־נְגִינַת לְדָוִֽד׃ | Hear my cry, God. Listen to my prayer. | To the chief Musician upon Neginah, A Psalm of David. Hear my cry, O God; attend unto my prayer. |
+| 2 我 心裡 發昏 的 時候， 我要 從 地極 求告 你。 求 你 領 我 到 那 比 我 更 高 的 磐石！ | 2 Wǒ xīn lǐ fā hūn de shí hou , wǒ yào cóng dì jí qiú gào nǐ . Qiú nǐ lǐng wǒ dào nà bǐ wǒ gèng gāo de pán shí ! | 2 我 心里 发昏 的 时候， 我要 从 地极 求告 你。 求 你 领 我 到 那 比 我 更 高 的 磐石！ | שִׁמְעָה אֱלֹהִים רִנָּתִי הַקְשִׁיבָה תְּפִלָּתִֽי׃ | From the end of the earth, I will call to you when my heart is overwhelmed. Lead me to the rock that is higher than I. | From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock that is higher than I. |
+| 3 因為 你 作過 我 的 避難所， 作過 我 的 堅固 臺， 脫離 仇敵。 | 3 Yīn wèi nǐ zuò guò wǒ de bì nàn suǒ , zuò guò wǒ de jiān gù tái , tuō lí chóu dí . | 3 因为 你 作过 我 的 避难所， 作过 我 的 坚固 台， 脱离 仇敌。 | מִקְצֵה הָאָרֶץ ׀ אֵלֶיךָ אֶקְרָא בַּעֲטֹף לִבִּי בְּצוּר־יָרוּם מִמֶּנִּי תַנְחֵֽנִי׃ | For you have been a refuge for me, a strong tower from the enemy. | For thou hast been a shelter for me, and a strong tower from the enemy. |
+| 4 我要 永遠 住 在 你 的 帳幕 裡！ 我要 投靠 在 你 翅膀 下 的 隱密 處！ （細拉） | 4 Wǒ yào yǒng yuǎn zhù zài nǐ de zhàng mù lǐ ! Wǒ yào tóu kào zài nǐ chì bǎng xià de yǐn mì chù ! ( Xì lā ) | 4 我要 永远 住 在 你 的 帐幕 里！ 我要 投靠 在 你 翅膀 下 的 隐密 处！ （细拉） | כִּֽי־הָיִיתָ מַחְסֶה לִי מִגְדַּל־עֹז מִפְּנֵי אוֹיֵֽב׃ | I will dwell in your tent forever. I will take refuge in the shelter of your wings. | I will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah. |
+| 5 神 啊， 你 原 是 聽 了 我 所許 的 願； 你 將 產業 賜給 敬畏 你 名 的 人。 | 5 Shén a , nǐ yuán shì tīng le wǒ suǒ xǔ de yuàn ; nǐ jiāng chǎn yè cì gěi jìng wèi nǐ míng de rén . | 5 神 啊， 你 原 是 听 了 我 所许 的 愿； 你 将 产业 赐给 敬畏 你 名 的 人。 | אָגוּרָה בְאָהָלְךָ עוֹלָמִים אֶֽחֱסֶה בְסֵתֶר כְּנָפֶיךָ סֶּֽלָה׃ | For you, God, have heard my vows. You have given me the heritage of those who fear your name. | For thou, O God, hast heard my vows: thou hast given me the heritage of those that fear thy name. |
+| 6 你 要 加添 王 的 壽數； 他 的 年歲 必存 到 世世。 | 6 Nǐ yào jiā tiān wáng de shòu shù ; tā de nián suì bì cún dào shì shì . | 6 你 要 加添 王 的 寿数； 他 的 年岁 必存 到 世世。 | כִּֽי־אַתָּה אֱלֹהִים שָׁמַעְתָּ לִנְדָרָי נָתַתָּ יְרֻשַּׁת יִרְאֵי שְׁמֶֽךָ׃ | You will prolong the king’s life. His years will be for generations. | Thou wilt prolong the king’s life: and his years as many generations. |
+| 7 他 必 永遠 坐在 神 面前； 願 你 預備 慈愛 和 誠實 保佑 他！ | 7 Tā bì yǒng yuǎn zuò zài shén miàn qián ; yuàn nǐ yù bèi cí ài hé chéng shí bǎo yòu tā ! | 7 他 必 永远 坐在 神 面前； 愿 你 预备 慈爱 和 诚实 保佑 他！ | יָמִים עַל־יְמֵי־מֶלֶךְ תּוֹסִיף שְׁנוֹתָיו כְּמוֹ־דֹר וָדֹֽר׃ | He shall be enthroned in God’s presence forever. Appoint your loving kindness and truth, that they may preserve him. | He shall abide before God for ever: O prepare mercy and truth, which may preserve him. |
+| 8 這樣， 我要 歌頌 你 的 名， 直到 永遠， 好 天天 還 我 所許 的 願。 | 8 Zhè yàng , wǒ yào gē sòng nǐ de míng , zhí dào yǒng yuǎn , hǎo tiān tiān hái wǒ suǒ xǔ de yuàn . | 8 这样， 我要 歌颂 你 的 名， 直到 永远， 好 天天 还 我 所许 的 愿。 | יֵשֵׁב עוֹלָם לִפְנֵי אֱלֹהִים חֶסֶד וֶאֱמֶת מַן יִנְצְרֻֽהוּ׃ | So I will sing praise to your name forever, that I may fulfill my vows daily. | So will I sing praise unto thy name for ever, that I may daily perform my vows. |
+|  |  |  | כֵּן אֲזַמְּרָה שִׁמְךָ לָעַד לְֽשַׁלְּמִי נְדָרַי יוֹם ׀ יֽוֹם׃ |  |  |
