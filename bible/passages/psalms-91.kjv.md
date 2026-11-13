@@ -1,0 +1,45 @@
+<!-- reader: speak=word -->
+
+# 诗篇 91 | Shī piān 91 | Psalms 91
+
+> **KJV** · 和合本 (Chinese Union Version, 1919), simplified and traditional · Westminster Leningrad Codex (WLC), without cantillation marks · King James Version (KJV, 1769)
+
+## 第1–5节 | Dì 1–5 jié | Verses 1–5
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | WLC | KJV |
+|---|---|---|---|---|
+| 1 住 在 至 高者 隐密 处 的， 必住 在 全能 者 的 荫 下。 | 1 Zhù zài zhì gāo zhě yǐn mì chù de , bì zhù zài quán néng zhě de yīn xià . | 1 住 在 至 高者 隱密 處 的， 必住 在 全能 者 的 蔭 下。 | יֹשֵׁב בְּסֵתֶר עֶלְיוֹן בְּצֵל שַׁדַּי יִתְלוֹנָֽן׃ | He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty. |
+| 2 我要 论到 耶和华 说： 他 是 我 的 避难所， 是 我 的 山寨， 是 我 的 神， 是 我 所 倚靠 的。 | 2 Wǒ yào lùn dào yē hé huá shuō : tā shì wǒ de bì nàn suǒ , shì wǒ de shān zhài , shì wǒ de shén , shì wǒ suǒ yǐ kào de . | 2 我要 論到 耶和華 說： 他 是 我 的 避難所， 是 我 的 山寨， 是 我 的 神， 是 我 所 倚靠 的。 | אֹמַר לַֽיהוָה מַחְסִי וּמְצוּדָתִי אֱלֹהַי אֶבְטַח־בּֽוֹ׃ | I will say of the Lord, He is my refuge and my fortress: my God; in him will I trust. |
+| 3 他 必救 你 脱离 捕鸟 人 的 网罗 和 毒害 的 瘟疫。 | 3 Tā bì jiù nǐ tuō lí bǔ niǎo rén de wǎng luó hé dú hài de wēn yì . | 3 他 必救 你 脫離 捕鳥 人 的 網羅 和 毒害 的 瘟疫。 | כִּי הוּא יַצִּֽילְךָ מִפַּח יָקוּשׁ מִדֶּבֶר הַוּֽוֹת׃ | Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence. |
+| 4 他 必用 自己 的 翎毛 遮蔽 你； 你 要 投靠 在 他 的 翅膀 底下； 他 的 诚实 是 大小 的 盾牌。 | 4 Tā bì yòng zì jǐ de líng máo zhē bì nǐ ; nǐ yào tóu kào zài tā de chì bǎng dǐ xià ; tā de chéng shí shì dà xiǎo de dùn pái . | 4 他 必用 自己 的 翎毛 遮蔽 你； 你 要 投靠 在 他 的 翅膀 底下； 他 的 誠實 是 大小 的 盾牌。 | בְּאֶבְרָתוֹ ׀ יָסֶךְ לָךְ וְתַֽחַת־כְּנָפָיו תֶּחְסֶה צִנָּה וְֽסֹחֵרָה אֲמִתּֽוֹ׃ | He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler. |
+| 5 你 必 不怕 黑夜 的 惊骇， 或是 白日 飞 的 箭， | 5 Nǐ bì bú pà hēi yè de jīng hài , huò shì bái rì fēi de jiàn , | 5 你 必 不怕 黑夜 的 驚駭， 或是 白日 飛 的 箭， | לֹא־תִירָא מִפַּחַד לָיְלָה מֵחֵץ יָעוּף יוֹמָֽם׃ | Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day; |
+
+## 第6–10节 | Dì 6–10 jié | Verses 6–10
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | WLC | KJV |
+|---|---|---|---|---|
+| 6 也 不怕 黑夜 行 的 瘟疫， 或是 午间 灭人 的 毒病。 | 6 Yě bú pà hēi yè xíng de wēn yì , huò shì wǔ jiān miè rén de dú bìng . | 6 也 不怕 黑夜 行 的 瘟疫， 或是 午間 滅人 的 毒病。 | מִדֶּבֶר בָּאֹפֶל יַהֲלֹךְ מִקֶּטֶב יָשׁוּד צָהֳרָֽיִם׃ | Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday. |
+| 7 虽有 千人 仆倒 在 你 旁边， 万人 仆倒 在 你 右边， 这灾 却 不得 临近 你。 | 7 Suī yǒu qiān rén pū dào zài nǐ páng biān , wàn rén pū dào zài nǐ yòu biān , zhè zāi què bù dé lín jìn nǐ . | 7 雖有 千人 仆倒 在 你 旁邊， 萬人 仆倒 在 你 右邊， 這災 卻 不得 臨近 你。 | יִפֹּל מִצִּדְּךָ ׀ אֶלֶף וּרְבָבָה מִימִינֶךָ אֵלֶיךָ לֹא יִגָּֽשׁ׃ | A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee. |
+| 8 你 惟 亲眼 观看， 见 恶人 遭报。 | 8 Nǐ wéi qīn yǎn guān kàn , jiàn è rén zāo bào . | 8 你 惟 親眼 觀看， 見 惡人 遭報。 | רַק בְּעֵינֶיךָ תַבִּיט וְשִׁלֻּמַת רְשָׁעִים תִּרְאֶֽה׃ | Only with thine eyes shalt thou behold and see the reward of the wicked. |
+| 9 耶和华 是 我 的 避难所； 你 已 将 至 高者 当 你 的 居所， | 9 Yē hé huá shì wǒ de bì nàn suǒ ; nǐ yǐ jiāng zhì gāo zhě dāng nǐ de jū suǒ , | 9 耶和華 是 我 的 避難所； 你 已 將 至 高者 當 你 的 居所， | כִּֽי־אַתָּה יְהוָה מַחְסִי עֶלְיוֹן שַׂמְתָּ מְעוֹנֶֽךָ׃ | Because thou hast made the Lord, which is my refuge, even the most High, thy habitation; |
+| 10 祸患 必 不 临到 你， 灾害 也 不 挨近 你 的 帐棚。 | 10 Huò huàn bì bù lín dào nǐ , zāi hài yě bù āi jìn nǐ de zhàng péng . | 10 禍患 必 不 臨到 你， 災害 也 不 挨近 你 的 帳棚。 | לֹֽא־תְאֻנֶּה אֵלֶיךָ רָעָה וְנֶגַע לֹא־יִקְרַב בְּאָהֳלֶֽךָ׃ | There shall no evil befall thee, neither shall any plague come nigh thy dwelling. |
+
+## 第11–15节 | Dì 11–15 jié | Verses 11–15
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | WLC | KJV |
+|---|---|---|---|---|
+| 11 因 他 要 为 你 吩咐 他 的 使者， 在 你 行 的 一切 道路 上 保护 你。 | 11 Yīn tā yào wèi nǐ fēn fù tā de shǐ zhě , zài nǐ xíng de yí qiè dào lù shàng bǎo hù nǐ . | 11 因 他 要 為 你 吩咐 他 的 使者， 在 你 行 的 一切 道路 上 保護 你。 | כִּי מַלְאָכָיו יְצַוֶּה־לָּךְ לִשְׁמָרְךָ בְּכָל־דְּרָכֶֽיךָ׃ | For he shall give his angels charge over thee, to keep thee in all thy ways. |
+| 12 他们 要用 手托 着 你， 免得 你 的 脚 碰 在 石头 上。 | 12 Tā men yào yòng shǒu tuō zhe nǐ , miǎn de nǐ de jiǎo pèng zài shí tou shàng . | 12 他們 要用 手托 著 你， 免得 你 的 腳 碰 在 石頭 上。 | עַל־כַּפַּיִם יִשָּׂאוּנְךָ פֶּן־תִּגֹּף בָּאֶבֶן רַגְלֶֽךָ׃ | They shall bear thee up in their hands, lest thou dash thy foot against a stone. |
+| 13 你 要 踹 在 狮子 和 虺 蛇 的 身上， 践踏 少壮 狮子 和 大蛇。 | 13 Nǐ yào chuài zài shī zi hé huī shé de shēn shàng , jiàn tà shào zhuàng shī zi hé dà shé . | 13 你 要 踹 在 獅子 和 虺 蛇 的 身上， 踐踏 少壯 獅子 和 大蛇。 | עַל־שַׁחַל וָפֶתֶן תִּדְרֹךְ תִּרְמֹס כְּפִיר וְתַנִּֽין׃ | Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet. |
+| 14 神说： 因为 他 专心 爱 我， 我 就要 搭救 他； 因为 他 知道 我 的 名， 我要 把 他 安置 在 高处。 | 14 Shén shuō : yīn wèi tā zhuān xīn ài wǒ , wǒ jiù yào dā jiù tā ; yīn wèi tā zhī dào wǒ de míng , wǒ yào bǎ tā ān zhì zài gāo chù . | 14 神說： 因為 他 專心 愛 我， 我 就要 搭救 他； 因為 他 知道 我 的 名， 我要 把 他 安置 在 高處。 | כִּי בִי חָשַׁק וַאֲפַלְּטֵהוּ אֲשַׂגְּבֵהוּ כִּֽי־יָדַע שְׁמִֽי׃ | Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name. |
+| 15 他 若 求告 我， 我 就 应允 他； 他 在 急难 中， 我要 与 他 同 在； 我要 搭救 他， 使 他 尊贵。 | 15 Tā ruò qiú gào wǒ , wǒ jiù yīng yǔn tā ; tā zài jí nàn zhōng , wǒ yào yǔ tā tóng zài ; wǒ yào dā jiù tā , shǐ tā zūn guì . | 15 他 若 求告 我， 我 就 應允 他； 他 在 急難 中， 我要 與 他 同 在； 我要 搭救 他， 使 他 尊貴。 | יִקְרָאֵנִי ׀ וְֽאֶעֱנֵהוּ עִמּֽוֹ־אָנֹכִי בְצָרָה אֲחַלְּצֵהוּ וַֽאֲכַבְּדֵֽהוּ׃ | He shall call upon me, and I will answer him: I will be with him in trouble; I will deliver him, and honour him. |
+
+## 第16节 | Dì 16 jié | Verse 16
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | WLC | KJV |
+|---|---|---|---|---|
+| 16 我要 使 他 足享 长寿， 将 我 的 救恩 显明 给 他。 | 16 Wǒ yào shǐ tā zú xiǎng cháng shòu , jiāng wǒ de jiù ēn xiǎn míng gěi tā . | 16 我要 使 他 足享 長壽， 將 我 的 救恩 顯明 給 他。 | אֹרֶךְ יָמִים אַשְׂבִּיעֵהוּ וְאַרְאֵהוּ בִּֽישׁוּעָתִֽי׃ | With long life will I satisfy him, and shew him my salvation. |
