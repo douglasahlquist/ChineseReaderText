@@ -11,18 +11,11 @@
 
 ##### 创世记 Genesis
 
-- [1](passages/genesis-1.md) · [Study](passages/genesis-1.md) · [Classic](passages/genesis-1.classic.md) · [Basic English](passages/genesis-1.basic.md) · [ThaiKJV](passages/genesis-1.thkjv.md)
+- [1](passages/genesis-1.md) · [Study](passages/genesis-1.md) · [Classic](passages/genesis-1.classic.md) · [Basic English](passages/genesis-1.basic.md) · [개역한글](passages/genesis-1.krv.md) · [ThaiKJV](passages/genesis-1.thkjv.md)
 
 ##### 诗篇 Psalms
 
-- [1](passages/psalms-1.md) · [Study](passages/psalms-1.md) · [ThaiKJV](passages/psalms-1.thkjv.md)
-- [23](passages/psalms-23.md) · [Study](passages/psalms-23.md) · [Classic](passages/psalms-23.classic.md) · [Basic English](passages/psalms-23.basic.md) · [ThaiKJV](passages/psalms-23.thkjv.md)
-- [91](passages/psalms-91.md) · [Study](passages/psalms-91.md) · [ThaiKJV](passages/psalms-91.thkjv.md)
-- [1](passages/genesis-1.md) · [Study](passages/genesis-1.md) · [Classic](passages/genesis-1.classic.md) · [Basic English](passages/genesis-1.basic.md) · [개역한글](passages/genesis-1.krv.md)
-
-##### 诗篇 Psalms
-
-- [1](passages/psalms-1.md) · [Study](passages/psalms-1.md) · [繁體 Traditional](passages/psalms-1.chinese-trad.md)
+- [1](passages/psalms-1.md) · [Study](passages/psalms-1.md) · [繁體 Traditional](passages/psalms-1.chinese-trad.md) · [개역한글](passages/psalms-1.krv.md) · [ThaiKJV](passages/psalms-1.thkjv.md)
 - [2](passages/psalms-2.chinese-trad.md)
 - [3](passages/psalms-3.chinese-trad.md)
 - [4](passages/psalms-4.chinese-trad.md)
@@ -44,7 +37,7 @@
 - [20](passages/psalms-20.chinese-trad.md)
 - [21](passages/psalms-21.chinese-trad.md)
 - [22](passages/psalms-22.chinese-trad.md)
-- [23](passages/psalms-23.md) · [Study](passages/psalms-23.md) · [Classic](passages/psalms-23.classic.md) · [Basic English](passages/psalms-23.basic.md) · [繁體 Traditional](passages/psalms-23.chinese-trad.md)
+- [23](passages/psalms-23.md) · [Study](passages/psalms-23.md) · [Classic](passages/psalms-23.classic.md) · [Basic English](passages/psalms-23.basic.md) · [繁體 Traditional](passages/psalms-23.chinese-trad.md) · [개역한글](passages/psalms-23.krv.md) · [ThaiKJV](passages/psalms-23.thkjv.md)
 - [24](passages/psalms-24.chinese-trad.md)
 - [25](passages/psalms-25.chinese-trad.md)
 - [26](passages/psalms-26.chinese-trad.md)
@@ -112,7 +105,7 @@
 - [88](passages/psalms-88.chinese-trad.md)
 - [89](passages/psalms-89.chinese-trad.md)
 - [90](passages/psalms-90.chinese-trad.md)
-- [91](passages/psalms-91.md) · [Study](passages/psalms-91.md) · [繁體 Traditional](passages/psalms-91.chinese-trad.md)
+- [91](passages/psalms-91.md) · [Study](passages/psalms-91.md) · [繁體 Traditional](passages/psalms-91.chinese-trad.md) · [개역한글](passages/psalms-91.krv.md) · [ThaiKJV](passages/psalms-91.thkjv.md)
 - [92](passages/psalms-92.chinese-trad.md)
 - [93](passages/psalms-93.chinese-trad.md)
 - [94](passages/psalms-94.chinese-trad.md)
@@ -175,35 +168,71 @@
 
 #### 新约 New Testament
 
+##### 马可福音 Mark
+
+- [1](passages/mark-1.kjv.md)
+- [2](passages/mark-2.kjv.md)
+- [3](passages/mark-3.kjv.md)
+- [4](passages/mark-4.kjv.md)
+- [5](passages/mark-5.kjv.md)
+- [6](passages/mark-6.kjv.md)
+- [7](passages/mark-7.kjv.md)
+- [8](passages/mark-8.kjv.md)
+- [9](passages/mark-9.kjv.md)
+- [10](passages/mark-10.kjv.md)
+- [11](passages/mark-11.kjv.md)
+- [12](passages/mark-12.kjv.md)
+- [13](passages/mark-13.kjv.md)
+- [14](passages/mark-14.kjv.md)
+- [15](passages/mark-15.kjv.md)
+- [16](passages/mark-16.kjv.md)
+
 ##### 约翰福音 John
 
-- [1](passages/john-1.md) · [Study](passages/john-1.md) · [ThaiKJV](passages/john-1.thkjv.md)
+- [1](passages/john-1.md) · [Study](passages/john-1.md) · [繁體 Traditional](passages/john-1.chinese-trad.md) · [KJV](passages/john-1.kjv.md) · [개역한글](passages/john-1.krv.md) · [ThaiKJV](passages/john-1.thkjv.md)
+- [2](passages/john-2.chinese-trad.md) · [繁體 Traditional](passages/john-2.chinese-trad.md) · [KJV](passages/john-2.kjv.md)
+- [3](passages/john-3.chinese-trad.md) · [繁體 Traditional](passages/john-3.chinese-trad.md) · [KJV](passages/john-3.kjv.md)
+- [4](passages/john-4.chinese-trad.md) · [繁體 Traditional](passages/john-4.chinese-trad.md) · [KJV](passages/john-4.kjv.md)
+- [5](passages/john-5.chinese-trad.md) · [繁體 Traditional](passages/john-5.chinese-trad.md) · [KJV](passages/john-5.kjv.md)
+- [6](passages/john-6.chinese-trad.md) · [繁體 Traditional](passages/john-6.chinese-trad.md) · [KJV](passages/john-6.kjv.md)
+- [7](passages/john-7.chinese-trad.md) · [繁體 Traditional](passages/john-7.chinese-trad.md) · [KJV](passages/john-7.kjv.md)
+- [8](passages/john-8.chinese-trad.md) · [繁體 Traditional](passages/john-8.chinese-trad.md) · [KJV](passages/john-8.kjv.md)
+- [9](passages/john-9.chinese-trad.md) · [繁體 Traditional](passages/john-9.chinese-trad.md) · [KJV](passages/john-9.kjv.md)
+- [10](passages/john-10.chinese-trad.md) · [繁體 Traditional](passages/john-10.chinese-trad.md) · [KJV](passages/john-10.kjv.md)
+- [11](passages/john-11.chinese-trad.md) · [繁體 Traditional](passages/john-11.chinese-trad.md) · [KJV](passages/john-11.kjv.md)
+- [12](passages/john-12.chinese-trad.md) · [繁體 Traditional](passages/john-12.chinese-trad.md) · [KJV](passages/john-12.kjv.md)
+- [13](passages/john-13.chinese-trad.md) · [繁體 Traditional](passages/john-13.chinese-trad.md) · [KJV](passages/john-13.kjv.md)
+- [14](passages/john-14.chinese-trad.md) · [繁體 Traditional](passages/john-14.chinese-trad.md) · [KJV](passages/john-14.kjv.md)
+- [15](passages/john-15.chinese-trad.md) · [繁體 Traditional](passages/john-15.chinese-trad.md) · [KJV](passages/john-15.kjv.md)
+- [16](passages/john-16.chinese-trad.md) · [繁體 Traditional](passages/john-16.chinese-trad.md) · [KJV](passages/john-16.kjv.md)
+- [17](passages/john-17.chinese-trad.md) · [繁體 Traditional](passages/john-17.chinese-trad.md) · [KJV](passages/john-17.kjv.md)
+- [18](passages/john-18.chinese-trad.md) · [繁體 Traditional](passages/john-18.chinese-trad.md) · [KJV](passages/john-18.kjv.md)
+- [19](passages/john-19.chinese-trad.md) · [繁體 Traditional](passages/john-19.chinese-trad.md) · [KJV](passages/john-19.kjv.md)
+- [20](passages/john-20.chinese-trad.md) · [繁體 Traditional](passages/john-20.chinese-trad.md) · [KJV](passages/john-20.kjv.md)
+- [21](passages/john-21.chinese-trad.md) · [繁體 Traditional](passages/john-21.chinese-trad.md) · [KJV](passages/john-21.kjv.md)
 
 ##### 罗马书 Romans
 
-- [12](passages/romans-12.md) · [Study](passages/romans-12.md) · [Classic](passages/romans-12.classic.md) · [Basic English](passages/romans-12.basic.md) · [ThaiKJV](passages/romans-12.thkjv.md)
-- [1](passages/john-1.md) · [Study](passages/john-1.md) · [繁體 Traditional](passages/john-1.chinese-trad.md)
-- [2](passages/john-2.chinese-trad.md)
-- [3](passages/john-3.chinese-trad.md)
-- [4](passages/john-4.chinese-trad.md)
-- [5](passages/john-5.chinese-trad.md)
-- [6](passages/john-6.chinese-trad.md)
-- [7](passages/john-7.chinese-trad.md)
-- [8](passages/john-8.chinese-trad.md)
-- [9](passages/john-9.chinese-trad.md)
-- [10](passages/john-10.chinese-trad.md)
-- [11](passages/john-11.chinese-trad.md)
-- [12](passages/john-12.chinese-trad.md)
-- [13](passages/john-13.chinese-trad.md)
-- [14](passages/john-14.chinese-trad.md)
-- [15](passages/john-15.chinese-trad.md)
-- [16](passages/john-16.chinese-trad.md)
-- [17](passages/john-17.chinese-trad.md)
-- [18](passages/john-18.chinese-trad.md)
-- [19](passages/john-19.chinese-trad.md)
-- [20](passages/john-20.chinese-trad.md)
-- [21](passages/john-21.chinese-trad.md)
+- [1](passages/romans-1.kjv.md)
+- [2](passages/romans-2.kjv.md)
+- [3](passages/romans-3.kjv.md)
+- [4](passages/romans-4.kjv.md)
+- [5](passages/romans-5.kjv.md)
+- [6](passages/romans-6.kjv.md)
+- [7](passages/romans-7.kjv.md)
+- [8](passages/romans-8.kjv.md)
+- [9](passages/romans-9.kjv.md)
+- [10](passages/romans-10.kjv.md)
+- [11](passages/romans-11.kjv.md)
+- [12](passages/romans-12.md) · [Study](passages/romans-12.md) · [Classic](passages/romans-12.classic.md) · [Basic English](passages/romans-12.basic.md) · [KJV](passages/romans-12.kjv.md) · [개역한글](passages/romans-12.krv.md) · [ThaiKJV](passages/romans-12.thkjv.md)
+- [13](passages/romans-13.kjv.md)
+- [14](passages/romans-14.kjv.md)
+- [15](passages/romans-15.kjv.md)
+- [16](passages/romans-16.kjv.md)
 
-##### 罗马书 Romans
+##### 腓立比书 Philippians
 
-- [12](passages/romans-12.md) · [Study](passages/romans-12.md) · [Classic](passages/romans-12.classic.md) · [Basic English](passages/romans-12.basic.md) · [개역한글](passages/romans-12.krv.md)
+- [1](passages/philippians-1.kjv.md)
+- [2](passages/philippians-2.kjv.md)
+- [3](passages/philippians-3.kjv.md)
+- [4](passages/philippians-4.kjv.md)

@@ -1,0 +1,67 @@
+<!-- reader: speak=word -->
+
+# 约翰福音 17 | Yuē hàn fú yīn 17 | John 17
+
+> **KJV** · 和合本 (Chinese Union Version, 1919), simplified and traditional · King James Version (KJV, 1769)
+
+## 第1–5节 | Dì 1–5 jié | Verses 1–5
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | KJV |
+|---|---|---|---|
+| 1 耶稣 说 了 这话， 就 举目 望天， 说： 「父 啊， 时候 到 了， 愿 你 荣耀 你 的 儿子， 使 儿子 也 荣耀 你； | 1 Yē sū shuō le zhè huà , jiù jǔ mù wàng tiān , shuō : “ fù a , shí hou dào le , yuàn nǐ róng yào nǐ de ér zi , shǐ ér zi yě róng yào nǐ ; | 1 耶穌 說 了 這話， 就 舉目 望天， 說： 「父 啊， 時候 到 了， 願 你 榮耀 你 的 兒子， 使 兒子 也 榮耀 你； | These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee: |
+| 2 正如 你 曾 赐给 他 权柄 管理 凡有 血气 的， 叫 他 将 永生 赐给 你 所 赐给 他 的 人。 | 2 Zhèng rú nǐ céng cì gěi tā quán bǐng guǎn lǐ fán yǒu xuè qì de , jiào tā jiāng yǒng shēng cì gěi nǐ suǒ cì gěi tā de rén . | 2 正如 你 曾 賜給 他 權柄 管理 凡有 血氣 的， 叫 他 將 永生 賜給 你 所 賜給 他 的 人。 | As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him. |
+| 3 认识 你─ 独一 的 真 神， 并且 认识 你 所 差来 的 耶稣基督， 这 就是 永生。 | 3 Rèn shí nǐ ─ dú yī de zhēn shén , bìng qiě rèn shí nǐ suǒ chà lái de yē sū jī dū , zhè jiù shì yǒng shēng . | 3 認識 你─ 獨一 的 真 神， 並且 認識 你 所 差來 的 耶穌基督， 這 就是 永生。 | And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent. |
+| 4 我 在 地上 已经 荣耀 你， 你 所 托付 我 的 事， 我 已 成全 了。 | 4 Wǒ zài dì shàng yǐ jīng róng yào nǐ , nǐ suǒ tuō fù wǒ de shì , wǒ yǐ chéng quán le . | 4 我 在 地上 已經 榮耀 你， 你 所 託付 我 的 事， 我 已 成全 了。 | I have glorified thee on the earth: I have finished the work which thou gavest me to do. |
+| 5 父 啊， 现在 求 你 使 我 同 你 享 荣耀， 就是 未有 世界 以先， 我同 你 所有 的 荣耀。 | 5 Fù a , xiàn zài qiú nǐ shǐ wǒ tóng nǐ xiǎng róng yào , jiù shì wèi yǒu shì jiè yǐ xiān , wǒ tóng nǐ suǒ yǒu de róng yào . | 5 父 啊， 現在 求 你 使 我 同 你 享 榮耀， 就是 未有 世界 以先， 我同 你 所有 的 榮耀。 | And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was. |
+
+## 第6–10节 | Dì 6–10 jié | Verses 6–10
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | KJV |
+|---|---|---|---|
+| 6 「你 从 世上 赐给 我 的 人， 我 已 将 你 的 名 显明 与 他们。 他们 本是 你 的， 你 将 他们 赐给 我， 他们 也 遵守 了 你 的 道。 | 6 “ Nǐ cóng shì shàng cì gěi wǒ de rén , wǒ yǐ jiāng nǐ de míng xiǎn míng yǔ tā men . Tā men běn shì nǐ de , nǐ jiāng tā men cì gěi wǒ , tā men yě zūn shǒu le nǐ de dào . | 6 「你 從 世上 賜給 我 的 人， 我 已 將 你 的 名 顯明 與 他們。 他們 本是 你 的， 你 將 他們 賜給 我， 他們 也 遵守 了 你 的 道。 | I have manifested thy name unto the men which thou gavest me out of the world: thine they were, and thou gavest them me; and they have kept thy word. |
+| 7 如今 他们 知道， 凡 你 所 赐给 我 的， 都 是从 你 那里 来 的； | 7 Rú jīn tā men zhī dào , fán nǐ suǒ cì gěi wǒ de , dōu shì cóng nǐ nà lǐ lái de ; | 7 如今 他們 知道， 凡 你 所 賜給 我 的， 都 是從 你 那裡 來 的； | Now they have known that all things whatsoever thou hast given me are of thee. |
+| 8 因为 你 所 赐给 我 的 道， 我 已经 赐给 他们， 他们 也 领受 了， 又 确实 知道， 我 是从 你 出来 的， 并且 信 你 差 了 我 来。 | 8 Yīn wèi nǐ suǒ cì gěi wǒ de dào , wǒ yǐ jīng cì gěi tā men , tā men yě lǐng shòu le , yòu què shí zhī dào , wǒ shì cóng nǐ chū lái de , bìng qiě xìn nǐ chà le wǒ lái . | 8 因為 你 所 賜給 我 的 道， 我 已經 賜給 他們， 他們 也 領受 了， 又 確實 知道， 我 是從 你 出來 的， 並且 信 你 差 了 我 來。 | For I have given unto them the words which thou gavest me; and they have received them, and have known surely that I came out from thee, and they have believed that thou didst send me. |
+| 9 我 为 他们 祈求， 不 为 世人 祈求， 却 为 你 所 赐给 我 的 人 祈求， 因 他们 本是 你 的。 | 9 Wǒ wèi tā men qí qiú , bù wèi shì rén qí qiú , què wéi nǐ suǒ cì gěi wǒ de rén qí qiú , yīn tā men běn shì nǐ de . | 9 我 為 他們 祈求， 不 為 世人 祈求， 卻 為 你 所 賜給 我 的 人 祈求， 因 他們 本是 你 的。 | I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine. |
+| 10 凡是 我 的， 都 是 你 的； 你 的 也 是 我 的， 并且 我 因 他们 得 了 荣耀。 | 10 Fán shì wǒ de , dōu shì nǐ de ; nǐ de yě shì wǒ de , bìng qiě wǒ yīn tā men de le róng yào . | 10 凡是 我 的， 都 是 你 的； 你 的 也 是 我 的， 並且 我 因 他們 得 了 榮耀。 | And all mine are thine, and thine are mine; and I am glorified in them. |
+
+## 第11–15节 | Dì 11–15 jié | Verses 11–15
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | KJV |
+|---|---|---|---|
+| 11 从今以后， 我 不 在 世上， 他们 却 在 世上； 我往 你 那里 去。 圣父 啊， 求 你 因 你 所 赐给 我 的 名 保守 他们， 叫 他们 合而为一 像 我们 一样。 | 11 Cóng jīn yǐ hòu , wǒ bù zài shì shàng , tā men què zài shì shàng ; wǒ wǎng nǐ nà lǐ qù . Shèng fù a , qiú nǐ yīn nǐ suǒ cì gěi wǒ de míng bǎo shǒu tā men , jiào tā men hé ér wéi yī xiàng wǒ men yí yàng . | 11 從今以後， 我 不 在 世上， 他們 卻 在 世上； 我往 你 那裡 去。 聖父 啊， 求 你 因 你 所 賜給 我 的 名 保守 他們， 叫 他們 合而為一 像 我們 一樣。 | And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we are. |
+| 12 我 与 他们 同 在 的 时候， 因 你 所 赐给 我 的 名 保守 了 他们， 我 也 护卫 了 他们； 其中 除了 那 灭亡 之子， 没有 一个 灭亡 的， 好 叫 经上 的话 得 应验。 | 12 Wǒ yǔ tā men tóng zài de shí hou , yīn nǐ suǒ cì gěi wǒ de míng bǎo shǒu le tā men , wǒ yě hù wèi le tā men ; qí zhōng chú le nà miè wáng zhī zi , méi yǒu yí gè miè wáng de , hǎo jiào jīng shàng de huà de yìng yàn . | 12 我 與 他們 同 在 的 時候， 因 你 所 賜給 我 的 名 保守 了 他們， 我 也 護衛 了 他們； 其中 除了 那 滅亡 之子， 沒有 一個 滅亡 的， 好 叫 經上 的話 得 應驗。 | While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled. |
+| 13 现在 我往 你 那里 去， 我 还 在 世上 说 这话， 是 叫 他们 心里 充满 我 的 喜乐。 | 13 Xiàn zài wǒ wǎng nǐ nà lǐ qù , wǒ hái zài shì shàng shuō zhè huà , shì jiào tā men xīn lǐ chōng mǎn wǒ de xǐ lè . | 13 現在 我往 你 那裡 去， 我 還 在 世上 說 這話， 是 叫 他們 心裡 充滿 我 的 喜樂。 | And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves. |
+| 14 我 已 将 你 的 道 赐给 他们。 世界 又 恨 他们； 因为 他们 不属 世界， 正如 我 不 属 世界 一样。 | 14 Wǒ yǐ jiāng nǐ de dào cì gěi tā men . Shì jiè yòu hèn tā men ; yīn wèi tā men bù shǔ shì jiè , zhèng rú wǒ bù shǔ shì jiè yí yàng . | 14 我 已 將 你 的 道 賜給 他們。 世界 又 恨 他們； 因為 他們 不屬 世界， 正如 我 不 屬 世界 一樣。 | I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world. |
+| 15 我 不求 你 叫 他们 离开 世界， 只求 你 保守 他们 脱离 那恶者 （或译： 脱离 罪恶）。 | 15 Wǒ bù qiú nǐ jiào tā men lí kāi shì jiè , zhǐ qiú nǐ bǎo shǒu tā men tuō lí nà è zhě ( huò yì : tuō lí zuì è ) . | 15 我 不求 你 叫 他們 離開 世界， 只求 你 保守 他們 脫離 那惡者 （或譯： 脫離 罪惡）。 | I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil. |
+
+## 第16–20节 | Dì 16–20 jié | Verses 16–20
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | KJV |
+|---|---|---|---|
+| 16 他们 不属 世界， 正如 我 不 属 世界 一样。 | 16 Tā men bù shǔ shì jiè , zhèng rú wǒ bù shǔ shì jiè yí yàng . | 16 他們 不屬 世界， 正如 我 不 屬 世界 一樣。 | They are not of the world, even as I am not of the world. |
+| 17 求 你 用 真理 使 他们 成圣； 你 的 道 就是 真理。 | 17 Qiú nǐ yòng zhēn lǐ shǐ tā men chéng shèng ; nǐ de dào jiù shì zhēn lǐ . | 17 求 你 用 真理 使 他們 成聖； 你 的 道 就是 真理。 | Sanctify them through thy truth: thy word is truth. |
+| 18 你 怎样 差 我 到 世上， 我 也 照样 差 他们 到 世上。 | 18 Nǐ zěn yàng chà wǒ dào shì shàng , wǒ yě zhào yàng chà tā men dào shì shàng . | 18 你 怎樣 差 我 到 世上， 我 也 照樣 差 他們 到 世上。 | As thou hast sent me into the world, even so have I also sent them into the world. |
+| 19 我 为 他们 的 缘故， 自己 分别 为 圣， 叫 他们 也 因 真理 成圣。 | 19 Wǒ wèi tā men de yuán gù , zì jǐ fēn bié wèi shèng , jiào tā men yě yīn zhēn lǐ chéng shèng . | 19 我 為 他們 的 緣故， 自己 分別 為 聖， 叫 他們 也 因 真理 成聖。 | And for their sakes I sanctify myself, that they also might be sanctified through the truth. |
+| 20 「我 不但 为 这些 人 祈求， 也 为 那些 因 他们 的话 信 我 的 人 祈求， | 20 “ Wǒ bú dàn wèi zhè xiē rén qí qiú , yě wèi nà xiē yīn tā men de huà xìn wǒ de rén qí qiú , | 20 「我 不但 為 這些 人 祈求， 也 為 那些 因 他們 的話 信 我 的 人 祈求， | Neither pray I for these alone, but for them also which shall believe on me through their word; |
+
+## 第21–25节 | Dì 21–25 jié | Verses 21–25
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | KJV |
+|---|---|---|---|
+| 21 使 他们 都 合而为一。 正如 你父 在 我 里面， 我 在 你 里面， 使 他们 也 在 我们 里面， 叫 世人 可以 信 你 差 了 我 来。 | 21 Shǐ tā men dōu hé ér wéi yī . Zhèng rú nǐ fù zài wǒ lǐ miàn , wǒ zài nǐ lǐ miàn , shǐ tā men yě zài wǒ men lǐ miàn , jiào shì rén kě yǐ xìn nǐ chà le wǒ lái . | 21 使 他們 都 合而為一。 正如 你父 在 我 裡面， 我 在 你 裡面， 使 他們 也 在 我們 裡面， 叫 世人 可以 信 你 差 了 我 來。 | That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me. |
+| 22 你 所 赐给 我 的 荣耀， 我 已 赐给 他们， 使 他们 合而为一， 像 我们 合而为一。 | 22 Nǐ suǒ cì gěi wǒ de róng yào , wǒ yǐ cì gěi tā men , shǐ tā men hé ér wéi yī , xiàng wǒ men hé ér wéi yī . | 22 你 所 賜給 我 的 榮耀， 我 已 賜給 他們， 使 他們 合而為一， 像 我們 合而為一。 | And the glory which thou gavest me I have given them; that they may be one, even as we are one: |
+| 23 我 在 他们 里面， 你 在 我 里面， 使 他们 完完全全 地 合而为一， 叫 世人 知道 你 差 了 我 来， 也 知道 你 爱 他们 如同 爱 我 一样。 | 23 Wǒ zài tā men lǐ miàn , nǐ zài wǒ lǐ miàn , shǐ tā men wán wán quán quán dì hé ér wéi yī , jiào shì rén zhī dào nǐ chà le wǒ lái , yě zhī dào nǐ ài tā men rú tóng ài wǒ yí yàng . | 23 我 在 他們 裡面， 你 在 我 裡面， 使 他們 完完全全 地 合而為一， 叫 世人 知道 你 差 了 我 來， 也 知道 你 愛 他們 如同 愛 我 一樣。 | I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me. |
+| 24 父 啊， 我 在 哪里， 愿 你 所 赐给 我 的 人 也 同 我 在 那里， 叫 他们 看见 你 所 赐给 我 的 荣耀； 因为 创立 世界 以前， 你 已经 爱 我 了。 | 24 Fù a , wǒ zài nǎ lǐ , yuàn nǐ suǒ cì gěi wǒ de rén yě tóng wǒ zài nà lǐ , jiào tā men kàn jiàn nǐ suǒ cì gěi wǒ de róng yào ; yīn wèi chuàng lì shì jiè yǐ qián , nǐ yǐ jīng ài wǒ le . | 24 父 啊， 我 在 哪裡， 願 你 所 賜給 我 的 人 也 同 我 在 那裡， 叫 他們 看見 你 所 賜給 我 的 榮耀； 因為 創立 世界 以前， 你 已經 愛 我 了。 | Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world. |
+| 25 公义 的 父 啊， 世人 未曾 认识 你， 我 却 认识 你； 这些 人 也 知道 你 差 了 我 来。 | 25 Gōng yì de fù a , shì rén wèi céng rèn shí nǐ , wǒ què rèn shí nǐ ; zhè xiē rén yě zhī dào nǐ chà le wǒ lái . | 25 公義 的 父 啊， 世人 未曾 認識 你， 我 卻 認識 你； 這些 人 也 知道 你 差 了 我 來。 | O righteous Father, the world hath not known thee: but I have known thee, and these have known that thou hast sent me. |
+
+## 第26节 | Dì 26 jié | Verse 26
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | KJV |
+|---|---|---|---|
+| 26 我 已 将 你 的 名 指示 他们， 还要 指示 他们， 使 你 所 爱 我 的 爱 在 他们 里面， 我 也 在 他们 里面。」 | 26 Wǒ yǐ jiāng nǐ de míng zhǐ shì tā men , hái yào zhǐ shì tā men , shǐ nǐ suǒ ài wǒ de ài zài tā men lǐ miàn , wǒ yě zài tā men lǐ miàn . ” | 26 我 已 將 你 的 名 指示 他們， 還要 指示 他們， 使 你 所 愛 我 的 愛 在 他們 裡面， 我 也 在 他們 裡面。」 | And I have declared unto them thy name, and will declare it: that the love wherewith thou hast loved me may be in them, and I in them. |
