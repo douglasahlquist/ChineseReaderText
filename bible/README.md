@@ -23,7 +23,27 @@
 
 ##### 约翰福音 John
 
-- [1](passages/john-1.md)
+- [1](passages/john-1.md) · [Study](passages/john-1.md) · [繁體 Traditional](passages/john-1.chinese-trad.md)
+- [2](passages/john-2.chinese-trad.md)
+- [3](passages/john-3.chinese-trad.md)
+- [4](passages/john-4.chinese-trad.md)
+- [5](passages/john-5.chinese-trad.md)
+- [6](passages/john-6.chinese-trad.md)
+- [7](passages/john-7.chinese-trad.md)
+- [8](passages/john-8.chinese-trad.md)
+- [9](passages/john-9.chinese-trad.md)
+- [10](passages/john-10.chinese-trad.md)
+- [11](passages/john-11.chinese-trad.md)
+- [12](passages/john-12.chinese-trad.md)
+- [13](passages/john-13.chinese-trad.md)
+- [14](passages/john-14.chinese-trad.md)
+- [15](passages/john-15.chinese-trad.md)
+- [16](passages/john-16.chinese-trad.md)
+- [17](passages/john-17.chinese-trad.md)
+- [18](passages/john-18.chinese-trad.md)
+- [19](passages/john-19.chinese-trad.md)
+- [20](passages/john-20.chinese-trad.md)
+- [21](passages/john-21.chinese-trad.md)
 
 ##### 罗马书 Romans
 
