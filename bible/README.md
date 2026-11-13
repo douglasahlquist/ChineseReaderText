@@ -11,7 +11,7 @@
 
 ##### 创世记 Genesis
 
-- [1](passages/genesis-1.md) · [Study](passages/genesis-1.md) · [Classic](passages/genesis-1.classic.md) · [Basic English](passages/genesis-1.basic.md)
+- [1](passages/genesis-1.md) · [Study](passages/genesis-1.md) · [Classic](passages/genesis-1.classic.md) · [Basic English](passages/genesis-1.basic.md) · [개역한글](passages/genesis-1.krv.md)
 
 ##### 诗篇 Psalms
 
@@ -194,4 +194,4 @@
 
 ##### 罗马书 Romans
 
-- [12](passages/romans-12.md) · [Study](passages/romans-12.md) · [Classic](passages/romans-12.classic.md) · [Basic English](passages/romans-12.basic.md)
+- [12](passages/romans-12.md) · [Study](passages/romans-12.md) · [Classic](passages/romans-12.classic.md) · [Basic English](passages/romans-12.basic.md) · [개역한글](passages/romans-12.krv.md)
