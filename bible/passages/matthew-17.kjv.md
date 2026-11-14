@@ -1,0 +1,70 @@
+<!-- reader: speak=word -->
+
+# 马太福音 17 | Mǎ tài fú yīn 17 | Matthew 17
+
+> **KJV** · 和合本 (Chinese Union Version, 1919), simplified and traditional · SBL Greek New Testament (SBLGNT) · King James Version (KJV, 1769)
+
+## 第1–5节 | Dì 1–5 jié | Verses 1–5
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 1 过 了 六天， 耶稣 带 着 彼得、 雅各， 和 雅各 的 兄弟 约翰， 暗暗 地上 了 高山， | 1 Guò le liù tiān , yē sū dài zhe bǐ dé , yǎ gè , hé yǎ gè de xiōng dì yuē hàn , àn àn dì shàng le gāo shān , | 1 過 了 六天， 耶穌 帶 著 彼得、 雅各， 和 雅各 的 兄弟 約翰， 暗暗 地上 了 高山， | Καὶ μεθ’ ἡμέρας ἓξ παραλαμβάνει ὁ Ἰησοῦς τὸν Πέτρον καὶ Ἰάκωβον καὶ Ἰωάννην τὸν ἀδελφὸν αὐτοῦ, καὶ ἀναφέρει αὐτοὺς εἰς ὄρος ὑψηλὸν κατ’ ἰδίαν. | And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart, |
+| 2 就 在 他们 面前 变 了 形像， 脸面 明亮 如 日头， 衣裳 洁白 如光。 | 2 Jiù zài tā men miàn qián biàn le xíng xiàng , liǎn miàn míng liàng rú rì tou , yī shang jié bái rú guāng . | 2 就 在 他們 面前 變 了 形像， 臉面 明亮 如 日頭， 衣裳 潔白 如光。 | καὶ μετεμορφώθη ἔμπροσθεν αὐτῶν, καὶ ἔλαμψεν τὸ πρόσωπον αὐτοῦ ὡς ὁ ἥλιος, τὰ δὲ ἱμάτια αὐτοῦ ἐγένετο λευκὰ ὡς τὸ φῶς. | And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light. |
+| 3 忽然， 有 摩西、 以 利亚 向 他们 显现， 同 耶稣 说话。 | 3 Hū rán , yǒu mó xī , yǐ lì yà xiàng tā men xiǎn xiàn , tóng yē sū shuō huà . | 3 忽然， 有 摩西、 以 利亞 向 他們 顯現， 同 耶穌 說話。 | καὶ ἰδοὺ ὤφθη αὐτοῖς Μωϋσῆς καὶ Ἠλίας συλλαλοῦντες μετ’ αὐτοῦ. | And, behold, there appeared unto them Moses and Elias talking with him. |
+| 4 彼得 对 耶稣 说： 「主 啊， 我们 在 这里 真 好！ 你 若 愿意， 我 就 在 这里 搭 三座 棚， 一座 为 你， 一座 为 摩西， 一座 为 以 利亚。」 | 4 Bǐ dé duì yē sū shuō : “ zhǔ a , wǒ men zài zhè lǐ zhēn hǎo ! Nǐ ruò yuàn yì , wǒ jiù zài zhè lǐ dā sān zuò péng , yí zuò wèi nǐ , yí zuò wèi mó xī , yí zuò wèi yǐ lì yà . ” | 4 彼得 對 耶穌 說： 「主 啊， 我們 在 這裡 真 好！ 你 若 願意， 我 就 在 這裡 搭 三座 棚， 一座 為 你， 一座 為 摩西， 一座 為 以 利亞。」 | ἀποκριθεὶς δὲ ὁ Πέτρος εἶπεν τῷ Ἰησοῦ· Κύριε, καλόν ἐστιν ἡμᾶς ὧδε εἶναι· εἰ θέλεις, ποιήσω ὧδε τρεῖς σκηνάς, σοὶ μίαν καὶ Μωϋσεῖ μίαν καὶ Ἠλίᾳ μίαν. | Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elias. |
+| 5 说话 之间， 忽然 有 一朵 光明 的 云彩 遮盖 他们， 且 有 声音 从 云彩 里 出来， 说： 「这 是 我 的 爱子， 我 所 喜悦 的。 你们 要 听 他！」 | 5 Shuō huà zhī jiān , hū rán yǒu yì duǒ guāng míng de yún cǎi zhē gài tā men , qiě yǒu shēng yīn cóng yún cǎi lǐ chū lái , shuō : “ zhè shì wǒ de ài zi , wǒ suǒ xǐ yuè de . Nǐ men yào tīng tā ! ” | 5 說話 之間， 忽然 有 一朵 光明 的 雲彩 遮蓋 他們， 且 有 聲音 從 雲彩 裡 出來， 說： 「這 是 我 的 愛子， 我 所 喜悅 的。 你們 要 聽 他！」 | ἔτι αὐτοῦ λαλοῦντος ἰδοὺ νεφέλη φωτεινὴ ἐπεσκίασεν αὐτούς, καὶ ἰδοὺ φωνὴ ἐκ τῆς νεφέλης λέγουσα· Οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα· ἀκούετε αὐτοῦ. | While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him. |
+
+## 第6–10节 | Dì 6–10 jié | Verses 6–10
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 6 门徒 听见， 就 俯伏 在 地， 极其 害怕。 | 6 Mén tú tīng jiàn , jiù fǔ fú zài dì , jí qí hài pà . | 6 門徒 聽見， 就 俯伏 在 地， 極其 害怕。 | καὶ ἀκούσαντες οἱ μαθηταὶ ἔπεσαν ἐπὶ πρόσωπον αὐτῶν καὶ ἐφοβήθησαν σφόδρα. | And when the disciples heard it, they fell on their face, and were sore afraid. |
+| 7 耶稣 进 前来， 摸 他们， 说： 「起来， 不要 害怕！」 | 7 Yē sū jìn qián lái , mō tā men , shuō : “ qǐ lái , bú yào hài pà ! ” | 7 耶穌 進 前來， 摸 他們， 說： 「起來， 不要 害怕！」 | καὶ προσῆλθεν ὁ Ἰησοῦς καὶ ἁψάμενος αὐτῶν εἶπεν· Ἐγέρθητε καὶ μὴ φοβεῖσθε. | And Jesus came and touched them, and said, Arise, and be not afraid. |
+| 8 他们 举目 不见 一人， 只见 耶稣 在 那里。 | 8 Tā men jǔ mù bú jiàn yì rén , zhǐ jiàn yē sū zài nà lǐ . | 8 他們 舉目 不見 一人， 只見 耶穌 在 那裡。 | ἐπάραντες δὲ τοὺς ὀφθαλμοὺς αὐτῶν οὐδένα εἶδον εἰ μὴ αὐτὸν Ἰησοῦν μόνον. | And when they had lifted up their eyes, they saw no man, save Jesus only. |
+| 9 下山 的 时候， 耶稣 吩咐 他们 说： 「人子 还 没有 从 死 里 复活， 你们 不要 将 所 看见 的 告诉 人。」 | 9 Xià shān de shí hou , yē sū fēn fù tā men shuō : “ rén zi hái méi yǒu cóng sǐ lǐ fù huó , nǐ men bú yào jiāng suǒ kàn jiàn de gào sù rén . ” | 9 下山 的 時候， 耶穌 吩咐 他們 說： 「人子 還 沒有 從 死 裡 復活， 你們 不要 將 所 看見 的 告訴 人。」 | Καὶ καταβαινόντων αὐτῶν ἐκ τοῦ ὄρους ἐνετείλατο αὐτοῖς ὁ Ἰησοῦς λέγων· Μηδενὶ εἴπητε τὸ ὅραμα ἕως οὗ ὁ υἱὸς τοῦ ἀνθρώπου ἐκ νεκρῶν ἐγερθῇ. | And as they came down from the mountain, Jesus charged them, saying, Tell the vision to no man, until the Son of man be risen again from the dead. |
+| 10 门徒 问 耶稣 说： 「文士 为 甚么 说 以 利亚 必须 先 来？」 | 10 Mén tú wèn yē sū shuō : “ wén shì wèi shén me shuō yǐ lì yà bì xū xiān lái ? ” | 10 門徒 問 耶穌 說： 「文士 為 甚麼 說 以 利亞 必須 先 來？」 | καὶ ἐπηρώτησαν αὐτὸν οἱ μαθηταὶ λέγοντες· Τί οὖν οἱ γραμματεῖς λέγουσιν ὅτι Ἠλίαν δεῖ ἐλθεῖν πρῶτον; | And his disciples asked him, saying, Why then say the scribes that Elias must first come? |
+
+## 第11–15节 | Dì 11–15 jié | Verses 11–15
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 11 耶稣 回答 说： 「以 利亚 固然 先 来， 并 要 复兴 万事； | 11 Yē sū huí dá shuō : “ yǐ lì yà gù rán xiān lái , bìng yào fù xīng wàn shì ; | 11 耶穌 回答 說： 「以 利亞 固然 先 來， 並 要 復興 萬事； | ὁ δὲ ἀποκριθεὶς εἶπεν· Ἠλίας μὲν ἔρχεται καὶ ἀποκαταστήσει πάντα· | And Jesus answered and said unto them, Elias truly shall first come, and restore all things. |
+| 12 只是 我 告诉 你们， 以 利亚 已经 来 了， 人 却 不 认识 他， 竟 任意 待 他。 人子 也 将要 这样 受 他们 的 害。」 | 12 Zhǐ shì wǒ gào sù nǐ men , yǐ lì yà yǐ jīng lái le , rén què bù rèn shí tā , jìng rèn yì dài tā . Rén zi yě jiāng yào zhè yàng shòu tā men de hài . ” | 12 只是 我 告訴 你們， 以 利亞 已經 來 了， 人 卻 不 認識 他， 竟 任意 待 他。 人子 也 將要 這樣 受 他們 的 害。」 | λέγω δὲ ὑμῖν ὅτι Ἠλίας ἤδη ἦλθεν, καὶ οὐκ ἐπέγνωσαν αὐτὸν ἀλλὰ ἐποίησαν ἐν αὐτῷ ὅσα ἠθέλησαν· οὕτως καὶ ὁ υἱὸς τοῦ ἀνθρώπου μέλλει πάσχειν ὑπ’ αὐτῶν. | But I say unto you, That Elias is come already, and they knew him not, but have done unto him whatsoever they listed. Likewise shall also the Son of man suffer of them. |
+| 13 门徒 这才 明白 耶稣 所说 的 是 指着 施洗 的 约翰。 | 13 Mén tú zhè cái míng bái yē sū suǒ shuō de shì zhǐ zhe shī xǐ de yuē hàn . | 13 門徒 這才 明白 耶穌 所說 的 是 指著 施洗 的 約翰。 | τότε συνῆκαν οἱ μαθηταὶ ὅτι περὶ Ἰωάννου τοῦ βαπτιστοῦ εἶπεν αὐτοῖς. | Then the disciples understood that he spake unto them of John the Baptist. |
+| 14 耶稣 和 门徒 到 了 众人 那里， 有 一个 人来 见 耶稣， 跪下， | 14 Yē sū hé mén tú dào le zhòng rén nà lǐ , yǒu yí gè rén lái jiàn yē sū , guì xià , | 14 耶穌 和 門徒 到 了 眾人 那裡， 有 一個 人來 見 耶穌， 跪下， | Καὶ ἐλθόντων πρὸς τὸν ὄχλον προσῆλθεν αὐτῷ ἄνθρωπος γονυπετῶν αὐτὸν | And when they were come to the multitude, there came to him a certain man, kneeling down to him, and saying, |
+| 15 说： 「主 啊， 怜悯 我 的 儿子！ 他害 癫痫 的 病 很 苦， 屡次 跌 在 火里， 屡次 跌 在 水里。 | 15 Shuō : “ zhǔ a , lián mǐn wǒ de ér zi ! Tā hài diān xián de bìng hěn kǔ , lǚ cì diē zài huǒ lǐ , lǚ cì diē zài shuǐ lǐ . | 15 說： 「主 啊， 憐憫 我 的 兒子！ 他害 癲癇 的 病 很 苦， 屢次 跌 在 火裡， 屢次 跌 在 水裡。 | καὶ λέγων· Κύριε, ἐλέησόν μου τὸν υἱόν, ὅτι σεληνιάζεται καὶ κακῶς πάσχει, πολλάκις γὰρ πίπτει εἰς τὸ πῦρ καὶ πολλάκις εἰς τὸ ὕδωρ. | Lord, have mercy on my son: for he is lunatick, and sore vexed: for ofttimes he falleth into the fire, and oft into the water. |
+
+## 第16–20节 | Dì 16–20 jié | Verses 16–20
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 16 我 带 他 到 你 门徒 那里， 他们 却 不能医治 他。」 | 16 Wǒ dài tā dào nǐ mén tú nà lǐ , tā men què bù néng yī zhì tā . ” | 16 我 帶 他 到 你 門徒 那裡， 他們 卻 不能醫治 他。」 | καὶ προσήνεγκα αὐτὸν τοῖς μαθηταῖς σου, καὶ οὐκ ἠδυνήθησαν αὐτὸν θεραπεῦσαι. | And I brought him to thy disciples, and they could not cure him. |
+| 17 耶稣 说： 「嗳！ 这 又 不信 又 悖谬 的 世代 啊， 我 在 你们 这里 要 到 几时 呢？ 我 忍耐 你们 要 到 几时 呢？ 把 他 带到 我 这里 来 吧！」 | 17 Yē sū shuō : “ āi ! Zhè yòu bú xìn yòu bèi miù de shì dài a , wǒ zài nǐ men zhè lǐ yào dào jǐ shí ne ? Wǒ rěn nài nǐ men yào dào jǐ shí ne ? Bǎ tā dài dào wǒ zhè lǐ lái ba ! ” | 17 耶穌 說： 「噯！ 這 又 不信 又 悖謬 的 世代 啊， 我 在 你們 這裡 要 到 幾時 呢？ 我 忍耐 你們 要 到 幾時 呢？ 把 他 帶到 我 這裡 來 吧！」 | ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν· Ὦ γενεὰ ἄπιστος καὶ διεστραμμένη, ἕως πότε μεθ’ ὑμῶν ἔσομαι; ἕως πότε ἀνέξομαι ὑμῶν; φέρετέ μοι αὐτὸν ὧδε. | Then Jesus answered and said, O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him hither to me. |
+| 18 耶稣 斥责 那鬼， 鬼 就 出来； 从此 孩子 就 痊愈 了。 | 18 Yē sū chì zé nà guǐ , guǐ jiù chū lái ; cóng cǐ hái zi jiù quán yù le . | 18 耶穌 斥責 那鬼， 鬼 就 出來； 從此 孩子 就 痊癒 了。 | καὶ ἐπετίμησεν αὐτῷ ὁ Ἰησοῦς, καὶ ἐξῆλθεν ἀπ’ αὐτοῦ τὸ δαιμόνιον· καὶ ἐθεραπεύθη ὁ παῖς ἀπὸ τῆς ὥρας ἐκείνης. | And Jesus rebuked the devil; and he departed out of him: and the child was cured from that very hour. |
+| 19 门徒 暗暗 地到 耶稣 跟前， 说： 「我们 为 甚么 不能 赶出 那 鬼 呢？」 | 19 Mén tú àn àn dì dào yē sū gēn qián , shuō : “ wǒ men wèi shén me bù néng gǎn chū nà guǐ ne ? ” | 19 門徒 暗暗 地到 耶穌 跟前， 說： 「我們 為 甚麼 不能 趕出 那 鬼 呢？」 | Τότε προσελθόντες οἱ μαθηταὶ τῷ Ἰησοῦ κατ’ ἰδίαν εἶπον· Διὰ τί ἡμεῖς οὐκ ἠδυνήθημεν ἐκβαλεῖν αὐτό; | Then came the disciples to Jesus apart, and said, Why could not we cast him out? |
+| 20 耶稣 说： 「是 因 你们 的 信心 小。 我 实在 告诉 你们， 你们 若有 信心， 像 一粒 芥菜 种， 就是 对 这座 山 说： 『你 从 这边 挪到 那边』， 它 也 必 挪去； 并且 你们 没有 一件 不能 做 的 事 了。 | 20 Yē sū shuō : “ shì yīn nǐ men de xìn xīn xiǎo . Wǒ shí zài gào sù nǐ men , nǐ men ruò yǒu xìn xīn , xiàng yí lì jiè cài zhǒng , jiù shì duì zhè zuò shān shuō : ‘ nǐ cóng zhè biān nuó dào nà biān ’ , tā yě bì nuó qù ; bìng qiě nǐ men méi yǒu yí jiàn bù néng zuò de shì le . | 20 耶穌 說： 「是 因 你們 的 信心 小。 我 實在 告訴 你們， 你們 若有 信心， 像 一粒 芥菜 種， 就是 對 這座 山 說： 『你 從 這邊 挪到 那邊』， 它 也 必 挪去； 並且 你們 沒有 一件 不能 做 的 事 了。 | ὁ δὲ λέγει αὐτοῖς· Διὰ τὴν ὀλιγοπιστίαν ὑμῶν· ἀμὴν γὰρ λέγω ὑμῖν, ἐὰν ἔχητε πίστιν ὡς κόκκον σινάπεως, ἐρεῖτε τῷ ὄρει τούτῳ· Μετάβα ἔνθεν ἐκεῖ, καὶ μεταβήσεται, καὶ οὐδὲν ἀδυνατήσει ὑμῖν. | And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you. |
+
+## 第21–25节 | Dì 21–25 jié | Verses 21–25
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 21 至于 这 一类 的 鬼， 若 不 祷告、 禁食， 他 就 不 出来 （或译： 不能 赶 他 出来）。」 | 21 Zhì yú zhè yí lèi de guǐ , ruò bù dǎo gào , jìn shí , tā jiù bù chū lái ( huò yì : bù néng gǎn tā chū lái ) . ” | 21 至於 這 一類 的 鬼， 若 不 禱告、 禁食， 他 就 不 出來 （或譯： 不能 趕 他 出來）。」 |  | Howbeit this kind goeth not out but by prayer and fasting. |
+| 22 他们 还 住 在 加利利 的 时候， 耶稣 对 门徒 说： 「人 子 将要 被 交 在 人 手里。 | 22 Tā men hái zhù zài jiā lì lì de shí hou , yē sū duì mén tú shuō : “ rén zi jiāng yào bèi jiāo zài rén shǒu lǐ . | 22 他們 還 住 在 加利利 的 時候， 耶穌 對 門徒 說： 「人 子 將要 被 交 在 人 手裡。 | Συστρεφομένων δὲ αὐτῶν ἐν τῇ Γαλιλαίᾳ εἶπεν αὐτοῖς ὁ Ἰησοῦς· Μέλλει ὁ υἱὸς τοῦ ἀνθρώπου παραδίδοσθαι εἰς χεῖρας ἀνθρώπων, | And while they abode in Galilee, Jesus said unto them, The Son of man shall be betrayed into the hands of men: |
+| 23 他们 要 杀害 他， 第三日 他 要 复活。」 门徒 就 大大 地 忧愁。 | 23 Tā men yào shā hài tā , dì sān rì tā yào fù huó . ” Mén tú jiù dà dà dì yōu chóu . | 23 他們 要 殺害 他， 第三日 他 要 復活。」 門徒 就 大大 地 憂愁。 | καὶ ἀποκτενοῦσιν αὐτόν, καὶ τῇ τρίτῃ ἡμέρᾳ ἐγερθήσεται. καὶ ἐλυπήθησαν σφόδρα. | And they shall kill him, and the third day he shall be raised again. And they were exceeding sorry. |
+| 24 到 了 迦百农， 有收 丁税 的 人来 见 彼得， 说： 「你们 的 先生 不纳 丁税 （丁税 约 有 半块 钱） 吗？」 | 24 Dào le jiā bǎi nóng , yǒu shōu dīng shuì de rén lái jiàn bǐ dé , shuō : “ nǐ men de xiān shēng bú nà dīng shuì ( dīng shuì yuē yǒu bàn kuài qián ) ma ? ” | 24 到 了 迦百農， 有收 丁稅 的 人來 見 彼得， 說： 「你們 的 先生 不納 丁稅 （丁稅 約 有 半塊 錢） 嗎？」 | Ἐλθόντων δὲ αὐτῶν εἰς Καφαρναοὺμ προσῆλθον οἱ τὰ δίδραχμα λαμβάνοντες τῷ Πέτρῳ καὶ εἶπαν· Ὁ διδάσκαλος ὑμῶν οὐ τελεῖ τὰ δίδραχμα; | And when they were come to Capernaum, they that received tribute money came to Peter, and said, Doth not your master pay tribute? |
+| 25 彼得 说： 「纳。」 他进 了 屋子， 耶稣 先向 他 说： 「西门， 你 的 意思 如何？ 世上 的 君王 向 谁 征收 关税、 丁税？ 是 向 自己 的 儿子 呢？ 是 向 外人 呢？」 | 25 Bǐ dé shuō : “ nà . ” Tā jìn le wū zi , yē sū xiān xiàng tā shuō : “ xī mén , nǐ de yì si rú hé ? Shì shàng de jūn wáng xiàng shuí zhēng shōu guān shuì , dīng shuì ? Shì xiàng zì jǐ de ér zi ne ? Shì xiàng wài rén ne ? ” | 25 彼得 說： 「納。」 他進 了 屋子， 耶穌 先向 他 說： 「西門， 你 的 意思 如何？ 世上 的 君王 向 誰 征收 關稅、 丁稅？ 是 向 自己 的 兒子 呢？ 是 向 外人 呢？」 | λέγει· Ναί. καὶ ἐλθόντα εἰς τὴν οἰκίαν προέφθασεν αὐτὸν ὁ Ἰησοῦς λέγων· Τί σοι δοκεῖ, Σίμων; οἱ βασιλεῖς τῆς γῆς ἀπὸ τίνων λαμβάνουσιν τέλη ἢ κῆνσον; ἀπὸ τῶν υἱῶν αὐτῶν ἢ ἀπὸ τῶν ἀλλοτρίων; | He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers? |
+
+## 第26–27节 | Dì 26–27 jié | Verses 26–27
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 26 彼得 说： 「是 向 外人。」 耶稣 说： 「既然如此， 儿子 就 可以 免税 了。 | 26 Bǐ dé shuō : “ shì xiàng wài rén . ” Yē sū shuō : “ jì rán rú cǐ , ér zi jiù kě yǐ miǎn shuì le . | 26 彼得 說： 「是 向 外人。」 耶穌 說： 「既然如此， 兒子 就 可以 免稅 了。 | εἰπόντος δέ· Ἀπὸ τῶν ἀλλοτρίων, ἔφη αὐτῷ ὁ Ἰησοῦς· Ἄρα γε ἐλεύθεροί εἰσιν οἱ υἱοί. | Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free. |
+| 27 但 恐怕 触犯 （触犯： 原文 是 绊倒） 他们， 你 且 往 海边 去 钓鱼， 把 先 钓上来 的 鱼 拿 起来， 开 了 牠 的 口， 必 得 一块钱， 可以 拿 去 给 他们， 作 你 我 的 税 银。」 | 27 Dàn kǒng pà chù fàn ( chù fàn : yuán wén shì bàn dǎo ) tā men , nǐ qiě wǎng hǎi biān qù diào yú , bǎ xiān diào shàng lái de yú ná qǐ lái , kāi le tā de kǒu , bì dé yí kuài qián , kě yǐ ná qù gěi tā men , zuò nǐ wǒ de shuì yín . ” | 27 但 恐怕 觸犯 （觸犯： 原文 是 絆倒） 他們， 你 且 往 海邊 去 釣魚， 把 先 釣上來 的 魚 拿 起來， 開 了 牠 的 口， 必 得 一塊錢， 可以 拿 去 給 他們， 作 你 我 的 稅 銀。」 | ἵνα δὲ μὴ σκανδαλίσωμεν αὐτούς, πορευθεὶς εἰς θάλασσαν βάλε ἄγκιστρον καὶ τὸν ἀναβάντα πρῶτον ἰχθὺν ἆρον, καὶ ἀνοίξας τὸ στόμα αὐτοῦ εὑρήσεις στατῆρα· ἐκεῖνον λαβὼν δὸς αὐτοῖς ἀντὶ ἐμοῦ καὶ σοῦ. | Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee. |
+
+> Greek: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software (sblgnt.com).

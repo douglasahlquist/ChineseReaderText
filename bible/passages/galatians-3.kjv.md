@@ -1,0 +1,72 @@
+<!-- reader: speak=word -->
+
+# 加拉太书 3 | Jiā lā tài shū 3 | Galatians 3
+
+> **KJV** · 和合本 (Chinese Union Version, 1919), simplified and traditional · SBL Greek New Testament (SBLGNT) · King James Version (KJV, 1769)
+
+## 第1–5节 | Dì 1–5 jié | Verses 1–5
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 1 无知 的 加拉 太人 哪， 耶稣基督 钉 十字架， 已经 活画 在 你们 眼前， 谁 又 迷惑 了 你们 呢？ | 1 Wú zhī de jiā lā tài rén nǎ , yē sū jī dū dīng shí zì jià , yǐ jīng huó huà zài nǐ men yǎn qián , shuí yòu mí huò le nǐ men ne ? | 1 無知 的 加拉 太人 哪， 耶穌基督 釘 十字架， 已經 活畫 在 你們 眼前， 誰 又 迷惑 了 你們 呢？ | Ὦ ἀνόητοι Γαλάται, τίς ὑμᾶς ἐβάσκανεν, οἷς κατ’ ὀφθαλμοὺς Ἰησοῦς Χριστὸς προεγράφη ἐσταυρωμένος; | O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you? |
+| 2 我 只要 问 你们 这 一件： 你们 受 了 圣灵， 是 因行 律法 呢？ 是 因 听信 福音 呢？ | 2 Wǒ zhǐ yào wèn nǐ men zhè yí jiàn : nǐ men shòu le shèng líng , shì yīn xíng lǜ fǎ ne ? Shì yīn tīng xìn fú yīn ne ? | 2 我 只要 問 你們 這 一件： 你們 受 了 聖靈， 是 因行 律法 呢？ 是 因 聽信 福音 呢？ | τοῦτο μόνον θέλω μαθεῖν ἀφ’ ὑμῶν, ἐξ ἔργων νόμου τὸ πνεῦμα ἐλάβετε ἢ ἐξ ἀκοῆς πίστεως; | This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith? |
+| 3 你们 既靠 圣灵 入门， 如今 还 靠 肉身 成全 吗？ 你们 是 这样 的 无知 吗？ | 3 Nǐ men jì kào shèng líng rù mén , rú jīn hái kào ròu shēn chéng quán ma ? Nǐ men shì zhè yàng de wú zhī ma ? | 3 你們 既靠 聖靈 入門， 如今 還 靠 肉身 成全 嗎？ 你們 是 這樣 的 無知 嗎？ | οὕτως ἀνόητοί ἐστε; ἐναρξάμενοι πνεύματι νῦν σαρκὶ ἐπιτελεῖσθε; | Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh? |
+| 4 你们 受苦 如此 之多， 都 是 徒然 的 吗？ 难道 果真 是 徒然 的 吗？ | 4 Nǐ men shòu kǔ rú cǐ zhī duō , dōu shì tú rán de ma ? Nán dào guǒ zhēn shì tú rán de ma ? | 4 你們 受苦 如此 之多， 都 是 徒然 的 嗎？ 難道 果真 是 徒然 的 嗎？ | τοσαῦτα ἐπάθετε εἰκῇ; εἴ γε καὶ εἰκῇ. | Have ye suffered so many things in vain? if it be yet in vain. |
+| 5 那 赐给 你们 圣灵， 又 在 你们 中间 行 异能 的， 是 因 你们 行 律法 呢？ 是 因 你们 听信 福音 呢？ | 5 Nà cì gěi nǐ men shèng líng , yòu zài nǐ men zhōng jiān xíng yì néng de , shì yīn nǐ men xíng lǜ fǎ ne ? Shì yīn nǐ men tīng xìn fú yīn ne ? | 5 那 賜給 你們 聖靈， 又 在 你們 中間 行 異能 的， 是 因 你們 行 律法 呢？ 是 因 你們 聽信 福音 呢？ | ὁ οὖν ἐπιχορηγῶν ὑμῖν τὸ πνεῦμα καὶ ἐνεργῶν δυνάμεις ἐν ὑμῖν ἐξ ἔργων νόμου ἢ ἐξ ἀκοῆς πίστεως; | He therefore that ministereth to you the Spirit, and worketh miracles among you, doeth he it by the works of the law, or by the hearing of faith? |
+
+## 第6–10节 | Dì 6–10 jié | Verses 6–10
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 6 正如 「亚伯拉罕 信 神， 这 就算 为 他 的 义」。 | 6 Zhèng rú “ yà bó lā hǎn xìn shén , zhè jiù suàn wèi tā de yì ” . | 6 正如 「亞伯拉罕 信 神， 這 就算 為 他 的 義」。 | καθὼς Ἀβραὰμ ἐπίστευσεν τῷ θεῷ, καὶ ἐλογίσθη αὐτῷ εἰς δικαιοσύνην. | Even as Abraham believed God, and it was accounted to him for righteousness. |
+| 7 所以， 你们 要 知道： 那 以信为本 的 人， 就是 亚伯拉罕 的 子孙。 | 7 Suǒ yǐ , nǐ men yào zhī dào : nà yǐ xìn wèi běn de rén , jiù shì yà bó lā hǎn de zǐ sūn . | 7 所以， 你們 要 知道： 那 以信為本 的 人， 就是 亞伯拉罕 的 子孫。 | Γινώσκετε ἄρα ὅτι οἱ ἐκ πίστεως, οὗτοι υἱοί εἰσιν Ἀβραάμ. | Know ye therefore that they which are of faith, the same are the children of Abraham. |
+| 8 并且 圣经 既然 预先 看明， 神要 叫 外邦 人 因 信称义， 就 早已 传 福音 给 亚伯拉罕， 说： 「万国 都 必因 你 得 福。」 | 8 Bìng qiě shèng jīng jì rán yù xiān kàn míng , shén yào jiào wài bāng rén yīn xìn chēng yì , jiù zǎo yǐ chuán fú yīn gěi yà bó lā hǎn , shuō : “ wàn guó dōu bì yīn nǐ de fú . ” | 8 並且 聖經 既然 預先 看明， 神要 叫 外邦 人 因 信稱義， 就 早已 傳 福音 給 亞伯拉罕， 說： 「萬國 都 必因 你 得 福。」 | προϊδοῦσα δὲ ἡ γραφὴ ὅτι ἐκ πίστεως δικαιοῖ τὰ ἔθνη ὁ θεὸς προευηγγελίσατο τῷ Ἀβραὰμ ὅτι Ἐνευλογηθήσονται ἐν σοὶ πάντα τὰ ἔθνη. | And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, saying, In thee shall all nations be blessed. |
+| 9 可见 那 以信为本 的 人 和 有 信心 的 亚伯拉罕 一同 得福。 | 9 Kě jiàn nà yǐ xìn wèi běn de rén hé yǒu xìn xīn de yà bó lā hǎn yì tóng dé fú . | 9 可見 那 以信為本 的 人 和 有 信心 的 亞伯拉罕 一同 得福。 | ὥστε οἱ ἐκ πίστεως εὐλογοῦνται σὺν τῷ πιστῷ Ἀβραάμ. | So then they which be of faith are blessed with faithful Abraham. |
+| 10 凡 以行 律法 为本 的， 都 是 被 咒诅 的； 因为 经上 记着： 「凡 不常照 律法 书上 所记 一切 之事 去 行 的， 就 被 咒诅。」 | 10 Fán yǐ xíng lǜ fǎ wèi běn de , dōu shì bèi zhòu zǔ de ; yīn wèi jīng shàng jì zhe : “ fán bù cháng zhào lǜ fǎ shū shàng suǒ jì yí qiè zhī shì qù xíng de , jiù bèi zhòu zǔ . ” | 10 凡 以行 律法 為本 的， 都 是 被 咒詛 的； 因為 經上 記著： 「凡 不常照 律法 書上 所記 一切 之事 去 行 的， 就 被 咒詛。」 | Ὅσοι γὰρ ἐξ ἔργων νόμου εἰσὶν ὑπὸ κατάραν εἰσίν, γέγραπται γὰρ ὅτι Ἐπικατάρατος πᾶς ὃς οὐκ ἐμμένει πᾶσιν τοῖς γεγραμμένοις ἐν τῷ βιβλίῳ τοῦ νόμου τοῦ ποιῆσαι αὐτά. | For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them. |
+
+## 第11–15节 | Dì 11–15 jié | Verses 11–15
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 11 没有 一个 人 靠着 律法 在 神 面前 称义， 这是 明显 的； 因为 经上 说： 「义人 必因 信得生。」 | 11 Méi yǒu yí gè rén kào zhe lǜ fǎ zài shén miàn qián chēng yì , zhè shì míng xiǎn de ; yīn wèi jīng shàng shuō : “ yì rén bì yīn xìn dé shēng . ” | 11 沒有 一個 人 靠著 律法 在 神 面前 稱義， 這是 明顯 的； 因為 經上 說： 「義人 必因 信得生。」 | ὅτι δὲ ἐν νόμῳ οὐδεὶς δικαιοῦται παρὰ τῷ θεῷ δῆλον, ὅτι Ὁ δίκαιος ἐκ πίστεως ζήσεται, | But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith. |
+| 12 律法 原 不 本乎 信， 只 说： 「行 这些 事 的， 就 必 因此 活着。」 | 12 Lǜ fǎ yuán bù běn hū xìn , zhǐ shuō : “ xíng zhè xiē shì de , jiù bì yīn cǐ huó zhe . ” | 12 律法 原 不 本乎 信， 只 說： 「行 這些 事 的， 就 必 因此 活著。」 | ὁ δὲ νόμος οὐκ ἔστιν ἐκ πίστεως, ἀλλ’· Ὁ ποιήσας αὐτὰ ζήσεται ἐν αὐτοῖς. | And the law is not of faith: but, The man that doeth them shall live in them. |
+| 13 基督 既 为 我们 受 了 咒诅， 就 赎出 我们 脱离 律法 的 咒诅； 因为 经上 记着： 「凡 挂 在 木头 上 都 是 被 咒诅 的。」 | 13 Jī dū jì wèi wǒ men shòu le zhòu zǔ , jiù shú chū wǒ men tuō lí lǜ fǎ de zhòu zǔ ; yīn wèi jīng shàng jì zhe : “ fán guà zài mù tou shàng dōu shì bèi zhòu zǔ de . ” | 13 基督 既 為 我們 受 了 咒詛， 就 贖出 我們 脫離 律法 的 咒詛； 因為 經上 記著： 「凡 掛 在 木頭 上 都 是 被 咒詛 的。」 | Χριστὸς ἡμᾶς ἐξηγόρασεν ἐκ τῆς κατάρας τοῦ νόμου γενόμενος ὑπὲρ ἡμῶν κατάρα, ὅτι γέγραπται· Ἐπικατάρατος πᾶς ὁ κρεμάμενος ἐπὶ ξύλου, | Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree: |
+| 14 这 便 叫 亚伯拉罕 的 福， 因 基督 耶稣 可以 临到 外邦 人， 使 我们 因信 得着 所 应许 的 圣灵。 | 14 Zhè biàn jiào yà bó lā hǎn de fú , yīn jī dū yē sū kě yǐ lín dào wài bāng rén , shǐ wǒ men yīn xìn dé zháo suǒ yīng xǔ de shèng líng . | 14 這 便 叫 亞伯拉罕 的 福， 因 基督 耶穌 可以 臨到 外邦 人， 使 我們 因信 得著 所 應許 的 聖靈。 | ἵνα εἰς τὰ ἔθνη ἡ εὐλογία τοῦ Ἀβραὰμ γένηται ἐν Χριστῷ Ἰησοῦ, ἵνα τὴν ἐπαγγελίαν τοῦ πνεύματος λάβωμεν διὰ τῆς πίστεως. | That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith. |
+| 15 弟兄们， 我且 照着 人 的 常话 说： 虽然 是 人 的 文约， 若 已经 立定 了， 就 没有 能 废弃 或 加增 的。 | 15 Dì xiong men , wǒ qiě zhào zhe rén de cháng huà shuō : suī rán shì rén de wén yuē , ruò yǐ jīng lì dìng le , jiù méi yǒu néng fèi qì huò jiā zēng de . | 15 弟兄們， 我且 照著 人 的 常話 說： 雖然 是 人 的 文約， 若 已經 立定 了， 就 沒有 能 廢棄 或 加增 的。 | Ἀδελφοί, κατὰ ἄνθρωπον λέγω· ὅμως ἀνθρώπου κεκυρωμένην διαθήκην οὐδεὶς ἀθετεῖ ἢ ἐπιδιατάσσεται. | Brethren, I speak after the manner of men; Though it be but a man’s covenant, yet if it be confirmed, no man disannulleth, or addeth thereto. |
+
+## 第16–20节 | Dì 16–20 jié | Verses 16–20
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 16 所 应许 的 原 是 向 亚伯拉罕 和 他 子孙 说 的。 神 并 不是 说 「众 子孙」， 指着 许多 人， 乃是 说 「你 那 一个 子孙」， 指着 一个 人， 就是 基督。 | 16 Suǒ yīng xǔ de yuán shì xiàng yà bó lā hǎn hé tā zǐ sūn shuō de . Shén bìng bú shì shuō “ zhòng zǐ sūn ” , zhǐ zhe xǔ duō rén , nǎi shì shuō “ nǐ nà yí gè zǐ sūn ” , zhǐ zhe yí gè rén , jiù shì jī dū . | 16 所 應許 的 原 是 向 亞伯拉罕 和 他 子孫 說 的。 神 並 不是 說 「眾 子孫」， 指著 許多 人， 乃是 說 「你 那 一個 子孫」， 指著 一個 人， 就是 基督。 | τῷ δὲ Ἀβραὰμ ἐρρέθησαν αἱ ἐπαγγελίαι καὶ τῷ σπέρματι αὐτοῦ· οὐ λέγει· Καὶ τοῖς σπέρμασιν, ὡς ἐπὶ πολλῶν, ἀλλ’ ὡς ἐφ’ ἑνός· Καὶ τῷ σπέρματί σου, ὅς ἐστιν Χριστός. | Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ. |
+| 17 我 是 这么 说， 神 预先 所立 的 约， 不能 被 那 四百 三十年 以后 的 律法 废掉， 叫 应许 归于 虚空。 | 17 Wǒ shì zhè me shuō , shén yù xiān suǒ lì de yuē , bù néng bèi nà sì bǎi sān shí nián yǐ hòu de lǜ fǎ fèi diào , jiào yīng xǔ guī yú xū kōng . | 17 我 是 這麼 說， 神 預先 所立 的 約， 不能 被 那 四百 三十年 以後 的 律法 廢掉， 叫 應許 歸於 虛空。 | τοῦτο δὲ λέγω· διαθήκην προκεκυρωμένην ὑπὸ τοῦ θεοῦ ὁ μετὰ τετρακόσια καὶ τριάκοντα ἔτη γεγονὼς νόμος οὐκ ἀκυροῖ, εἰς τὸ καταργῆσαι τὴν ἐπαγγελίαν. | And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect. |
+| 18 因为 承受 产业， 若 本乎 律法， 就 不 本乎 应许； 但 神是 凭着 应许 把 产业 赐给 亚伯拉罕。 | 18 Yīn wèi chéng shòu chǎn yè , ruò běn hū lǜ fǎ , jiù bù běn hū yīng xǔ ; dàn shén shì píng zhe yīng xǔ bǎ chǎn yè cì gěi yà bó lā hǎn . | 18 因為 承受 產業， 若 本乎 律法， 就 不 本乎 應許； 但 神是 憑著 應許 把 產業 賜給 亞伯拉罕。 | εἰ γὰρ ἐκ νόμου ἡ κληρονομία, οὐκέτι ἐξ ἐπαγγελίας· τῷ δὲ Ἀβραὰμ δι’ ἐπαγγελίας κεχάρισται ὁ θεός. | For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise. |
+| 19 这样 说来， 律法 是 为 甚么 有 的 呢？ 原是 为 过 犯添 上 的， 等候 那蒙 应许 的 子孙 来到， 并且 是 藉 天使 经 中保 之手 设立 的。 | 19 Zhè yàng shuō lái , lǜ fǎ shì wèi shén me yǒu de ne ? Yuán shì wèi guò fàn tiān shàng de , děng hòu nà méng yīng xǔ de zǐ sūn lái dào , bìng qiě shì jí tiān shǐ jīng zhōng bǎo zhī shǒu shè lì de . | 19 這樣 說來， 律法 是 為 甚麼 有 的 呢？ 原是 為 過 犯添 上 的， 等候 那蒙 應許 的 子孫 來到， 並且 是 藉 天使 經 中保 之手 設立 的。 | Τί οὖν ὁ νόμος; τῶν παραβάσεων χάριν προσετέθη, ἄχρις οὗ ἔλθῃ τὸ σπέρμα ᾧ ἐπήγγελται, διαταγεὶς δι’ ἀγγέλων ἐν χειρὶ μεσίτου· | Wherefore then serveth the law? It was added because of transgressions, till the seed should come to whom the promise was made; and it was ordained by angels in the hand of a mediator. |
+| 20 但 中 保本 不是 为 一面 作 的； 神 却是 一位。 | 20 Dàn zhōng bǎo běn bú shì wèi yí miàn zuò de ; shén què shì yí wèi . | 20 但 中 保本 不是 為 一面 作 的； 神 卻是 一位。 | ὁ δὲ μεσίτης ἑνὸς οὐκ ἔστιν, ὁ δὲ θεὸς εἷς ἐστιν. | Now a mediator is not a mediator of one, but God is one. |
+
+## 第21–25节 | Dì 21–25 jié | Verses 21–25
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 21 这样， 律法 是 与 神 的 应许 反对 吗？ 断乎 不是！ 若 曾 传 一个 能 叫 人得生 的 律法， 义 就 诚然 本乎 律法 了。 | 21 Zhè yàng , lǜ fǎ shì yǔ shén de yīng xǔ fǎn duì ma ? Duàn hū bú shì ! Ruò céng chuán yí gè néng jiào rén dé shēng de lǜ fǎ , yì jiù chéng rán běn hū lǜ fǎ le . | 21 這樣， 律法 是 與 神 的 應許 反對 嗎？ 斷乎 不是！ 若 曾 傳 一個 能 叫 人得生 的 律法， 義 就 誠然 本乎 律法 了。 | Ὁ οὖν νόμος κατὰ τῶν ἐπαγγελιῶν τοῦ θεοῦ; μὴ γένοιτο· εἰ γὰρ ἐδόθη νόμος ὁ δυνάμενος ζῳοποιῆσαι, ὄντως ἐκ νόμου ἂν ἦν ἡ δικαιοσύνη. | Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law. |
+| 22 但 圣经 把 众人 都 圈 在 罪里， 使 所 应许 的 福 因信 耶稣基督， 归 给 那信 的 人。 | 22 Dàn shèng jīng bǎ zhòng rén dōu quān zài zuì lǐ , shǐ suǒ yīng xǔ de fú yīn xìn yē sū jī dū , guī gěi nà xìn de rén . | 22 但 聖經 把 眾人 都 圈 在 罪裡， 使 所 應許 的 福 因信 耶穌基督， 歸 給 那信 的 人。 | ἀλλὰ συνέκλεισεν ἡ γραφὴ τὰ πάντα ὑπὸ ἁμαρτίαν ἵνα ἡ ἐπαγγελία ἐκ πίστεως Ἰησοῦ Χριστοῦ δοθῇ τοῖς πιστεύουσιν. | But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe. |
+| 23 但 这 因信 得救 的 理 还 未来 以先， 我们 被 看守 在 律法 之下， 直圈 到 那 将来 的 真道 显明 出来。 | 23 Dàn zhè yīn xìn dé jiù de lǐ hái wèi lái yǐ xiān , wǒ men bèi kān shǒu zài lǜ fǎ zhī xià , zhí quān dào nà jiāng lái de zhēn dào xiǎn míng chū lái . | 23 但 這 因信 得救 的 理 還 未來 以先， 我們 被 看守 在 律法 之下， 直圈 到 那 將來 的 真道 顯明 出來。 | Πρὸ τοῦ δὲ ἐλθεῖν τὴν πίστιν ὑπὸ νόμον ἐφρουρούμεθα συγκλειόμενοι εἰς τὴν μέλλουσαν πίστιν ἀποκαλυφθῆναι. | But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed. |
+| 24 这样， 律法 是 我们 训蒙 的 师傅， 引 我们 到 基督 那里， 使 我们 因 信称义。 | 24 Zhè yàng , lǜ fǎ shì wǒ men xùn méng de shī fù , yǐn wǒ men dào jī dū nà lǐ , shǐ wǒ men yīn xìn chēng yì . | 24 這樣， 律法 是 我們 訓蒙 的 師傅， 引 我們 到 基督 那裡， 使 我們 因 信稱義。 | ὥστε ὁ νόμος παιδαγωγὸς ἡμῶν γέγονεν εἰς Χριστόν, ἵνα ἐκ πίστεως δικαιωθῶμεν· | Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith. |
+| 25 但 这 因信 得救 的 理 既然 来到， 我们 从此 就 不 在 师傅 的 手下 了。 | 25 Dàn zhè yīn xìn dé jiù de lǐ jì rán lái dào , wǒ men cóng cǐ jiù bù zài shī fù de shǒu xià le . | 25 但 這 因信 得救 的 理 既然 來到， 我們 從此 就 不 在 師傅 的 手下 了。 | ἐλθούσης δὲ τῆς πίστεως οὐκέτι ὑπὸ παιδαγωγόν ἐσμεν. | But after that faith is come, we are no longer under a schoolmaster. |
+
+## 第26–29节 | Dì 26–29 jié | Verses 26–29
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 26 所以， 你们 因信 基督 耶稣 都 是 神 的 儿子。 | 26 Suǒ yǐ , nǐ men yīn xìn jī dū yē sū dōu shì shén de ér zi . | 26 所以， 你們 因信 基督 耶穌 都 是 神 的 兒子。 | πάντες γὰρ υἱοὶ θεοῦ ἐστε διὰ τῆς πίστεως ἐν Χριστῷ Ἰησοῦ. | For ye are all the children of God by faith in Christ Jesus. |
+| 27 你们 受洗 归入 基督 的 都 是 披 戴 基督 了。 | 27 Nǐ men shòu xǐ guī rù jī dū de dōu shì pī dài jī dū le . | 27 你們 受洗 歸入 基督 的 都 是 披 戴 基督 了。 | ὅσοι γὰρ εἰς Χριστὸν ἐβαπτίσθητε, Χριστὸν ἐνεδύσασθε· | For as many of you as have been baptized into Christ have put on Christ. |
+| 28 并 不分 犹太人、 希腊人， 自主 的、 为奴 的， 或 男 或 女， 因为 你们 在 基督 耶稣 里 都 成为 一 了。 | 28 Bìng bù fēn yóu tài rén , xī là rén , zì zhǔ de , wèi nú de , huò nán huò nǚ , yīn wèi nǐ men zài jī dū yē sū lǐ dōu chéng wéi yī le . | 28 並 不分 猶太人、 希臘人， 自主 的、 為奴 的， 或 男 或 女， 因為 你們 在 基督 耶穌 裡 都 成為 一 了。 | οὐκ ἔνι Ἰουδαῖος οὐδὲ Ἕλλην, οὐκ ἔνι δοῦλος οὐδὲ ἐλεύθερος, οὐκ ἔνι ἄρσεν καὶ θῆλυ· πάντες γὰρ ὑμεῖς εἷς ἐστε ἐν Χριστῷ Ἰησοῦ. | There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus. |
+| 29 你们 既 属乎 基督， 就是 亚伯拉罕 的 后裔， 是 照着 应许 承受 产业 的 了。 | 29 Nǐ men jì shǔ hū jī dū , jiù shì yà bó lā hǎn de hòu yì , shì zhào zhe yīng xǔ chéng shòu chǎn yè de le . | 29 你們 既 屬乎 基督， 就是 亞伯拉罕 的 後裔， 是 照著 應許 承受 產業 的 了。 | εἰ δὲ ὑμεῖς Χριστοῦ, ἄρα τοῦ Ἀβραὰμ σπέρμα ἐστέ, κατ’ ἐπαγγελίαν κληρονόμοι. | And if ye be Christ’s, then are ye Abraham’s seed, and heirs according to the promise. |
+
+> Greek: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software (sblgnt.com).

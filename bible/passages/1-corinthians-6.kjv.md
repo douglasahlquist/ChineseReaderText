@@ -1,0 +1,51 @@
+<!-- reader: speak=word -->
+
+# 哥林多前书 6 | Gē lín duō qián shū 6 | 1 Corinthians 6
+
+> **KJV** · 和合本 (Chinese Union Version, 1919), simplified and traditional · SBL Greek New Testament (SBLGNT) · King James Version (KJV, 1769)
+
+## 第1–5节 | Dì 1–5 jié | Verses 1–5
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 1 你们 中间 有 彼此 相争 的 事， 怎敢 在 不义 的 人 面前 求审， 不 在 圣徒 面前 求审 呢？ | 1 Nǐ men zhōng jiān yǒu bǐ cǐ xiāng zhēng de shì , zěn gǎn zài bú yì de rén miàn qián qiú shěn , bù zài shèng tú miàn qián qiú shěn ne ? | 1 你們 中間 有 彼此 相爭 的 事， 怎敢 在 不義 的 人 面前 求審， 不 在 聖徒 面前 求審 呢？ | Τολμᾷ τις ὑμῶν πρᾶγμα ἔχων πρὸς τὸν ἕτερον κρίνεσθαι ἐπὶ τῶν ἀδίκων, καὶ οὐχὶ ἐπὶ τῶν ἁγίων; | Dare any of you, having a matter against another, go to law before the unjust, and not before the saints? |
+| 2 岂不知 圣徒 要 审判 世界 吗？ 若 世界 为 你们 所审， 难道 你们 不配 审判 这 最小 的 事 吗？ | 2 Qǐ bù zhī shèng tú yào shěn pàn shì jiè ma ? Ruò shì jiè wéi nǐ men suǒ shěn , nán dào nǐ men bú pèi shěn pàn zhè zuì xiǎo de shì ma ? | 2 豈不知 聖徒 要 審判 世界 嗎？ 若 世界 為 你們 所審， 難道 你們 不配 審判 這 最小 的 事 嗎？ | ἢ οὐκ οἴδατε ὅτι οἱ ἅγιοι τὸν κόσμον κρινοῦσιν; καὶ εἰ ἐν ὑμῖν κρίνεται ὁ κόσμος, ἀνάξιοί ἐστε κριτηρίων ἐλαχίστων; | Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the smallest matters? |
+| 3 岂不知 我们 要 审判 天使 吗？ 何况 今生 的 事 呢？ | 3 Qǐ bù zhī wǒ men yào shěn pàn tiān shǐ ma ? Hé kuàng jīn shēng de shì ne ? | 3 豈不知 我們 要 審判 天使 嗎？ 何況 今生 的 事 呢？ | οὐκ οἴδατε ὅτι ἀγγέλους κρινοῦμεν, μήτιγε βιωτικά; | Know ye not that we shall judge angels? how much more things that pertain to this life? |
+| 4 既 是 这样， 你们 若有 今生 的 事 当 审判， 是 派 教会 所轻 看 的 人 审判 吗？ | 4 Jì shì zhè yàng , nǐ men ruò yǒu jīn shēng de shì dāng shěn pàn , shì pài jiào huì suǒ qīng kàn de rén shěn pàn ma ? | 4 既 是 這樣， 你們 若有 今生 的 事 當 審判， 是 派 教會 所輕 看 的 人 審判 嗎？ | βιωτικὰ μὲν οὖν κριτήρια ἐὰν ἔχητε, τοὺς ἐξουθενημένους ἐν τῇ ἐκκλησίᾳ, τούτους καθίζετε; | If then ye have judgments of things pertaining to this life, set them to judge who are least esteemed in the church. |
+| 5 我 说 这话 是 要 叫 你们 羞耻。 难道 你们 中间 没有 一个 智慧 人能 审断 弟兄们 的 事 吗？ | 5 Wǒ shuō zhè huà shì yào jiào nǐ men xiū chǐ . Nán dào nǐ men zhōng jiān méi yǒu yí gè zhì huì rén néng shěn duàn dì xiong men de shì ma ? | 5 我 說 這話 是 要 叫 你們 羞恥。 難道 你們 中間 沒有 一個 智慧 人能 審斷 弟兄們 的 事 嗎？ | πρὸς ἐντροπὴν ὑμῖν λέγω. οὕτως οὐκ ἔνι ἐν ὑμῖν οὐδεὶς σοφὸς ὃς δυνήσεται διακρῖναι ἀνὰ μέσον τοῦ ἀδελφοῦ αὐτοῦ, | I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren? |
+
+## 第6–10节 | Dì 6–10 jié | Verses 6–10
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 6 你们 竟是 弟兄 与 弟兄 告状， 而且 告在 不 信主 的 人 面前。 | 6 Nǐ men jìng shì dì xiong yǔ dì xiong gào zhuàng , ér qiě gào zài bù xìn zhǔ de rén miàn qián . | 6 你們 竟是 弟兄 與 弟兄 告狀， 而且 告在 不 信主 的 人 面前。 | ἀλλὰ ἀδελφὸς μετὰ ἀδελφοῦ κρίνεται, καὶ τοῦτο ἐπὶ ἀπίστων; | But brother goeth to law with brother, and that before the unbelievers. |
+| 7 你们 彼此 告状， 这 已经 是 你们 的 大错 了。 为 甚么 不 情愿 受 欺 呢？ 为 甚么 不 情愿 吃亏 呢？ | 7 Nǐ men bǐ cǐ gào zhuàng , zhè yǐ jīng shì nǐ men de dà cuò le . Wèi shén me bù qíng yuàn shòu qī ne ? Wèi shén me bù qíng yuàn chī kuī ne ? | 7 你們 彼此 告狀， 這 已經 是 你們 的 大錯 了。 為 甚麼 不 情願 受 欺 呢？ 為 甚麼 不 情願 吃虧 呢？ | ἤδη μὲν οὖν ὅλως ἥττημα ὑμῖν ἐστιν ὅτι κρίματα ἔχετε μεθ’ ἑαυτῶν· διὰ τί οὐχὶ μᾶλλον ἀδικεῖσθε; διὰ τί οὐχὶ μᾶλλον ἀποστερεῖσθε; | Now therefore there is utterly a fault among you, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer yourselves to be defrauded? |
+| 8 你们 倒 是 欺压 人、 亏负 人， 况且 所 欺压 所 亏负 的 就是 弟兄。 | 8 Nǐ men dào shì qī yā rén , kuī fù rén , kuàng qiě suǒ qī yā suǒ kuī fù de jiù shì dì xiong . | 8 你們 倒 是 欺壓 人、 虧負 人， 況且 所 欺壓 所 虧負 的 就是 弟兄。 | ἀλλὰ ὑμεῖς ἀδικεῖτε καὶ ἀποστερεῖτε, καὶ τοῦτο ἀδελφούς. | Nay, ye do wrong, and defraud, and that your brethren. |
+| 9 你们 岂不知 不义 的 人 不能 承受 神 的 国 吗？ 不要 自欺！ 无论是 淫乱 的、 拜偶像 的、 奸淫 的、 作 娈童 的、 亲 男色 的、 | 9 Nǐ men qǐ bù zhī bú yì de rén bù néng chéng shòu shén de guó ma ? Bú yào zì qī ! Wú lùn shì yín luàn de , bài ǒu xiàng de , jiān yín de , zuò luán tóng de , qīn nán sè de , | 9 你們 豈不知 不義 的 人 不能 承受 神 的 國 嗎？ 不要 自欺！ 無論是 淫亂 的、 拜偶像 的、 姦淫 的、 作 孌童 的、 親 男色 的、 | Ἢ οὐκ οἴδατε ὅτι ἄδικοι θεοῦ βασιλείαν οὐ κληρονομήσουσιν; μὴ πλανᾶσθε· οὔτε πόρνοι οὔτε εἰδωλολάτραι οὔτε μοιχοὶ οὔτε μαλακοὶ οὔτε ἀρσενοκοῖται | Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind, |
+| 10 偷窃 的、 贪婪 的、 醉酒 的、 辱骂 的、 勒索 的， 都 不能 承受 神 的 国。 | 10 Tōu qiè de , tān lán de , zuì jiǔ de , rǔ mà de , lè suǒ de , dōu bù néng chéng shòu shén de guó . | 10 偷竊 的、 貪婪 的、 醉酒 的、 辱罵 的、 勒索 的， 都 不能 承受 神 的 國。 | οὔτε κλέπται οὔτε πλεονέκται, οὐ μέθυσοι, οὐ λοίδοροι, οὐχ ἅρπαγες βασιλείαν θεοῦ κληρονομήσουσιν. | Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God. |
+
+## 第11–15节 | Dì 11–15 jié | Verses 11–15
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 11 你们 中间 也 有人 从前 是 这样； 但 如今 你们 奉主 耶稣基督 的 名， 并 藉 着 我们 神 的 灵， 已经 洗净， 成圣， 称义 了。 | 11 Nǐ men zhōng jiān yě yǒu rén cóng qián shì zhè yàng ; dàn rú jīn nǐ men fèng zhǔ yē sū jī dū de míng , bìng jí zhe wǒ men shén de líng , yǐ jīng xǐ jìng , chéng shèng , chēng yì le . | 11 你們 中間 也 有人 從前 是 這樣； 但 如今 你們 奉主 耶穌基督 的 名， 並 藉 著 我們 神 的 靈， 已經 洗淨， 成聖， 稱義 了。 | καὶ ταῦτά τινες ἦτε· ἀλλὰ ἀπελούσασθε, ἀλλὰ ἡγιάσθητε, ἀλλὰ ἐδικαιώθητε ἐν τῷ ὀνόματι τοῦ κυρίου Ἰησοῦ καὶ ἐν τῷ πνεύματι τοῦ θεοῦ ἡμῶν. | And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God. |
+| 12 凡事 我 都 可行， 但 不 都 有 益处。 凡事 我 都 可行， 但 无论 哪 一件， 我 总不受 它 的 辖制。 | 12 Fán shì wǒ dōu kě xíng , dàn bù dōu yǒu yì chù . Fán shì wǒ dōu kě xíng , dàn wú lùn nǎ yí jiàn , wǒ zǒng bú shòu tā de xiá zhì . | 12 凡事 我 都 可行， 但 不 都 有 益處。 凡事 我 都 可行， 但 無論 哪 一件， 我 總不受 它 的 轄制。 | Πάντα μοι ἔξεστιν· ἀλλ’ οὐ πάντα συμφέρει. πάντα μοι ἔξεστιν· ἀλλ’ οὐκ ἐγὼ ἐξουσιασθήσομαι ὑπό τινος. | All things are lawful unto me, but all things are not expedient: all things are lawful for me, but I will not be brought under the power of any. |
+| 13 食物 是 为 肚腹， 肚腹 是 为 食物； 但 神要 叫 这 两样 都 废坏。 身子 不是 为 淫乱， 乃是 为主； 主 也 是 为 身子。 | 13 Shí wù shì wèi dù fù , dù fù shì wèi shí wù ; dàn shén yào jiào zhè liǎng yàng dōu fèi huài . Shēn zi bú shì wèi yín luàn , nǎi shì wéi zhǔ ; zhǔ yě shì wèi shēn zi . | 13 食物 是 為 肚腹， 肚腹 是 為 食物； 但 神要 叫 這 兩樣 都 廢壞。 身子 不是 為 淫亂， 乃是 為主； 主 也 是 為 身子。 | τὰ βρώματα τῇ κοιλίᾳ, καὶ ἡ κοιλία τοῖς βρώμασιν· ὁ δὲ θεὸς καὶ ταύτην καὶ ταῦτα καταργήσει. τὸ δὲ σῶμα οὐ τῇ πορνείᾳ ἀλλὰ τῷ κυρίῳ, καὶ ὁ κύριος τῷ σώματι· | Meats for the belly, and the belly for meats: but God shall destroy both it and them. Now the body is not for fornication, but for the Lord; and the Lord for the body. |
+| 14 并且 神 已经 叫主 复活， 也 要 用 自己 的 能力 叫 我们 复活。 | 14 Bìng qiě shén yǐ jīng jiào zhǔ fù huó , yě yào yòng zì jǐ de néng lì jiào wǒ men fù huó . | 14 並且 神 已經 叫主 復活， 也 要 用 自己 的 能力 叫 我們 復活。 | ὁ δὲ θεὸς καὶ τὸν κύριον ἤγειρεν καὶ ἡμᾶς ἐξεγερεῖ διὰ τῆς δυνάμεως αὐτοῦ. | And God hath both raised up the Lord, and will also raise up us by his own power. |
+| 15 岂不知 你们 的 身子 是 基督 的 肢体 吗？ 我 可以 将 基督 的 肢体 作为 娼妓 的 肢体 吗？ 断乎 不可！ | 15 Qǐ bù zhī nǐ men de shēn zi shì jī dū de zhī tǐ ma ? Wǒ kě yǐ jiāng jī dū de zhī tǐ zuò wéi chāng jì de zhī tǐ ma ? Duàn hū bù kě ! | 15 豈不知 你們 的 身子 是 基督 的 肢體 嗎？ 我 可以 將 基督 的 肢體 作為 娼妓 的 肢體 嗎？ 斷乎 不可！ | οὐκ οἴδατε ὅτι τὰ σώματα ὑμῶν μέλη Χριστοῦ ἐστιν; ἄρας οὖν τὰ μέλη τοῦ Χριστοῦ ποιήσω πόρνης μέλη; μὴ γένοιτο. | Know ye not that your bodies are the members of Christ? shall I then take the members of Christ, and make them the members of an harlot? God forbid. |
+
+## 第16–20节 | Dì 16–20 jié | Verses 16–20
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 16 岂不知 与 娼妓 联合 的， 便是 与 她 成为 一体 吗？ 因为 主说： 「二人 要 成为 一体。」 | 16 Qǐ bù zhī yǔ chāng jì lián hé de , biàn shì yǔ tā chéng wéi yì tǐ ma ? Yīn wèi zhǔ shuō : “ èr rén yào chéng wéi yì tǐ . ” | 16 豈不知 與 娼妓 聯合 的， 便是 與 她 成為 一體 嗎？ 因為 主說： 「二人 要 成為 一體。」 | ἢ οὐκ οἴδατε ὅτι ὁ κολλώμενος τῇ πόρνῃ ἓν σῶμά ἐστιν; Ἔσονται γάρ, φησίν, οἱ δύο εἰς σάρκα μίαν. | What? know ye not that he which is joined to an harlot is one body? for two, saith he, shall be one flesh. |
+| 17 但 与 主 联合 的， 便是 与 主 成为 一灵。 | 17 Dàn yǔ zhǔ lián hé de , biàn shì yǔ zhǔ chéng wéi yì líng . | 17 但 與 主 聯合 的， 便是 與 主 成為 一靈。 | ὁ δὲ κολλώμενος τῷ κυρίῳ ἓν πνεῦμά ἐστιν. | But he that is joined unto the Lord is one spirit. |
+| 18 你们 要 逃避 淫行。 人所犯 的， 无论 甚么 罪， 都 在 身子 以外， 惟有 行淫 的， 是 得罪 自己 的 身子。 | 18 Nǐ men yào táo bì yín xíng . Rén suǒ fàn de , wú lùn shén me zuì , dōu zài shēn zi yǐ wài , wéi yǒu xíng yín de , shì dé zuì zì jǐ de shēn zi . | 18 你們 要 逃避 淫行。 人所犯 的， 無論 甚麼 罪， 都 在 身子 以外， 惟有 行淫 的， 是 得罪 自己 的 身子。 | φεύγετε τὴν πορνείαν· πᾶν ἁμάρτημα ὃ ἐὰν ποιήσῃ ἄνθρωπος ἐκτὸς τοῦ σώματός ἐστιν, ὁ δὲ πορνεύων εἰς τὸ ἴδιον σῶμα ἁμαρτάνει. | Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body. |
+| 19 岂不知 你们 的 身子 就是 圣灵 的 殿 吗？ 这 圣灵 是从 神而来， 住 在 你们 里头 的； 并且 你们 不是 自己 的 人， | 19 Qǐ bù zhī nǐ men de shēn zi jiù shì shèng líng de diàn ma ? Zhè shèng líng shì cóng shén ér lái , zhù zài nǐ men lǐ tou de ; bìng qiě nǐ men bú shì zì jǐ de rén , | 19 豈不知 你們 的 身子 就是 聖靈 的 殿 嗎？ 這 聖靈 是從 神而來， 住 在 你們 裡頭 的； 並且 你們 不是 自己 的 人， | ἢ οὐκ οἴδατε ὅτι τὸ σῶμα ὑμῶν ναὸς τοῦ ἐν ὑμῖν ἁγίου πνεύματός ἐστιν, οὗ ἔχετε ἀπὸ θεοῦ; καὶ οὐκ ἐστὲ ἑαυτῶν, | What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own? |
+| 20 因为 你们 是 重价 买来 的。 所以， 要 在 你们 的 身子 上 荣耀 神。 | 20 Yīn wèi nǐ men shì zhòng jià mǎi lái de . Suǒ yǐ , yào zài nǐ men de shēn zi shàng róng yào shén . | 20 因為 你們 是 重價 買來 的。 所以， 要 在 你們 的 身子 上 榮耀 神。 | ἠγοράσθητε γὰρ τιμῆς· δοξάσατε δὴ τὸν θεὸν ἐν τῷ σώματι ὑμῶν. | For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s. |
+
+> Greek: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software (sblgnt.com).

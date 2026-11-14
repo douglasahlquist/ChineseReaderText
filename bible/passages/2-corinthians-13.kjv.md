@@ -1,0 +1,39 @@
+<!-- reader: speak=word -->
+
+# 哥林多后书 13 | Gē lín duō hòu shū 13 | 2 Corinthians 13
+
+> **KJV** · 和合本 (Chinese Union Version, 1919), simplified and traditional · SBL Greek New Testament (SBLGNT) · King James Version (KJV, 1769)
+
+## 第1–5节 | Dì 1–5 jié | Verses 1–5
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 1 这 是 我 第三次 要 到 你们 那里 去。 「凭 两三个 人 的 口作 见证， 句句 都 要 定准。」 | 1 Zhè shì wǒ dì sān cì yào dào nǐ men nà lǐ qù . “ Píng liǎng sān gè rén de kǒu zuò jiàn zhèng , jù jù dōu yào dìng zhǔn . ” | 1 這 是 我 第三次 要 到 你們 那裡 去。 「憑 兩三個 人 的 口作 見證， 句句 都 要 定準。」 | Τρίτον τοῦτο ἔρχομαι πρὸς ὑμᾶς· ἐπὶ στόματος δύο μαρτύρων καὶ τριῶν σταθήσεται πᾶν ῥῆμα. | This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established. |
+| 2 我 从前 说 过， 如今 不 在 你们 那里 又 说， 正如 我 第二次 见 你们 的 时候 所说 的 一样， 就是 对 那 犯了罪 的 和 其余 的 人 说： 「我 若 再 来， 必 不 宽容。」 | 2 Wǒ cóng qián shuō guò , rú jīn bù zài nǐ men nà lǐ yòu shuō , zhèng rú wǒ dì èr cì jiàn nǐ men de shí hou suǒ shuō de yí yàng , jiù shì duì nà fàn le zuì de hé qí yú de rén shuō : “ wǒ ruò zài lái , bì bù kuān róng . ” | 2 我 從前 說 過， 如今 不 在 你們 那裡 又 說， 正如 我 第二次 見 你們 的 時候 所說 的 一樣， 就是 對 那 犯了罪 的 和 其餘 的 人 說： 「我 若 再 來， 必 不 寬容。」 | προείρηκα καὶ προλέγω ὡς παρὼν τὸ δεύτερον καὶ ἀπὼν νῦν, τοῖς προημαρτηκόσιν καὶ τοῖς λοιποῖς πᾶσιν, ὅτι ἐὰν ἔλθω εἰς τὸ πάλιν οὐ φείσομαι, | I told you before, and foretell you, as if I were present, the second time; and being absent now I write to them which heretofore have sinned, and to all other, that, if I come again, I will not spare: |
+| 3 你们 既然 寻求 基督 在 我 里面 说话 的 凭据， 我 必 不 宽容。 因为， 基督 在 你们 身上 不是 软弱 的， 在 你们 里面 是 有 大能 的。 | 3 Nǐ men jì rán xún qiú jī dū zài wǒ lǐ miàn shuō huà de píng jù , wǒ bì bù kuān róng . Yīn wèi , jī dū zài nǐ men shēn shàng bú shì ruǎn ruò de , zài nǐ men lǐ miàn shì yǒu dà néng de . | 3 你們 既然 尋求 基督 在 我 裡面 說話 的 憑據， 我 必 不 寬容。 因為， 基督 在 你們 身上 不是 軟弱 的， 在 你們 裡面 是 有 大能 的。 | ἐπεὶ δοκιμὴν ζητεῖτε τοῦ ἐν ἐμοὶ λαλοῦντος Χριστοῦ· ὃς εἰς ὑμᾶς οὐκ ἀσθενεῖ ἀλλὰ δυνατεῖ ἐν ὑμῖν, | Since ye seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you. |
+| 4 他 因 软弱 被 钉 在 十字架 上， 却 因 神 的 大能 仍然 活着。 我们 也 是 这样 同 他 软弱， 但 因 神向 你们 所显 的 大能， 也 必 与 他 同活。 | 4 Tā yīn ruǎn ruò bèi dīng zài shí zì jià shàng , què yīn shén de dà néng réng rán huó zhe . Wǒ men yě shì zhè yàng tóng tā ruǎn ruò , dàn yīn shén xiàng nǐ men suǒ xiǎn de dà néng , yě bì yǔ tā tóng huó . | 4 他 因 軟弱 被 釘 在 十字架 上， 卻 因 神 的 大能 仍然 活著。 我們 也 是 這樣 同 他 軟弱， 但 因 神向 你們 所顯 的 大能， 也 必 與 他 同活。 | καὶ γὰρ ἐσταυρώθη ἐξ ἀσθενείας, ἀλλὰ ζῇ ἐκ δυνάμεως θεοῦ. καὶ γὰρ ἡμεῖς ἀσθενοῦμεν ἐν αὐτῷ, ἀλλὰ ζήσομεν σὺν αὐτῷ ἐκ δυνάμεως θεοῦ εἰς ὑμᾶς. | For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you. |
+| 5 你们 总 要 自己 省察 有 信心 没有， 也 要 自己 试验。 岂不知 你们 若 不是 可 弃绝 的， 就 有 耶稣基督 在 你们 心里 吗？ | 5 Nǐ men zǒng yào zì jǐ xǐng chá yǒu xìn xīn méi yǒu , yě yào zì jǐ shì yàn . Qǐ bù zhī nǐ men ruò bú shì kě qì jué de , jiù yǒu yē sū jī dū zài nǐ men xīn lǐ ma ? | 5 你們 總 要 自己 省察 有 信心 沒有， 也 要 自己 試驗。 豈不知 你們 若 不是 可 棄絕 的， 就 有 耶穌基督 在 你們 心裡 嗎？ | Ἑαυτοὺς πειράζετε εἰ ἐστὲ ἐν τῇ πίστει, ἑαυτοὺς δοκιμάζετε· ἢ οὐκ ἐπιγινώσκετε ἑαυτοὺς ὅτι Ἰησοῦς Χριστὸς ἐν ὑμῖν; εἰ μήτι ἀδόκιμοί ἐστε. | Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates? |
+
+## 第6–10节 | Dì 6–10 jié | Verses 6–10
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 6 我 却 盼望 你们 晓得， 我们 不是 可 弃绝 的 人。 | 6 Wǒ què pàn wàng nǐ men xiǎo de , wǒ men bú shì kě qì jué de rén . | 6 我 卻 盼望 你們 曉得， 我們 不是 可 棄絕 的 人。 | ἐλπίζω δὲ ὅτι γνώσεσθε ὅτι ἡμεῖς οὐκ ἐσμὲν ἀδόκιμοι. | But I trust that ye shall know that we are not reprobates. |
+| 7 我们 求 神， 叫 你们 一件 恶事 都 不 做； 这 不是 要 显明 我们 是 蒙悦纳 的， 是 要 你们 行事 端正， 任凭 人 看 我们 是 被 弃绝 的 吧！ | 7 Wǒ men qiú shén , jiào nǐ men yí jiàn è shì dōu bù zuò ; zhè bú shì yào xiǎn míng wǒ men shì méng yuè nà de , shì yào nǐ men xíng shì duān zhèng , rèn píng rén kàn wǒ men shì bèi qì jué de ba ! | 7 我們 求 神， 叫 你們 一件 惡事 都 不 做； 這 不是 要 顯明 我們 是 蒙悅納 的， 是 要 你們 行事 端正， 任憑 人 看 我們 是 被 棄絕 的 吧！ | εὐχόμεθα δὲ πρὸς τὸν θεὸν μὴ ποιῆσαι ὑμᾶς κακὸν μηδέν, οὐχ ἵνα ἡμεῖς δόκιμοι φανῶμεν, ἀλλ’ ἵνα ὑμεῖς τὸ καλὸν ποιῆτε, ἡμεῖς δὲ ὡς ἀδόκιμοι ὦμεν. | Now I pray to God that ye do no evil; not that we should appear approved, but that ye should do that which is honest, though we be as reprobates. |
+| 8 我们 凡事 不能 敌挡 真理， 只能 扶助 真理。 | 8 Wǒ men fán shì bù néng dí dǎng zhēn lǐ , zhǐ néng fú zhù zhēn lǐ . | 8 我們 凡事 不能 敵擋 真理， 只能 扶助 真理。 | οὐ γὰρ δυνάμεθά τι κατὰ τῆς ἀληθείας, ἀλλὰ ὑπὲρ τῆς ἀληθείας. | For we can do nothing against the truth, but for the truth. |
+| 9 即使 我们 软弱， 你们 刚强， 我们 也 欢喜； 并且 我们 所求 的， 就是 你们 作 完全 人。 | 9 Jí shǐ wǒ men ruǎn ruò , nǐ men gāng qiáng , wǒ men yě huān xǐ ; bìng qiě wǒ men suǒ qiú de , jiù shì nǐ men zuò wán quán rén . | 9 即使 我們 軟弱， 你們 剛強， 我們 也 歡喜； 並且 我們 所求 的， 就是 你們 作 完全 人。 | χαίρομεν γὰρ ὅταν ἡμεῖς ἀσθενῶμεν, ὑμεῖς δὲ δυνατοὶ ἦτε· τοῦτο καὶ εὐχόμεθα, τὴν ὑμῶν κατάρτισιν. | For we are glad, when we are weak, and ye are strong: and this also we wish, even your perfection. |
+| 10 所以， 我 不 在 你们 那里 的 时候， 把 这话 写给 你们， 好 叫 我 见 你们 的 时候， 不用 照主所 给 我 的 权柄 严厉 地待 你们。 这 权柄 原是 为 造就 人， 并 不是 为 败坏 人。 | 10 Suǒ yǐ , wǒ bù zài nǐ men nà lǐ de shí hou , bǎ zhè huà xiě gěi nǐ men , hǎo jiào wǒ jiàn nǐ men de shí hou , bú yòng zhào zhǔ suǒ gěi wǒ de quán bǐng yán lì dì dài nǐ men . Zhè quán bǐng yuán shì wèi zào jiù rén , bìng bú shì wèi bài huài rén . | 10 所以， 我 不 在 你們 那裡 的 時候， 把 這話 寫給 你們， 好 叫 我 見 你們 的 時候， 不用 照主所 給 我 的 權柄 嚴厲 地待 你們。 這 權柄 原是 為 造就 人， 並 不是 為 敗壞 人。 | διὰ τοῦτο ταῦτα ἀπὼν γράφω, ἵνα παρὼν μὴ ἀποτόμως χρήσωμαι κατὰ τὴν ἐξουσίαν ἣν ὁ κύριος ἔδωκέν μοι, εἰς οἰκοδομὴν καὶ οὐκ εἰς καθαίρεσιν. | Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction. |
+
+## 第11–14节 | Dì 11–14 jié | Verses 11–14
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 11 还有 末了 的话： 愿 弟兄们 都 喜乐。 要作 完全 人； 要 受 安慰； 要 同心合意； 要 彼此 和睦。 如此， 仁爱 和平 的 神必常 与 你们 同 在。 | 11 Hái yǒu mò liǎo de huà : yuàn dì xiong men dōu xǐ lè . Yào zuò wán quán rén ; yào shòu ān wèi ; yào tóng xīn hé yì ; yào bǐ cǐ hé mù . Rú cǐ , rén ài hé píng de shén bì cháng yǔ nǐ men tóng zài . | 11 還有 末了 的話： 願 弟兄們 都 喜樂。 要作 完全 人； 要 受 安慰； 要 同心合意； 要 彼此 和睦。 如此， 仁愛 和平 的 神必常 與 你們 同 在。 | Λοιπόν, ἀδελφοί, χαίρετε, καταρτίζεσθε, παρακαλεῖσθε, τὸ αὐτὸ φρονεῖτε, εἰρηνεύετε, καὶ ὁ θεὸς τῆς ἀγάπης καὶ εἰρήνης ἔσται μεθ’ ὑμῶν. | Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you. |
+| 12 你们 亲嘴 问安， 彼此 务 要 圣洁。 | 12 Nǐ men qīn zuǐ wèn ān , bǐ cǐ wù yào shèng jié . | 12 你們 親嘴 問安， 彼此 務 要 聖潔。 | ἀσπάσασθε ἀλλήλους ἐν ἁγίῳ φιλήματι. ἀσπάζονται ὑμᾶς οἱ ἅγιοι πάντες. | Greet one another with an holy kiss. |
+| 13 众 圣徒 都 问 你们 安。 | 13 Zhòng shèng tú dōu wèn nǐ men ān . | 13 眾 聖徒 都 問 你們 安。 | ἡ χάρις τοῦ κυρίου Ἰησοῦ Χριστοῦ καὶ ἡ ἀγάπη τοῦ θεοῦ καὶ ἡ κοινωνία τοῦ ἁγίου πνεύματος μετὰ πάντων ὑμῶν. | All the saints salute you. |
+| 14 愿主 耶稣基督 的 恩惠、 神 的 慈爱、 圣灵 的 感动 常 与 你们 众人 同 在！ | 14 Yuàn zhǔ yē sū jī dū de ēn huì , shén de cí ài , shèng líng de gǎn dòng cháng yǔ nǐ men zhòng rén tóng zài ! | 14 願主 耶穌基督 的 恩惠、 神 的 慈愛、 聖靈 的 感動 常 與 你們 眾人 同 在！ |  | The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen. The second epistle to the Corinthians was written from Philippi, a city of Macedonia, by Titus and Lucas. |
+
+> Greek: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software (sblgnt.com).

@@ -1,0 +1,69 @@
+<!-- reader: speak=word -->
+
+# 提摩太后书 2 | Tí mó tài hòu shū 2 | 2 Timothy 2
+
+> **KJV** · 和合本 (Chinese Union Version, 1919), simplified and traditional · SBL Greek New Testament (SBLGNT) · King James Version (KJV, 1769)
+
+## 第1–5节 | Dì 1–5 jié | Verses 1–5
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 1 我儿 啊， 你 要 在 基督 耶稣 的 恩典 上 刚强 起来。 | 1 Wǒ ér a , nǐ yào zài jī dū yē sū de ēn diǎn shàng gāng qiáng qǐ lái . | 1 我兒 啊， 你 要 在 基督 耶穌 的 恩典 上 剛強 起來。 | Σὺ οὖν, τέκνον μου, ἐνδυναμοῦ ἐν τῇ χάριτι τῇ ἐν Χριστῷ Ἰησοῦ, | Thou therefore, my son, be strong in the grace that is in Christ Jesus. |
+| 2 你 在 许多 见证人 面前 听见 我 所 教训 的， 也 要 交托 那 忠心 能 教导 别人 的 人。 | 2 Nǐ zài xǔ duō jiàn zhèng rén miàn qián tīng jiàn wǒ suǒ jiào xùn de , yě yào jiāo tuō nà zhōng xīn néng jiào dǎo bié rén de rén . | 2 你 在 許多 見證人 面前 聽見 我 所 教訓 的， 也 要 交託 那 忠心 能 教導 別人 的 人。 | καὶ ἃ ἤκουσας παρ’ ἐμοῦ διὰ πολλῶν μαρτύρων, ταῦτα παράθου πιστοῖς ἀνθρώποις, οἵτινες ἱκανοὶ ἔσονται καὶ ἑτέρους διδάξαι. | And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also. |
+| 3 你 要 和 我 同受 苦难， 好像 基督 耶稣 的 精兵。 | 3 Nǐ yào hé wǒ tóng shòu kǔ nàn , hǎo xiàng jī dū yē sū de jīng bīng . | 3 你 要 和 我 同受 苦難， 好像 基督 耶穌 的 精兵。 | συγκακοπάθησον ὡς καλὸς στρατιώτης Χριστοῦ Ἰησοῦ. | Thou therefore endure hardness, as a good soldier of Jesus Christ. |
+| 4 凡 在 军中 当兵 的， 不 将 世务 缠身， 好 叫 那 招 他 当兵 的 人 喜悦。 | 4 Fán zài jūn zhōng dāng bīng de , bù jiāng shì wù chán shēn , hǎo jiào nà zhāo tā dāng bīng de rén xǐ yuè . | 4 凡 在 軍中 當兵 的， 不 將 世務 纏身， 好 叫 那 招 他 當兵 的 人 喜悅。 | οὐδεὶς στρατευόμενος ἐμπλέκεται ταῖς τοῦ βίου πραγματείαις, ἵνα τῷ στρατολογήσαντι ἀρέσῃ· | No man that warreth entangleth himself with the affairs of this life; that he may please him who hath chosen him to be a soldier. |
+| 5 人若 在 场上 比武， 非 按 规矩， 就 不能 得 冠冕。 | 5 Rén ruò zài chǎng shàng bǐ wǔ , fēi àn guī jǔ , jiù bù néng de guān miǎn . | 5 人若 在 場上 比武， 非 按 規矩， 就 不能 得 冠冕。 | ἐὰν δὲ καὶ ἀθλῇ τις, οὐ στεφανοῦται ἐὰν μὴ νομίμως ἀθλήσῃ· | And if a man also strive for masteries, yet is he not crowned, except he strive lawfully. |
+
+## 第6–10节 | Dì 6–10 jié | Verses 6–10
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 6 劳力 的 农夫 理 当先 得 粮食。 | 6 Láo lì de nóng fū lǐ dāng xiān de liáng shí . | 6 勞力 的 農夫 理 當先 得 糧食。 | τὸν κοπιῶντα γεωργὸν δεῖ πρῶτον τῶν καρπῶν μεταλαμβάνειν. | The husbandman that laboureth must be first partaker of the fruits. |
+| 7 我 所说 的话， 你 要 思想， 因为 凡事 主必 给 你 聪明。 | 7 Wǒ suǒ shuō de huà , nǐ yào sī xiǎng , yīn wèi fán shì zhǔ bì gěi nǐ cōng míng . | 7 我 所說 的話， 你 要 思想， 因為 凡事 主必 給 你 聰明。 | νόει ὃ λέγω· δώσει γάρ σοι ὁ κύριος σύνεσιν ἐν πᾶσιν. | Consider what I say; and the Lord give thee understanding in all things. |
+| 8 你 要 记念 耶稣基督 乃是 大卫 的 后裔， 他 从 死 里 复活， 正 合乎 我 所传 的 福音。 | 8 Nǐ yào jì niàn yē sū jī dū nǎi shì dà wèi de hòu yì , tā cóng sǐ lǐ fù huó , zhèng hé hū wǒ suǒ chuán de fú yīn . | 8 你 要 記念 耶穌基督 乃是 大衛 的 後裔， 他 從 死 裡 復活， 正 合乎 我 所傳 的 福音。 | Μνημόνευε Ἰησοῦν Χριστὸν ἐγηγερμένον ἐκ νεκρῶν, ἐκ σπέρματος Δαυίδ, κατὰ τὸ εὐαγγέλιόν μου· | Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel: |
+| 9 我 为 这 福音 受 苦难， 甚至 被 捆绑， 像 犯人 一样。 然而 神 的 道 却 不 被 捆绑。 | 9 Wǒ wèi zhè fú yīn shòu kǔ nàn , shèn zhì bèi kǔn bǎng , xiàng fàn rén yí yàng . Rán ér shén de dào què bù bèi kǔn bǎng . | 9 我 為 這 福音 受 苦難， 甚至 被 捆綁， 像 犯人 一樣。 然而 神 的 道 卻 不 被 捆綁。 | ἐν ᾧ κακοπαθῶ μέχρι δεσμῶν ὡς κακοῦργος. ἀλλὰ ὁ λόγος τοῦ θεοῦ οὐ δέδεται· | Wherein I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound. |
+| 10 所以， 我 为 选民 凡事 忍耐， 叫 他们 也 可以 得着 那 在 基督 耶稣 里 的 救恩 和 永远 的 荣耀。 | 10 Suǒ yǐ , wǒ wèi xuǎn mín fán shì rěn nài , jiào tā men yě kě yǐ dé zháo nà zài jī dū yē sū lǐ de jiù ēn hé yǒng yuǎn de róng yào . | 10 所以， 我 為 選民 凡事 忍耐， 叫 他們 也 可以 得著 那 在 基督 耶穌 裡 的 救恩 和 永遠 的 榮耀。 | διὰ τοῦτο πάντα ὑπομένω διὰ τοὺς ἐκλεκτούς, ἵνα καὶ αὐτοὶ σωτηρίας τύχωσιν τῆς ἐν Χριστῷ Ἰησοῦ μετὰ δόξης αἰωνίου. | Therefore I endure all things for the elect’s sakes, that they may also obtain the salvation which is in Christ Jesus with eternal glory. |
+
+## 第11–15节 | Dì 11–15 jié | Verses 11–15
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 11 有 可信 的话 说： 我们 若 与 基督 同死， 也 必 与 他 同活； | 11 Yǒu kě xìn de huà shuō : wǒ men ruò yǔ jī dū tóng sǐ , yě bì yǔ tā tóng huó ; | 11 有 可信 的話 說： 我們 若 與 基督 同死， 也 必 與 他 同活； | πιστὸς ὁ λόγος· εἰ γὰρ συναπεθάνομεν, καὶ συζήσομεν· | It is a faithful saying: For if we be dead with him, we shall also live with him: |
+| 12 我们 若能 忍耐， 也 必 和 他 一同 作王。 我们 若不认 他， 他 也 必不认 我们； | 12 Wǒ men ruò néng rěn nài , yě bì hé tā yì tóng zuò wáng . Wǒ men ruò bú rèn tā , tā yě bì bú rèn wǒ men ; | 12 我們 若能 忍耐， 也 必 和 他 一同 作王。 我們 若不認 他， 他 也 必不認 我們； | εἰ ὑπομένομεν, καὶ συμβασιλεύσομεν· εἰ ἀρνησόμεθα, κἀκεῖνος ἀρνήσεται ἡμᾶς· | If we suffer, we shall also reign with him: if we deny him, he also will deny us: |
+| 13 我们 纵然 失信， 他 仍 是 可信 的， 因为 他 不能 背乎 自己。 | 13 Wǒ men zòng rán shī xìn , tā réng shì kě xìn de , yīn wèi tā bù néng bèi hū zì jǐ . | 13 我們 縱然 失信， 他 仍 是 可信 的， 因為 他 不能 背乎 自己。 | εἰ ἀπιστοῦμεν, ἐκεῖνος πιστὸς μένει· ἀρνήσασθαι ἑαυτὸν οὐ δύναται. | If we believe not, yet he abideth faithful: he cannot deny himself. |
+| 14 你 要 使 众人 回想 这些 事， 在 主 面前 嘱咐 他们： 不可 为 言语 争辩； 这是 没有 益处 的， 只能 败坏 听见 的 人。 | 14 Nǐ yào shǐ zhòng rén huí xiǎng zhè xiē shì , zài zhǔ miàn qián zhǔ fù tā men : bù kě wèi yán yǔ zhēng biàn ; zhè shì méi yǒu yì chù de , zhǐ néng bài huài tīng jiàn de rén . | 14 你 要 使 眾人 回想 這些 事， 在 主 面前 囑咐 他們： 不可 為 言語 爭辯； 這是 沒有 益處 的， 只能 敗壞 聽見 的 人。 | Ταῦτα ὑπομίμνῃσκε, διαμαρτυρόμενος ἐνώπιον τοῦ κυρίου, μὴ λογομαχεῖν, ἐπ’ οὐδὲν χρήσιμον, ἐπὶ καταστροφῇ τῶν ἀκουόντων. | Of these things put them in remembrance, charging them before the Lord that they strive not about words to no profit, but to the subverting of the hearers. |
+| 15 你 当 竭力 在 神 面前 得 蒙 喜悦， 作 无愧 的 工人， 按着 正意 分解 真理 的 道。 | 15 Nǐ dāng jié lì zài shén miàn qián de méng xǐ yuè , zuò wú kuì de gōng rén , àn zhe zhèng yì fēn jiě zhēn lǐ de dào . | 15 你 當 竭力 在 神 面前 得 蒙 喜悅， 作 無愧 的 工人， 按著 正意 分解 真理 的 道。 | σπούδασον σεαυτὸν δόκιμον παραστῆσαι τῷ θεῷ, ἐργάτην ἀνεπαίσχυντον, ὀρθοτομοῦντα τὸν λόγον τῆς ἀληθείας. | Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. |
+
+## 第16–20节 | Dì 16–20 jié | Verses 16–20
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 16 但 要 远避 世俗 的 虚谈， 因为 这 等 人 必进 到 更 不敬 虔 的 地步。 | 16 Dàn yào yuǎn bì shì sú de xū tán , yīn wèi zhè děng rén bì jìn dào gèng bú jìng qián de dì bù . | 16 但 要 遠避 世俗 的 虛談， 因為 這 等 人 必進 到 更 不敬 虔 的 地步。 | τὰς δὲ βεβήλους κενοφωνίας περιΐστασο· ἐπὶ πλεῖον γὰρ προκόψουσιν ἀσεβείας, | But shun profane and vain babblings: for they will increase unto more ungodliness. |
+| 17 他们 的话 如同 毒疮， 越烂 越大； 其中 有 许米 乃 和 腓理徒， | 17 Tā men de huà rú tóng dú chuāng , yuè làn yuè dà ; qí zhōng yǒu xǔ mǐ nǎi hé féi lǐ tú , | 17 他們 的話 如同 毒瘡， 越爛 越大； 其中 有 許米 乃 和 腓理徒， | καὶ ὁ λόγος αὐτῶν ὡς γάγγραινα νομὴν ἕξει· ὧν ἐστιν Ὑμέναιος καὶ Φίλητος, | And their word will eat as doth a canker: of whom is Hymeneus and Philetus; |
+| 18 他们 偏离 了 真道， 说 复活 的 事 已 过， 就 败坏 好些 人 的 信心。 | 18 Tā men piān lí le zhēn dào , shuō fù huó de shì yǐ guò , jiù bài huài hǎo xiē rén de xìn xīn . | 18 他們 偏離 了 真道， 說 復活 的 事 已 過， 就 敗壞 好些 人 的 信心。 | οἵτινες περὶ τὴν ἀλήθειαν ἠστόχησαν, λέγοντες ἀνάστασιν ἤδη γεγονέναι, καὶ ἀνατρέπουσιν τήν τινων πίστιν. | Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some. |
+| 19 然而， 神 坚固 的 根基 立住 了； 上面 有 这 印记 说： 「主 认识 谁 是 他 的 人」； 又 说： 「凡 称呼 主名 的 人 总要 离开 不 义。」 | 19 Rán ér , shén jiān gù de gēn jī lì zhù le ; shàng miàn yǒu zhè yìn jì shuō : “ zhǔ rèn shí shuí shì tā de rén ” ; yòu shuō : “ fán chēng hū zhǔ míng de rén zǒng yào lí kāi bù yì . ” | 19 然而， 神 堅固 的 根基 立住 了； 上面 有 這 印記 說： 「主 認識 誰 是 他 的 人」； 又 說： 「凡 稱呼 主名 的 人 總要 離開 不 義。」 | ὁ μέντοι στερεὸς θεμέλιος τοῦ θεοῦ ἕστηκεν, ἔχων τὴν σφραγῖδα ταύτην· Ἔγνω κύριος τοὺς ὄντας αὐτοῦ, καί· Ἀποστήτω ἀπὸ ἀδικίας πᾶς ὁ ὀνομάζων τὸ ὄνομα κυρίου. | Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity. |
+| 20 在 大户人家， 不但 有 金器 银器， 也 有 木器 瓦器； 有 作为 贵重 的， 有 作为 卑贱 的。 | 20 Zài dà hù rén jiā , bú dàn yǒu jīn qì yín qì , yě yǒu mù qì wǎ qì ; yǒu zuò wéi guì zhòng de , yǒu zuò wéi bēi jiàn de . | 20 在 大戶人家， 不但 有 金器 銀器， 也 有 木器 瓦器； 有 作為 貴重 的， 有 作為 卑賤 的。 | Ἐν μεγάλῃ δὲ οἰκίᾳ οὐκ ἔστιν μόνον σκεύη χρυσᾶ καὶ ἀργυρᾶ ἀλλὰ καὶ ξύλινα καὶ ὀστράκινα, καὶ ἃ μὲν εἰς τιμὴν ἃ δὲ εἰς ἀτιμίαν· | But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour. |
+
+## 第21–25节 | Dì 21–25 jié | Verses 21–25
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 21 人若 自洁， 脱离 卑贱 的 事， 就 必作 贵重 的 器皿， 成为 圣洁， 合乎 主用， 预备 行 各样 的 善事。 | 21 Rén ruò zì jié , tuō lí bēi jiàn de shì , jiù bì zuò guì zhòng de qì mǐn , chéng wéi shèng jié , hé hū zhǔ yòng , yù bèi xíng gè yàng de shàn shì . | 21 人若 自潔， 脫離 卑賤 的 事， 就 必作 貴重 的 器皿， 成為 聖潔， 合乎 主用， 預備 行 各樣 的 善事。 | ἐὰν οὖν τις ἐκκαθάρῃ ἑαυτὸν ἀπὸ τούτων, ἔσται σκεῦος εἰς τιμήν, ἡγιασμένον, εὔχρηστον τῷ δεσπότῃ, εἰς πᾶν ἔργον ἀγαθὸν ἡτοιμασμένον. | If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master’s use, and prepared unto every good work. |
+| 22 你 要 逃避 少年 的 私欲， 同 那 清心 祷告 主 的 人 追求 公义、 信德、 仁爱、 和平。 | 22 Nǐ yào táo bì shào nián de sī yù , tóng nà qīng xīn dǎo gào zhǔ de rén zhuī qiú gōng yì , xìn dé , rén ài , hé píng . | 22 你 要 逃避 少年 的 私慾， 同 那 清心 禱告 主 的 人 追求 公義、 信德、 仁愛、 和平。 | τὰς δὲ νεωτερικὰς ἐπιθυμίας φεῦγε, δίωκε δὲ δικαιοσύνην, πίστιν, ἀγάπην, εἰρήνην μετὰ τῶν ἐπικαλουμένων τὸν κύριον ἐκ καθαρᾶς καρδίας. | Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart. |
+| 23 惟有 那 愚拙 无 学问 的 辩论， 总 要 弃绝， 因为 知道 这 等 事 是 起 争竞 的。 | 23 Wéi yǒu nà yú zhuō wú xué wèn de biàn lùn , zǒng yào qì jué , yīn wèi zhī dào zhè děng shì shì qǐ zhēng jìng de . | 23 惟有 那 愚拙 無 學問 的 辯論， 總 要 棄絕， 因為 知道 這 等 事 是 起 爭競 的。 | τὰς δὲ μωρὰς καὶ ἀπαιδεύτους ζητήσεις παραιτοῦ, εἰδὼς ὅτι γεννῶσι μάχας· | But foolish and unlearned questions avoid, knowing that they do gender strifes. |
+| 24 然而 主 的 仆人 不可 争竞， 只要 温温和和 地待 众人， 善于 教导， 存心 忍耐， | 24 Rán ér zhǔ de pú rén bù kě zhēng jìng , zhǐ yào wēn wēn hé hé dì dài zhòng rén , shàn yú jiào dǎo , cún xīn rěn nài , | 24 然而 主 的 僕人 不可 爭競， 只要 溫溫和和 地待 眾人， 善於 教導， 存心 忍耐， | δοῦλον δὲ κυρίου οὐ δεῖ μάχεσθαι, ἀλλὰ ἤπιον εἶναι πρὸς πάντας, διδακτικόν, ἀνεξίκακον, | And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient, |
+| 25 用 温柔 劝戒 那 抵挡 的 人； 或者 神给 他们 悔改 的 心， 可以 明白 真道， | 25 Yòng wēn róu quàn jiè nà dǐ dǎng de rén ; huò zhě shén gěi tā men huǐ gǎi de xīn , kě yǐ míng bái zhēn dào , | 25 用 溫柔 勸戒 那 抵擋 的 人； 或者 神給 他們 悔改 的 心， 可以 明白 真道， | ἐν πραΰτητι παιδεύοντα τοὺς ἀντιδιατιθεμένους, μήποτε δώῃ αὐτοῖς ὁ θεὸς μετάνοιαν εἰς ἐπίγνωσιν ἀληθείας, | In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth; |
+
+## 第26节 | Dì 26 jié | Verse 26
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 26 叫 他们 这 已经 被 魔鬼 任意 掳 去 的， 可以 醒悟， 脱离 他 的 网罗。 | 26 Jiào tā men zhè yǐ jīng bèi mó guǐ rèn yì lǔ qù de , kě yǐ xǐng wù , tuō lí tā de wǎng luó . | 26 叫 他們 這 已經 被 魔鬼 任意 擄 去 的， 可以 醒悟， 脫離 他 的 網羅。 | καὶ ἀνανήψωσιν ἐκ τῆς τοῦ διαβόλου παγίδος, ἐζωγρημένοι ὑπ’ αὐτοῦ εἰς τὸ ἐκείνου θέλημα. | And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will. |
+
+> Greek: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software (sblgnt.com).

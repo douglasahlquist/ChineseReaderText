@@ -1,0 +1,49 @@
+<!-- reader: speak=word -->
+
+# 加拉太书 6 | Jiā lā tài shū 6 | Galatians 6
+
+> **KJV** · 和合本 (Chinese Union Version, 1919), simplified and traditional · SBL Greek New Testament (SBLGNT) · King James Version (KJV, 1769)
+
+## 第1–5节 | Dì 1–5 jié | Verses 1–5
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 1 弟兄们， 若 有人 偶然 被 过 犯所胜， 你们 属灵 的 人 就 当用 温柔 的 心 把 他 挽回 过来； 又 当 自己 小心， 恐怕 也 被 引诱。 | 1 Dì xiong men , ruò yǒu rén ǒu rán bèi guò fàn suǒ shèng , nǐ men shǔ líng de rén jiù dāng yòng wēn róu de xīn bǎ tā wǎn huí guò lái ; yòu dāng zì jǐ xiǎo xīn , kǒng pà yě bèi yǐn yòu . | 1 弟兄們， 若 有人 偶然 被 過 犯所勝， 你們 屬靈 的 人 就 當用 溫柔 的 心 把 他 挽回 過來； 又 當 自己 小心， 恐怕 也 被 引誘。 | Ἀδελφοί, ἐὰν καὶ προλημφθῇ ἄνθρωπος ἔν τινι παραπτώματι, ὑμεῖς οἱ πνευματικοὶ καταρτίζετε τὸν τοιοῦτον ἐν πνεύματι πραΰτητος, σκοπῶν σεαυτόν, μὴ καὶ σὺ πειρασθῇς. | Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted. |
+| 2 你们 各人 的 重担 要 互相 担当， 如此， 就 完全 了 基督 的 律法。 | 2 Nǐ men gè rén de zhòng dàn yào hù xiāng dān dāng , rú cǐ , jiù wán quán le jī dū de lǜ fǎ . | 2 你們 各人 的 重擔 要 互相 擔當， 如此， 就 完全 了 基督 的 律法。 | ἀλλήλων τὰ βάρη βαστάζετε, καὶ οὕτως ἀναπληρώσετε τὸν νόμον τοῦ Χριστοῦ. | Bear ye one another’s burdens, and so fulfil the law of Christ. |
+| 3 人若 无有， 自己 还 以为 有， 就是 自欺 了。 | 3 Rén ruò wú yǒu , zì jǐ hái yǐ wéi yǒu , jiù shì zì qī le . | 3 人若 無有， 自己 還 以為 有， 就是 自欺 了。 | εἰ γὰρ δοκεῖ τις εἶναί τι μηδὲν ὤν, φρεναπατᾷ ἑαυτόν· | For if a man think himself to be something, when he is nothing, he deceiveth himself. |
+| 4 各人 应当 察验 自己 的 行为； 这样， 他 所 夸 的 就 专在 自己， 不 在 别人 了， | 4 Gè rén yīng dāng chá yàn zì jǐ de xíng wéi ; zhè yàng , tā suǒ kuā de jiù zhuān zài zì jǐ , bù zài bié rén le , | 4 各人 應當 察驗 自己 的 行為； 這樣， 他 所 誇 的 就 專在 自己， 不 在 別人 了， | τὸ δὲ ἔργον ἑαυτοῦ δοκιμαζέτω ἕκαστος, καὶ τότε εἰς ἑαυτὸν μόνον τὸ καύχημα ἕξει καὶ οὐκ εἰς τὸν ἕτερον, | But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another. |
+| 5 因为 各人 必 担当 自己 的 担子。 | 5 Yīn wèi gè rén bì dān dāng zì jǐ de dàn zi . | 5 因為 各人 必 擔當 自己 的 擔子。 | ἕκαστος γὰρ τὸ ἴδιον φορτίον βαστάσει. | For every man shall bear his own burden. |
+
+## 第6–10节 | Dì 6–10 jié | Verses 6–10
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 6 在 道理 上 受教 的， 当 把 一切 需用 的 供给 施教 的 人。 | 6 Zài dào lǐ shàng shòu jiào de , dāng bǎ yí qiè xū yòng de gōng jǐ shī jiào de rén . | 6 在 道理 上 受教 的， 當 把 一切 需用 的 供給 施教 的 人。 | Κοινωνείτω δὲ ὁ κατηχούμενος τὸν λόγον τῷ κατηχοῦντι ἐν πᾶσιν ἀγαθοῖς. | Let him that is taught in the word communicate unto him that teacheth in all good things. |
+| 7 不要 自欺， 神是 轻慢 不得 的。 人种 的 是 甚么， 收 的 也 是 甚么。 | 7 Bú yào zì qī , shén shì qīng màn bù dé de . Rén zhǒng de shì shén me , shōu de yě shì shén me . | 7 不要 自欺， 神是 輕慢 不得 的。 人種 的 是 甚麼， 收 的 也 是 甚麼。 | μὴ πλανᾶσθε, θεὸς οὐ μυκτηρίζεται· ὃ γὰρ ἐὰν σπείρῃ ἄνθρωπος, τοῦτο καὶ θερίσει· | Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap. |
+| 8 顺着 情欲 撒种 的， 必从 情欲 收 败坏； 顺着 圣灵 撒种 的， 必从 圣灵 收 永生。 | 8 Shùn zhe qíng yù sǎ zhǒng de , bì cóng qíng yù shōu bài huài ; shùn zhe shèng líng sǎ zhǒng de , bì cóng shèng líng shōu yǒng shēng . | 8 順著 情慾 撒種 的， 必從 情慾 收 敗壞； 順著 聖靈 撒種 的， 必從 聖靈 收 永生。 | ὅτι ὁ σπείρων εἰς τὴν σάρκα ἑαυτοῦ ἐκ τῆς σαρκὸς θερίσει φθοράν, ὁ δὲ σπείρων εἰς τὸ πνεῦμα ἐκ τοῦ πνεύματος θερίσει ζωὴν αἰώνιον. | For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting. |
+| 9 我们 行善， 不可 丧志； 若 不 灰心， 到 了 时候 就要 收成。 | 9 Wǒ men xíng shàn , bù kě sàng zhì ; ruò bù huī xīn , dào le shí hou jiù yào shōu chéng . | 9 我們 行善， 不可 喪志； 若 不 灰心， 到 了 時候 就要 收成。 | τὸ δὲ καλὸν ποιοῦντες μὴ ἐγκακῶμεν, καιρῷ γὰρ ἰδίῳ θερίσομεν μὴ ἐκλυόμενοι. | And let us not be weary in well doing: for in due season we shall reap, if we faint not. |
+| 10 所以， 有 了 机会 就 当 向 众人 行善， 向 信徒 一家 的 人 更 当 这样。 | 10 Suǒ yǐ , yǒu le jī huì jiù dāng xiàng zhòng rén xíng shàn , xiàng xìn tú yì jiā de rén gèng dāng zhè yàng . | 10 所以， 有 了 機會 就 當 向 眾人 行善， 向 信徒 一家 的 人 更 當 這樣。 | ἄρα οὖν ὡς καιρὸν ἔχομεν, ἐργαζώμεθα τὸ ἀγαθὸν πρὸς πάντας, μάλιστα δὲ πρὸς τοὺς οἰκείους τῆς πίστεως. | As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith. |
+
+## 第11–15节 | Dì 11–15 jié | Verses 11–15
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 11 请 看 我 亲手 写给 你们 的 字 是 何等 的 大 呢！ | 11 Qǐng kàn wǒ qīn shǒu xiě gěi nǐ men de zì shì hé děng de dà ne ! | 11 請 看 我 親手 寫給 你們 的 字 是 何等 的 大 呢！ | Ἴδετε πηλίκοις ὑμῖν γράμμασιν ἔγραψα τῇ ἐμῇ χειρί. | Ye see how large a letter I have written unto you with mine own hand. |
+| 12 凡 希图 外貌 体面 的 人 都 勉强 你们 受 割礼， 无非 是 怕 自己 为 基督 的 十字架 受 逼迫。 | 12 Fán xī tú wài mào tǐ miàn de rén dōu miǎn qiǎng nǐ men shòu gē lǐ , wú fēi shì pà zì jǐ wèi jī dū de shí zì jià shòu bī pò . | 12 凡 希圖 外貌 體面 的 人 都 勉強 你們 受 割禮， 無非 是 怕 自己 為 基督 的 十字架 受 逼迫。 | ὅσοι θέλουσιν εὐπροσωπῆσαι ἐν σαρκί, οὗτοι ἀναγκάζουσιν ὑμᾶς περιτέμνεσθαι, μόνον ἵνα τῷ σταυρῷ τοῦ Χριστοῦ μὴ διώκωνται· | As many as desire to make a fair shew in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Christ. |
+| 13 他们 那些 受 割礼 的， 连 自己 也 不守 律法； 他们 愿意 你们 受 割礼， 不过 要 藉 着 你们 的 肉体 夸口。 | 13 Tā men nà xiē shòu gē lǐ de , lián zì jǐ yě bù shǒu lǜ fǎ ; tā men yuàn yì nǐ men shòu gē lǐ , bú guò yào jí zhe nǐ men de ròu tǐ kuā kǒu . | 13 他們 那些 受 割禮 的， 連 自己 也 不守 律法； 他們 願意 你們 受 割禮， 不過 要 藉 著 你們 的 肉體 誇口。 | οὐδὲ γὰρ οἱ περιτεμνόμενοι αὐτοὶ νόμον φυλάσσουσιν, ἀλλὰ θέλουσιν ὑμᾶς περιτέμνεσθαι ἵνα ἐν τῇ ὑμετέρᾳ σαρκὶ καυχήσωνται. | For neither they themselves who are circumcised keep the law; but desire to have you circumcised, that they may glory in your flesh. |
+| 14 但 我断 不以 别的 夸口， 只 夸 我们 主 耶稣基督 的 十字架； 因 这 十字架， 就 我 而论， 世界 已经 钉 在 十字架 上； 就 世界 而论， 我 已经 钉 在 十字架 上。 | 14 Dàn wǒ duàn bù yǐ bié de kuā kǒu , zhǐ kuā wǒ men zhǔ yē sū jī dū de shí zì jià ; yīn zhè shí zì jià , jiù wǒ ér lùn , shì jiè yǐ jīng dīng zài shí zì jià shàng ; jiù shì jiè ér lùn , wǒ yǐ jīng dīng zài shí zì jià shàng . | 14 但 我斷 不以 別的 誇口， 只 誇 我們 主 耶穌基督 的 十字架； 因 這 十字架， 就 我 而論， 世界 已經 釘 在 十字架 上； 就 世界 而論， 我 已經 釘 在 十字架 上。 | ἐμοὶ δὲ μὴ γένοιτο καυχᾶσθαι εἰ μὴ ἐν τῷ σταυρῷ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, δι’ οὗ ἐμοὶ κόσμος ἐσταύρωται κἀγὼ κόσμῳ. | But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world. |
+| 15 受 割礼 不 受 割礼 都 无关紧要， 要紧 的 就是 作 新造 的 人。 | 15 Shòu gē lǐ bù shòu gē lǐ dōu wú guān jǐn yào , yào jǐn de jiù shì zuò xīn zào de rén . | 15 受 割禮 不 受 割禮 都 無關緊要， 要緊 的 就是 作 新造 的 人。 | οὔτε γὰρ περιτομή τί ἐστιν οὔτε ἀκροβυστία, ἀλλὰ καινὴ κτίσις. | For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature. |
+
+## 第16–18节 | Dì 16–18 jié | Verses 16–18
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 16 凡照 此理 而行 的， 愿 平安、 怜悯 加 给 他们， 和 神 的 以色列 民。 | 16 Fán zhào cǐ lǐ ér xíng de , yuàn píng ān , lián mǐn jiā gěi tā men , hé shén de yǐ sè liè mín . | 16 凡照 此理 而行 的， 願 平安、 憐憫 加 給 他們， 和 神 的 以色列 民。 | καὶ ὅσοι τῷ κανόνι τούτῳ στοιχήσουσιν, εἰρήνη ἐπ’ αὐτοὺς καὶ ἔλεος, καὶ ἐπὶ τὸν Ἰσραὴλ τοῦ θεοῦ. | And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God. |
+| 17 从今以后， 人 都 不要 搅扰 我， 因为 我 身上 带 着 耶稣 的 印记。 | 17 Cóng jīn yǐ hòu , rén dōu bú yào jiǎo rǎo wǒ , yīn wèi wǒ shēn shàng dài zhe yē sū de yìn jì . | 17 從今以後， 人 都 不要 攪擾 我， 因為 我 身上 帶 著 耶穌 的 印記。 | Τοῦ λοιποῦ κόπους μοι μηδεὶς παρεχέτω, ἐγὼ γὰρ τὰ στίγματα τοῦ Ἰησοῦ ἐν τῷ σώματί μου βαστάζω. | From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus. |
+| 18 弟兄们， 愿 我主 耶稣基督 的 恩常 在 你们 心里。 阿 们！ | 18 Dì xiong men , yuàn wǒ zhǔ yē sū jī dū de ēn cháng zài nǐ men xīn lǐ . Ā men ! | 18 弟兄們， 願 我主 耶穌基督 的 恩常 在 你們 心裡。 阿 們！ | Ἡ χάρις τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ μετὰ τοῦ πνεύματος ὑμῶν, ἀδελφοί· ἀμήν. | Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen. Unto the Galatians written from Rome. |
+
+> Greek: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software (sblgnt.com).

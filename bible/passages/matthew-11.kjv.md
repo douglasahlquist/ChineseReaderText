@@ -1,0 +1,73 @@
+<!-- reader: speak=word -->
+
+# 马太福音 11 | Mǎ tài fú yīn 11 | Matthew 11
+
+> **KJV** · 和合本 (Chinese Union Version, 1919), simplified and traditional · SBL Greek New Testament (SBLGNT) · King James Version (KJV, 1769)
+
+## 第1–5节 | Dì 1–5 jié | Verses 1–5
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 1 耶稣 吩咐 完 了 十二个 门徒， 就 离开 那里， 往 各城 去 传道、 教训 人。 | 1 Yē sū fēn fù wán le shí èr gè mén tú , jiù lí kāi nà lǐ , wǎng gè chéng qù chuán dào , jiào xùn rén . | 1 耶穌 吩咐 完 了 十二個 門徒， 就 離開 那裡， 往 各城 去 傳道、 教訓 人。 | Καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς διατάσσων τοῖς δώδεκα μαθηταῖς αὐτοῦ, μετέβη ἐκεῖθεν τοῦ διδάσκειν καὶ κηρύσσειν ἐν ταῖς πόλεσιν αὐτῶν. | And it came to pass, when Jesus had made an end of commanding his twelve disciples, he departed thence to teach and to preach in their cities. |
+| 2 约翰 在 监里 听见 基督 所 做 的 事， 就 打发 两个 门徒 去， | 2 Yuē hàn zài jiān lǐ tīng jiàn jī dū suǒ zuò de shì , jiù dǎ fā liǎng gè mén tú qù , | 2 約翰 在 監裡 聽見 基督 所 做 的 事， 就 打發 兩個 門徒 去， | Ὁ δὲ Ἰωάννης ἀκούσας ἐν τῷ δεσμωτηρίῳ τὰ ἔργα τοῦ χριστοῦ πέμψας διὰ τῶν μαθητῶν αὐτοῦ | Now when John had heard in the prison the works of Christ, he sent two of his disciples, |
+| 3 问 他 说： 「那 将要 来 的 是 你 吗？ 还是 我们 等候 别人 呢？」 | 3 Wèn tā shuō : “ nà jiāng yào lái de shì nǐ ma ? Hái shì wǒ men děng hòu bié rén ne ? ” | 3 問 他 說： 「那 將要 來 的 是 你 嗎？ 還是 我們 等候 別人 呢？」 | εἶπεν αὐτῷ· Σὺ εἶ ὁ ἐρχόμενος ἢ ἕτερον προσδοκῶμεν; | And said unto him, Art thou he that should come, or do we look for another? |
+| 4 耶稣 回答 说： 「你们 去， 把 所 听见、 所 看见 的 事 告诉 约翰。 | 4 Yē sū huí dá shuō : “ nǐ men qù , bǎ suǒ tīng jiàn , suǒ kàn jiàn de shì gào sù yuē hàn . | 4 耶穌 回答 說： 「你們 去， 把 所 聽見、 所 看見 的 事 告訴 約翰。 | καὶ ἀποκριθεὶς ὁ Ἰησοῦς εἶπεν αὐτοῖς· Πορευθέντες ἀπαγγείλατε Ἰωάννῃ ἃ ἀκούετε καὶ βλέπετε· | Jesus answered and said unto them, Go and shew John again those things which ye do hear and see: |
+| 5 就是 瞎子 看见， 瘸子 行走， 长大 痲 疯 的 洁净， 聋子 听见， 死人 复活， 穷人 有 福音 传给 他们。 | 5 Jiù shì xiā zi kàn jiàn , qué zi xíng zǒu , zhǎng dà má fēng de jié jìng , lóng zi tīng jiàn , sǐ rén fù huó , qióng rén yǒu fú yīn chuán gěi tā men . | 5 就是 瞎子 看見， 瘸子 行走， 長大 痲 瘋 的 潔淨， 聾子 聽見， 死人 復活， 窮人 有 福音 傳給 他們。 | τυφλοὶ ἀναβλέπουσιν καὶ χωλοὶ περιπατοῦσιν, λεπροὶ καθαρίζονται καὶ κωφοὶ ἀκούουσιν, καὶ νεκροὶ ἐγείρονται καὶ πτωχοὶ εὐαγγελίζονται· | The blind receive their sight, and the lame walk, the lepers are cleansed, and the deaf hear, the dead are raised up, and the poor have the gospel preached to them. |
+
+## 第6–10节 | Dì 6–10 jié | Verses 6–10
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 6 凡 不 因 我 跌倒 的 就 有 福 了！」 | 6 Fán bù yīn wǒ diē dǎo de jiù yǒu fú le ! ” | 6 凡 不 因 我 跌倒 的 就 有 福 了！」 | καὶ μακάριός ἐστιν ὃς ἐὰν μὴ σκανδαλισθῇ ἐν ἐμοί. | And blessed is he, whosoever shall not be offended in me. |
+| 7 他们 走 的 时候， 耶稣 就 对 众人 讲论 约翰 说： 「你们 从前 出 到 旷野 是 要 看 甚么 呢？ 要 看风 吹动 的 芦苇 吗？ | 7 Tā men zǒu de shí hou , yē sū jiù duì zhòng rén jiǎng lùn yuē hàn shuō : “ nǐ men cóng qián chū dào kuàng yě shì yào kàn shén me ne ? Yào kàn fēng chuī dòng de lú wěi ma ? | 7 他們 走 的 時候， 耶穌 就 對 眾人 講論 約翰 說： 「你們 從前 出 到 曠野 是 要 看 甚麼 呢？ 要 看風 吹動 的 蘆葦 嗎？ | Τούτων δὲ πορευομένων ἤρξατο ὁ Ἰησοῦς λέγειν τοῖς ὄχλοις περὶ Ἰωάννου· Τί ἐξήλθατε εἰς τὴν ἔρημον θεάσασθαι; κάλαμον ὑπὸ ἀνέμου σαλευόμενον; | And as they departed, Jesus began to say unto the multitudes concerning John, What went ye out into the wilderness to see? A reed shaken with the wind? |
+| 8 你们 出去 到底 是 要 看 甚么？ 要 看穿 细软 衣服 的 人 吗？ 那 穿 细软 衣服 的 人 是 在 王宫 里。 | 8 Nǐ men chū qù dào dǐ shì yào kàn shén me ? Yào kàn chuān xì ruǎn yī fú de rén ma ? Nà chuān xì ruǎn yī fú de rén shì zài wáng gōng lǐ . | 8 你們 出去 到底 是 要 看 甚麼？ 要 看穿 細軟 衣服 的 人 嗎？ 那 穿 細軟 衣服 的 人 是 在 王宮 裡。 | ἀλλὰ τί ἐξήλθατε ἰδεῖν; ἄνθρωπον ἐν μαλακοῖς ἠμφιεσμένον; ἰδοὺ οἱ τὰ μαλακὰ φοροῦντες ἐν τοῖς οἴκοις τῶν βασιλέων εἰσίν. | But what went ye out for to see? A man clothed in soft raiment? behold, they that wear soft clothing are in kings’ houses. |
+| 9 你们 出去 究竟 是 为 甚么？ 是 要 看 先知 吗？ 我 告诉 你们， 是 的， 他 比 先知 大多 了。 | 9 Nǐ men chū qù jiū jìng shì wèi shén me ? Shì yào kàn xiān zhī ma ? Wǒ gào sù nǐ men , shì de , tā bǐ xiān zhī dà duō le . | 9 你們 出去 究竟 是 為 甚麼？ 是 要 看 先知 嗎？ 我 告訴 你們， 是 的， 他 比 先知 大多 了。 | ἀλλὰ τί ἐξήλθατε; προφήτην ἰδεῖν; ναί, λέγω ὑμῖν, καὶ περισσότερον προφήτου. | But what went ye out for to see? A prophet? yea, I say unto you, and more than a prophet. |
+| 10 经上 记着 说： 『我要 差遣 我 的 使者 在 你 前面 预备 道路』， 所说 的 就是 这个 人。 | 10 Jīng shàng jì zhe shuō : ‘ wǒ yào chāi qiǎn wǒ de shǐ zhě zài nǐ qián miàn yù bèi dào lù ’ , suǒ shuō de jiù shì zhè ge rén . | 10 經上 記著 說： 『我要 差遣 我 的 使者 在 你 前面 預備 道路』， 所說 的 就是 這個 人。 | οὗτός ἐστιν περὶ οὗ γέγραπται· Ἰδοὺ ἐγὼ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου, ὃς κατασκευάσει τὴν ὁδόν σου ἔμπροσθέν σου. | For this is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee. |
+
+## 第11–15节 | Dì 11–15 jié | Verses 11–15
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 11 我 实在 告诉 你们， 凡 妇人 所生 的， 没有 一个 兴起 来大过 施洗约翰 的； 然而 天国 里 最小 的 比 他 还 大。 | 11 Wǒ shí zài gào sù nǐ men , fán fù rén suǒ shēng de , méi yǒu yí gè xīng qǐ lái dà guò shī xǐ yuē hàn de ; rán ér tiān guó lǐ zuì xiǎo de bǐ tā hái dà . | 11 我 實在 告訴 你們， 凡 婦人 所生 的， 沒有 一個 興起 來大過 施洗約翰 的； 然而 天國 裡 最小 的 比 他 還 大。 | ἀμὴν λέγω ὑμῖν, οὐκ ἐγήγερται ἐν γεννητοῖς γυναικῶν μείζων Ἰωάννου τοῦ βαπτιστοῦ· ὁ δὲ μικρότερος ἐν τῇ βασιλείᾳ τῶν οὐρανῶν μείζων αὐτοῦ ἐστιν. | Verily I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he. |
+| 12 从 施洗约翰 的 时候 到 如今， 天国 是 努力 进入 的， 努力 的 人 就 得着 了。 | 12 Cóng shī xǐ yuē hàn de shí hou dào rú jīn , tiān guó shì nǔ lì jìn rù de , nǔ lì de rén jiù dé zháo le . | 12 從 施洗約翰 的 時候 到 如今， 天國 是 努力 進入 的， 努力 的 人 就 得著 了。 | ἀπὸ δὲ τῶν ἡμερῶν Ἰωάννου τοῦ βαπτιστοῦ ἕως ἄρτι ἡ βασιλεία τῶν οὐρανῶν βιάζεται, καὶ βιασταὶ ἁρπάζουσιν αὐτήν. | And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force. |
+| 13 因为 众 先知 和 律法 说 预言， 到 约翰 为止。 | 13 Yīn wèi zhòng xiān zhī hé lǜ fǎ shuō yù yán , dào yuē hàn wéi zhǐ . | 13 因為 眾 先知 和 律法 說 預言， 到 約翰 為止。 | πάντες γὰρ οἱ προφῆται καὶ ὁ νόμος ἕως Ἰωάννου ἐπροφήτευσαν· | For all the prophets and the law prophesied until John. |
+| 14 你们 若肯 领受， 这 人 就是 那 应当 来 的 以 利亚。 | 14 Nǐ men ruò kěn lǐng shòu , zhè rén jiù shì nà yīng dāng lái de yǐ lì yà . | 14 你們 若肯 領受， 這 人 就是 那 應當 來 的 以 利亞。 | καὶ εἰ θέλετε δέξασθαι, αὐτός ἐστιν Ἠλίας ὁ μέλλων ἔρχεσθαι. | And if ye will receive it, this is Elias, which was for to come. |
+| 15 有 耳 可 听 的， 就 应当 听！ | 15 Yǒu ěr kě tīng de , jiù yīng dāng tīng ! | 15 有 耳 可 聽 的， 就 應當 聽！ | ὁ ἔχων ὦτα ἀκουέτω. | He that hath ears to hear, let him hear. |
+
+## 第16–20节 | Dì 16–20 jié | Verses 16–20
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 16 我 可用 甚么 比 这 世代 呢？ 好像 孩童 坐在 街市 上 招呼 同伴， 说： | 16 Wǒ kě yòng shén me bǐ zhè shì dài ne ? Hǎo xiàng hái tóng zuò zài jiē shì shàng zhāo hū tóng bàn , shuō : | 16 我 可用 甚麼 比 這 世代 呢？ 好像 孩童 坐在 街市 上 招呼 同伴， 說： | Τίνι δὲ ὁμοιώσω τὴν γενεὰν ταύτην; ὁμοία ἐστὶν παιδίοις καθημένοις ἐν ταῖς ἀγοραῖς ἃ προσφωνοῦντα τοῖς ἑτέροις | But whereunto shall I liken this generation? It is like unto children sitting in the markets, and calling unto their fellows, |
+| 17 我们 向 你们 吹笛， 你们 不 跳舞； 我们 向 你们 举哀， 你们 不 捶胸。 | 17 Wǒ men xiàng nǐ men chuī dí , nǐ men bù tiào wǔ ; wǒ men xiàng nǐ men jǔ āi , nǐ men bù chuí xiōng . | 17 我們 向 你們 吹笛， 你們 不 跳舞； 我們 向 你們 舉哀， 你們 不 捶胸。 | λέγουσιν· Ηὐλήσαμεν ὑμῖν καὶ οὐκ ὠρχήσασθε· ἐθρηνήσαμεν καὶ οὐκ ἐκόψασθε· | And saying, We have piped unto you, and ye have not danced; we have mourned unto you, and ye have not lamented. |
+| 18 约翰 来 了， 也 不吃 也 不 喝， 人 就 说 他 是 被 鬼 附着 的； | 18 Yuē hàn lái le , yě bù chī yě bù hē , rén jiù shuō tā shì bèi guǐ fù zhuó de ; | 18 約翰 來 了， 也 不吃 也 不 喝， 人 就 說 他 是 被 鬼 附著 的； | ἦλθεν γὰρ Ἰωάννης μήτε ἐσθίων μήτε πίνων, καὶ λέγουσιν· Δαιμόνιον ἔχει· | For John came neither eating nor drinking, and they say, He hath a devil. |
+| 19 人子 来 了， 也 吃 也 喝， 人 又 说 他 是 贪食 好酒 的 人， 是 税吏 和 罪人 的 朋友。 但 智慧 之子 总以 智慧 为 是。」 | 19 Rén zi lái le , yě chī yě hē , rén yòu shuō tā shì tān shí hǎo jiǔ de rén , shì shuì lì hé zuì rén de péng yǒu . Dàn zhì huì zhī zi zǒng yǐ zhì huì wèi shì . ” | 19 人子 來 了， 也 吃 也 喝， 人 又 說 他 是 貪食 好酒 的 人， 是 稅吏 和 罪人 的 朋友。 但 智慧 之子 總以 智慧 為 是。」 | ἦλθεν ὁ υἱὸς τοῦ ἀνθρώπου ἐσθίων καὶ πίνων, καὶ λέγουσιν· Ἰδοὺ ἄνθρωπος φάγος καὶ οἰνοπότης, τελωνῶν φίλος καὶ ἁμαρτωλῶν. καὶ ἐδικαιώθη ἡ σοφία ἀπὸ τῶν ἔργων αὐτῆς. | The Son of man came eating and drinking, and they say, Behold a man gluttonous, and a winebibber, a friend of publicans and sinners. But wisdom is justified of her children. |
+| 20 耶稣 在 诸城 中行 了 许多 异能， 那些 城 的 人终 不悔改， 就 在 那 时候 责备 他们， 说： | 20 Yē sū zài zhū chéng zhōng háng le xǔ duō yì néng , nà xiē chéng de rén zhōng bù huǐ gǎi , jiù zài nà shí hou zé bèi tā men , shuō : | 20 耶穌 在 諸城 中行 了 許多 異能， 那些 城 的 人終 不悔改， 就 在 那 時候 責備 他們， 說： | Τότε ἤρξατο ὀνειδίζειν τὰς πόλεις ἐν αἷς ἐγένοντο αἱ πλεῖσται δυνάμεις αὐτοῦ, ὅτι οὐ μετενόησαν· | Then began he to upbraid the cities wherein most of his mighty works were done, because they repented not: |
+
+## 第21–25节 | Dì 21–25 jié | Verses 21–25
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 21 「哥拉汛 哪， 你 有 祸 了！ 伯赛 大 啊， 你 有 祸 了！ 因为 在 你们 中间 所行 的 异能， 若行 在 泰尔、 西顿， 他们 早已 披麻蒙灰 悔改 了。 | 21 “ Gē lā xùn nǎ , nǐ yǒu huò le ! Bó sài dà a , nǐ yǒu huò le ! Yīn wèi zài nǐ men zhōng jiān suǒ xíng de yì néng , ruò xíng zài tài ěr , xī dùn , tā men zǎo yǐ pī má méng huī huǐ gǎi le . | 21 「哥拉汛 哪， 你 有 禍 了！ 伯賽 大 啊， 你 有 禍 了！ 因為 在 你們 中間 所行 的 異能， 若行 在 泰爾、 西頓， 他們 早已 披麻蒙灰 悔改 了。 | Οὐαί σοι, Χοραζίν· οὐαί σοι, Βηθσαϊδά· ὅτι εἰ ἐν Τύρῳ καὶ Σιδῶνι ἐγένοντο αἱ δυνάμεις αἱ γενόμεναι ἐν ὑμῖν, πάλαι ἂν ἐν σάκκῳ καὶ σποδῷ μετενόησαν. | Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works, which were done in you, had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes. |
+| 22 但 我 告诉 你们， 当 审判 的 日子， 泰尔、 西顿 所受 的， 比 你们 还 容易 受 呢！ | 22 Dàn wǒ gào sù nǐ men , dāng shěn pàn de rì zi , tài ěr , xī dùn suǒ shòu de , bǐ nǐ men hái róng yì shòu ne ! | 22 但 我 告訴 你們， 當 審判 的 日子， 泰爾、 西頓 所受 的， 比 你們 還 容易 受 呢！ | πλὴν λέγω ὑμῖν, Τύρῳ καὶ Σιδῶνι ἀνεκτότερον ἔσται ἐν ἡμέρᾳ κρίσεως ἢ ὑμῖν. | But I say unto you, It shall be more tolerable for Tyre and Sidon at the day of judgment, than for you. |
+| 23 迦百农 啊， 你 已经 升 到 天上 （或译： 你 将要 升 到 天上 吗）， 将来 必 坠落 阴间； 因为 在 你 那里 所行 的 异能， 若行 在 所多玛， 它 还 可以 存 到 今日。 | 23 Jiā bǎi nóng a , nǐ yǐ jīng shēng dào tiān shàng ( huò yì : nǐ jiāng yào shēng dào tiān shàng ma ) , jiāng lái bì zhuì luò yīn jiān ; yīn wèi zài nǐ nà lǐ suǒ xíng de yì néng , ruò xíng zài suǒ duō mǎ , tā hái kě yǐ cún dào jīn rì . | 23 迦百農 啊， 你 已經 升 到 天上 （或譯： 你 將要 升 到 天上 嗎）， 將來 必 墜落 陰間； 因為 在 你 那裡 所行 的 異能， 若行 在 所多瑪， 它 還 可以 存 到 今日。 | καὶ σύ, Καφαρναούμ, μὴ ἕως οὐρανοῦ ὑψωθήσῃ; ἕως ᾅδου καταβήσῃ· ὅτι εἰ ἐν Σοδόμοις ἐγενήθησαν αἱ δυνάμεις αἱ γενόμεναι ἐν σοί, ἔμεινεν ἂν μέχρι τῆς σήμερον. | And thou, Capernaum, which art exalted unto heaven, shalt be brought down to hell: for if the mighty works, which have been done in thee, had been done in Sodom, it would have remained until this day. |
+| 24 但 我 告诉 你们， 当 审判 的 日子， 所多玛 所受 的， 比 你 还 容易 受 呢！」 | 24 Dàn wǒ gào sù nǐ men , dāng shěn pàn de rì zi , suǒ duō mǎ suǒ shòu de , bǐ nǐ hái róng yì shòu ne ! ” | 24 但 我 告訴 你們， 當 審判 的 日子， 所多瑪 所受 的， 比 你 還 容易 受 呢！」 | πλὴν λέγω ὑμῖν ὅτι γῇ Σοδόμων ἀνεκτότερον ἔσται ἐν ἡμέρᾳ κρίσεως ἢ σοί. | But I say unto you, That it shall be more tolerable for the land of Sodom in the day of judgment, than for thee. |
+| 25 那时， 耶稣 说： 「父 啊， 天地 的 主， 我 感谢 你！ 因为 你 将 这些 事向 聪明 通达 人 就 藏 起来， 向 婴孩 就 显 出来。 | 25 Nà shí , yē sū shuō : “ fù a , tiān dì de zhǔ , wǒ gǎn xiè nǐ ! Yīn wèi nǐ jiāng zhè xiē shì xiàng cōng míng tōng dá rén jiù cáng qǐ lái , xiàng yīng hái jiù xiǎn chū lái . | 25 那時， 耶穌 說： 「父 啊， 天地 的 主， 我 感謝 你！ 因為 你 將 這些 事向 聰明 通達 人 就 藏 起來， 向 嬰孩 就 顯 出來。 | Ἐν ἐκείνῳ τῷ καιρῷ ἀποκριθεὶς ὁ Ἰησοῦς εἶπεν· Ἐξομολογοῦμαί σοι, πάτερ κύριε τοῦ οὐρανοῦ καὶ τῆς γῆς, ὅτι ἔκρυψας ταῦτα ἀπὸ σοφῶν καὶ συνετῶν, καὶ ἀπεκάλυψας αὐτὰ νηπίοις· | At that time Jesus answered and said, I thank thee, O Father, Lord of heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them unto babes. |
+
+## 第26–30节 | Dì 26–30 jié | Verses 26–30
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 26 父 啊， 是 的， 因为 你 的 美意 本是 如此。 | 26 Fù a , shì de , yīn wèi nǐ de měi yì běn shì rú cǐ . | 26 父 啊， 是 的， 因為 你 的 美意 本是 如此。 | ναί, ὁ πατήρ, ὅτι οὕτως εὐδοκία ἐγένετο ἔμπροσθέν σου. | Even so, Father: for so it seemed good in thy sight. |
+| 27 一切 所有 的， 都 是 我父 交付 我 的； 除了 父， 没有 人 知道 子； 除了 子和子 所 愿意 指示 的， 没有 人 知道 父。 | 27 Yí qiè suǒ yǒu de , dōu shì wǒ fù jiāo fù wǒ de ; chú le fù , méi yǒu rén zhī dào zi ; chú le zi hé zi suǒ yuàn yì zhǐ shì de , méi yǒu rén zhī dào fù . | 27 一切 所有 的， 都 是 我父 交付 我 的； 除了 父， 沒有 人 知道 子； 除了 子和子 所 願意 指示 的， 沒有 人 知道 父。 | Πάντα μοι παρεδόθη ὑπὸ τοῦ πατρός μου, καὶ οὐδεὶς ἐπιγινώσκει τὸν υἱὸν εἰ μὴ ὁ πατήρ, οὐδὲ τὸν πατέρα τις ἐπιγινώσκει εἰ μὴ ὁ υἱὸς καὶ ᾧ ἐὰν βούληται ὁ υἱὸς ἀποκαλύψαι. | All things are delivered unto me of my Father: and no man knoweth the Son, but the Father; neither knoweth any man the Father, save the Son, and he to whomsoever the Son will reveal him. |
+| 28 凡 劳苦 担 重担 的 人 可以 到 我 这里 来， 我 就 使 你们 得 安息。 | 28 Fán láo kǔ dān zhòng dàn de rén kě yǐ dào wǒ zhè lǐ lái , wǒ jiù shǐ nǐ men de ān xī . | 28 凡 勞苦 擔 重擔 的 人 可以 到 我 這裡 來， 我 就 使 你們 得 安息。 | Δεῦτε πρός με πάντες οἱ κοπιῶντες καὶ πεφορτισμένοι, κἀγὼ ἀναπαύσω ὑμᾶς. | Come unto me, all ye that labour and are heavy laden, and I will give you rest. |
+| 29 我 心里 柔和 谦卑， 你们 当负 我 的 轭， 学 我 的 样式； 这样， 你们 心里 就 必得享 安息。 | 29 Wǒ xīn lǐ róu hé qiān bēi , nǐ men dāng fù wǒ de è , xué wǒ de yàng shì ; zhè yàng , nǐ men xīn lǐ jiù bì děi xiǎng ān xī . | 29 我 心裡 柔和 謙卑， 你們 當負 我 的 軛， 學 我 的 樣式； 這樣， 你們 心裡 就 必得享 安息。 | ἄρατε τὸν ζυγόν μου ἐφ’ ὑμᾶς καὶ μάθετε ἀπ’ ἐμοῦ, ὅτι πραΰς εἰμι καὶ ταπεινὸς τῇ καρδίᾳ, καὶ εὑρήσετε ἀνάπαυσιν ταῖς ψυχαῖς ὑμῶν· | Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls. |
+| 30 因为 我 的 轭 是 容易 的， 我 的 担子 是 轻省 的。」 | 30 Yīn wèi wǒ de è shì róng yì de , wǒ de dàn zi shì qīng shěng de . ” | 30 因為 我 的 軛 是 容易 的， 我 的 擔子 是 輕省 的。」 | ὁ γὰρ ζυγός μου χρηστὸς καὶ τὸ φορτίον μου ἐλαφρόν ἐστιν. | For my yoke is easy, and my burden is light. |
+
+> Greek: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software (sblgnt.com).

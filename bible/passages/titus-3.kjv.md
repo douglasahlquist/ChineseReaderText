@@ -1,0 +1,40 @@
+<!-- reader: speak=word -->
+
+# 提多书 3 | Tí duō shū 3 | Titus 3
+
+> **KJV** · 和合本 (Chinese Union Version, 1919), simplified and traditional · SBL Greek New Testament (SBLGNT) · King James Version (KJV, 1769)
+
+## 第1–5节 | Dì 1–5 jié | Verses 1–5
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 1 你 要 提醒 众人， 叫 他们 顺服 作官 的、 掌权 的， 遵 他 的 命， 预备 行 各样 的 善事。 | 1 Nǐ yào tí xǐng zhòng rén , jiào tā men shùn fú zuò guān de , zhǎng quán de , zūn tā de mìng , yù bèi xíng gè yàng de shàn shì . | 1 你 要 提醒 眾人， 叫 他們 順服 作官 的、 掌權 的， 遵 他 的 命， 預備 行 各樣 的 善事。 | Ὑπομίμνῃσκε αὐτοὺς ἀρχαῖς ἐξουσίαις ὑποτάσσεσθαι πειθαρχεῖν, πρὸς πᾶν ἔργον ἀγαθὸν ἑτοίμους εἶναι, | Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work, |
+| 2 不要 毁谤， 不要 争竞， 总 要 和平， 向 众人 大显 温柔。 | 2 Bú yào huǐ bàng , bú yào zhēng jìng , zǒng yào hé píng , xiàng zhòng rén dà xiǎn wēn róu . | 2 不要 毀謗， 不要 爭競， 總 要 和平， 向 眾人 大顯 溫柔。 | μηδένα βλασφημεῖν, ἀμάχους εἶναι, ἐπιεικεῖς, πᾶσαν ἐνδεικνυμένους πραΰτητα πρὸς πάντας ἀνθρώπους. | To speak evil of no man, to be no brawlers, but gentle, shewing all meekness unto all men. |
+| 3 我们 从前 也 是 无知、 悖逆、 受 迷惑、 服事 各样 私欲， 和 宴乐， 常存 恶毒 （或译： 阴毒） 嫉妒 的 心， 是 可恨 的， 又 是 彼此 相恨。 | 3 Wǒ men cóng qián yě shì wú zhī , bèi nì , shòu mí huò , fú shi gè yàng sī yù , hé yàn lè , cháng cún è dú ( huò yì : yīn dú ) jí dù de xīn , shì kě hèn de , yòu shì bǐ cǐ xiāng hèn . | 3 我們 從前 也 是 無知、 悖逆、 受 迷惑、 服事 各樣 私慾， 和 宴樂， 常存 惡毒 （或譯： 陰毒） 嫉妒 的 心， 是 可恨 的， 又 是 彼此 相恨。 | ἦμεν γάρ ποτε καὶ ἡμεῖς ἀνόητοι, ἀπειθεῖς, πλανώμενοι, δουλεύοντες ἐπιθυμίαις καὶ ἡδοναῖς ποικίλαις, ἐν κακίᾳ καὶ φθόνῳ διάγοντες, στυγητοί, μισοῦντες ἀλλήλους. | For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, and hating one another. |
+| 4 但 到 了 神─ 我们 救主 的 恩 慈和 他 向 人 所施 的 慈爱 显明 的 时候， | 4 Dàn dào le shén ─ wǒ men jiù zhǔ de ēn cí hé tā xiàng rén suǒ shī de cí ài xiǎn míng de shí hou , | 4 但 到 了 神─ 我們 救主 的 恩 慈和 他 向 人 所施 的 慈愛 顯明 的 時候， | ὅτε δὲ ἡ χρηστότης καὶ ἡ φιλανθρωπία ἐπεφάνη τοῦ σωτῆρος ἡμῶν θεοῦ, | But after that the kindness and love of God our Saviour toward man appeared, |
+| 5 他 便 救 了 我们； 并 不是 因 我们 自己 所行 的 义， 乃是 照 他 的 怜悯， 藉 着重 生 的 洗 和 圣灵 的 更新。 | 5 Tā biàn jiù le wǒ men ; bìng bú shì yīn wǒ men zì jǐ suǒ xíng de yì , nǎi shì zhào tā de lián mǐn , jí zhuó zhòng shēng de xǐ hé shèng líng de gēng xīn . | 5 他 便 救 了 我們； 並 不是 因 我們 自己 所行 的 義， 乃是 照 他 的 憐憫， 藉 著重 生 的 洗 和 聖靈 的 更新。 | οὐκ ἐξ ἔργων τῶν ἐν δικαιοσύνῃ ἃ ἐποιήσαμεν ἡμεῖς ἀλλὰ κατὰ τὸ αὐτοῦ ἔλεος ἔσωσεν ἡμᾶς διὰ λουτροῦ παλιγγενεσίας καὶ ἀνακαινώσεως πνεύματος ἁγίου, | Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost; |
+
+## 第6–10节 | Dì 6–10 jié | Verses 6–10
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 6 圣灵 就是 神藉 着 耶稣基督─ 我们 救主 厚厚 浇灌 在 我们 身上 的， | 6 Shèng líng jiù shì shén jí zhe yē sū jī dū ─ wǒ men jiù zhǔ hòu hòu jiāo guàn zài wǒ men shēn shàng de , | 6 聖靈 就是 神藉 著 耶穌基督─ 我們 救主 厚厚 澆灌 在 我們 身上 的， | οὗ ἐξέχεεν ἐφ’ ἡμᾶς πλουσίως διὰ Ἰησοῦ Χριστοῦ τοῦ σωτῆρος ἡμῶν, | Which he shed on us abundantly through Jesus Christ our Saviour; |
+| 7 好 叫 我们 因 他 的 恩得 称为 义， 可以 凭着 永生 的 盼望 成为 后嗣 （或译： 可以 凭着 盼望 承受 永生）。 | 7 Hǎo jiào wǒ men yīn tā de ēn dé chēng wéi yì , kě yǐ píng zhe yǒng shēng de pàn wàng chéng wéi hòu sì ( huò yì : kě yǐ píng zhe pàn wàng chéng shòu yǒng shēng ) . | 7 好 叫 我們 因 他 的 恩得 稱為 義， 可以 憑著 永生 的 盼望 成為 後嗣 （或譯： 可以 憑著 盼望 承受 永生）。 | ἵνα δικαιωθέντες τῇ ἐκείνου χάριτι κληρονόμοι γενηθῶμεν κατ’ ἐλπίδα ζωῆς αἰωνίου. | That being justified by his grace, we should be made heirs according to the hope of eternal life. |
+| 8 这话 是 可信 的。 我 也 愿 你 把 这些 事 切切实实 地 讲明， 使 那些 已信 神 的 人 留心 做 正经 事业 （或译： 留心 行善）。 这 都 是 美事， 并且 与 人 有益。 | 8 Zhè huà shì kě xìn de . Wǒ yě yuàn nǐ bǎ zhè xiē shì qiè qiè shí shí dì jiǎng míng , shǐ nà xiē yǐ xìn shén de rén liú xīn zuò zhèng jīng shì yè ( huò yì : liú xīn xíng shàn ) . Zhè dōu shì měi shì , bìng qiě yǔ rén yǒu yì . | 8 這話 是 可信 的。 我 也 願 你 把 這些 事 切切實實 地 講明， 使 那些 已信 神 的 人 留心 做 正經 事業 （或譯： 留心 行善）。 這 都 是 美事， 並且 與 人 有益。 | Πιστὸς ὁ λόγος, καὶ περὶ τούτων βούλομαί σε διαβεβαιοῦσθαι, ἵνα φροντίζωσιν καλῶν ἔργων προΐστασθαι οἱ πεπιστευκότες θεῷ. ταῦτά ἐστιν καλὰ καὶ ὠφέλιμα τοῖς ἀνθρώποις· | This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men. |
+| 9 要 远避 无知 的 辩论 和 家谱 的 空谈， 以及 纷争， 并 因 律法 而 起 的 争竞， 因为 这 都 是 虚妄 无益 的。 | 9 Yào yuǎn bì wú zhī de biàn lùn hé jiā pǔ de kōng tán , yǐ jí fēn zhēng , bìng yīn lǜ fǎ ér qǐ de zhēng jìng , yīn wèi zhè dōu shì xū wàng wú yì de . | 9 要 遠避 無知 的 辯論 和 家譜 的 空談， 以及 紛爭， 並 因 律法 而 起 的 爭競， 因為 這 都 是 虛妄 無益 的。 | μωρὰς δὲ ζητήσεις καὶ γενεαλογίας καὶ ἔρεις καὶ μάχας νομικὰς περιΐστασο, εἰσὶν γὰρ ἀνωφελεῖς καὶ μάταιοι. | But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain. |
+| 10 分 门 结党 的 人， 警戒 过 一两次， 就要 弃绝 他。 | 10 Fēn mén jié dǎng de rén , jǐng jiè guò yì liǎng cì , jiù yào qì jué tā . | 10 分 門 結黨 的 人， 警戒 過 一兩次， 就要 棄絕 他。 | αἱρετικὸν ἄνθρωπον μετὰ μίαν καὶ δευτέραν νουθεσίαν παραιτοῦ, | A man that is an heretick after the first and second admonition reject; |
+
+## 第11–15节 | Dì 11–15 jié | Verses 11–15
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 11 因为 知道 这 等 人 已经 背道， 犯了罪， 自己 明知 不是， 还是 去 做。 | 11 Yīn wèi zhī dào zhè děng rén yǐ jīng bèi dào , fàn le zuì , zì jǐ míng zhī bú shì , hái shì qù zuò . | 11 因為 知道 這 等 人 已經 背道， 犯了罪， 自己 明知 不是， 還是 去 做。 | εἰδὼς ὅτι ἐξέστραπται ὁ τοιοῦτος καὶ ἁμαρτάνει, ὢν αὐτοκατάκριτος. | Knowing that he that is such is subverted, and sinneth, being condemned of himself. |
+| 12 我 打发 亚 提马 或是 推基古到 你 那里 去 的 时候， 你 要 赶紧 往尼哥 坡 里 去 见 我， 因为 我 已经 定 意在 那里 过冬。 | 12 Wǒ dǎ fā yà tí mǎ huò shì tuī jī gǔ dào nǐ nà lǐ qù de shí hou , nǐ yào gǎn jǐn wǎng ní gē pō lǐ qù jiàn wǒ , yīn wèi wǒ yǐ jīng dìng yì zài nà lǐ guò dōng . | 12 我 打發 亞 提馬 或是 推基古到 你 那裡 去 的 時候， 你 要 趕緊 往尼哥 坡 里 去 見 我， 因為 我 已經 定 意在 那裡 過冬。 | Ὅταν πέμψω Ἀρτεμᾶν πρὸς σὲ ἢ Τυχικόν, σπούδασον ἐλθεῖν πρός με εἰς Νικόπολιν, ἐκεῖ γὰρ κέκρικα παραχειμάσαι. | When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter. |
+| 13 你 要 赶紧 给 律师 西纳 和 亚 波罗 送行， 叫 他们 没有 缺乏。 | 13 Nǐ yào gǎn jǐn gěi lǜ shī xī nà hé yà bō luó sòng xíng , jiào tā men méi yǒu quē fá . | 13 你 要 趕緊 給 律師 西納 和 亞 波羅 送行， 叫 他們 沒有 缺乏。 | ζηνᾶν τὸν νομικὸν καὶ Ἀπολλῶν σπουδαίως πρόπεμψον, ἵνα μηδὲν αὐτοῖς λείπῃ. | Bring Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them. |
+| 14 并且 我们 的 人 要 学习 正经 事业 （或译： 要 学习 行善）， 预备 所 需用 的， 免得 不 结果 子。 | 14 Bìng qiě wǒ men de rén yào xué xí zhèng jīng shì yè ( huò yì : yào xué xí xíng shàn ) , yù bèi suǒ xū yòng de , miǎn de bù jié guǒ zi . | 14 並且 我們 的 人 要 學習 正經 事業 （或譯： 要 學習 行善）， 預備 所 需用 的， 免得 不 結果 子。 | μανθανέτωσαν δὲ καὶ οἱ ἡμέτεροι καλῶν ἔργων προΐστασθαι εἰς τὰς ἀναγκαίας χρείας, ἵνα μὴ ὦσιν ἄκαρποι. | And let ours also learn to maintain good works for necessary uses, that they be not unfruitful. |
+| 15 同 我 在 一处 的 人 都 问 你 安。 请代 问 那些 因有 信心 爱 我们 的 人安。 愿 恩惠 常 与 你们 众人 同 在！ | 15 Tóng wǒ zài yí chù de rén dōu wèn nǐ ān . Qǐng dài wèn nà xiē yīn yǒu xìn xīn ài wǒ men de rén ān . Yuàn ēn huì cháng yǔ nǐ men zhòng rén tóng zài ! | 15 同 我 在 一處 的 人 都 問 你 安。 請代 問 那些 因有 信心 愛 我們 的 人安。 願 恩惠 常 與 你們 眾人 同 在！ | Ἀσπάζονταί σε οἱ μετ’ ἐμοῦ πάντες. ἄσπασαι τοὺς φιλοῦντας ἡμᾶς ἐν πίστει. ἡ χάρις μετὰ πάντων ὑμῶν. | All that are with me salute thee. Greet them that love us in the faith. Grace be with you all. Amen. It was written to Titus, ordained the first bishop of the church of the Cretians, from Nicopolis of Macedonia. |
+
+> Greek: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software (sblgnt.com).

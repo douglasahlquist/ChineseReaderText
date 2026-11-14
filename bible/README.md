@@ -170,34 +170,34 @@
 
 ##### 马太福音 Matthew
 
-- [1](passages/matthew-1.vietnamese.md)
-- [2](passages/matthew-2.vietnamese.md)
-- [3](passages/matthew-3.vietnamese.md)
-- [4](passages/matthew-4.vietnamese.md)
-- [5](passages/matthew-5.vietnamese.md)
-- [6](passages/matthew-6.vietnamese.md)
-- [7](passages/matthew-7.vietnamese.md)
-- [8](passages/matthew-8.vietnamese.md)
-- [9](passages/matthew-9.vietnamese.md)
-- [10](passages/matthew-10.vietnamese.md)
-- [11](passages/matthew-11.vietnamese.md)
-- [12](passages/matthew-12.vietnamese.md)
-- [13](passages/matthew-13.vietnamese.md)
-- [14](passages/matthew-14.vietnamese.md)
-- [15](passages/matthew-15.vietnamese.md)
-- [16](passages/matthew-16.vietnamese.md)
-- [17](passages/matthew-17.vietnamese.md)
-- [18](passages/matthew-18.vietnamese.md)
-- [19](passages/matthew-19.vietnamese.md)
-- [20](passages/matthew-20.vietnamese.md)
-- [21](passages/matthew-21.vietnamese.md)
-- [22](passages/matthew-22.vietnamese.md)
-- [23](passages/matthew-23.vietnamese.md)
-- [24](passages/matthew-24.vietnamese.md)
-- [25](passages/matthew-25.vietnamese.md)
-- [26](passages/matthew-26.vietnamese.md)
-- [27](passages/matthew-27.vietnamese.md)
-- [28](passages/matthew-28.vietnamese.md)
+- [1](passages/matthew-1.kjv.md) · [KJV](passages/matthew-1.kjv.md) · [Vietnamese (1934)](passages/matthew-1.vietnamese.md)
+- [2](passages/matthew-2.kjv.md) · [KJV](passages/matthew-2.kjv.md) · [Vietnamese (1934)](passages/matthew-2.vietnamese.md)
+- [3](passages/matthew-3.kjv.md) · [KJV](passages/matthew-3.kjv.md) · [Vietnamese (1934)](passages/matthew-3.vietnamese.md)
+- [4](passages/matthew-4.kjv.md) · [KJV](passages/matthew-4.kjv.md) · [Vietnamese (1934)](passages/matthew-4.vietnamese.md)
+- [5](passages/matthew-5.kjv.md) · [KJV](passages/matthew-5.kjv.md) · [Vietnamese (1934)](passages/matthew-5.vietnamese.md)
+- [6](passages/matthew-6.kjv.md) · [KJV](passages/matthew-6.kjv.md) · [Vietnamese (1934)](passages/matthew-6.vietnamese.md)
+- [7](passages/matthew-7.kjv.md) · [KJV](passages/matthew-7.kjv.md) · [Vietnamese (1934)](passages/matthew-7.vietnamese.md)
+- [8](passages/matthew-8.kjv.md) · [KJV](passages/matthew-8.kjv.md) · [Vietnamese (1934)](passages/matthew-8.vietnamese.md)
+- [9](passages/matthew-9.kjv.md) · [KJV](passages/matthew-9.kjv.md) · [Vietnamese (1934)](passages/matthew-9.vietnamese.md)
+- [10](passages/matthew-10.kjv.md) · [KJV](passages/matthew-10.kjv.md) · [Vietnamese (1934)](passages/matthew-10.vietnamese.md)
+- [11](passages/matthew-11.kjv.md) · [KJV](passages/matthew-11.kjv.md) · [Vietnamese (1934)](passages/matthew-11.vietnamese.md)
+- [12](passages/matthew-12.kjv.md) · [KJV](passages/matthew-12.kjv.md) · [Vietnamese (1934)](passages/matthew-12.vietnamese.md)
+- [13](passages/matthew-13.kjv.md) · [KJV](passages/matthew-13.kjv.md) · [Vietnamese (1934)](passages/matthew-13.vietnamese.md)
+- [14](passages/matthew-14.kjv.md) · [KJV](passages/matthew-14.kjv.md) · [Vietnamese (1934)](passages/matthew-14.vietnamese.md)
+- [15](passages/matthew-15.kjv.md) · [KJV](passages/matthew-15.kjv.md) · [Vietnamese (1934)](passages/matthew-15.vietnamese.md)
+- [16](passages/matthew-16.kjv.md) · [KJV](passages/matthew-16.kjv.md) · [Vietnamese (1934)](passages/matthew-16.vietnamese.md)
+- [17](passages/matthew-17.kjv.md) · [KJV](passages/matthew-17.kjv.md) · [Vietnamese (1934)](passages/matthew-17.vietnamese.md)
+- [18](passages/matthew-18.kjv.md) · [KJV](passages/matthew-18.kjv.md) · [Vietnamese (1934)](passages/matthew-18.vietnamese.md)
+- [19](passages/matthew-19.kjv.md) · [KJV](passages/matthew-19.kjv.md) · [Vietnamese (1934)](passages/matthew-19.vietnamese.md)
+- [20](passages/matthew-20.kjv.md) · [KJV](passages/matthew-20.kjv.md) · [Vietnamese (1934)](passages/matthew-20.vietnamese.md)
+- [21](passages/matthew-21.kjv.md) · [KJV](passages/matthew-21.kjv.md) · [Vietnamese (1934)](passages/matthew-21.vietnamese.md)
+- [22](passages/matthew-22.kjv.md) · [KJV](passages/matthew-22.kjv.md) · [Vietnamese (1934)](passages/matthew-22.vietnamese.md)
+- [23](passages/matthew-23.kjv.md) · [KJV](passages/matthew-23.kjv.md) · [Vietnamese (1934)](passages/matthew-23.vietnamese.md)
+- [24](passages/matthew-24.kjv.md) · [KJV](passages/matthew-24.kjv.md) · [Vietnamese (1934)](passages/matthew-24.vietnamese.md)
+- [25](passages/matthew-25.kjv.md) · [KJV](passages/matthew-25.kjv.md) · [Vietnamese (1934)](passages/matthew-25.vietnamese.md)
+- [26](passages/matthew-26.kjv.md) · [KJV](passages/matthew-26.kjv.md) · [Vietnamese (1934)](passages/matthew-26.vietnamese.md)
+- [27](passages/matthew-27.kjv.md) · [KJV](passages/matthew-27.kjv.md) · [Vietnamese (1934)](passages/matthew-27.vietnamese.md)
+- [28](passages/matthew-28.kjv.md) · [KJV](passages/matthew-28.kjv.md) · [Vietnamese (1934)](passages/matthew-28.vietnamese.md)
 
 ##### 马可福音 Mark
 
@@ -217,6 +217,33 @@
 - [14](passages/mark-14.kjv.md) · [KJV](passages/mark-14.kjv.md) · [Vietnamese (1934)](passages/mark-14.vietnamese.md)
 - [15](passages/mark-15.kjv.md) · [KJV](passages/mark-15.kjv.md) · [Vietnamese (1934)](passages/mark-15.vietnamese.md)
 - [16](passages/mark-16.kjv.md) · [KJV](passages/mark-16.kjv.md) · [Vietnamese (1934)](passages/mark-16.vietnamese.md)
+
+##### 路加福音 Luke
+
+- [1](passages/luke-1.kjv.md)
+- [2](passages/luke-2.kjv.md)
+- [3](passages/luke-3.kjv.md)
+- [4](passages/luke-4.kjv.md)
+- [5](passages/luke-5.kjv.md)
+- [6](passages/luke-6.kjv.md)
+- [7](passages/luke-7.kjv.md)
+- [8](passages/luke-8.kjv.md)
+- [9](passages/luke-9.kjv.md)
+- [10](passages/luke-10.kjv.md)
+- [11](passages/luke-11.kjv.md)
+- [12](passages/luke-12.kjv.md)
+- [13](passages/luke-13.kjv.md)
+- [14](passages/luke-14.kjv.md)
+- [15](passages/luke-15.kjv.md)
+- [16](passages/luke-16.kjv.md)
+- [17](passages/luke-17.kjv.md)
+- [18](passages/luke-18.kjv.md)
+- [19](passages/luke-19.kjv.md)
+- [20](passages/luke-20.kjv.md)
+- [21](passages/luke-21.kjv.md)
+- [22](passages/luke-22.kjv.md)
+- [23](passages/luke-23.kjv.md)
+- [24](passages/luke-24.kjv.md)
 
 ##### 约翰福音 John
 
@@ -242,6 +269,37 @@
 - [20](passages/john-20.chinese-trad.md) · [繁體 Traditional](passages/john-20.chinese-trad.md) · [KJV](passages/john-20.kjv.md) · [Vietnamese (1934)](passages/john-20.vietnamese.md)
 - [21](passages/john-21.chinese-trad.md) · [繁體 Traditional](passages/john-21.chinese-trad.md) · [KJV](passages/john-21.kjv.md) · [Vietnamese (1934)](passages/john-21.vietnamese.md)
 
+##### 使徒行传 Acts
+
+- [1](passages/acts-1.kjv.md)
+- [2](passages/acts-2.kjv.md)
+- [3](passages/acts-3.kjv.md)
+- [4](passages/acts-4.kjv.md)
+- [5](passages/acts-5.kjv.md)
+- [6](passages/acts-6.kjv.md)
+- [7](passages/acts-7.kjv.md)
+- [8](passages/acts-8.kjv.md)
+- [9](passages/acts-9.kjv.md)
+- [10](passages/acts-10.kjv.md)
+- [11](passages/acts-11.kjv.md)
+- [12](passages/acts-12.kjv.md)
+- [13](passages/acts-13.kjv.md)
+- [14](passages/acts-14.kjv.md)
+- [15](passages/acts-15.kjv.md)
+- [16](passages/acts-16.kjv.md)
+- [17](passages/acts-17.kjv.md)
+- [18](passages/acts-18.kjv.md)
+- [19](passages/acts-19.kjv.md)
+- [20](passages/acts-20.kjv.md)
+- [21](passages/acts-21.kjv.md)
+- [22](passages/acts-22.kjv.md)
+- [23](passages/acts-23.kjv.md)
+- [24](passages/acts-24.kjv.md)
+- [25](passages/acts-25.kjv.md)
+- [26](passages/acts-26.kjv.md)
+- [27](passages/acts-27.kjv.md)
+- [28](passages/acts-28.kjv.md)
+
 ##### 罗马书 Romans
 
 - [1](passages/romans-1.kjv.md) · [KJV](passages/romans-1.kjv.md) · [Vietnamese (1934)](passages/romans-1.vietnamese.md)
@@ -261,9 +319,192 @@
 - [15](passages/romans-15.kjv.md) · [KJV](passages/romans-15.kjv.md) · [Vietnamese (1934)](passages/romans-15.vietnamese.md)
 - [16](passages/romans-16.kjv.md) · [KJV](passages/romans-16.kjv.md) · [Vietnamese (1934)](passages/romans-16.vietnamese.md)
 
+##### 哥林多前书 1 Corinthians
+
+- [1](passages/1-corinthians-1.kjv.md)
+- [2](passages/1-corinthians-2.kjv.md)
+- [3](passages/1-corinthians-3.kjv.md)
+- [4](passages/1-corinthians-4.kjv.md)
+- [5](passages/1-corinthians-5.kjv.md)
+- [6](passages/1-corinthians-6.kjv.md)
+- [7](passages/1-corinthians-7.kjv.md)
+- [8](passages/1-corinthians-8.kjv.md)
+- [9](passages/1-corinthians-9.kjv.md)
+- [10](passages/1-corinthians-10.kjv.md)
+- [11](passages/1-corinthians-11.kjv.md)
+- [12](passages/1-corinthians-12.kjv.md)
+- [13](passages/1-corinthians-13.kjv.md)
+- [14](passages/1-corinthians-14.kjv.md)
+- [15](passages/1-corinthians-15.kjv.md)
+- [16](passages/1-corinthians-16.kjv.md)
+
+##### 哥林多后书 2 Corinthians
+
+- [1](passages/2-corinthians-1.kjv.md)
+- [2](passages/2-corinthians-2.kjv.md)
+- [3](passages/2-corinthians-3.kjv.md)
+- [4](passages/2-corinthians-4.kjv.md)
+- [5](passages/2-corinthians-5.kjv.md)
+- [6](passages/2-corinthians-6.kjv.md)
+- [7](passages/2-corinthians-7.kjv.md)
+- [8](passages/2-corinthians-8.kjv.md)
+- [9](passages/2-corinthians-9.kjv.md)
+- [10](passages/2-corinthians-10.kjv.md)
+- [11](passages/2-corinthians-11.kjv.md)
+- [12](passages/2-corinthians-12.kjv.md)
+- [13](passages/2-corinthians-13.kjv.md)
+
+##### 加拉太书 Galatians
+
+- [1](passages/galatians-1.kjv.md)
+- [2](passages/galatians-2.kjv.md)
+- [3](passages/galatians-3.kjv.md)
+- [4](passages/galatians-4.kjv.md)
+- [5](passages/galatians-5.kjv.md)
+- [6](passages/galatians-6.kjv.md)
+
+##### 以弗所书 Ephesians
+
+- [1](passages/ephesians-1.kjv.md)
+- [2](passages/ephesians-2.kjv.md)
+- [3](passages/ephesians-3.kjv.md)
+- [4](passages/ephesians-4.kjv.md)
+- [5](passages/ephesians-5.kjv.md)
+- [6](passages/ephesians-6.kjv.md)
+
 ##### 腓立比书 Philippians
 
 - [1](passages/philippians-1.kjv.md) · [KJV](passages/philippians-1.kjv.md) · [Vietnamese (1934)](passages/philippians-1.vietnamese.md)
 - [2](passages/philippians-2.kjv.md) · [KJV](passages/philippians-2.kjv.md) · [Vietnamese (1934)](passages/philippians-2.vietnamese.md)
 - [3](passages/philippians-3.kjv.md) · [KJV](passages/philippians-3.kjv.md) · [Vietnamese (1934)](passages/philippians-3.vietnamese.md)
 - [4](passages/philippians-4.kjv.md) · [KJV](passages/philippians-4.kjv.md) · [Vietnamese (1934)](passages/philippians-4.vietnamese.md)
+
+##### 歌罗西书 Colossians
+
+- [1](passages/colossians-1.kjv.md)
+- [2](passages/colossians-2.kjv.md)
+- [3](passages/colossians-3.kjv.md)
+- [4](passages/colossians-4.kjv.md)
+
+##### 帖撒罗尼迦前书 1 Thessalonians
+
+- [1](passages/1-thessalonians-1.kjv.md)
+- [2](passages/1-thessalonians-2.kjv.md)
+- [3](passages/1-thessalonians-3.kjv.md)
+- [4](passages/1-thessalonians-4.kjv.md)
+- [5](passages/1-thessalonians-5.kjv.md)
+
+##### 帖撒罗尼迦后书 2 Thessalonians
+
+- [1](passages/2-thessalonians-1.kjv.md)
+- [2](passages/2-thessalonians-2.kjv.md)
+- [3](passages/2-thessalonians-3.kjv.md)
+
+##### 提摩太前书 1 Timothy
+
+- [1](passages/1-timothy-1.kjv.md)
+- [2](passages/1-timothy-2.kjv.md)
+- [3](passages/1-timothy-3.kjv.md)
+- [4](passages/1-timothy-4.kjv.md)
+- [5](passages/1-timothy-5.kjv.md)
+- [6](passages/1-timothy-6.kjv.md)
+
+##### 提摩太后书 2 Timothy
+
+- [1](passages/2-timothy-1.kjv.md)
+- [2](passages/2-timothy-2.kjv.md)
+- [3](passages/2-timothy-3.kjv.md)
+- [4](passages/2-timothy-4.kjv.md)
+
+##### 提多书 Titus
+
+- [1](passages/titus-1.kjv.md)
+- [2](passages/titus-2.kjv.md)
+- [3](passages/titus-3.kjv.md)
+
+##### 腓利门书 Philemon
+
+- [1](passages/philemon-1.kjv.md)
+
+##### 希伯来书 Hebrews
+
+- [1](passages/hebrews-1.kjv.md)
+- [2](passages/hebrews-2.kjv.md)
+- [3](passages/hebrews-3.kjv.md)
+- [4](passages/hebrews-4.kjv.md)
+- [5](passages/hebrews-5.kjv.md)
+- [6](passages/hebrews-6.kjv.md)
+- [7](passages/hebrews-7.kjv.md)
+- [8](passages/hebrews-8.kjv.md)
+- [9](passages/hebrews-9.kjv.md)
+- [10](passages/hebrews-10.kjv.md)
+- [11](passages/hebrews-11.kjv.md)
+- [12](passages/hebrews-12.kjv.md)
+- [13](passages/hebrews-13.kjv.md)
+
+##### 雅各书 James
+
+- [1](passages/james-1.kjv.md)
+- [2](passages/james-2.kjv.md)
+- [3](passages/james-3.kjv.md)
+- [4](passages/james-4.kjv.md)
+- [5](passages/james-5.kjv.md)
+
+##### 彼得前书 1 Peter
+
+- [1](passages/1-peter-1.kjv.md)
+- [2](passages/1-peter-2.kjv.md)
+- [3](passages/1-peter-3.kjv.md)
+- [4](passages/1-peter-4.kjv.md)
+- [5](passages/1-peter-5.kjv.md)
+
+##### 彼得后书 2 Peter
+
+- [1](passages/2-peter-1.kjv.md)
+- [2](passages/2-peter-2.kjv.md)
+- [3](passages/2-peter-3.kjv.md)
+
+##### 约翰一书 1 John
+
+- [1](passages/1-john-1.kjv.md)
+- [2](passages/1-john-2.kjv.md)
+- [3](passages/1-john-3.kjv.md)
+- [4](passages/1-john-4.kjv.md)
+- [5](passages/1-john-5.kjv.md)
+
+##### 约翰二书 2 John
+
+- [1](passages/2-john-1.kjv.md)
+
+##### 约翰三书 3 John
+
+- [1](passages/3-john-1.kjv.md)
+
+##### 犹大书 Jude
+
+- [1](passages/jude-1.kjv.md)
+
+##### 启示录 Revelation
+
+- [1](passages/revelation-1.kjv.md)
+- [2](passages/revelation-2.kjv.md)
+- [3](passages/revelation-3.kjv.md)
+- [4](passages/revelation-4.kjv.md)
+- [5](passages/revelation-5.kjv.md)
+- [6](passages/revelation-6.kjv.md)
+- [7](passages/revelation-7.kjv.md)
+- [8](passages/revelation-8.kjv.md)
+- [9](passages/revelation-9.kjv.md)
+- [10](passages/revelation-10.kjv.md)
+- [11](passages/revelation-11.kjv.md)
+- [12](passages/revelation-12.kjv.md)
+- [13](passages/revelation-13.kjv.md)
+- [14](passages/revelation-14.kjv.md)
+- [15](passages/revelation-15.kjv.md)
+- [16](passages/revelation-16.kjv.md)
+- [17](passages/revelation-17.kjv.md)
+- [18](passages/revelation-18.kjv.md)
+- [19](passages/revelation-19.kjv.md)
+- [20](passages/revelation-20.kjv.md)
+- [21](passages/revelation-21.kjv.md)
+- [22](passages/revelation-22.kjv.md)

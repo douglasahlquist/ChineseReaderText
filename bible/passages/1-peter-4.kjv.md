@@ -1,0 +1,50 @@
+<!-- reader: speak=word -->
+
+# 彼得前书 4 | Bǐ dé qián shū 4 | 1 Peter 4
+
+> **KJV** · 和合本 (Chinese Union Version, 1919), simplified and traditional · SBL Greek New Testament (SBLGNT) · King James Version (KJV, 1769)
+
+## 第1–5节 | Dì 1–5 jié | Verses 1–5
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 1 基督 既 在 肉身 受苦， 你们 也 当 将 这样 的 心志 作为 兵器， 因为 在 肉身 受过 苦 的， 就 已经 与 罪 断绝 了。 | 1 Jī dū jì zài ròu shēn shòu kǔ , nǐ men yě dāng jiāng zhè yàng de xīn zhì zuò wéi bīng qì , yīn wèi zài ròu shēn shòu guò kǔ de , jiù yǐ jīng yǔ zuì duàn jué le . | 1 基督 既 在 肉身 受苦， 你們 也 當 將 這樣 的 心志 作為 兵器， 因為 在 肉身 受過 苦 的， 就 已經 與 罪 斷絕 了。 | Χριστοῦ οὖν παθόντος σαρκὶ καὶ ὑμεῖς τὴν αὐτὴν ἔννοιαν ὁπλίσασθε, ὅτι ὁ παθὼν σαρκὶ πέπαυται ἁμαρτίας, | Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin; |
+| 2 你们 存 这样 的 心， 从今以后 就 可以 不 从 人 的 情欲， 只 从 神 的 旨意 在世 度 余下 的 光阴。 | 2 Nǐ men cún zhè yàng de xīn , cóng jīn yǐ hòu jiù kě yǐ bù cóng rén de qíng yù , zhǐ cóng shén de zhǐ yì zài shì dù yú xià de guāng yīn . | 2 你們 存 這樣 的 心， 從今以後 就 可以 不 從 人 的 情慾， 只 從 神 的 旨意 在世 度 餘下 的 光陰。 | εἰς τὸ μηκέτι ἀνθρώπων ἐπιθυμίαις ἀλλὰ θελήματι θεοῦ τὸν ἐπίλοιπον ἐν σαρκὶ βιῶσαι χρόνον. | That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God. |
+| 3 因为 往日 随从 外邦 人 的 心意 行 邪淫、 恶欲、 醉酒、 荒宴、 群饮， 并 可恶 拜偶像 的 事， 时候 已经 够 了。 | 3 Yīn wèi wǎng rì suí cóng wài bāng rén de xīn yì xíng xié yín , è yù , zuì jiǔ , huāng yàn , qún yǐn , bìng kě wù bài ǒu xiàng de shì , shí hou yǐ jīng gòu le . | 3 因為 往日 隨從 外邦 人 的 心意 行 邪淫、 惡慾、 醉酒、 荒宴、 群飲， 並 可惡 拜偶像 的 事， 時候 已經 夠 了。 | ἀρκετὸς γὰρ ὁ παρεληλυθὼς χρόνος τὸ βούλημα τῶν ἐθνῶν κατειργάσθαι, πεπορευμένους ἐν ἀσελγείαις, ἐπιθυμίαις, οἰνοφλυγίαις, κώμοις, πότοις, καὶ ἀθεμίτοις εἰδωλολατρίαις. | For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries: |
+| 4 他们 在 这些 事上， 见 你们 不 与 他们 同奔 那 放荡 无度 的 路， 就 以为 怪， 毁谤 你们。 | 4 Tā men zài zhè xiē shì shàng , jiàn nǐ men bù yǔ tā men tóng bēn nà fàng dàng wú dù de lù , jiù yǐ wéi guài , huǐ bàng nǐ men . | 4 他們 在 這些 事上， 見 你們 不 與 他們 同奔 那 放蕩 無度 的 路， 就 以為 怪， 毀謗 你們。 | ἐν ᾧ ξενίζονται μὴ συντρεχόντων ὑμῶν εἰς τὴν αὐτὴν τῆς ἀσωτίας ἀνάχυσιν, βλασφημοῦντες· | Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you: |
+| 5 他们 必在 那 将要 审判 活人 死人 的 主 面前 交帐。 | 5 Tā men bì zài nà jiāng yào shěn pàn huó rén sǐ rén de zhǔ miàn qián jiāo zhàng . | 5 他們 必在 那 將要 審判 活人 死人 的 主 面前 交帳。 | οἳ ἀποδώσουσιν λόγον τῷ ἑτοίμως ἔχοντι κρῖναι ζῶντας καὶ νεκρούς· | Who shall give account to him that is ready to judge the quick and the dead. |
+
+## 第6–10节 | Dì 6–10 jié | Verses 6–10
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 6 为此， 就是 死人 也 曾 有 福音 传给 他们， 要 叫 他们 的 肉体 按着 人受 审判， 他们 的 灵性 却 靠 神 活着。 | 6 Wèi cǐ , jiù shì sǐ rén yě céng yǒu fú yīn chuán gěi tā men , yào jiào tā men de ròu tǐ àn zhe rén shòu shěn pàn , tā men de líng xìng què kào shén huó zhe . | 6 為此， 就是 死人 也 曾 有 福音 傳給 他們， 要 叫 他們 的 肉體 按著 人受 審判， 他們 的 靈性 卻 靠 神 活著。 | εἰς τοῦτο γὰρ καὶ νεκροῖς εὐηγγελίσθη ἵνα κριθῶσι μὲν κατὰ ἀνθρώπους σαρκὶ ζῶσι δὲ κατὰ θεὸν πνεύματι. | For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit. |
+| 7 万物 的 结局 近 了。 所以， 你们 要 谨慎 自 守， 警醒 祷告。 | 7 Wàn wù de jié jú jìn le . Suǒ yǐ , nǐ men yào jǐn shèn zì shǒu , jǐng xǐng dǎo gào . | 7 萬物 的 結局 近 了。 所以， 你們 要 謹慎 自 守， 警醒 禱告。 | Πάντων δὲ τὸ τέλος ἤγγικεν. σωφρονήσατε οὖν καὶ νήψατε εἰς προσευχάς· | But the end of all things is at hand: be ye therefore sober, and watch unto prayer. |
+| 8 最 要紧 的 是 彼此 切实 相爱， 因为 爱能 遮掩 许多 的 罪。 | 8 Zuì yào jǐn de shì bǐ cǐ qiè shí xiāng ài , yīn wèi ài néng zhē yǎn xǔ duō de zuì . | 8 最 要緊 的 是 彼此 切實 相愛， 因為 愛能 遮掩 許多 的 罪。 | πρὸ πάντων τὴν εἰς ἑαυτοὺς ἀγάπην ἐκτενῆ ἔχοντες, ὅτι ἀγάπη καλύπτει πλῆθος ἁμαρτιῶν· | And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins. |
+| 9 你们 要 互相 款待， 不 发怨言。 | 9 Nǐ men yào hù xiāng kuǎn dài , bù fā yuàn yán . | 9 你們 要 互相 款待， 不 發怨言。 | φιλόξενοι εἰς ἀλλήλους ἄνευ γογγυσμοῦ· | Use hospitality one to another without grudging. |
+| 10 各人 要照 所得 的 恩赐 彼此 服事， 作 神 百般 恩赐 的 好 管家。 | 10 Gè rén yào zhào suǒ dé de ēn cì bǐ cǐ fú shi , zuò shén bǎi bān ēn cì de hǎo guǎn jiā . | 10 各人 要照 所得 的 恩賜 彼此 服事， 作 神 百般 恩賜 的 好 管家。 | ἕκαστος καθὼς ἔλαβεν χάρισμα, εἰς ἑαυτοὺς αὐτὸ διακονοῦντες ὡς καλοὶ οἰκονόμοι ποικίλης χάριτος θεοῦ· | As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God. |
+
+## 第11–15节 | Dì 11–15 jié | Verses 11–15
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 11 若有 讲道 的， 要 按着 神 的 圣言 讲； 若有 服事 人 的， 要 按着 神 所 赐 的 力量 服事， 叫 神在 凡事 上 因 耶稣基督 得 荣耀。 原来 荣耀、 权能 都 是 他 的， 直到 永永远远。 阿 们！ | 11 Ruò yǒu jiǎng dào de , yào àn zhe shén de shèng yán jiǎng ; ruò yǒu fú shi rén de , yào àn zhe shén suǒ cì de lì liàng fú shi , jiào shén zài fán shì shàng yīn yē sū jī dū de róng yào . Yuán lái róng yào , quán néng dōu shì tā de , zhí dào yǒng yǒng yuǎn yuǎn . Ā men ! | 11 若有 講道 的， 要 按著 神 的 聖言 講； 若有 服事 人 的， 要 按著 神 所 賜 的 力量 服事， 叫 神在 凡事 上 因 耶穌基督 得 榮耀。 原來 榮耀、 權能 都 是 他 的， 直到 永永遠遠。 阿 們！ | εἴ τις λαλεῖ, ὡς λόγια θεοῦ· εἴ τις διακονεῖ, ὡς ἐξ ἰσχύος ἧς χορηγεῖ ὁ θεός· ἵνα ἐν πᾶσιν δοξάζηται ὁ θεὸς διὰ Ἰησοῦ Χριστοῦ, ᾧ ἐστιν ἡ δόξα καὶ τὸ κράτος εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν. | If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen. |
+| 12 亲爱 的 弟兄 啊， 有 火炼 的 试验 临到 你们， 不要 以为 奇怪 （似乎 是 遭遇 非常 的 事）， | 12 Qīn ài de dì xiong a , yǒu huǒ liàn de shì yàn lín dào nǐ men , bú yào yǐ wéi qí guài ( sì hū shì zāo yù fēi cháng de shì ) , | 12 親愛 的 弟兄 啊， 有 火煉 的 試驗 臨到 你們， 不要 以為 奇怪 （似乎 是 遭遇 非常 的 事）， | Ἀγαπητοί, μὴ ξενίζεσθε τῇ ἐν ὑμῖν πυρώσει πρὸς πειρασμὸν ὑμῖν γινομένῃ ὡς ξένου ὑμῖν συμβαίνοντος, | Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you: |
+| 13 倒 要 欢喜； 因为 你们 是 与 基督 一同 受苦， 使 你们 在 他 荣耀 显现 的 时候， 也 可以 欢喜 快乐。 | 13 Dào yào huān xǐ ; yīn wèi nǐ men shì yǔ jī dū yì tóng shòu kǔ , shǐ nǐ men zài tā róng yào xiǎn xiàn de shí hou , yě kě yǐ huān xǐ kuài lè . | 13 倒 要 歡喜； 因為 你們 是 與 基督 一同 受苦， 使 你們 在 他 榮耀 顯現 的 時候， 也 可以 歡喜 快樂。 | ἀλλὰ καθὸ κοινωνεῖτε τοῖς τοῦ Χριστοῦ παθήμασιν χαίρετε, ἵνα καὶ ἐν τῇ ἀποκαλύψει τῆς δόξης αὐτοῦ χαρῆτε ἀγαλλιώμενοι. | But rejoice, inasmuch as ye are partakers of Christ’s sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy. |
+| 14 你们 若 为 基督 的 名受 辱骂， 便是 有福 的； 因为 神 荣耀 的 灵 常住 在 你们 身上。 | 14 Nǐ men ruò wèi jī dū de míng shòu rǔ mà , biàn shì yǒu fú de ; yīn wèi shén róng yào de líng cháng zhù zài nǐ men shēn shàng . | 14 你們 若 為 基督 的 名受 辱罵， 便是 有福 的； 因為 神 榮耀 的 靈 常住 在 你們 身上。 | εἰ ὀνειδίζεσθε ἐν ὀνόματι Χριστοῦ, μακάριοι, ὅτι τὸ τῆς δόξης καὶ τὸ τοῦ θεοῦ πνεῦμα ἐφ’ ὑμᾶς ἀναπαύεται. | If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified. |
+| 15 你们 中间 却 不可 有人 因为 杀人、 偷窃、 作恶、 好管闲事 而 受苦。 | 15 Nǐ men zhōng jiān què bù kě yǒu rén yīn wèi shā rén , tōu qiè , zuò è , hào guǎn xián shì ér shòu kǔ . | 15 你們 中間 卻 不可 有人 因為 殺人、 偷竊、 作惡、 好管閒事 而 受苦。 | μὴ γάρ τις ὑμῶν πασχέτω ὡς φονεὺς ἢ κλέπτης ἢ κακοποιὸς ἢ ὡς ἀλλοτριεπίσκοπος· | But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men’s matters. |
+
+## 第16–19节 | Dì 16–19 jié | Verses 16–19
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | 繁體 | SBLGNT | KJV |
+|---|---|---|---|---|
+| 16 若为 作 基督徒 受苦， 却 不要 羞耻， 倒 要 因 这名 归 荣耀 给 神。 | 16 Ruò wèi zuò jī dū tú shòu kǔ , què bú yào xiū chǐ , dào yào yīn zhè míng guī róng yào gěi shén . | 16 若為 作 基督徒 受苦， 卻 不要 羞恥， 倒 要 因 這名 歸 榮耀 給 神。 | εἰ δὲ ὡς Χριστιανός, μὴ αἰσχυνέσθω, δοξαζέτω δὲ τὸν θεὸν ἐν τῷ ὀνόματι τούτῳ. | Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf. |
+| 17 因为 时候 到 了， 审判 要 从 神 的 家 起首。 若 是 先 从 我们 起首， 那不信 从 神 福音 的 人 将 有 何等 的 结局 呢？ | 17 Yīn wèi shí hou dào le , shěn pàn yào cóng shén de jiā qǐ shǒu . Ruò shì xiān cóng wǒ men qǐ shǒu , nà bú xìn cóng shén fú yīn de rén jiāng yǒu hé děng de jié jú ne ? | 17 因為 時候 到 了， 審判 要 從 神 的 家 起首。 若 是 先 從 我們 起首， 那不信 從 神 福音 的 人 將 有 何等 的 結局 呢？ | ὅτι ὁ καιρὸς τοῦ ἄρξασθαι τὸ κρίμα ἀπὸ τοῦ οἴκου τοῦ θεοῦ· εἰ δὲ πρῶτον ἀφ’ ἡμῶν, τί τὸ τέλος τῶν ἀπειθούντων τῷ τοῦ θεοῦ εὐαγγελίῳ; | For the time is come that judgment must begin at the house of God: and if it first begin at us, what shall the end be of them that obey not the gospel of God? |
+| 18 若 是 义人 仅仅 得救， 那 不 虔敬 和 犯罪 的 人 将 有 何地 可站 呢？ | 18 Ruò shì yì rén jǐn jǐn dé jiù , nà bù qián jìng hé fàn zuì de rén jiāng yǒu hé dì kě zhàn ne ? | 18 若 是 義人 僅僅 得救， 那 不 虔敬 和 犯罪 的 人 將 有 何地 可站 呢？ | καὶ εἰ ὁ δίκαιος μόλις σῴζεται, ὁ ἀσεβὴς καὶ ἁμαρτωλὸς ποῦ φανεῖται; | And if the righteous scarcely be saved, where shall the ungodly and the sinner appear? |
+| 19 所以， 那照 神 旨意 受苦 的 人 要 一心 为善， 将 自己 灵魂 交与 那 信实 的 造化 之主。 | 19 Suǒ yǐ , nà zhào shén zhǐ yì shòu kǔ de rén yào yì xīn wéi shàn , jiāng zì jǐ líng hún jiāo yǔ nà xìn shí de zào huà zhī zhǔ . | 19 所以， 那照 神 旨意 受苦 的 人 要 一心 為善， 將 自己 靈魂 交與 那 信實 的 造化 之主。 | ὥστε καὶ οἱ πάσχοντες κατὰ τὸ θέλημα τοῦ θεοῦ πιστῷ κτίστῃ παρατιθέσθωσαν τὰς ψυχὰς αὐτῶν ἐν ἀγαθοποιΐᾳ. | Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator. |
+
+> Greek: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software (sblgnt.com).
