@@ -2,8 +2,35 @@
 
 ### 书卷 Books of the Bible
 
-- [旧约圣经书卷](01-jiu-yue-shu-juan.md)
-- [新约圣经书卷](02-xin-yue-shu-juan.md)
+#### 中文 Chinese
+
+- [旧约 Old Testament](01-jiu-yue-shu-juan.md)
+- [新约 New Testament](02-xin-yue-shu-juan.md)
+
+#### 한국어 Korean
+
+- [구약 성경 · Old Testament](books/ko-ot.md)
+- [신약 성경 · New Testament](books/ko-nt.md)
+
+#### Tiếng Việt Vietnamese
+
+- [Cựu Ước · Old Testament](books/vi-ot.md)
+- [Tân Ước · New Testament](books/vi-nt.md)
+
+#### ภาษาไทย Thai
+
+- [พันธสัญญาเดิม · Old Testament](books/th-ot.md)
+- [พันธสัญญาใหม่ · New Testament](books/th-nt.md)
+
+#### Français French
+
+- [Ancien Testament · Old Testament](books/fr-ot.md)
+- [Nouveau Testament · New Testament](books/fr-nt.md)
+
+#### Deutsch German
+
+- [Altes Testament · Old Testament](books/de-ot.md)
+- [Neues Testament · New Testament](books/de-nt.md)
 
 ### 经文 Passages
 
