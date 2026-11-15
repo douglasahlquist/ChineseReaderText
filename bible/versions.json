@@ -1,0 +1,159 @@
+{
+  "versions": [
+    {
+      "id": "simplified",
+      "short": "简体 Simplified",
+      "kind": "simplified",
+      "language": "zh-Hans",
+      "title": "和合本 (Chinese Union Version, 1919), simplified",
+      "license": "Public domain",
+      "source": "github"
+    },
+    {
+      "id": "traditional",
+      "short": "繁體 Traditional",
+      "kind": "traditional",
+      "language": "zh-Hant",
+      "title": "和合本 (Chinese Union Version, 1919), traditional",
+      "license": "Public domain",
+      "source": "github"
+    },
+    {
+      "id": "pinyin",
+      "short": "Pinyin",
+      "kind": "pinyin",
+      "language": "zh-Latn-pinyin",
+      "title": "Pinyin",
+      "license": "Generated",
+      "source": "github"
+    },
+    {
+      "id": "original",
+      "short": "Greek / Hebrew",
+      "kind": "original",
+      "title": "Greek / Hebrew",
+      "labels": [
+        "WLC",
+        "SBLGNT",
+        "TR",
+        "Byz"
+      ],
+      "labelTitles": {
+        "WLC": "Westminster Leningrad Codex (WLC)",
+        "SBLGNT": "SBL Greek New Testament (SBLGNT)",
+        "TR": "Textus Receptus (1550/1894)",
+        "Byz": "Byzantine Textform (2013)"
+      },
+      "license": "WLC, TR: public domain · SBLGNT: CC BY 4.0",
+      "source": "github"
+    },
+    {
+      "id": "kjv",
+      "short": "KJV",
+      "kind": "translation",
+      "language": "en",
+      "labels": [
+        "KJV"
+      ],
+      "title": "King James Version (KJV, 1769)",
+      "license": "Public domain",
+      "source": "github"
+    },
+    {
+      "id": "web",
+      "short": "WEB",
+      "kind": "translation",
+      "language": "en",
+      "labels": [
+        "WEB"
+      ],
+      "title": "World English Bible (WEB)",
+      "license": "Public domain",
+      "source": "github"
+    },
+    {
+      "id": "asv",
+      "short": "ASV",
+      "kind": "translation",
+      "language": "en",
+      "labels": [
+        "ASV"
+      ],
+      "title": "American Standard Version (ASV, 1901)",
+      "license": "Public domain",
+      "source": "github"
+    },
+    {
+      "id": "bbe",
+      "short": "BBE",
+      "kind": "translation",
+      "language": "en",
+      "labels": [
+        "BBE"
+      ],
+      "title": "Bible in Basic English (BBE, 1949/1964)",
+      "license": "Public domain",
+      "source": "github"
+    },
+    {
+      "id": "krv",
+      "short": "개역한글",
+      "kind": "translation",
+      "language": "ko",
+      "labels": [
+        "개역한글"
+      ],
+      "title": "개역한글 (Korean Revised Version, 1961)",
+      "license": "Public domain",
+      "source": "github"
+    },
+    {
+      "id": "thkjv",
+      "short": "ThaiKJV",
+      "kind": "translation",
+      "language": "th",
+      "labels": [
+        "ThaiKJV"
+      ],
+      "title": "Thai King James Version (ThaiKJV)",
+      "license": "CC BY-NC-ND 4.0 © 2003 Philip Pope",
+      "source": "github"
+    },
+    {
+      "id": "vietnamese",
+      "short": "Tiếng Việt (1934)",
+      "kind": "translation",
+      "language": "vi",
+      "labels": [
+        "Vietnamese (1934)"
+      ],
+      "title": "Vietnamese Bible (1934)",
+      "license": "Public domain",
+      "source": "github"
+    },
+    {
+      "id": "martin",
+      "short": "Français (Martin)",
+      "kind": "translation",
+      "language": "fr",
+      "labels": [
+        "Martin (1744)"
+      ],
+      "title": "Martin (1744)",
+      "license": "Public domain",
+      "source": "github"
+    },
+    {
+      "id": "luther1912",
+      "short": "Deutsch (Luther)",
+      "kind": "translation",
+      "language": "de",
+      "labels": [
+        "Luther (1912)"
+      ],
+      "title": "Luther (1912)",
+      "license": "Public domain",
+      "source": "github"
+    }
+  ]
+}

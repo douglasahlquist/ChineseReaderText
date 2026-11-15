@@ -116,6 +116,10 @@
 ### HSK 3 · 第三级
 
 - [HSK 3 · 1–953 · 词汇 Vocabulary](../characters/data/hsk3-0001-0953.json)
+- [HSK 3 介绍 · About HSK 3](hsk3/00.md)
+- [第一课：开始学三级 · Starting HSK 3](hsk3/01.md)
+- [第二课：把和被 · Ba and bei](hsk3/02.md)
+- [第三课：说时间 · Talking about time](hsk3/03.md)
 
 ### HSK 4 · 第四级
 

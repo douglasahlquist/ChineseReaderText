@@ -2,22 +2,24 @@
 
 # 诗篇 128 | Shī piān 128 | Psalms 128
 
-> **WLC** · 和合本 (Chinese Union Version, 1919), simplified and traditional · Westminster Leningrad Codex (WLC)
+> **WLC** · 和合本 (Chinese Union Version, 1919), simplified and traditional · Westminster Leningrad Codex (WLC) · King James Version (KJV, 1769) · 개역한글 (Korean Revised Version, 1961) · Vietnamese (1934) · พระคริสตธรรมคัมภีร์ ฉบับ KJV (Thai King James Version) · Martin (1744) · Luther (1912)
 
 ## 第1–5节 | Dì 1–5 jié | Verses 1–5
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | 繁體 | WLC |
-|---|---|---|---|
-| 1 （上行 之诗。） 凡 敬畏 耶和华、 遵行 他 道 的 人 便 为 有福！ | 1 ( Shàng háng zhī shī . ) Fán jìng wèi yē hé huá , zūn xíng tā dào de rén biàn wéi yǒu fú ! | 1 （上行 之詩。） 凡 敬畏 耶和華、 遵行 他 道 的 人 便 為 有福！ | שִׁיר הַֽמַּעֲלוֹת אַשְׁרֵי כָּל־יְרֵא יְהוָה הַהֹלֵךְ בִּדְרָכָֽיו׃ |
-| 2 你 要 吃 劳碌 得来 的； 你 要 享福， 事情 顺利。 | 2 Nǐ yào chī láo lù dé lái de ; nǐ yào xiǎng fú , shì qíng shùn lì . | 2 你 要 吃 勞碌 得來 的； 你 要 享福， 事情 順利。 | יְגִיעַ כַּפֶּיךָ כִּי תֹאכֵל אַשְׁרֶיךָ וְטוֹב לָֽךְ׃ |
-| 3 你 妻子 在 你 的 内室， 好像 多 结果 子 的 葡萄树； 你 儿女 围绕 你 的 桌子， 好像 橄榄 栽子。 | 3 Nǐ qī zǐ zài nǐ de nèi shì , hǎo xiàng duō jié guǒ zi de pú táo shù ; nǐ ér nǚ wéi rào nǐ de zhuō zi , hǎo xiàng gǎn lǎn zāi zi . | 3 你 妻子 在 你 的 內室， 好像 多 結果 子 的 葡萄樹； 你 兒女 圍繞 你 的 桌子， 好像 橄欖 栽子。 | אֶשְׁתְּךָ ׀ כְּגֶפֶן פֹּרִיָּה בְּיַרְכְּתֵי בֵיתֶךָ בָּנֶיךָ כִּשְׁתִלֵי זֵיתִים סָבִיב לְשֻׁלְחָנֶֽךָ׃ |
-| 4 看 哪， 敬畏 耶和华 的 人 必要 这样 蒙福！ | 4 Kàn nǎ , jìng wèi yē hé huá de rén bì yào zhè yàng méng fú ! | 4 看 哪， 敬畏 耶和華 的 人 必要 這樣 蒙福！ | הִנֵּה כִי־כֵן יְבֹרַךְ גָּבֶר יְרֵא יְהוָֽה׃ |
-| 5 愿 耶和华 从 锡安 赐福 给 你！ 愿 你 一生一世 看见 耶路撒冷 的 好处！ | 5 Yuàn yē hé huá cóng xī ān cì fú gěi nǐ ! Yuàn nǐ yì shēng yí shì kàn jiàn yé lù sā lěng de hǎo chù ! | 5 願 耶和華 從 錫安 賜福 給 你！ 願 你 一生一世 看見 耶路撒冷 的 好處！ | יְבָרֶכְךָ יְהוָה מִצִיּוֹן וּרְאֵה בְּטוּב יְרוּשָׁלָ͏ִם כֹּל יְמֵי חַיֶּֽיךָ׃ |
+| Hanzi | Pinyin | 繁體 | WLC | KJV | 개역한글 | Vietnamese (1934) | ThaiKJV | Martin (1744) | Luther (1912) |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 （上行 之诗。） 凡 敬畏 耶和华、 遵行 他 道 的 人 便 为 有福！ | 1 ( Shàng háng zhī shī . ) Fán jìng wèi yē hé huá , zūn xíng tā dào de rén biàn wéi yǒu fú ! | 1 （上行 之詩。） 凡 敬畏 耶和華、 遵行 他 道 的 人 便 為 有福！ | שִׁיר הַֽמַּעֲלוֹת אַשְׁרֵי כָּל־יְרֵא יְהוָה הַהֹלֵךְ בִּדְרָכָֽיו׃ | A Song of degrees. Blessed is every one that feareth the Lord; that walketh in his ways. | 성전에 올라가는 노래 여호와를 경외하며 그 도에 행하는 자마다 복이 있도다 | Phước cho người nào kính sợ Ðức Giê-hô-va, Ði trong đường lối Ngài! | บทเพลงใช้แห่ขึ้นทุกคนที่เกรงกลัวพระเยโฮวาห์ก็เป็นสุข คือผู้ที่ดำเนินในมรรคาของพระองค์ | Cantique de Mahaloth. Bienheureux est quiconque craint l'Eternel, et marche dans ses voies. | Ein Lied im höhern Chor. Wohl dem, der den HERRN fürchtet und auf seinen Wegen geht! |
+| 2 你 要 吃 劳碌 得来 的； 你 要 享福， 事情 顺利。 | 2 Nǐ yào chī láo lù dé lái de ; nǐ yào xiǎng fú , shì qíng shùn lì . | 2 你 要 吃 勞碌 得來 的； 你 要 享福， 事情 順利。 | יְגִיעַ כַּפֶּיךָ כִּי תֹאכֵל אַשְׁרֶיךָ וְטוֹב לָֽךְ׃ | For thou shalt eat the labour of thine hands: happy shalt thou be, and it shall be well with thee. | 네가 네 손이 수고한 대로 먹을 것이라 네가 복되고 형통하리로다 | Vì ngươi sẽ hưởng công việc của tay mình, Ðược phước, may mắn. | เพราะท่านจะกินผลน้ำมือของท่าน ท่านจะเป็นสุข และท่านจะอยู่เย็นเป็นสุข | Car tu mangeras du travail de tes mains; tu seras bienheureux, et tu prospéreras. | Du wirst dich nähren deiner Hände arbeit; wohl dir, du hast es gut. |
+| 3 你 妻子 在 你 的 内室， 好像 多 结果 子 的 葡萄树； 你 儿女 围绕 你 的 桌子， 好像 橄榄 栽子。 | 3 Nǐ qī zǐ zài nǐ de nèi shì , hǎo xiàng duō jié guǒ zi de pú táo shù ; nǐ ér nǚ wéi rào nǐ de zhuō zi , hǎo xiàng gǎn lǎn zāi zi . | 3 你 妻子 在 你 的 內室， 好像 多 結果 子 的 葡萄樹； 你 兒女 圍繞 你 的 桌子， 好像 橄欖 栽子。 | אֶשְׁתְּךָ ׀ כְּגֶפֶן פֹּרִיָּה בְּיַרְכְּתֵי בֵיתֶךָ בָּנֶיךָ כִּשְׁתִלֵי זֵיתִים סָבִיב לְשֻׁלְחָנֶֽךָ׃ | Thy wife shall be as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table. | 네 집 내실에 있는 네 아내는 결실한 포도나무 같으며 네 상에 둘린 자식은 어린 감람나무 같으리로다 | Vợ ngươi ở trong nhà ngươi Sẽ như cây nho thạnh mậu; Con cái ngươi ở chung quanh bàn ngươi Khác nào những chồi ô-li-ve. | ภรรยาของท่านจะเป็นอย่างเถาองุ่นลูกดกอยู่ข้างบ้านของท่าน ลูกๆของท่านจะเป็นเหมือนหน่อมะกอกเทศรอบโต๊ะของท่าน | Ta femme sera dans ta maison, comme une vigne abondante en fruit; et tes enfants seront autour de ta table, comme des plantes d'oliviers. | Dein Weib wird sein wie ein fruchtbarer Weinstock drinnen in deinem Hause, deine Kinder wie Ölzweige um deinen Tisch her. |
+| 4 看 哪， 敬畏 耶和华 的 人 必要 这样 蒙福！ | 4 Kàn nǎ , jìng wèi yē hé huá de rén bì yào zhè yàng méng fú ! | 4 看 哪， 敬畏 耶和華 的 人 必要 這樣 蒙福！ | הִנֵּה כִי־כֵן יְבֹרַךְ גָּבֶר יְרֵא יְהוָֽה׃ | Behold, that thus shall the man be blessed that feareth the Lord. | 여호와를 경외하는 자는 이같이 복을 얻으리로다 | Kìa, người nào kính sợ Ðức Giê-hô-va Sẽ được phước là như vậy. | ดูเถิด คนที่ยำเกรงพระเยโฮวาห์จะได้รับพระพรดั่งนี้แหละ | Voici, certainement ainsi sera béni le personnage qui craint l'Eternel. | Siehe, also wird gesegnet der Mann, der den HERRN fürchtet. |
+| 5 愿 耶和华 从 锡安 赐福 给 你！ 愿 你 一生一世 看见 耶路撒冷 的 好处！ | 5 Yuàn yē hé huá cóng xī ān cì fú gěi nǐ ! Yuàn nǐ yì shēng yí shì kàn jiàn yé lù sā lěng de hǎo chù ! | 5 願 耶和華 從 錫安 賜福 給 你！ 願 你 一生一世 看見 耶路撒冷 的 好處！ | יְבָרֶכְךָ יְהוָה מִצִיּוֹן וּרְאֵה בְּטוּב יְרוּשָׁלָ͏ִם כֹּל יְמֵי חַיֶּֽיךָ׃ | The Lord shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life. | 여호와께서 시온에서 네게 복을 주실지어다 너는 평생에 예루살렘의 복을 보며 | Nguyện Ðức Giê-hô-va từ Si-ôn ban phước cho ngươi; Nguyện trọn đời mình ngươi được thấy sự phước lành của Giê-ru-sa-lem. | พระเยโฮวาห์จะทรงอำนวยพระพรท่านจากศิโยน และท่านจะเห็นความเจริญของเยรูซาเล็มตลอดวันเวลาชีวิตของท่าน | L'Eternel te bénira de Sion, et tu verras le bien de Jérusalem tous les jours de ta vie. | Der HERR wird dich segnen aus Zion, daß du sehest das Glück Jerusalems dein Leben lang |
 
 ## 第6节 | Dì 6 jié | Verse 6
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | 繁體 | WLC |
-|---|---|---|---|
-| 6 愿 你 看见 你 儿女 的 儿女！ 愿 平安 归于 以色列！ | 6 Yuàn nǐ kàn jiàn nǐ ér nǚ de ér nǚ ! Yuàn píng ān guī yú yǐ sè liè ! | 6 願 你 看見 你 兒女 的 兒女！ 願 平安 歸於 以色列！ | וּרְאֵֽה־בָנִים לְבָנֶיךָ שָׁלוֹם עַל־יִשְׂרָאֵֽל׃ |
+| Hanzi | Pinyin | 繁體 | WLC | KJV | 개역한글 | Vietnamese (1934) | ThaiKJV | Martin (1744) | Luther (1912) |
+|---|---|---|---|---|---|---|---|---|---|
+| 6 愿 你 看见 你 儿女 的 儿女！ 愿 平安 归于 以色列！ | 6 Yuàn nǐ kàn jiàn nǐ ér nǚ de ér nǚ ! Yuàn píng ān guī yú yǐ sè liè ! | 6 願 你 看見 你 兒女 的 兒女！ 願 平安 歸於 以色列！ | וּרְאֵֽה־בָנִים לְבָנֶיךָ שָׁלוֹם עַל־יִשְׂרָאֵֽל׃ | Yea, thou shalt see thy children’s children, and peace upon Israel. | 네 자식의 자식을 볼지어다 이스라엘에게 평강이 있을지로다 | Nguyện ngươi được thấy con cháu mình! Nguyện sự bình an giáng trên Y-sơ-ra-ên! | เออ ท่านจะเห็นลูกหลานของท่าน และสันติภาพมีอยู่ในอิสราเอล | Et tu verras des enfants à tes enfants. La paix sera sur Israël. | und sehest deiner Kinder Kinder. Friede über Israel! |
+
+> Thai: Thai KJV, © 2003 Philip Pope, CC BY-NC-ND 4.0 (ebible.org/thaKJV).

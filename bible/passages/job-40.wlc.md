@@ -2,78 +2,80 @@
 
 # 约伯记 40 | Yuē bó jì 40 | Job 40
 
-> **WLC** · 和合本 (Chinese Union Version, 1919), simplified and traditional · Westminster Leningrad Codex (WLC)
+> **WLC** · 和合本 (Chinese Union Version, 1919), simplified and traditional · Westminster Leningrad Codex (WLC) · King James Version (KJV, 1769) · 개역한글 (Korean Revised Version, 1961) · Vietnamese (1934) · พระคริสตธรรมคัมภีร์ ฉบับ KJV (Thai King James Version) · Martin (1744) · Luther (1912)
 
 ## 第1–5节 | Dì 1–5 jié | Verses 1–5
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | 繁體 | WLC |
-|---|---|---|---|
-| 1 耶和华 又 对 约伯 说： | 1 Yē hé huá yòu duì yuē bó shuō : | 1 耶和華 又 對 約伯 說： | וַיַּעַן יְהוָה אֶת־אִיּוֹב וַיֹּאמַֽר׃ |
-| 2 强辩 的 岂可 与 全能 者 争论 么？ 与 神 辩驳 的 可以 回答 这些 罢！ | 2 Qiáng biàn de qǐ kě yǔ quán néng zhě zhēng lùn me ? Yǔ shén biàn bó de kě yǐ huí dá zhè xiē bà ! | 2 強辯 的 豈可 與 全能 者 爭論 麼？ 與 神 辯駁 的 可以 回答 這些 罷！ | הֲרֹב עִם־שַׁדַּי יִסּוֹר מוֹכִיחַ אֱלוֹהַּ יַעֲנֶֽנָּה׃ |
-| 3 于是， 约伯 回答 耶和华 说： | 3 Yú shì , yuē bó huí dá yē hé huá shuō : | 3 於是， 約伯 回答 耶和華 說： | וַיַּעַן אִיּוֹב אֶת־יְהוָה וַיֹּאמַֽר׃ |
-| 4 我 是 卑贱 的！ 我用 甚么 回答 你 呢？ 只好 用 手 摀 口。 | 4 Wǒ shì bēi jiàn de ! Wǒ yòng shén me huí dá nǐ ne ? Zhǐ hǎo yòng shǒu wǔ kǒu . | 4 我 是 卑賤 的！ 我用 甚麼 回答 你 呢？ 只好 用 手 摀 口。 | הֵן קַלֹּתִי מָה אֲשִׁיבֶךָּ יָדִי שַׂמְתִּי לְמוֹ־פִֽי׃ |
-| 5 我 说 了 一次， 再 不 回答； 说 了 两次， 就 不再 说。 | 5 Wǒ shuō le yí cì , zài bù huí dá ; shuō le liǎng cì , jiù bú zài shuō . | 5 我 說 了 一次， 再 不 回答； 說 了 兩次， 就 不再 說。 | אַחַת דִּבַּרְתִּי וְלֹא אֶֽעֱנֶה וּשְׁתַּיִם וְלֹא אוֹסִֽיף׃ |
+| Hanzi | Pinyin | 繁體 | WLC | KJV | 개역한글 | Vietnamese (1934) | ThaiKJV | Martin (1744) | Luther (1912) |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 耶和华 又 对 约伯 说： | 1 Yē hé huá yòu duì yuē bó shuō : | 1 耶和華 又 對 約伯 說： | וַיַּעַן יְהוָה אֶת־אִיּוֹב וַיֹּאמַֽר׃ | Moreover the Lord answered Job, and said, | 여호와께서 또 욥에게 말씀하여 가라사대 | (39:34) Ðức Giê-hô-va còn đáp lại cho Gióp, mà rằng: | และพระเยโฮวาห์ตรัสกับโยบว่า | Et l'Eternel parla encore à Job du milieu d'un tourbillon, et lui dit : | Und der HERR antwortete Hiob und sprach: |
+| 2 强辩 的 岂可 与 全能 者 争论 么？ 与 神 辩驳 的 可以 回答 这些 罢！ | 2 Qiáng biàn de qǐ kě yǔ quán néng zhě zhēng lùn me ? Yǔ shén biàn bó de kě yǐ huí dá zhè xiē bà ! | 2 強辯 的 豈可 與 全能 者 爭論 麼？ 與 神 辯駁 的 可以 回答 這些 罷！ | הֲרֹב עִם־שַׁדַּי יִסּוֹר מוֹכִיחַ אֱלוֹהַּ יַעֲנֶֽנָּה׃ | Shall he that contendeth with the Almighty instruct him? he that reproveth God, let him answer it. | 변박하는 자가 전능자와 다투겠느냐 하나님과 변론하는 자는 대답할지니라 | (39:35) Kẻ bắt bẻ Ðấng Toàn năng há sẽ tranh luận cùng Ngài sao? Kẻ cãi luận cùng Ðức Chúa Trời, hãy đáp điều đó đi! | “คนมักติจะโต้แย้งกับองค์ผู้ทรงมหิทธิฤทธิ์หรือ เขาผู้โต้แย้งกับพระเจ้า ขอให้เขาตอบหน่อยเถอะ” | Ceins maintenant tes reins comme un vaillant homme; je t'interrogerai, et tu m'enseigneras. | Will mit dem Allmächtigen rechten der Haderer? Wer Gott tadelt, soll's der nicht verantworten? |
+| 3 于是， 约伯 回答 耶和华 说： | 3 Yú shì , yuē bó huí dá yē hé huá shuō : | 3 於是， 約伯 回答 耶和華 說： | וַיַּעַן אִיּוֹב אֶת־יְהוָה וַיֹּאמַֽר׃ | Then Job answered the Lord, and said, | 욥이 여호와께 대답하여 가로되 | (39:36) Gióp bèn thưa cùng Ðức Giê-hô-va rằng: | แล้วโยบทูลตอบพระเยโฮวาห์ว่า | Anéantiras-tu mon jugement? me condamneras-tu pour te justifier? | Hiob aber antwortete dem HERRN und sprach: |
+| 4 我 是 卑贱 的！ 我用 甚么 回答 你 呢？ 只好 用 手 摀 口。 | 4 Wǒ shì bēi jiàn de ! Wǒ yòng shén me huí dá nǐ ne ? Zhǐ hǎo yòng shǒu wǔ kǒu . | 4 我 是 卑賤 的！ 我用 甚麼 回答 你 呢？ 只好 用 手 摀 口。 | הֵן קַלֹּתִי מָה אֲשִׁיבֶךָּ יָדִי שַׂמְתִּי לְמוֹ־פִֽי׃ | Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth. | 나는 미천하오니 무엇이라 주께 대답하리이까 손으로 내 입을 가릴뿐이로소이다 | (39:37) Tôi vốn là vật không ra gì, sẽ đáp chi với Chúa? Tôi đặt tay lên che miệng tôi. | “ดูเถิด ข้าพระองค์นี้ก็ไร้ค่า จะทูลพระองค์ว่ากระไรได้ ข้าพระองค์เอามือปิดปาก | Et as-tu un bras comme le Dieu Fort? tonnes-tu de la voix comme lui? | Siehe, ich bin zu leichtfertig gewesen; was soll ich verantworten? Ich will meine Hand auf meinen Mund legen. |
+| 5 我 说 了 一次， 再 不 回答； 说 了 两次， 就 不再 说。 | 5 Wǒ shuō le yí cì , zài bù huí dá ; shuō le liǎng cì , jiù bú zài shuō . | 5 我 說 了 一次， 再 不 回答； 說 了 兩次， 就 不再 說。 | אַחַת דִּבַּרְתִּי וְלֹא אֶֽעֱנֶה וּשְׁתַּיִם וְלֹא אוֹסִֽיף׃ | Once have I spoken; but I will not answer: yea, twice; but I will proceed no further. | 내가 한두 번 말하였사온즉 다시는 더하지도 아니하겠고 대답지도 아니하겠나이다 | (39:38) Tôi đã nói một lần, song sẽ chẳng còn đáp lại; Phải, tôi đã nói hai lần, nhưng không nói thêm gì nữa. | ข้าพระองค์ได้กราบทูลครั้งหนึ่งแล้ว และจะไม่กราบทูลอีก สองครั้งแล้ว แต่ข้าพระองค์จะไม่ทูลต่อไป” | Pare-toi maintenant de magnificence et de grandeur, et revêts-toi de majesté et de gloire. | Ich habe einmal geredet, und will nicht antworten; zum andernmal will ich's nicht mehr tun. |
 
 ## 第6–10节 | Dì 6–10 jié | Verses 6–10
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | 繁體 | WLC |
-|---|---|---|---|
-| 6 于是， 耶和华 从 旋风 中 回答 约伯 说： | 6 Yú shì , yē hé huá cóng xuán fēng zhōng huí dá yuē bó shuō : | 6 於是， 耶和華 從 旋風 中 回答 約伯 說： | וַיַּֽעַן־יְהוָה אֶת־אִיּוֹב מנ סערה מִן ׀ סְעָרָה וַיֹּאמַֽר׃ |
-| 7 你 要 如 勇士 束腰； 我 问 你， 你 可以 指示 我。 | 7 Nǐ yào rú yǒng shì shù yāo ; wǒ wèn nǐ , nǐ kě yǐ zhǐ shì wǒ . | 7 你 要 如 勇士 束腰； 我 問 你， 你 可以 指示 我。 | אֱזָר־נָא כְגֶבֶר חֲלָצֶיךָ אֶשְׁאָלְךָ וְהוֹדִיעֵֽנִי׃ |
-| 8 你 岂可 废弃 我 所 拟定 的？ 岂可 定 我 有罪， 好显 自己 为义 么？ | 8 Nǐ qǐ kě fèi qì wǒ suǒ nǐ dìng de ? Qǐ kě dìng wǒ yǒu zuì , hǎo xiǎn zì jǐ wèi yì me ? | 8 你 豈可 廢棄 我 所 擬定 的？ 豈可 定 我 有罪， 好顯 自己 為義 麼？ | הַאַף תָּפֵר מִשְׁפָּטִי תַּרְשִׁיעֵנִי לְמַעַן תִּצְדָּֽק׃ |
-| 9 你 有神 那样 的 膀臂 么？ 你 能 像 他 发 雷声 么？ | 9 Nǐ yǒu shén nà yàng de bǎng bì me ? Nǐ néng xiàng tā fā léi shēng me ? | 9 你 有神 那樣 的 膀臂 麼？ 你 能 像 他 發 雷聲 麼？ | וְאִם־זְרוֹעַ כָּאֵל ׀ לָךְ וּבְקוֹל כָּמֹהוּ תַרְעֵֽם׃ |
-| 10 你 要 以 荣耀 庄严 为 妆饰， 以 尊荣 威严 为 衣服； | 10 Nǐ yào yǐ róng yào zhuāng yán wèi zhuāng shì , yǐ zūn róng wēi yán wèi yī fú ; | 10 你 要 以 榮耀 莊嚴 為 妝飾， 以 尊榮 威嚴 為 衣服； | עֲדֵה נָא גָֽאוֹן וָגֹבַהּ וְהוֹד וְהָדָר תִּלְבָּֽשׁ׃ |
+| Hanzi | Pinyin | 繁體 | WLC | KJV | 개역한글 | Vietnamese (1934) | ThaiKJV | Martin (1744) | Luther (1912) |
+|---|---|---|---|---|---|---|---|---|---|
+| 6 于是， 耶和华 从 旋风 中 回答 约伯 说： | 6 Yú shì , yē hé huá cóng xuán fēng zhōng huí dá yuē bó shuō : | 6 於是， 耶和華 從 旋風 中 回答 約伯 說： | וַיַּֽעַן־יְהוָה אֶת־אִיּוֹב מנ סערה מִן ׀ סְעָרָה וַיֹּאמַֽר׃ | Then answered the Lord unto Job out of the whirlwind, and said, | 여호와께서 푹풍 가운데서 욥에게 말씀하여 가라사대 | (40:1) Từ giữa trận gió trốt, Ðức Giê-hô-va đáp cùng Gióp, mà rằng: | แล้วพระเยโฮวาห์ทรงตอบโยบออกมาจากลมหมุนว่า | Répands les ardeurs de ta colère, regarde tout orgueilleux, et l'abats. | Und der HERR antwortete Hiob aus dem Wetter und sprach: |
+| 7 你 要 如 勇士 束腰； 我 问 你， 你 可以 指示 我。 | 7 Nǐ yào rú yǒng shì shù yāo ; wǒ wèn nǐ , nǐ kě yǐ zhǐ shì wǒ . | 7 你 要 如 勇士 束腰； 我 問 你， 你 可以 指示 我。 | אֱזָר־נָא כְגֶבֶר חֲלָצֶיךָ אֶשְׁאָלְךָ וְהוֹדִיעֵֽנִי׃ | Gird up thy loins now like a man: I will demand of thee, and declare thou unto me. | 너는 대장부처럼 허리를 묶고 내가 네게 묻는 것을 대답할지니라 | (40:2) Hãy thắt lưng ngươi như kẻ dõng sĩ; Ta sẽ hỏi ngươi, ngươi sẽ chỉ dạy cho ta! | “จงคาดเอวไว้อย่างลูกผู้ชายหน่อยซี เราจะถามเจ้า ขอเจ้าตอบเรา | Regarde tout orgueilleux, abaisse-le, et froisse les méchants sur la place. | Gürte wie ein Mann deine Lenden; ich will dich fragen, lehre mich! |
+| 8 你 岂可 废弃 我 所 拟定 的？ 岂可 定 我 有罪， 好显 自己 为义 么？ | 8 Nǐ qǐ kě fèi qì wǒ suǒ nǐ dìng de ? Qǐ kě dìng wǒ yǒu zuì , hǎo xiǎn zì jǐ wèi yì me ? | 8 你 豈可 廢棄 我 所 擬定 的？ 豈可 定 我 有罪， 好顯 自己 為義 麼？ | הַאַף תָּפֵר מִשְׁפָּטִי תַּרְשִׁיעֵנִי לְמַעַן תִּצְדָּֽק׃ | Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous? | 네가 내 심판을 폐하려느냐 스스로 의롭다 하려 하여 나를 불의하다 하느냐 | (40:3) Ngươi há có ý phế lý đoán ta sao? Có muốn định tội cho ta đặng xưng mình là công bình ư? | เจ้ายังจะให้เราอยู่ฝ่ายผิดหรือ เจ้าจะหาว่าเราผิด เพื่อเจ้าจะเป็นฝ่ายชอบหรือ | Cache-les tous ensemble dans la poudre, et bande leur visage dans un lieu caché. | Solltest du mein Urteil zunichte machen und mich verdammen, daß du gerecht seist? |
+| 9 你 有神 那样 的 膀臂 么？ 你 能 像 他 发 雷声 么？ | 9 Nǐ yǒu shén nà yàng de bǎng bì me ? Nǐ néng xiàng tā fā léi shēng me ? | 9 你 有神 那樣 的 膀臂 麼？ 你 能 像 他 發 雷聲 麼？ | וְאִם־זְרוֹעַ כָּאֵל ׀ לָךְ וּבְקוֹל כָּמֹהוּ תַרְעֵֽם׃ | Hast thou an arm like God? or canst thou thunder with a voice like him? | 네가 하나님처럼 팔이 있느냐 하나님처럼 우렁차게 울리는 소리를 내겠느냐 | (40:4) Ngươi có một cánh tay như của Ðức Chúa Trời chăng? Có thể phát tiếng sấm rền như Ngài sao? | เจ้ามีแขนเหมือนพระเจ้าหรือ และเจ้าทำเสียงกัมปนาทเหมือนเสียงของพระองค์ได้หรือ | Alors je te donnerai moi-même cette louange, que ta droite t'aura sauvé. | Hast du einen Arm wie Gott, und kannst mit gleicher Stimme donnern, wie er tut? |
+| 10 你 要 以 荣耀 庄严 为 妆饰， 以 尊荣 威严 为 衣服； | 10 Nǐ yào yǐ róng yào zhuāng yán wèi zhuāng shì , yǐ zūn róng wēi yán wèi yī fú ; | 10 你 要 以 榮耀 莊嚴 為 妝飾， 以 尊榮 威嚴 為 衣服； | עֲדֵה נָא גָֽאוֹן וָגֹבַהּ וְהוֹד וְהָדָר תִּלְבָּֽשׁ׃ | Deck thyself now with majesty and excellency; and array thyself with glory and beauty. | 너는 위엄과 존귀로 스스로 꾸미며 영광과 화미를 스스로 입을지니라 | (40:5) Vậy bây giờ, ngươi hãy trang điểm mình bằng sự cao sang và oai nghi, Mặc lấy sự tôn trọng và vinh hiển. | จงเอาความโอ่อ่าตระการและความสง่าผ่าเผยประดับตัว จงเอาสง่าราศีและความสง่างามห่มตัว | Or voilà le Béhémoth que j'ai fait avec toi; il mange le foin comme le bœuf. | Schmücke dich mit Pracht und erhebe dich; ziehe Majestät und Herrlichkeit an! |
 
 ## 第11–15节 | Dì 11–15 jié | Verses 11–15
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | 繁體 | WLC |
-|---|---|---|---|
-| 11 要 发出 你 满溢 的 怒气， 见 一切 骄傲 的 人， 使 他 降卑； | 11 Yào fā chū nǐ mǎn yì de nù qì , jiàn yí qiè jiāo ào de rén , shǐ tā jiàng bēi ; | 11 要 發出 你 滿溢 的 怒氣， 見 一切 驕傲 的 人， 使 他 降卑； | הָפֵץ עֶבְרוֹת אַפֶּךָ וּרְאֵה כָל־גֵּאֶה וְהַשְׁפִּילֵֽהוּ׃ |
-| 12 见 一切 骄傲 的 人， 将 他 制伏， 把 恶人 践踏在 本 处； | 12 Jiàn yí qiè jiāo ào de rén , jiāng tā zhì fú , bǎ è rén jiàn tà zài běn chù ; | 12 見 一切 驕傲 的 人， 將 他 制伏， 把 惡人 踐踏在 本 處； | רְאֵה כָל־גֵּאֶה הַכְנִיעֵהוּ וַהֲדֹךְ רְשָׁעִים תַּחְתָּֽם׃ |
-| 13 将 他们 一同 隐藏 在 尘土 中， 把 他们 的 脸 蒙蔽 在 隐密 处； | 13 Jiāng tā men yì tóng yǐn cáng zài chén tǔ zhōng , bǎ tā men de liǎn méng bì zài yǐn mì chù ; | 13 將 他們 一同 隱藏 在 塵土 中， 把 他們 的 臉 蒙蔽 在 隱密 處； | טָמְנֵם בֶּעָפָר יָחַד פְּנֵיהֶם חֲבֹשׁ בַּטָּמֽוּן׃ |
-| 14 我 就 认 你 右手 能以 救 自己。 | 14 Wǒ jiù rèn nǐ yòu shǒu néng yǐ jiù zì jǐ . | 14 我 就 認 你 右手 能以 救 自己。 | וְגַם־אֲנִי אוֹדֶךָּ כִּֽי־תוֹשִׁעַ לְךָ יְמִינֶֽךָ׃ |
-| 15 你 且 观看 河马； 我造 你 也 造 他。 他 吃 草 与 牛 一样； | 15 Nǐ qiě guān kàn hé mǎ ; wǒ zào nǐ yě zào tā . Tā chī cǎo yǔ niú yí yàng ; | 15 你 且 觀看 河馬； 我造 你 也 造 他。 他 吃 草 與 牛 一樣； | הִנֵּה־נָא בְהֵמוֹת אֲשֶׁר־עָשִׂיתִי עִמָּךְ חָצִיר כַּבָּקָר יֹאכֵֽל׃ |
+| Hanzi | Pinyin | 繁體 | WLC | KJV | 개역한글 | Vietnamese (1934) | ThaiKJV | Martin (1744) | Luther (1912) |
+|---|---|---|---|---|---|---|---|---|---|
+| 11 要 发出 你 满溢 的 怒气， 见 一切 骄傲 的 人， 使 他 降卑； | 11 Yào fā chū nǐ mǎn yì de nù qì , jiàn yí qiè jiāo ào de rén , shǐ tā jiàng bēi ; | 11 要 發出 你 滿溢 的 怒氣， 見 一切 驕傲 的 人， 使 他 降卑； | הָפֵץ עֶבְרוֹת אַפֶּךָ וּרְאֵה כָל־גֵּאֶה וְהַשְׁפִּילֵֽהוּ׃ | Cast abroad the rage of thy wrath: and behold every one that is proud, and abase him. | 너의 넘치는 노를 쏟아서 교만한 자를 발견하여 낱낱이 낮추되 | (40:6) Khá tuôn ra sự giận hoảng hốt của ngươi; Hãy liếc mắt xem kẻ kiêu ngạo và đánh hạ nó đi. | เทความกริ้วที่ล้นของเจ้านั้นออกมา จงดูทุกคนที่เย่อหยิ่ง และทำให้เขาตกต่ำลง | Voilà maintenant, sa force est en ses flancs, et sa vertu est dans le nombril de son ventre. | Streue aus den Zorn deines Grimmes; schaue an die Hochmütigen, wo sie sind, und demütige sie! |
+| 12 见 一切 骄傲 的 人， 将 他 制伏， 把 恶人 践踏在 本 处； | 12 Jiàn yí qiè jiāo ào de rén , jiāng tā zhì fú , bǎ è rén jiàn tà zài běn chù ; | 12 見 一切 驕傲 的 人， 將 他 制伏， 把 惡人 踐踏在 本 處； | רְאֵה כָל־גֵּאֶה הַכְנִיעֵהוּ וַהֲדֹךְ רְשָׁעִים תַּחְתָּֽם׃ | Look on every one that is proud, and bring him low; and tread down the wicked in their place. | 곧 모든 교만한 자를 발견하여 낮추며 악인을 그 처소에서 밟아서 | (40:7) Hãy liếc mắt coi kẻ kiêu ngạo và đánh hạ nó đi; Khá chà nát kẻ hung bạo tại chỗ nó. | จงดูทุกคนที่เย่อหยิ่งและดึงเขาลงมา และเหยียบคนชั่วไว้ตรงที่ที่เขายืนอยู่นั้น | Il remue sa queue, qui est comme un cèdre; les nerfs de ses épouvantements sont entrelacés. | Ja, schaue die Hochmütigen, wo sie sind und beuge sie; und zermalme die Gottlosen, wo sie sind! |
+| 13 将 他们 一同 隐藏 在 尘土 中， 把 他们 的 脸 蒙蔽 在 隐密 处； | 13 Jiāng tā men yì tóng yǐn cáng zài chén tǔ zhōng , bǎ tā men de liǎn méng bì zài yǐn mì chù ; | 13 將 他們 一同 隱藏 在 塵土 中， 把 他們 的 臉 蒙蔽 在 隱密 處； | טָמְנֵם בֶּעָפָר יָחַד פְּנֵיהֶם חֲבֹשׁ בַּטָּמֽוּן׃ | Hide them in the dust together; and bind their faces in secret. | 그들을 함께 진토에 묻고 그 얼굴을 싸서 어둑한 곳에 둘지니라 | (40:8) Hãy giấu chúng nó chung nhau trong bụi đất, Và lấp mặt họ trong chốn kín đáo. | ซ่อนเขาไว้ในผงคลีด้วยกัน มัดหน้าของเขาไว้ด้วยกันในที่ลึกลับ | Ses os sont des barres d'airain, et ses menus os sont comme des barreaux de fer. | Verscharre sie miteinander in die Erde und versenke ihre Pracht ins Verborgene, |
+| 14 我 就 认 你 右手 能以 救 自己。 | 14 Wǒ jiù rèn nǐ yòu shǒu néng yǐ jiù zì jǐ . | 14 我 就 認 你 右手 能以 救 自己。 | וְגַם־אֲנִי אוֹדֶךָּ כִּֽי־תוֹשִׁעַ לְךָ יְמִינֶֽךָ׃ | Then will I also confess unto thee that thine own right hand can save thee. | 그리하면 네 오른손이 너를 구원할 수 있다고 내가 인정하리라 | (40:9) Bấy giờ, ta cũng sẽ khen ngợi ngươi, Vì tay hữu ngươi chửng cứu ngươi được! | แล้วเราเองจะยอมรับว่า มือขวาของเจ้าสามารถช่วยเจ้าได้ | C'est le chef-d'œuvre du Dieu Fort; celui qui l'a fait lui a donné son épée. | so will ich dir auch bekennen, daß dir deine rechte Hand helfen kann. |
+| 15 你 且 观看 河马； 我造 你 也 造 他。 他 吃 草 与 牛 一样； | 15 Nǐ qiě guān kàn hé mǎ ; wǒ zào nǐ yě zào tā . Tā chī cǎo yǔ niú yí yàng ; | 15 你 且 觀看 河馬； 我造 你 也 造 他。 他 吃 草 與 牛 一樣； | הִנֵּה־נָא בְהֵמוֹת אֲשֶׁר־עָשִׂיתִי עִמָּךְ חָצִיר כַּבָּקָר יֹאכֵֽל׃ | Behold now behemoth, which I made with thee; he eateth grass as an ox. | 이제 소 같이 풀을 먹는 하마를 볼지어다 내가 너를 지은 것 같이 그것도 지었느니라 | (40:10) Nầy, con trâu nước mà ta đã dựng nên luôn với ngươi; Nó ăn cỏ như con bò. | ดูเบเฮโมทเถิด ซึ่งเราได้สร้างอย่างที่เราได้สร้างเจ้า มันกินหญ้าเหมือนวัว | Et les montagnes lui rapportent leur revenu, et c'est là que se jouent toutes les bêtes des champs. | Siehe da, den Behemoth, den ich neben dir gemacht habe; er frißt Gras wie ein Ochse. |
 
 ## 第16–20节 | Dì 16–20 jié | Verses 16–20
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | 繁體 | WLC |
-|---|---|---|---|
-| 16 他 的 气力 在 腰间， 能力 在 肚腹 的 筋 上。 | 16 Tā de qì lì zài yāo jiān , néng lì zài dù fù de jīn shàng . | 16 他 的 氣力 在 腰間， 能力 在 肚腹 的 筋 上。 | הִנֵּה־נָא כֹחוֹ בְמָתְנָיו וְאֹנוֹ בִּשְׁרִירֵי בִטְנֽוֹ׃ |
-| 17 他 摇动 尾巴 如香 柏树； 他 大腿 的 筋 互相 联络。 | 17 Tā yáo dòng wěi ba rú xiāng bǎi shù ; tā dà tuǐ de jīn hù xiāng lián luò . | 17 他 搖動 尾巴 如香 柏樹； 他 大腿 的 筋 互相 聯絡。 | יַחְפֹּץ זְנָבוֹ כְמוֹ־אָרֶז גִּידֵי פחדו פַחֲדָיו יְשֹׂרָֽגוּ׃ |
-| 18 他 的 骨头 好像 铜管； 他 的 肢体 仿佛 铁棍。 | 18 Tā de gǔ tou hǎo xiàng tóng guǎn ; tā de zhī tǐ fǎng fú tiě gùn . | 18 他 的 骨頭 好像 銅管； 他 的 肢體 彷彿 鐵棍。 | עֲצָמָיו אֲפִיקֵי נְחוּשָׁה גְּרָמָיו כִּמְטִיל בַּרְזֶֽל׃ |
-| 19 他 在 神所造 的 物中 为首； 创造 他 的 给 他 刀剑。 | 19 Tā zài shén suǒ zào de wù zhōng wéi shǒu ; chuàng zào tā de gěi tā dāo jiàn . | 19 他 在 神所造 的 物中 為首； 創造 他 的 給 他 刀劍。 | הוּא רֵאשִׁית דַּרְכֵי־אֵל הָעֹשׂוֹ יַגֵּשׁ חַרְבּֽוֹ׃ |
-| 20 诸山 给 他 出 食物， 也 是 百兽 游玩 之 处。 | 20 Zhū shān gěi tā chū shí wù , yě shì bǎi shòu yóu wán zhī chù . | 20 諸山 給 他 出 食物， 也 是 百獸 遊玩 之 處。 | כִּֽי־בוּל הָרִים יִשְׂאוּ־לוֹ וְֽכָל־חַיַּת הַשָּׂדֶה יְשַֽׂחֲקוּ־שָֽׁם׃ |
+| Hanzi | Pinyin | 繁體 | WLC | KJV | 개역한글 | Vietnamese (1934) | ThaiKJV | Martin (1744) | Luther (1912) |
+|---|---|---|---|---|---|---|---|---|---|
+| 16 他 的 气力 在 腰间， 能力 在 肚腹 的 筋 上。 | 16 Tā de qì lì zài yāo jiān , néng lì zài dù fù de jīn shàng . | 16 他 的 氣力 在 腰間， 能力 在 肚腹 的 筋 上。 | הִנֵּה־נָא כֹחוֹ בְמָתְנָיו וְאֹנוֹ בִּשְׁרִירֵי בִטְנֽוֹ׃ | Lo now, his strength is in his loins, and his force is in the navel of his belly. | 그 힘은 허리에 있고 그 세력은 배의 힘줄에 있고 | (40:11) Hãy xem: sức nó ở nơi lưng, Mãnh lực nó ở trong gân hông nó. | ดูเถิด กำลังของมันอยู่ในเอว และฤทธิ์ของมันอยู่ในกล้ามเนื้อท้อง | Il se couche dans les lieux où il y a de l'ombre, au milieu des roseaux et des marécages. | Siehe seine Kraft ist in seinen Lenden und sein Vermögen in den Sehnen seines Bauches. |
+| 17 他 摇动 尾巴 如香 柏树； 他 大腿 的 筋 互相 联络。 | 17 Tā yáo dòng wěi ba rú xiāng bǎi shù ; tā dà tuǐ de jīn hù xiāng lián luò . | 17 他 搖動 尾巴 如香 柏樹； 他 大腿 的 筋 互相 聯絡。 | יַחְפֹּץ זְנָבוֹ כְמוֹ־אָרֶז גִּידֵי פחדו פַחֲדָיו יְשֹׂרָֽגוּ׃ | He moveth his tail like a cedar: the sinews of his stones are wrapped together. | 그 꼬리치는 것은 백향목이 흔들리는 것 같고 그 넓적다리 힘줄은 서로 연락되었으며 | (40:12) Nó cong đuôi nó như cây bá hương; Gân đùi nó tréo xỏ-rế. | มันขยับหางของมันให้แข็งเหมือนไม้สนสีดาร์ เอ็นโคนขาของมันก็สานเข้าด้วยกัน | Les arbres touffus le couvrent de leur ombre, et les saules des torrents l'environnent. | Sein Schwanz streckt sich wie eine Zeder; die Sehnen seiner Schenkel sind dicht geflochten. |
+| 18 他 的 骨头 好像 铜管； 他 的 肢体 仿佛 铁棍。 | 18 Tā de gǔ tou hǎo xiàng tóng guǎn ; tā de zhī tǐ fǎng fú tiě gùn . | 18 他 的 骨頭 好像 銅管； 他 的 肢體 彷彿 鐵棍。 | עֲצָמָיו אֲפִיקֵי נְחוּשָׁה גְּרָמָיו כִּמְטִיל בַּרְזֶֽל׃ | His bones are as strong pieces of brass; his bones are like bars of iron. | 그 뼈는 놋관 같고 그 가릿대는 철장 같으니 | (40:13) Các xương nó như ống đồng, Tứ chi nó như cây sắt. | กระดูกของมันเหมือนท่อนทองเหลือง และกระดูกของมันเหมือนท่อนเหล็ก | Voilà, il engloutit une rivière en buvant, et il ne s'en retire pas vite; et il ne s'étonnerait pas quand le Jourdain se dégorgerait dans sa gueule. | Seine Knochen sind wie eherne Röhren; seine Gebeine sind wie eiserne Stäbe. |
+| 19 他 在 神所造 的 物中 为首； 创造 他 的 给 他 刀剑。 | 19 Tā zài shén suǒ zào de wù zhōng wéi shǒu ; chuàng zào tā de gěi tā dāo jiàn . | 19 他 在 神所造 的 物中 為首； 創造 他 的 給 他 刀劍。 | הוּא רֵאשִׁית דַּרְכֵי־אֵל הָעֹשׂוֹ יַגֵּשׁ חַרְבּֽוֹ׃ | He is the chief of the ways of God: he that made him can make his sword to approach unto him. | 그것은 하나님의 창조물 중에 으뜸이라 그것을 지은 자가 칼을 주었고 | (40:14) Nó là công việc khéo nhứt của Ðức Chúa Trời; Ðấng dựng nên nó giao cho nó cây gươm của nó. | มันเป็นพระราชกิจชิ้นที่สำคัญของพระเจ้า ผู้ทรงสร้างมันนำดาบมาให้ | Il l'engloutit en le voyant, et son nez passe au travers des empêchements qu'il rencontre. | Er ist der Anfang der Wege Gottes; der ihn gemacht hat, der gab ihm sein Schwert. |
+| 20 诸山 给 他 出 食物， 也 是 百兽 游玩 之 处。 | 20 Zhū shān gěi tā chū shí wù , yě shì bǎi shòu yóu wán zhī chù . | 20 諸山 給 他 出 食物， 也 是 百獸 遊玩 之 處。 | כִּֽי־בוּל הָרִים יִשְׂאוּ־לוֹ וְֽכָל־חַיַּת הַשָּׂדֶה יְשַֽׂחֲקוּ־שָֽׁם׃ | Surely the mountains bring him forth food, where all the beasts of the field play. | 모든 들 짐승의 노는 산은 그것을 위하여 식물을 내느니라 | (40:15) Các núi non sanh đồng cỏ cho nó ăn, Là nơi các thú đồng chơi giỡn. | ภูเขาผลิตอาหารให้มันแน่ เป็นที่ที่สัตว์ป่าทุ่งทุกชนิดเล่น | Enlèveras-tu le Léviathan avec l'hameçon, et le tireras-tu par sa langue avec le cordeau de l'hameçon que tu auras jeté dans l'eau? | Die Berge tragen ihm Kräuter, und alle wilden Tiere spielen daselbst. |
 
 ## 第21–25节 | Dì 21–25 jié | Verses 21–25
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | 繁體 | WLC |
-|---|---|---|---|
-| 21 他伏 在 莲叶 之下， 卧 在 芦苇 隐密 处 和 水洼子 里。 | 21 Tā fú zài lián yè zhī xià , wò zài lú wěi yǐn mì chù hé shuǐ wā zi lǐ . | 21 他伏 在 蓮葉 之下， 臥 在 蘆葦 隱密 處 和 水窪子 裡。 | תַּֽחַת־צֶאֱלִים יִשְׁכָּב בְּסֵתֶר קָנֶה וּבִצָּֽה׃ |
-| 22 莲叶 的 阴凉 遮蔽 他； 溪旁 的 柳树 环绕 他。 | 22 Lián yè de yīn liáng zhē bì tā ; xī páng de liǔ shù huán rào tā . | 22 蓮葉 的 陰涼 遮蔽 他； 溪旁 的 柳樹 環繞 他。 | יְסֻכֻּהוּ צֶאֱלִים צִֽלֲלוֹ יְסֻבּוּהוּ עַרְבֵי־נָֽחַל׃ |
-| 23 河水 泛滥， 他 不 发战； 就是 约 但 河 的 水涨 到 他 口边， 也 是 安然。 | 23 Hé shuǐ fàn làn , tā bù fā zhàn ; jiù shì yuē dàn hé de shuǐ zhǎng dào tā kǒu biān , yě shì ān rán . | 23 河水 泛濫， 他 不 發戰； 就是 約 但 河 的 水漲 到 他 口邊， 也 是 安然。 | הֵן יַעֲשֹׁק נָהָר לֹא יַחְפּוֹז יִבְטַח ׀ כִּֽי־יָגִיחַ יַרְדֵּן אֶל־פִּֽיהוּ׃ |
-| 24 在 他 防备 的 时候， 谁 能 捉拿 他？ 谁 能 牢笼 他 穿 他 的 鼻子 呢？ | 24 Zài tā fáng bèi de shí hou , shuí néng zhuō ná tā ? Shuí néng láo lóng tā chuān tā de bí zi ne ? | 24 在 他 防備 的 時候， 誰 能 捉拿 他？ 誰 能 牢籠 他 穿 他 的 鼻子 呢？ | בְּעֵינָיו יִקָּחֶנּוּ בְּמֽוֹקְשִׁים יִנְקָב־אָֽף׃ |
-|  |  |  | תִּמְשֹׁךְ לִוְיָתָן בְּחַכָּה וּבְחֶבֶל תַּשְׁקִיעַ לְשֹׁנֽוֹ׃ |
+| Hanzi | Pinyin | 繁體 | WLC | KJV | 개역한글 | Vietnamese (1934) | ThaiKJV | Martin (1744) | Luther (1912) |
+|---|---|---|---|---|---|---|---|---|---|
+| 21 他伏 在 莲叶 之下， 卧 在 芦苇 隐密 处 和 水洼子 里。 | 21 Tā fú zài lián yè zhī xià , wò zài lú wěi yǐn mì chù hé shuǐ wā zi lǐ . | 21 他伏 在 蓮葉 之下， 臥 在 蘆葦 隱密 處 和 水窪子 裡。 | תַּֽחַת־צֶאֱלִים יִשְׁכָּב בְּסֵתֶר קָנֶה וּבִצָּֽה׃ | He lieth under the shady trees, in the covert of the reed, and fens. | 그것이 연 줄기 아래나 갈 밭 가운데나 못속에 엎드리니 | (40:16) Nó nằm ngủ dưới bông sen, Trong bụi sậy và nơi bưng. | มันนอนอยู่ใต้ต้นไม้ที่มีร่มเงา ในเพิงอ้อและในบึง | Mettras-tu un jonc dans son nez? ou perceras-tu ses mâchoires avec une épine? | Er liegt gern im Schatten, im Rohr und im Schlamm verborgen. |
+| 22 莲叶 的 阴凉 遮蔽 他； 溪旁 的 柳树 环绕 他。 | 22 Lián yè de yīn liáng zhē bì tā ; xī páng de liǔ shù huán rào tā . | 22 蓮葉 的 陰涼 遮蔽 他； 溪旁 的 柳樹 環繞 他。 | יְסֻכֻּהוּ צֶאֱלִים צִֽלֲלוֹ יְסֻבּוּהוּ עַרְבֵי־נָֽחַל׃ | The shady trees cover him with their shadow; the willows of the brook compass him about. | 연 그늘이 덮으며 시내 버들이 둘렀구나 | (40:17) Bông sen che bóng cho nó, Và cây liễu của rạch vây quanh nó. | ต้นไม้ที่มีร่มเงาเป็นเงาคลุมมัน ต้นหลิวแห่งธารน้ำล้อมมันไว้ | Emploiera-t-il auprès de toi beaucoup de prières? ou te parlera-t-il doucement? | Das Gebüsch bedeckt ihn mit seinem Schatten, und die Bachweiden umgeben ihn. |
+| 23 河水 泛滥， 他 不 发战； 就是 约 但 河 的 水涨 到 他 口边， 也 是 安然。 | 23 Hé shuǐ fàn làn , tā bù fā zhàn ; jiù shì yuē dàn hé de shuǐ zhǎng dào tā kǒu biān , yě shì ān rán . | 23 河水 泛濫， 他 不 發戰； 就是 約 但 河 的 水漲 到 他 口邊， 也 是 安然。 | הֵן יַעֲשֹׁק נָהָר לֹא יַחְפּוֹז יִבְטַח ׀ כִּֽי־יָגִיחַ יַרְדֵּן אֶל־פִּֽיהוּ׃ | Behold, he drinketh up a river, and hasteth not: he trusteth that he can draw up Jordan into his mouth. | 하수가 창일한다 할지라도 그것이 놀라지 않고 요단 강이 불어 그 입에 미칠지라도 자약하니 | (40:18) Kìa, sông tràn lên dữ tợn, nhưng nó không sợ hãi gì; Dầu sông Giô-đanh bủa lên miệng nó, nó cũng ở vững vàng. | ดูเถิด มันดื่มแม่น้ำจนหมดและไม่รีบหนีไป มันวางใจว่าจะดูดแม่น้ำจอร์แดนเข้าใส่ปากมัน | Fera-t-il un accord avec toi, et le prendras-tu pour esclave à toujours? | Siehe, er schluckt in sich den Strom und achtet's nicht groß; läßt sich dünken, er wolle den Jordan mit seinem Munde ausschöpfen. |
+| 24 在 他 防备 的 时候， 谁 能 捉拿 他？ 谁 能 牢笼 他 穿 他 的 鼻子 呢？ | 24 Zài tā fáng bèi de shí hou , shuí néng zhuō ná tā ? Shuí néng láo lóng tā chuān tā de bí zi ne ? | 24 在 他 防備 的 時候， 誰 能 捉拿 他？ 誰 能 牢籠 他 穿 他 的 鼻子 呢？ | בְּעֵינָיו יִקָּחֶנּוּ בְּמֽוֹקְשִׁים יִנְקָב־אָֽף׃ | He taketh it with his eyes: his nose pierceth through snares. | 그것이 정신차리고 있을 때에 누가 능히 잡을 수 있겠으며 갈고리로 그 코를 꿸 수 있겠느냐 | (40:19) Ai bắt được nó ở trước mặt? Ai hãm nó trong lưới, rồi xoi mũi nó? | มันจ้องตาดูแม่น้ำ จมูกมันทะลุผ่านบ่วงทั้งหลายได้” | T'en joueras-tu comme d'un petit oiseau? et l'attacheras-tu pour tes jeunes filles? | Fängt man ihn wohl vor seinen Augen und durchbohrt ihm mit Stricken seine Nase? |
+|  |  |  | תִּמְשֹׁךְ לִוְיָתָן בְּחַכָּה וּבְחֶבֶל תַּשְׁקִיעַ לְשֹׁנֽוֹ׃ |  |  |  |  |  |  |
 
 ## 第26–30节 | Dì 26–30 jié | Verses 26–30
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | 繁體 | WLC |
-|---|---|---|---|
-|  |  |  | הֲתָשִׂים אַגְמוֹן בְּאַפּוֹ וּבְחוֹחַ תִּקּוֹב לֶֽחֱיוֹ׃ |
-|  |  |  | הֲיַרְבֶּה אֵלֶיךָ תַּחֲנוּנִים אִם־יְדַבֵּר אֵלֶיךָ רַכּֽוֹת׃ |
-|  |  |  | הֲיִכְרֹת בְּרִית עִמָּךְ תִּקָּחֶנּוּ לְעֶבֶד עוֹלָֽם׃ |
-|  |  |  | הֽ͏ַתְשַׂחֶק־בּוֹ כַּצִּפּוֹר וְתִקְשְׁרֶנּוּ לְנַעֲרוֹתֶֽיךָ׃ |
-|  |  |  | יִכְרוּ עָלָיו חַבָּרִים יֶחֱצוּהוּ בֵּין כְּֽנַעֲנִֽים׃ |
+| Hanzi | Pinyin | 繁體 | WLC | KJV | 개역한글 | Vietnamese (1934) | ThaiKJV | Martin (1744) | Luther (1912) |
+|---|---|---|---|---|---|---|---|---|---|
+|  |  |  | הֲתָשִׂים אַגְמוֹן בְּאַפּוֹ וּבְחוֹחַ תִּקּוֹב לֶֽחֱיוֹ׃ |  |  |  |  |  |  |
+|  |  |  | הֲיַרְבֶּה אֵלֶיךָ תַּחֲנוּנִים אִם־יְדַבֵּר אֵלֶיךָ רַכּֽוֹת׃ |  |  |  |  |  |  |
+|  |  |  | הֲיִכְרֹת בְּרִית עִמָּךְ תִּקָּחֶנּוּ לְעֶבֶד עוֹלָֽם׃ |  |  |  |  |  |  |
+|  |  |  | הֽ͏ַתְשַׂחֶק־בּוֹ כַּצִּפּוֹר וְתִקְשְׁרֶנּוּ לְנַעֲרוֹתֶֽיךָ׃ |  |  |  |  |  |  |
+|  |  |  | יִכְרוּ עָלָיו חַבָּרִים יֶחֱצוּהוּ בֵּין כְּֽנַעֲנִֽים׃ |  |  |  |  |  |  |
 
 ## 第31–32节 | Dì 31–32 jié | Verses 31–32
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | 繁體 | WLC |
-|---|---|---|---|
-|  |  |  | הַֽתְמַלֵּא בְשֻׂכּוֹת עוֹרוֹ וּבְצִלְצַל דָּגִים רֹאשֽׁוֹ׃ |
-|  |  |  | שִׂים־עָלָיו כַּפֶּךָ זְכֹר מִלְחָמָה אַל־תּוֹסַֽף׃ |
+| Hanzi | Pinyin | 繁體 | WLC | KJV | 개역한글 | Vietnamese (1934) | ThaiKJV | Martin (1744) | Luther (1912) |
+|---|---|---|---|---|---|---|---|---|---|
+|  |  |  | הַֽתְמַלֵּא בְשֻׂכּוֹת עוֹרוֹ וּבְצִלְצַל דָּגִים רֹאשֽׁוֹ׃ |  |  |  |  |  |  |
+|  |  |  | שִׂים־עָלָיו כַּפֶּךָ זְכֹר מִלְחָמָה אַל־תּוֹסַֽף׃ |  |  |  |  |  |  |
+
+> Thai: Thai KJV, © 2003 Philip Pope, CC BY-NC-ND 4.0 (ebible.org/thaKJV).

@@ -2,24 +2,26 @@
 
 # 诗篇 114 | Shī piān 114 | Psalms 114
 
-> **WLC** · 和合本 (Chinese Union Version, 1919), simplified and traditional · Westminster Leningrad Codex (WLC)
+> **WLC** · 和合本 (Chinese Union Version, 1919), simplified and traditional · Westminster Leningrad Codex (WLC) · King James Version (KJV, 1769) · 개역한글 (Korean Revised Version, 1961) · Vietnamese (1934) · พระคริสตธรรมคัมภีร์ ฉบับ KJV (Thai King James Version) · Martin (1744) · Luther (1912)
 
 ## 第1–5节 | Dì 1–5 jié | Verses 1–5
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | 繁體 | WLC |
-|---|---|---|---|
-| 1 以色列 出 了 埃及， 雅各 家 离开 说 异言 之民； | 1 Yǐ sè liè chū le āi jí , yǎ gè jiā lí kāi shuō yì yán zhī mín ; | 1 以色列 出 了 埃及， 雅各 家 離開 說 異言 之民； | בְּצֵאת יִשְׂרָאֵל מִמִּצְרָיִם בֵּית יַעֲקֹב מֵעַם לֹעֵֽז׃ |
-| 2 那时， 犹大 为主 的 圣 所， 以色列 为 他 所 治理 的 国度。 | 2 Nà shí , yóu dà wéi zhǔ de shèng suǒ , yǐ sè liè wéi tā suǒ zhì lǐ de guó dù . | 2 那時， 猶大 為主 的 聖 所， 以色列 為 他 所 治理 的 國度。 | הָיְתָה יְהוּדָה לְקָדְשׁוֹ יִשְׂרָאֵל מַמְשְׁלוֹתָֽיו׃ |
-| 3 沧海 看见 就 奔逃； 约旦河 也 倒流。 | 3 Cāng hǎi kàn jiàn jiù bēn táo ; yuē dàn hé yě dào liú . | 3 滄海 看見 就 奔逃； 約旦河 也 倒流。 | הַיָּם רָאָה וַיָּנֹס הַיַּרְדֵּן יִסֹּב לְאָחֽוֹר׃ |
-| 4 大山 踊跃， 如 公羊； 小山 跳舞， 如 羊羔。 | 4 Dà shān yǒng yuè , rú gōng yáng ; xiǎo shān tiào wǔ , rú yáng gāo . | 4 大山 踴躍， 如 公羊； 小山 跳舞， 如 羊羔。 | הֶֽהָרִים רָקְדוּ כְאֵילִים גְּבָעוֹת כִּבְנֵי־צֹֽאן׃ |
-| 5 沧海 啊， 你 为何 奔逃？ 约旦 哪， 你 为何 倒流？ | 5 Cāng hǎi a , nǐ wèi hé bēn táo ? Yuē dàn nǎ , nǐ wèi hé dào liú ? | 5 滄海 啊， 你 為何 奔逃？ 約旦 哪， 你 為何 倒流？ | מַה־לְּךָ הַיָּם כִּי תָנוּס הַיַּרְדֵּן תִּסֹּב לְאָחֽוֹר׃ |
+| Hanzi | Pinyin | 繁體 | WLC | KJV | 개역한글 | Vietnamese (1934) | ThaiKJV | Martin (1744) | Luther (1912) |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 以色列 出 了 埃及， 雅各 家 离开 说 异言 之民； | 1 Yǐ sè liè chū le āi jí , yǎ gè jiā lí kāi shuō yì yán zhī mín ; | 1 以色列 出 了 埃及， 雅各 家 離開 說 異言 之民； | בְּצֵאת יִשְׂרָאֵל מִמִּצְרָיִם בֵּית יַעֲקֹב מֵעַם לֹעֵֽז׃ | When Israel went out of Egypt, the house of Jacob from a people of strange language; | 이스라엘이 애굽에서 나오며 야곱의 집이 방언 다른 민족에게서 나올 때에 | Khi Y-sơ-ra-ên ra khỏi Ê-díp-tô, Nhà giải đáp lìa bỏ một dân nói tiếng lạ, | เมื่ออิสราเอลออกไปจากอียิปต์ คือวงศ์วานของยาโคบไปจากชนชาติต่างภาษา | Quand Israël sortit d'Egypte, et la maison de Jacob d'avec le peuple barbare, | Da Israel aus Ägypten zog, das Haus Jakob aus dem fremden Volk, |
+| 2 那时， 犹大 为主 的 圣 所， 以色列 为 他 所 治理 的 国度。 | 2 Nà shí , yóu dà wéi zhǔ de shèng suǒ , yǐ sè liè wéi tā suǒ zhì lǐ de guó dù . | 2 那時， 猶大 為主 的 聖 所， 以色列 為 他 所 治理 的 國度。 | הָיְתָה יְהוּדָה לְקָדְשׁוֹ יִשְׂרָאֵל מַמְשְׁלוֹתָֽיו׃ | Judah was his sanctuary, and Israel his dominion. | 유다는 여호와의 성소가 되고 이스라엘은 그의 영토가 되었도다 | Thì Giu-đa trở nên đền thánh Ngài, Và Y-sơ-ra-ên thành nước Ngài. | ยูดาห์กลายเป็นสถานบริสุทธิ์ของพระองค์ อิสราเอลเป็นอาณาจักรของพระองค์ | Juda devint une chose sacrée à Dieu, et Israël son empire. | da ward Juda sein Heiligtum, Israel seine Herrschaft. |
+| 3 沧海 看见 就 奔逃； 约旦河 也 倒流。 | 3 Cāng hǎi kàn jiàn jiù bēn táo ; yuē dàn hé yě dào liú . | 3 滄海 看見 就 奔逃； 約旦河 也 倒流。 | הַיָּם רָאָה וַיָּנֹס הַיַּרְדֵּן יִסֹּב לְאָחֽוֹר׃ | The sea saw it, and fled: Jordan was driven back. | 바다는 이를 보고 도망하며 요단은 물러갔으며 | Biển thấy sự ấy, bèn chạy trốn; Sông Giô-đanh chảy trở lại sau; | ทะเลมองแล้วหนี จอร์แดนหันกลับ | La mer le vit, et s'enfuit, le Jourdain s'en retourna en arrière. | Das Meer sah es und floh; der Jordan wandte sich zurück; |
+| 4 大山 踊跃， 如 公羊； 小山 跳舞， 如 羊羔。 | 4 Dà shān yǒng yuè , rú gōng yáng ; xiǎo shān tiào wǔ , rú yáng gāo . | 4 大山 踴躍， 如 公羊； 小山 跳舞， 如 羊羔。 | הֶֽהָרִים רָקְדוּ כְאֵילִים גְּבָעוֹת כִּבְנֵי־צֹֽאן׃ | The mountains skipped like rams, and the little hills like lambs. | 산들은 수양 같이 뛰놀며 작은 산들은 어린 양 같이 뛰었도다 | Núi nhảy như chiên đực, Nổng nhảy khác nào chiên con. | ภูเขากระโดดเหมือนแกะผู้ เนินเขากระโดดเหมือนลูกแกะ | Les montagnes sautèrent comme des moutons, et les coteaux comme des agneaux. | die Berge hüpften wie die Lämmer, die Hügel wie die jungen Schafe. |
+| 5 沧海 啊， 你 为何 奔逃？ 约旦 哪， 你 为何 倒流？ | 5 Cāng hǎi a , nǐ wèi hé bēn táo ? Yuē dàn nǎ , nǐ wèi hé dào liú ? | 5 滄海 啊， 你 為何 奔逃？ 約旦 哪， 你 為何 倒流？ | מַה־לְּךָ הַיָּם כִּי תָנוּס הַיַּרְדֵּן תִּסֹּב לְאָחֽוֹר׃ | What ailed thee, O thou sea, that thou fleddest? thou Jordan, that thou wast driven back? | 바다야 네가 도망함은 어찜이며 요단아 네가 물러감은 어찜인고 | Ớ biển, nhơn so ngươi chạy trốn? Ớ Giô-đanh, vì cớ gì mà ngươi chảy trở lại sau? | เป็นอะไรนะ โอ ทะเลเอ๋ย เจ้าจึงหนี แม่น้ำจอร์แดนเอ๋ย เจ้าจึงหันกลับ | Ô mer! qu'avais-tu pour t'enfuir? et toi Jourdain, pour retourner en arrière? | Was war dir, du Meer, daß du flohest, und du, Jordan, daß du dich zurückwandtest, |
 
 ## 第6–8节 | Dì 6–8 jié | Verses 6–8
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | 繁體 | WLC |
-|---|---|---|---|
-| 6 大山 哪， 你 为何 踊跃， 如 公羊？ 小山 哪， 你 为何 跳舞， 如 羊羔？ | 6 Dà shān nǎ , nǐ wèi hé yǒng yuè , rú gōng yáng ? Xiǎo shān nǎ , nǐ wèi hé tiào wǔ , rú yáng gāo ? | 6 大山 哪， 你 為何 踴躍， 如 公羊？ 小山 哪， 你 為何 跳舞， 如 羊羔？ | הֶֽהָרִים תִּרְקְדוּ כְאֵילִים גְּבָעוֹת כִּבְנֵי־צֹֽאן׃ |
-| 7 大地 啊， 你 因见 主 的 面， 就是 雅各 神 的 面， 便 要 震动。 | 7 Dà dì a , nǐ yīn jiàn zhǔ de miàn , jiù shì yǎ gè shén de miàn , biàn yào zhèn dòng . | 7 大地 啊， 你 因見 主 的 面， 就是 雅各 神 的 面， 便 要 震動。 | מִלִּפְנֵי אָדוֹן חוּלִי אָרֶץ מִלִּפְנֵי אֱלוֹהַּ יַעֲקֹֽב׃ |
-| 8 他 叫 磐石 变为 水池， 叫 坚石 变为 泉源。 | 8 Tā jiào pán shí biàn wèi shuǐ chí , jiào jiān shí biàn wèi quán yuán . | 8 他 叫 磐石 變為 水池， 叫 堅石 變為 泉源。 | הַהֹפְכִי הַצּוּר אֲגַם־מָיִם חַלָּמִישׁ לְמַעְיְנוֹ־מָֽיִם׃ |
+| Hanzi | Pinyin | 繁體 | WLC | KJV | 개역한글 | Vietnamese (1934) | ThaiKJV | Martin (1744) | Luther (1912) |
+|---|---|---|---|---|---|---|---|---|---|
+| 6 大山 哪， 你 为何 踊跃， 如 公羊？ 小山 哪， 你 为何 跳舞， 如 羊羔？ | 6 Dà shān nǎ , nǐ wèi hé yǒng yuè , rú gōng yáng ? Xiǎo shān nǎ , nǐ wèi hé tiào wǔ , rú yáng gāo ? | 6 大山 哪， 你 為何 踴躍， 如 公羊？ 小山 哪， 你 為何 跳舞， 如 羊羔？ | הֶֽהָרִים תִּרְקְדוּ כְאֵילִים גְּבָעוֹת כִּבְנֵי־צֹֽאן׃ | Ye mountains, that ye skipped like rams; and ye little hills, like lambs? | 너희 산들아 수양 같이 뛰놀며 작은 산들아 어린 양 같이 뛰놂은 어찜인고 | Ớ núi, nhơn sao ngươi nhảy như chiên đực? Ớ nổng, vì chớ gì mà ngươi nhảy như chiên con? | ภูเขาเอ๋ย เจ้าจึงกระโดดเหมือนแกะผู้ เนินเขาเอ๋ย เจ้าจึงกระโดดเหมือนลูกแกะ | Et vous montagnes, que vous ayez sauté comme des moutons; et vous coteaux, comme des agneaux? | ihr Berge, daß ihr hüpftet wie die Lämmer, ihr Hügel wie die jungen Schafe? |
+| 7 大地 啊， 你 因见 主 的 面， 就是 雅各 神 的 面， 便 要 震动。 | 7 Dà dì a , nǐ yīn jiàn zhǔ de miàn , jiù shì yǎ gè shén de miàn , biàn yào zhèn dòng . | 7 大地 啊， 你 因見 主 的 面， 就是 雅各 神 的 面， 便 要 震動。 | מִלִּפְנֵי אָדוֹן חוּלִי אָרֶץ מִלִּפְנֵי אֱלוֹהַּ יַעֲקֹֽב׃ | Tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob; | 땅이여 너는 주 앞 곧 야곱의 하나님 앞에서 떨지어다 | Hỡi đất, hãy run rẩy trước mặt Chúa, Trước mặt Ðức Chúa Trời của Gia-cốp, | แผ่นดินเอ๋ย สั่นเทิ้มเถิด ต่อเบื้องพระพักตร์องค์พระผู้เป็นเจ้า ต่อเบื้องพระพักตร์พระเจ้าของยาโคบ | Ô terre! tremble pour la présence du Seigneur, pour la présence du Dieu de Jacob; | Vor dem HERRN bebte die Erde, vor dem Gott Jakobs, |
+| 8 他 叫 磐石 变为 水池， 叫 坚石 变为 泉源。 | 8 Tā jiào pán shí biàn wèi shuǐ chí , jiào jiān shí biàn wèi quán yuán . | 8 他 叫 磐石 變為 水池， 叫 堅石 變為 泉源。 | הַהֹפְכִי הַצּוּר אֲגַם־מָיִם חַלָּמִישׁ לְמַעְיְנוֹ־מָֽיִם׃ | Which turned the rock into a standing water, the flint into a fountain of waters. | 저가 반석을 변하여 못이 되게 하시며 차돌로 샘물이 되게 하셨도다 | Là Ðấng biến hòn đá ra ao nước, Ðổi đá cứng thành nguồn nước. | ผู้ให้หินเป็นสระน้ำ หินเหล็กไฟเป็นน้ำพุ | Qui a changé le rocher en un étang d'eaux, et la pierre très dure en une source d'eaux. | der den Fels wandelte in einen Wassersee und die Steine in Wasserbrunnen. |
+
+> Thai: Thai KJV, © 2003 Philip Pope, CC BY-NC-ND 4.0 (ebible.org/thaKJV).
