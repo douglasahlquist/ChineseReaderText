@@ -12,9 +12,13 @@ when the title changes. Under the heading: the section's index file, then one li
 - index: [hsk-2021/README.md](hsk-2021/README.md)
 - Courses and word lists for the 2021 HSK standard (GF 0025-2021): HSK 1 (506 words) and HSK 2 (750 words) courses, word lists to HSK 7–9.
 
+## hsk-standard · HSK 标准教程 Standard Course
+- index: [hsk-standard/README.md](hsk-standard/README.md)
+- Lessons on the chapters of HSK Standard Course (HSK 2.0 textbooks): each chapter's words and grammar with new sentences and dialogs.
+
 ## hsk-2025 · HSK-2025
 - index: [hsk-2025/README.md](hsk-2025/README.md)
-- The 2025 HSK syllabus (exams from July 2026): HSK 1 (300 words) to HSK 7–9. Coming soon.
+- Word lists of the HSK 3.0 exam syllabus (November 2025; exams from 13 December 2026): HSK 1 (300 words) to HSK 7–9 (11,000 in all), with pinyin, traditional forms and English.
 
 ## bible · 圣经 The Bible
 - index: [bible/README.md](bible/README.md)
