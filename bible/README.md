@@ -2,6 +2,11 @@
 
 ### 书卷 Books of the Bible
 
+#### English
+
+- [Old Testament](books/en-ot.md)
+- [New Testament](books/en-nt.md)
+
 #### 中文 Chinese
 
 - [旧约 Old Testament](01-jiu-yue-shu-juan.md)
@@ -31,6 +36,11 @@
 
 - [Altes Testament · Old Testament](books/de-ot.md)
 - [Neues Testament · New Testament](books/de-nt.md)
+
+#### Naskapi
+
+- [Old Testament](books/nsk-ot.md)
+- [New Testament](books/nsk-nt.md)
 
 ### 经文 Passages
 

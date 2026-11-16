@@ -8,7 +8,7 @@ Pull down on the list in the app to load your latest changes (GitHub can take a 
 
 How to write a lesson page: see [FORMAT.md](FORMAT.md).
 
-## Characters
+## Chinese Characters
 
 ### 单字 Single Characters
 
