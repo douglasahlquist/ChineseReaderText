@@ -154,6 +154,18 @@
       "title": "Luther (1912)",
       "license": "Public domain",
       "source": "github"
+    },
+    {
+      "id": "naskapi",
+      "short": "Naskapi",
+      "kind": "translation",
+      "language": "nsk",
+      "labels": [
+        "Naskapi"
+      ],
+      "title": "Naskapi Bible (Naskapi Development Corporation)",
+      "license": "© Naskapi Development Corporation — permission required",
+      "source": "github"
     }
   ]
 }
