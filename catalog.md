@@ -28,6 +28,10 @@ when the title changes. Under the heading: the section's index file, then one li
 - index: [idioms/README.md](idioms/README.md)
 - About 6,300 common Chinese idioms with pinyin, Chinese meaning and English.
 
+## egyptian-glyphs · 𓂀 Egyptian Glyphs
+- index: [egyptian/README.md](egyptian/README.md)
+- Gardiner's list of hieroglyphic signs: 769 signs in 26 groups, each with its code, what it shows and how it's used.
+
 ## music · 诗歌 Music
 - index: [music/README.md](music/README.md)
 - Hymns and songs.
