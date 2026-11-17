@@ -2,78 +2,78 @@
 
 # 70. Al-Maarij
 
-> Arabic (Uthmani script) · Romanization (generated, approximate)
+> Arabic (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
 
 ## Verses 1–10
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | Arabic | Romanization |
-|---|---|---|---|
-| 1 | | سَأَلَ سَآئِلٌۢ بِعَذَابٍ وَاقِعٍ | Saʾala sāʾilun biʿadhābin wāqiʿ |
-| 2 | | لِّلْكَـٰفِرِينَ لَيْسَ لَهُۥ دَافِعٌ | Lilkāfirīna laysa lahu dāfiʿ |
-| 3 | | مِّنَ ٱللَّهِ ذِى ٱلْمَعَارِجِ | Mina llāhi dhi l-maʿārij |
-| 4 | | تَعْرُجُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ سَنَةٍ | Taʿruju l-malāʾikatu walrrūḥu ʾilayhi fi yawmin kāna miqdāruhu khamsīna ʾalfa sanat |
-| 5 | | فَٱصْبِرْ صَبْرًا جَمِيلًا | Faṣbir ṣabran jamīlā |
-| 6 | | إِنَّهُمْ يَرَوْنَهُۥ بَعِيدًا | ʾinnahum yarawnahu baʿīdā |
-| 7 | | وَنَرَىٰهُ قَرِيبًا | Wanarāhu qarībā |
-| 8 | | يَوْمَ تَكُونُ ٱلسَّمَآءُ كَٱلْمُهْلِ | Yawma takūnu s-samāʾu kalmuhl |
-| 9 | | وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ | Watakūnu l-jibālu kalʿihn |
-| 10 | | وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًا | Walā yasalu ḥamīmun ḥamīmā |
+| Arabic | Romanization | Pickthall |
+|---|---|---|
+| 1 سَأَلَ سَآئِلٌۢ بِعَذَابٍ وَاقِعٍ | Saʾala sāʾilun biʿadhābin wāqiʿ | A questioner questioned concerning the doom about to fall |
+| 2 لِّلْكَـٰفِرِينَ لَيْسَ لَهُۥ دَافِعٌ | Lilkāfirīna laysa lahu dāfiʿ | Upon the disbelievers, which none can repel, |
+| 3 مِّنَ ٱللَّهِ ذِى ٱلْمَعَارِجِ | Mina llāhi dhi l-maʿārij | From Allah, Lord of the Ascending Stairways |
+| 4 تَعْرُجُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ سَنَةٍ | Taʿruju l-malāʾikatu walrrūḥu ʾilayhi fi yawmin kāna miqdāruhu khamsīna ʾalfa sanat | (Whereby) the angels and the Spirit ascend unto Him in a Day whereof the span is fifty thousand years. |
+| 5 فَٱصْبِرْ صَبْرًا جَمِيلًا | Faṣbir ṣabran jamīlā | But be patient (O Muhammad) with a patience fair to see. |
+| 6 إِنَّهُمْ يَرَوْنَهُۥ بَعِيدًا | ʾinnahum yarawnahu baʿīdā | Lo! they behold it afar off |
+| 7 وَنَرَىٰهُ قَرِيبًا | Wanarāhu qarībā | While we behold it nigh: |
+| 8 يَوْمَ تَكُونُ ٱلسَّمَآءُ كَٱلْمُهْلِ | Yawma takūnu s-samāʾu kalmuhl | The day when the sky will become as molten copper, |
+| 9 وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ | Watakūnu l-jibālu kalʿihn | And the hills become as flakes of wool, |
+| 10 وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًا | Walā yasalu ḥamīmun ḥamīmā | And no familiar friend will ask a question of his friend |
 
 ## Verses 11–20
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | Arabic | Romanization |
-|---|---|---|---|
-| 11 | | يُبَصَّرُونَهُمْ ۚ يَوَدُّ ٱلْمُجْرِمُ لَوْ يَفْتَدِى مِنْ عَذَابِ يَوْمِئِذٍۭ بِبَنِيهِ | Yubaṣṣarūnahum yawaddu l-mujrimu law yaftadi min ʿadhābi yawmiʾidhin bibanīh |
-| 12 | | وَصَـٰحِبَتِهِۦ وَأَخِيهِ | Waṣāḥibatihi waʾakhīh |
-| 13 | | وَفَصِيلَتِهِ ٱلَّتِى تُـْٔوِيهِ | Wafaṣīlatihi lati tuwīh |
-| 14 | | وَمَن فِى ٱلْأَرْضِ جَمِيعًا ثُمَّ يُنجِيهِ | Waman fi l-ʾarḍi jamīʿan thumma yunjīh |
-| 15 | | كَلَّآ ۖ إِنَّهَا لَظَىٰ | Kallā ʾinnahā laẓā |
-| 16 | | نَزَّاعَةً لِّلشَّوَىٰ | Nazzāʿatan lilshshawā |
-| 17 | | تَدْعُوا۟ مَنْ أَدْبَرَ وَتَوَلَّىٰ | Tadʿū man ʾadbara watawallā |
-| 18 | | وَجَمَعَ فَأَوْعَىٰٓ | Wajamaʿa faʾawʿā |
-| 19 | | ۞ إِنَّ ٱلْإِنسَـٰنَ خُلِقَ هَلُوعًا | ʾinna l-ʾinsāna khuliqa halūʿā |
-| 20 | | إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًا | ʾidhā massahu sh-sharru jazūʿā |
+| Arabic | Romanization | Pickthall |
+|---|---|---|
+| 11 يُبَصَّرُونَهُمْ ۚ يَوَدُّ ٱلْمُجْرِمُ لَوْ يَفْتَدِى مِنْ عَذَابِ يَوْمِئِذٍۭ بِبَنِيهِ | Yubaṣṣarūnahum yawaddu l-mujrimu law yaftadi min ʿadhābi yawmiʾidhin bibanīh | Though they will be given sight of them. The guilty man will long to be able to ransom himself from the punishment of that day at the price of his children |
+| 12 وَصَـٰحِبَتِهِۦ وَأَخِيهِ | Waṣāḥibatihi waʾakhīh | And his spouse and his brother |
+| 13 وَفَصِيلَتِهِ ٱلَّتِى تُـْٔوِيهِ | Wafaṣīlatihi lati tuwīh | And his kin that harboured him |
+| 14 وَمَن فِى ٱلْأَرْضِ جَمِيعًا ثُمَّ يُنجِيهِ | Waman fi l-ʾarḍi jamīʿan thumma yunjīh | And all that are in the earth, if then it might deliver him. |
+| 15 كَلَّآ ۖ إِنَّهَا لَظَىٰ | Kallā ʾinnahā laẓā | But nay! for lo! it is the fire of hell |
+| 16 نَزَّاعَةً لِّلشَّوَىٰ | Nazzāʿatan lilshshawā | Eager to roast; |
+| 17 تَدْعُوا۟ مَنْ أَدْبَرَ وَتَوَلَّىٰ | Tadʿū man ʾadbara watawallā | It calleth him who turned and fled (from truth), |
+| 18 وَجَمَعَ فَأَوْعَىٰٓ | Wajamaʿa faʾawʿā | And hoarded (wealth) and withheld it. |
+| 19 ۞ إِنَّ ٱلْإِنسَـٰنَ خُلِقَ هَلُوعًا | ʾinna l-ʾinsāna khuliqa halūʿā | Lo! man was created anxious, |
+| 20 إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًا | ʾidhā massahu sh-sharru jazūʿā | Fretful when evil befalleth him |
 
 ## Verses 21–30
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | Arabic | Romanization |
-|---|---|---|---|
-| 21 | | وَإِذَا مَسَّهُ ٱلْخَيْرُ مَنُوعًا | Waʾidhā massahu l-khayru manūʿā |
-| 22 | | إِلَّا ٱلْمُصَلِّينَ | ʾillā l-muṣallīn |
-| 23 | | ٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَآئِمُونَ | Alladhīna hum ʿalā ṣalātihim dāʾimūn |
-| 24 | | وَٱلَّذِينَ فِىٓ أَمْوَٰلِهِمْ حَقٌّ مَّعْلُومٌ | Walladhīna fi ʾamwālihim ḥaqqun maʿlūm |
-| 25 | | لِّلسَّآئِلِ وَٱلْمَحْرُومِ | Lilssāʾili walmaḥrūm |
-| 26 | | وَٱلَّذِينَ يُصَدِّقُونَ بِيَوْمِ ٱلدِّينِ | Walladhīna yuṣaddiqūna biyawmi d-dīn |
-| 27 | | وَٱلَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ | Walladhīna hum min ʿadhābi rabbihim mushfiqūn |
-| 28 | | إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ | ʾinna ʿadhāba rabbihim ghayru maʾmūn |
-| 29 | | وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَـٰفِظُونَ | Walladhīna hum lifurūjihim ḥāfiẓūn |
-| 30 | | إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ | ʾillā ʿalā ʾazwājihim ʾaw mā malakat ʾaymānuhum faʾinnahum ghayru malūmīn |
+| Arabic | Romanization | Pickthall |
+|---|---|---|
+| 21 وَإِذَا مَسَّهُ ٱلْخَيْرُ مَنُوعًا | Waʾidhā massahu l-khayru manūʿā | And, when good befalleth him, grudging; |
+| 22 إِلَّا ٱلْمُصَلِّينَ | ʾillā l-muṣallīn | Save worshippers. |
+| 23 ٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَآئِمُونَ | Alladhīna hum ʿalā ṣalātihim dāʾimūn | Who are constant at their worship |
+| 24 وَٱلَّذِينَ فِىٓ أَمْوَٰلِهِمْ حَقٌّ مَّعْلُومٌ | Walladhīna fi ʾamwālihim ḥaqqun maʿlūm | And in whose wealth there is a right acknowledged |
+| 25 لِّلسَّآئِلِ وَٱلْمَحْرُومِ | Lilssāʾili walmaḥrūm | For the beggar and the destitute; |
+| 26 وَٱلَّذِينَ يُصَدِّقُونَ بِيَوْمِ ٱلدِّينِ | Walladhīna yuṣaddiqūna biyawmi d-dīn | And those who believe in the Day of Judgment, |
+| 27 وَٱلَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ | Walladhīna hum min ʿadhābi rabbihim mushfiqūn | And those who are fearful of their Lord's doom - |
+| 28 إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ | ʾinna ʿadhāba rabbihim ghayru maʾmūn | Lo! the doom of their Lord is that before which none can feel secure - |
+| 29 وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَـٰفِظُونَ | Walladhīna hum lifurūjihim ḥāfiẓūn | And those who preserve their chastity |
+| 30 إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ | ʾillā ʿalā ʾazwājihim ʾaw mā malakat ʾaymānuhum faʾinnahum ghayru malūmīn | Save with their wives and those whom their right hands possess, for thus they are not blameworthy; |
 
 ## Verses 31–40
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | Arabic | Romanization |
-|---|---|---|---|
-| 31 | | فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْعَادُونَ | Famani btaghā warāʾa dhālika faʾūlāʾika humu l-ʿādūn |
-| 32 | | وَٱلَّذِينَ هُمْ لِأَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ | Walladhīna hum liʾamānātihim waʿahdihim rāʿūn |
-| 33 | | وَٱلَّذِينَ هُم بِشَهَـٰدَٰتِهِمْ قَآئِمُونَ | Walladhīna hum bishahādātihim qāʾimūn |
-| 34 | | وَٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ | Walladhīna hum ʿalā ṣalātihim yuḥāfiẓūn |
-| 35 | | أُو۟لَـٰٓئِكَ فِى جَنَّـٰتٍ مُّكْرَمُونَ | ʾūlāʾika fi jannātin mukramūn |
-| 36 | | فَمَالِ ٱلَّذِينَ كَفَرُوا۟ قِبَلَكَ مُهْطِعِينَ | Famāli ladhīna kafarū qibalaka muhṭiʿīn |
-| 37 | | عَنِ ٱلْيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ | ʿani l-yamīni waʿani sh-shimāli ʿizīn |
-| 38 | | أَيَطْمَعُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍ | ʾayaṭmaʿu kullu mriʾin minhum ʾan yudkhala jannata naʿīm |
-| 39 | | كَلَّآ ۖ إِنَّا خَلَقْنَـٰهُم مِّمَّا يَعْلَمُونَ | Kallā ʾinnā khalaqnāhum mimmā yaʿlamūn |
-| 40 | | فَلَآ أُقْسِمُ بِرَبِّ ٱلْمَشَـٰرِقِ وَٱلْمَغَـٰرِبِ إِنَّا لَقَـٰدِرُونَ | Falā ʾuqsimu birabbi l-mashāriqi walmaghāribi ʾinnā laqādirūn |
+| Arabic | Romanization | Pickthall |
+|---|---|---|
+| 31 فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْعَادُونَ | Famani btaghā warāʾa dhālika faʾūlāʾika humu l-ʿādūn | But whoso seeketh more than that, those are they who are transgressors; |
+| 32 وَٱلَّذِينَ هُمْ لِأَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ | Walladhīna hum liʾamānātihim waʿahdihim rāʿūn | And those who keep their pledges and their covenant, |
+| 33 وَٱلَّذِينَ هُم بِشَهَـٰدَٰتِهِمْ قَآئِمُونَ | Walladhīna hum bishahādātihim qāʾimūn | And those who stand by their testimony |
+| 34 وَٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ | Walladhīna hum ʿalā ṣalātihim yuḥāfiẓūn | And those who are attentive at their worship. |
+| 35 أُو۟لَـٰٓئِكَ فِى جَنَّـٰتٍ مُّكْرَمُونَ | ʾūlāʾika fi jannātin mukramūn | These will dwell in Gardens, honoured. |
+| 36 فَمَالِ ٱلَّذِينَ كَفَرُوا۟ قِبَلَكَ مُهْطِعِينَ | Famāli ladhīna kafarū qibalaka muhṭiʿīn | What aileth those who disbelieve, that they keep staring toward thee (O Muhammad), open-eyed, |
+| 37 عَنِ ٱلْيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ | ʿani l-yamīni waʿani sh-shimāli ʿizīn | On the right and on the left, in groups? |
+| 38 أَيَطْمَعُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍ | ʾayaṭmaʿu kullu mriʾin minhum ʾan yudkhala jannata naʿīm | Doth every man among them hope to enter the Garden of Delight? |
+| 39 كَلَّآ ۖ إِنَّا خَلَقْنَـٰهُم مِّمَّا يَعْلَمُونَ | Kallā ʾinnā khalaqnāhum mimmā yaʿlamūn | Nay, verily. Lo! We created them from what they know. |
+| 40 فَلَآ أُقْسِمُ بِرَبِّ ٱلْمَشَـٰرِقِ وَٱلْمَغَـٰرِبِ إِنَّا لَقَـٰدِرُونَ | Falā ʾuqsimu birabbi l-mashāriqi walmaghāribi ʾinnā laqādirūn | But nay! I swear by the Lord of the rising-places and the setting-places of the planets that We verily are Able |
 
 ## Verses 41–44
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | Arabic | Romanization |
-|---|---|---|---|
-| 41 | | عَلَىٰٓ أَن نُّبَدِّلَ خَيْرًا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ | ʿalā ʾan nubaddila khayran minhum wamā naḥnu bimasbūqīn |
-| 42 | | فَذَرْهُمْ يَخُوضُوا۟ وَيَلْعَبُوا۟ حَتَّىٰ يُلَـٰقُوا۟ يَوْمَهُمُ ٱلَّذِى يُوعَدُونَ | Fadharhum yakhūḍū wayalʿabū ḥattā yulāqū yawmahumu ladhi yūʿadūn |
-| 43 | | يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ | Yawma yakhrujūna mina l-ʾajdāthi sirāʿan kaʾannahum ʾilā nuṣubin yūfiḍūn |
-| 44 | | خَـٰشِعَةً أَبْصَـٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ ٱلْيَوْمُ ٱلَّذِى كَانُوا۟ يُوعَدُونَ | Khāshiʿatan ʾabṣāruhum tarhaquhum dhillatun dhālika l-yawmu ladhi kānū yūʿadūn |
+| Arabic | Romanization | Pickthall |
+|---|---|---|
+| 41 عَلَىٰٓ أَن نُّبَدِّلَ خَيْرًا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ | ʿalā ʾan nubaddila khayran minhum wamā naḥnu bimasbūqīn | To replace them by (others) better than them. And we are not to be outrun. |
+| 42 فَذَرْهُمْ يَخُوضُوا۟ وَيَلْعَبُوا۟ حَتَّىٰ يُلَـٰقُوا۟ يَوْمَهُمُ ٱلَّذِى يُوعَدُونَ | Fadharhum yakhūḍū wayalʿabū ḥattā yulāqū yawmahumu ladhi yūʿadūn | So let them chat and play until they meet their Day which they are promised, |
+| 43 يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ | Yawma yakhrujūna mina l-ʾajdāthi sirāʿan kaʾannahum ʾilā nuṣubin yūfiḍūn | The day when they come forth from the graves in haste, as racing to a goal, |
+| 44 خَـٰشِعَةً أَبْصَـٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ ٱلْيَوْمُ ٱلَّذِى كَانُوا۟ يُوعَدُونَ | Khāshiʿatan ʾabṣāruhum tarhaquhum dhillatun dhālika l-yawmu ladhi kānū yūʿadūn | With eyes aghast, abasement stupefying them: Such is the Day which they are promised. |

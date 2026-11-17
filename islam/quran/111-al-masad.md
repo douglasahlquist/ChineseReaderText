@@ -2,15 +2,15 @@
 
 # 111. Al-Masad
 
-> Arabic (Uthmani script) · Romanization (generated, approximate)
+> Arabic (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
 
 ## Verses 1–5
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | Arabic | Romanization |
-|---|---|---|---|
-| 1 | | تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ | Tabbat yadā ʾabi lahabin watabb |
-| 2 | | مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ | Mā ʾaghnā ʿanhu māluhu wamā kasab |
-| 3 | | سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ | Sayaṣlā nāran dhāta lahab |
-| 4 | | وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ | Wamraʾatuhu ḥammālata l-ḥaṭab |
-| 5 | | فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ | Fi jīdihā ḥablun min masad |
+| Arabic | Romanization | Pickthall |
+|---|---|---|
+| 1 تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ | Tabbat yadā ʾabi lahabin watabb | The power of Abu Lahab will perish, and he will perish. |
+| 2 مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ | Mā ʾaghnā ʿanhu māluhu wamā kasab | His wealth and gains will not exempt him. |
+| 3 سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ | Sayaṣlā nāran dhāta lahab | He will be plunged in flaming Fire, |
+| 4 وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ | Wamraʾatuhu ḥammālata l-ḥaṭab | And his wife, the wood-carrier, |
+| 5 فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ | Fi jīdihā ḥablun min masad | Will have upon her neck a halter of palm-fibre. |

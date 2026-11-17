@@ -192,6 +192,18 @@
       "source": "github"
     },
     {
+      "id": "pickthall",
+      "short": "Pickthall",
+      "kind": "translation",
+      "language": "en",
+      "labels": [
+        "Pickthall"
+      ],
+      "title": "Pickthall, The Meaning of the Glorious Koran (1930)",
+      "license": "Public domain",
+      "source": "github"
+    },
+    {
       "id": "sahih-international",
       "short": "Sahih International",
       "kind": "translation",

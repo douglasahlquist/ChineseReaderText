@@ -34,7 +34,7 @@ when the title changes. Under the heading: the section's index file, then one li
 
 ## islam · ☪ Islamic Texts
 - index: [islam/README.md](islam/README.md)
-- The Qur'an: the 114 surahs in Arabic (Uthmani script) with a romanization.
+- The Qur'an: the 114 surahs in Arabic (Uthmani script) with a romanization and Pickthall's English (1930).
 
 ## music · 诗歌 Music
 - index: [music/README.md](music/README.md)

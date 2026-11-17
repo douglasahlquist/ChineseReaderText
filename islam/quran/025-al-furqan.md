@@ -2,129 +2,129 @@
 
 # 25. Al-Furqan
 
-> Arabic (Uthmani script) · Romanization (generated, approximate)
+> Arabic (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
 
 ## Verses 1–10
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | Arabic | Romanization |
-|---|---|---|---|
-| 1 | | تَبَارَكَ ٱلَّذِى نَزَّلَ ٱلْفُرْقَانَ عَلَىٰ عَبْدِهِۦ لِيَكُونَ لِلْعَـٰلَمِينَ نَذِيرًا | Tabāraka ladhi nazzala l-furqāna ʿalā ʿabdihi liyakūna lilʿālamīna nadhīrā |
-| 2 | | ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُۥ شَرِيكٌ فِى ٱلْمُلْكِ وَخَلَقَ كُلَّ شَىْءٍ فَقَدَّرَهُۥ تَقْدِيرًا | Alladhi lahu mulku s-samāwāti walʾarḍi walam yattakhidh waladan walam yakun lahu sharīkun fi l-mulki wakhalaqa kulla shāʾin faqaddarahu taqdīrā |
-| 3 | | وَٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةً لَّا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ وَلَا يَمْلِكُونَ لِأَنفُسِهِمْ ضَرًّا وَلَا نَفْعًا وَلَا يَمْلِكُونَ مَوْتًا وَلَا حَيَوٰةً وَلَا نُشُورًا | Wattakhadhū min dūnihi ʾālihatan lā yakhluqūna shayan wahum yukhlaqūna walā yamlikūna liʾanfusihim ḍarran walā nafʿan walā yamlikūna mawtan walā ḥayawātan walā nushūrā |
-| 4 | | وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَـٰذَآ إِلَّآ إِفْكٌ ٱفْتَرَىٰهُ وَأَعَانَهُۥ عَلَيْهِ قَوْمٌ ءَاخَرُونَ ۖ فَقَدْ جَآءُو ظُلْمًا وَزُورًا | Waqāla ladhīna kafarū ʾin hādhā ʾillā ʾifkun ftarāhu waʾaʿānahu ʿalayhi qawmun ʾākharūna faqad jāʾū ẓulman wazūrā |
-| 5 | | وَقَالُوٓا۟ أَسَـٰطِيرُ ٱلْأَوَّلِينَ ٱكْتَتَبَهَا فَهِىَ تُمْلَىٰ عَلَيْهِ بُكْرَةً وَأَصِيلًا | Waqālū ʾasāṭīru l-ʾawwalīna ktatabahā fahiya tumlā ʿalayhi bukratan waʾaṣīlā |
-| 6 | | قُلْ أَنزَلَهُ ٱلَّذِى يَعْلَمُ ٱلسِّرَّ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ إِنَّهُۥ كَانَ غَفُورًا رَّحِيمًا | Qul ʾanzalahu ladhi yaʿlamu s-sirra fi s-samāwāti walʾarḍi ʾinnahu kāna ghafūran raḥīmā |
-| 7 | | وَقَالُوا۟ مَالِ هَـٰذَا ٱلرَّسُولِ يَأْكُلُ ٱلطَّعَامَ وَيَمْشِى فِى ٱلْأَسْوَاقِ ۙ لَوْلَآ أُنزِلَ إِلَيْهِ مَلَكٌ فَيَكُونَ مَعَهُۥ نَذِيرًا | Waqālū māli hādhā r-rasūli yaʾkulu ṭ-ṭaʿāma wayamshi fi l-ʾaswāqi lawlā ʾunzila ʾilayhi malakun fayakūna maʿahu nadhīrā |
-| 8 | | أَوْ يُلْقَىٰٓ إِلَيْهِ كَنزٌ أَوْ تَكُونُ لَهُۥ جَنَّةٌ يَأْكُلُ مِنْهَا ۚ وَقَالَ ٱلظَّـٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلًا مَّسْحُورًا | ʾaw yulqā ʾilayhi kanzun ʾaw takūnu lahu jannatun yaʾkulu minhā waqāla ẓ-ẓālimūna ʾin tattabiʿūna ʾillā rajulan masḥūrā |
-| 9 | | ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ ٱلْأَمْثَـٰلَ فَضَلُّوا۟ فَلَا يَسْتَطِيعُونَ سَبِيلًا | Inẓur kayfa ḍarabū laka l-ʾamthāla faḍallū falā yastaṭīʿūna sabīlā |
-| 10 | | تَبَارَكَ ٱلَّذِىٓ إِن شَآءَ جَعَلَ لَكَ خَيْرًا مِّن ذَٰلِكَ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ وَيَجْعَل لَّكَ قُصُورًۢا | Tabāraka ladhi ʾin shāʾa jaʿala laka khayran min dhālika jannātin tajri min taḥtihā l-ʾanhāru wayajʿal laka quṣūrā |
+| Arabic | Romanization | Pickthall |
+|---|---|---|
+| 1 تَبَارَكَ ٱلَّذِى نَزَّلَ ٱلْفُرْقَانَ عَلَىٰ عَبْدِهِۦ لِيَكُونَ لِلْعَـٰلَمِينَ نَذِيرًا | Tabāraka ladhi nazzala l-furqāna ʿalā ʿabdihi liyakūna lilʿālamīna nadhīrā | Blessed is He Who hath revealed unto His slave the Criterion (of right and wrong), that he may be a warner to the peoples. |
+| 2 ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُۥ شَرِيكٌ فِى ٱلْمُلْكِ وَخَلَقَ كُلَّ شَىْءٍ فَقَدَّرَهُۥ تَقْدِيرًا | Alladhi lahu mulku s-samāwāti walʾarḍi walam yattakhidh waladan walam yakun lahu sharīkun fi l-mulki wakhalaqa kulla shāʾin faqaddarahu taqdīrā | He unto Whom belongeth the Sovereignty of the heavens and the earth, He hath chosen no son nor hath He any partner in the Sovereignty. He hath created everything and hath meted out for it a measure. |
+| 3 وَٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةً لَّا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ وَلَا يَمْلِكُونَ لِأَنفُسِهِمْ ضَرًّا وَلَا نَفْعًا وَلَا يَمْلِكُونَ مَوْتًا وَلَا حَيَوٰةً وَلَا نُشُورًا | Wattakhadhū min dūnihi ʾālihatan lā yakhluqūna shayan wahum yukhlaqūna walā yamlikūna liʾanfusihim ḍarran walā nafʿan walā yamlikūna mawtan walā ḥayawātan walā nushūrā | Yet they choose beside Him other gods who create naught but are themselves created, and possess not hurt nor profit for themselves, and possess not death nor life, nor power to raise the dead. |
+| 4 وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَـٰذَآ إِلَّآ إِفْكٌ ٱفْتَرَىٰهُ وَأَعَانَهُۥ عَلَيْهِ قَوْمٌ ءَاخَرُونَ ۖ فَقَدْ جَآءُو ظُلْمًا وَزُورًا | Waqāla ladhīna kafarū ʾin hādhā ʾillā ʾifkun ftarāhu waʾaʿānahu ʿalayhi qawmun ʾākharūna faqad jāʾū ẓulman wazūrā | Those who disbelieve say: This is naught but a lie that he hath invented, and other folk have helped him with it, so that they have produced a slander and a lie. |
+| 5 وَقَالُوٓا۟ أَسَـٰطِيرُ ٱلْأَوَّلِينَ ٱكْتَتَبَهَا فَهِىَ تُمْلَىٰ عَلَيْهِ بُكْرَةً وَأَصِيلًا | Waqālū ʾasāṭīru l-ʾawwalīna ktatabahā fahiya tumlā ʿalayhi bukratan waʾaṣīlā | And they say: Fables of the men of old which he hath had written down so that they are dictated to him morn and evening. |
+| 6 قُلْ أَنزَلَهُ ٱلَّذِى يَعْلَمُ ٱلسِّرَّ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ إِنَّهُۥ كَانَ غَفُورًا رَّحِيمًا | Qul ʾanzalahu ladhi yaʿlamu s-sirra fi s-samāwāti walʾarḍi ʾinnahu kāna ghafūran raḥīmā | Say (unto them, O Muhammad): He who knoweth the secret of the heavens and the earth hath revealed it. Lo! He ever is Forgiving, Merciful. |
+| 7 وَقَالُوا۟ مَالِ هَـٰذَا ٱلرَّسُولِ يَأْكُلُ ٱلطَّعَامَ وَيَمْشِى فِى ٱلْأَسْوَاقِ ۙ لَوْلَآ أُنزِلَ إِلَيْهِ مَلَكٌ فَيَكُونَ مَعَهُۥ نَذِيرًا | Waqālū māli hādhā r-rasūli yaʾkulu ṭ-ṭaʿāma wayamshi fi l-ʾaswāqi lawlā ʾunzila ʾilayhi malakun fayakūna maʿahu nadhīrā | And they say: What aileth this messenger (of Allah) that he eateth food and walketh in the markets? Why is not an angel sent down unto him, to be a warner with him. |
+| 8 أَوْ يُلْقَىٰٓ إِلَيْهِ كَنزٌ أَوْ تَكُونُ لَهُۥ جَنَّةٌ يَأْكُلُ مِنْهَا ۚ وَقَالَ ٱلظَّـٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلًا مَّسْحُورًا | ʾaw yulqā ʾilayhi kanzun ʾaw takūnu lahu jannatun yaʾkulu minhā waqāla ẓ-ẓālimūna ʾin tattabiʿūna ʾillā rajulan masḥūrā | Or (why is not) treasure thrown down unto him, or why hath he not a paradise from whence to eat? And the evil-doers say: Ye are but following a man bewitched. |
+| 9 ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ ٱلْأَمْثَـٰلَ فَضَلُّوا۟ فَلَا يَسْتَطِيعُونَ سَبِيلًا | Inẓur kayfa ḍarabū laka l-ʾamthāla faḍallū falā yastaṭīʿūna sabīlā | See how they coin similitudes for thee, so that they are all astray and cannot find a road! |
+| 10 تَبَارَكَ ٱلَّذِىٓ إِن شَآءَ جَعَلَ لَكَ خَيْرًا مِّن ذَٰلِكَ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ وَيَجْعَل لَّكَ قُصُورًۢا | Tabāraka ladhi ʾin shāʾa jaʿala laka khayran min dhālika jannātin tajri min taḥtihā l-ʾanhāru wayajʿal laka quṣūrā | Blessed is He Who, if He will, will assign thee better than (all) that - Gardens underneath which rivers flow - and will assign thee mansions. |
 
 ## Verses 11–20
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | Arabic | Romanization |
-|---|---|---|---|
-| 11 | | بَلْ كَذَّبُوا۟ بِٱلسَّاعَةِ ۖ وَأَعْتَدْنَا لِمَن كَذَّبَ بِٱلسَّاعَةِ سَعِيرًا | Bal kadhdhabū bilssāʿati waʾaʿtadnā liman kadhdhaba bilssāʿati saʿīrā |
-| 12 | | إِذَا رَأَتْهُم مِّن مَّكَانٍۭ بَعِيدٍ سَمِعُوا۟ لَهَا تَغَيُّظًا وَزَفِيرًا | ʾidhā raʾathum min makānin baʿīdin samiʿū lahā taghayyuẓan wazafīrā |
-| 13 | | وَإِذَآ أُلْقُوا۟ مِنْهَا مَكَانًا ضَيِّقًا مُّقَرَّنِينَ دَعَوْا۟ هُنَالِكَ ثُبُورًا | Waʾidhā ʾulqū minhā makānan ḍayyiqan muqarranīna daʿaw hunālika thubūrā |
-| 14 | | لَّا تَدْعُوا۟ ٱلْيَوْمَ ثُبُورًا وَٰحِدًا وَٱدْعُوا۟ ثُبُورًا كَثِيرًا | Lā tadʿū l-yawma thubūran wāḥidan wadʿū thubūran kathīrā |
-| 15 | | قُلْ أَذَٰلِكَ خَيْرٌ أَمْ جَنَّةُ ٱلْخُلْدِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۚ كَانَتْ لَهُمْ جَزَآءً وَمَصِيرًا | Qul ʾadhālika khayrun ʾam jannatu l-khuldi lati wuʿida l-muttaqūna kānat lahum jazāʾan wamaṣīrā |
-| 16 | | لَّهُمْ فِيهَا مَا يَشَآءُونَ خَـٰلِدِينَ ۚ كَانَ عَلَىٰ رَبِّكَ وَعْدًا مَّسْـُٔولًا | Lahum fīhā mā yashāʾūna khālidīna kāna ʿalā rabbika waʿdan masūlā |
-| 17 | | وَيَوْمَ يَحْشُرُهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ فَيَقُولُ ءَأَنتُمْ أَضْلَلْتُمْ عِبَادِى هَـٰٓؤُلَآءِ أَمْ هُمْ ضَلُّوا۟ ٱلسَّبِيلَ | Wayawma yaḥshuruhum wamā yaʿbudūna min dūni llāhi fayaqūlu ʾaʾantum ʾaḍlaltum ʿibādi hāʾulāʾi ʾam hum ḍallū s-sabīl |
-| 18 | | قَالُوا۟ سُبْحَـٰنَكَ مَا كَانَ يَنۢبَغِى لَنَآ أَن نَّتَّخِذَ مِن دُونِكَ مِنْ أَوْلِيَآءَ وَلَـٰكِن مَّتَّعْتَهُمْ وَءَابَآءَهُمْ حَتَّىٰ نَسُوا۟ ٱلذِّكْرَ وَكَانُوا۟ قَوْمًۢا بُورًا | Qālū subḥānaka mā kāna yanbaghi lanā ʾan nattakhidha min dūnika min ʾawliyāʾa walākin mattaʿtahum waʾābāʾahum ḥattā nasū dh-dhikra wakānū qawman būrā |
-| 19 | | فَقَدْ كَذَّبُوكُم بِمَا تَقُولُونَ فَمَا تَسْتَطِيعُونَ صَرْفًا وَلَا نَصْرًا ۚ وَمَن يَظْلِم مِّنكُمْ نُذِقْهُ عَذَابًا كَبِيرًا | Faqad kadhdhabūkum bimā taqūlūna famā tastaṭīʿūna ṣarfan walā naṣran waman yaẓlim minkum nudhiqhu ʿadhāban kabīrā |
-| 20 | | وَمَآ أَرْسَلْنَا قَبْلَكَ مِنَ ٱلْمُرْسَلِينَ إِلَّآ إِنَّهُمْ لَيَأْكُلُونَ ٱلطَّعَامَ وَيَمْشُونَ فِى ٱلْأَسْوَاقِ ۗ وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ فِتْنَةً أَتَصْبِرُونَ ۗ وَكَانَ رَبُّكَ بَصِيرًا | Wamā ʾarsalnā qablaka mina l-mursalīna ʾillā ʾinnahum layaʾkulūna ṭ-ṭaʿāma wayamshūna fi l-ʾaswāqi wajaʿalnā baʿḍakum libaʿḍin fitnatan ʾataṣbirūna wakāna rabbuka baṣīrā |
+| Arabic | Romanization | Pickthall |
+|---|---|---|
+| 11 بَلْ كَذَّبُوا۟ بِٱلسَّاعَةِ ۖ وَأَعْتَدْنَا لِمَن كَذَّبَ بِٱلسَّاعَةِ سَعِيرًا | Bal kadhdhabū bilssāʿati waʾaʿtadnā liman kadhdhaba bilssāʿati saʿīrā | Nay, but they deny (the coming of) the Hour, and for those who deny (the coming of) the Hour We have prepared a flame. |
+| 12 إِذَا رَأَتْهُم مِّن مَّكَانٍۭ بَعِيدٍ سَمِعُوا۟ لَهَا تَغَيُّظًا وَزَفِيرًا | ʾidhā raʾathum min makānin baʿīdin samiʿū lahā taghayyuẓan wazafīrā | When it seeth them from afar, they hear the crackling and the roar thereof. |
+| 13 وَإِذَآ أُلْقُوا۟ مِنْهَا مَكَانًا ضَيِّقًا مُّقَرَّنِينَ دَعَوْا۟ هُنَالِكَ ثُبُورًا | Waʾidhā ʾulqū minhā makānan ḍayyiqan muqarranīna daʿaw hunālika thubūrā | And when they are flung into a narrow place thereof, chained together, they pray for destruction there. |
+| 14 لَّا تَدْعُوا۟ ٱلْيَوْمَ ثُبُورًا وَٰحِدًا وَٱدْعُوا۟ ثُبُورًا كَثِيرًا | Lā tadʿū l-yawma thubūran wāḥidan wadʿū thubūran kathīrā | Pray not that day for one destruction, but pray for many destructions! |
+| 15 قُلْ أَذَٰلِكَ خَيْرٌ أَمْ جَنَّةُ ٱلْخُلْدِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۚ كَانَتْ لَهُمْ جَزَآءً وَمَصِيرًا | Qul ʾadhālika khayrun ʾam jannatu l-khuldi lati wuʿida l-muttaqūna kānat lahum jazāʾan wamaṣīrā | Say: Is that (doom) better or the Garden of Immortality which is promised unto those who ward off (evil)? It will be their reward and journey's end. |
+| 16 لَّهُمْ فِيهَا مَا يَشَآءُونَ خَـٰلِدِينَ ۚ كَانَ عَلَىٰ رَبِّكَ وَعْدًا مَّسْـُٔولًا | Lahum fīhā mā yashāʾūna khālidīna kāna ʿalā rabbika waʿdan masūlā | Therein abiding, they have all that they desire. It is for thy Lord a promise that must be fulfilled. |
+| 17 وَيَوْمَ يَحْشُرُهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ فَيَقُولُ ءَأَنتُمْ أَضْلَلْتُمْ عِبَادِى هَـٰٓؤُلَآءِ أَمْ هُمْ ضَلُّوا۟ ٱلسَّبِيلَ | Wayawma yaḥshuruhum wamā yaʿbudūna min dūni llāhi fayaqūlu ʾaʾantum ʾaḍlaltum ʿibādi hāʾulāʾi ʾam hum ḍallū s-sabīl | And on the day when He will assemble them and that which they worship instead of Allah and will say: Was it ye who misled these my slaves or did they (themselves) wander from the way? |
+| 18 قَالُوا۟ سُبْحَـٰنَكَ مَا كَانَ يَنۢبَغِى لَنَآ أَن نَّتَّخِذَ مِن دُونِكَ مِنْ أَوْلِيَآءَ وَلَـٰكِن مَّتَّعْتَهُمْ وَءَابَآءَهُمْ حَتَّىٰ نَسُوا۟ ٱلذِّكْرَ وَكَانُوا۟ قَوْمًۢا بُورًا | Qālū subḥānaka mā kāna yanbaghi lanā ʾan nattakhidha min dūnika min ʾawliyāʾa walākin mattaʿtahum waʾābāʾahum ḥattā nasū dh-dhikra wakānū qawman būrā | They will say: Be Thou Glorified! it was not for us to choose any protecting friends beside thee; but Thou didst give them and their fathers ease till they forgot the warning and became lost folk. |
+| 19 فَقَدْ كَذَّبُوكُم بِمَا تَقُولُونَ فَمَا تَسْتَطِيعُونَ صَرْفًا وَلَا نَصْرًا ۚ وَمَن يَظْلِم مِّنكُمْ نُذِقْهُ عَذَابًا كَبِيرًا | Faqad kadhdhabūkum bimā taqūlūna famā tastaṭīʿūna ṣarfan walā naṣran waman yaẓlim minkum nudhiqhu ʿadhāban kabīrā | Thus they will give you the lie regarding what ye say, then ye can neither avert (the doom) nor obtain help. And whoso among you doeth wrong, We shall make him taste great torment. |
+| 20 وَمَآ أَرْسَلْنَا قَبْلَكَ مِنَ ٱلْمُرْسَلِينَ إِلَّآ إِنَّهُمْ لَيَأْكُلُونَ ٱلطَّعَامَ وَيَمْشُونَ فِى ٱلْأَسْوَاقِ ۗ وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ فِتْنَةً أَتَصْبِرُونَ ۗ وَكَانَ رَبُّكَ بَصِيرًا | Wamā ʾarsalnā qablaka mina l-mursalīna ʾillā ʾinnahum layaʾkulūna ṭ-ṭaʿāma wayamshūna fi l-ʾaswāqi wajaʿalnā baʿḍakum libaʿḍin fitnatan ʾataṣbirūna wakāna rabbuka baṣīrā | We never sent before thee any messengers but lo! they verily ate food and walked in the markets. And We have appointed some of you a test for others: Will ye be steadfast? And thy Lord is ever Seer. |
 
 ## Verses 21–30
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | Arabic | Romanization |
-|---|---|---|---|
-| 21 | | ۞ وَقَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا لَوْلَآ أُنزِلَ عَلَيْنَا ٱلْمَلَـٰٓئِكَةُ أَوْ نَرَىٰ رَبَّنَا ۗ لَقَدِ ٱسْتَكْبَرُوا۟ فِىٓ أَنفُسِهِمْ وَعَتَوْ عُتُوًّا كَبِيرًا | Waqāla ladhīna lā yarjūna liqāʾanā lawlā ʾunzila ʿalaynā l-malāʾikatu ʾaw narā rabbanā laqadi stakbarū fi ʾanfusihim waʿataw ʿutuwwan kabīrā |
-| 22 | | يَوْمَ يَرَوْنَ ٱلْمَلَـٰٓئِكَةَ لَا بُشْرَىٰ يَوْمَئِذٍ لِّلْمُجْرِمِينَ وَيَقُولُونَ حِجْرًا مَّحْجُورًا | Yawma yarawna l-malāʾikata lā bushrā yawmaʾidhin lilmujrimīna wayaqūlūna ḥijran maḥjūrā |
-| 23 | | وَقَدِمْنَآ إِلَىٰ مَا عَمِلُوا۟ مِنْ عَمَلٍ فَجَعَلْنَـٰهُ هَبَآءً مَّنثُورًا | Waqadimnā ʾilā mā ʿamilū min ʿamalin fajaʿalnāhu habāʾan manthūrā |
-| 24 | | أَصْحَـٰبُ ٱلْجَنَّةِ يَوْمَئِذٍ خَيْرٌ مُّسْتَقَرًّا وَأَحْسَنُ مَقِيلًا | ʾaṣḥābu l-jannati yawmaʾidhin khayrun mustaqarran waʾaḥsanu maqīlā |
-| 25 | | وَيَوْمَ تَشَقَّقُ ٱلسَّمَآءُ بِٱلْغَمَـٰمِ وَنُزِّلَ ٱلْمَلَـٰٓئِكَةُ تَنزِيلًا | Wayawma tashaqqaqu s-samāʾu bilghamāmi wanuzzila l-malāʾikatu tanzīlā |
-| 26 | | ٱلْمُلْكُ يَوْمَئِذٍ ٱلْحَقُّ لِلرَّحْمَـٰنِ ۚ وَكَانَ يَوْمًا عَلَى ٱلْكَـٰفِرِينَ عَسِيرًا | Al-mulku yawmaʾidhin l-ḥaqqu lilrraḥmāni wakāna yawman ʿalā l-kāfirīna ʿasīrā |
-| 27 | | وَيَوْمَ يَعَضُّ ٱلظَّالِمُ عَلَىٰ يَدَيْهِ يَقُولُ يَـٰلَيْتَنِى ٱتَّخَذْتُ مَعَ ٱلرَّسُولِ سَبِيلًا | Wayawma yaʿaḍḍu ẓ-ẓālimu ʿalā yadayhi yaqūlu yālaytani takhadhtu maʿa r-rasūli sabīlā |
-| 28 | | يَـٰوَيْلَتَىٰ لَيْتَنِى لَمْ أَتَّخِذْ فُلَانًا خَلِيلًا | Yāwaylatā laytani lam ʾattakhidh fulānan khalīlā |
-| 29 | | لَّقَدْ أَضَلَّنِى عَنِ ٱلذِّكْرِ بَعْدَ إِذْ جَآءَنِى ۗ وَكَانَ ٱلشَّيْطَـٰنُ لِلْإِنسَـٰنِ خَذُولًا | Laqad ʾaḍallani ʿani dh-dhikri baʿda ʾidh jāʾani wakāna sh-shayṭānu lilʾinsāni khadhūlā |
-| 30 | | وَقَالَ ٱلرَّسُولُ يَـٰرَبِّ إِنَّ قَوْمِى ٱتَّخَذُوا۟ هَـٰذَا ٱلْقُرْءَانَ مَهْجُورًا | Waqāla r-rasūlu yārabbi ʾinna qawmi takhadhū hādhā l-qurʾāna mahjūrā |
+| Arabic | Romanization | Pickthall |
+|---|---|---|
+| 21 ۞ وَقَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا لَوْلَآ أُنزِلَ عَلَيْنَا ٱلْمَلَـٰٓئِكَةُ أَوْ نَرَىٰ رَبَّنَا ۗ لَقَدِ ٱسْتَكْبَرُوا۟ فِىٓ أَنفُسِهِمْ وَعَتَوْ عُتُوًّا كَبِيرًا | Waqāla ladhīna lā yarjūna liqāʾanā lawlā ʾunzila ʿalaynā l-malāʾikatu ʾaw narā rabbanā laqadi stakbarū fi ʾanfusihim waʿataw ʿutuwwan kabīrā | And those who look not for a meeting with Us say: Why are angels not sent down unto us and (Why) do we not see our Lord! Assuredly they think too highly of themselves and are scornful with great pride. |
+| 22 يَوْمَ يَرَوْنَ ٱلْمَلَـٰٓئِكَةَ لَا بُشْرَىٰ يَوْمَئِذٍ لِّلْمُجْرِمِينَ وَيَقُولُونَ حِجْرًا مَّحْجُورًا | Yawma yarawna l-malāʾikata lā bushrā yawmaʾidhin lilmujrimīna wayaqūlūna ḥijran maḥjūrā | On the day when they behold the angels, on that day there will be no good tidings for the guilty; and they will cry: A forbidding ban! |
+| 23 وَقَدِمْنَآ إِلَىٰ مَا عَمِلُوا۟ مِنْ عَمَلٍ فَجَعَلْنَـٰهُ هَبَآءً مَّنثُورًا | Waqadimnā ʾilā mā ʿamilū min ʿamalin fajaʿalnāhu habāʾan manthūrā | And We shall turn unto the work they did and make it scattered motes. |
+| 24 أَصْحَـٰبُ ٱلْجَنَّةِ يَوْمَئِذٍ خَيْرٌ مُّسْتَقَرًّا وَأَحْسَنُ مَقِيلًا | ʾaṣḥābu l-jannati yawmaʾidhin khayrun mustaqarran waʾaḥsanu maqīlā | Those who have earned the Garden on that day will be better in their home and happier in their place of noonday rest; |
+| 25 وَيَوْمَ تَشَقَّقُ ٱلسَّمَآءُ بِٱلْغَمَـٰمِ وَنُزِّلَ ٱلْمَلَـٰٓئِكَةُ تَنزِيلًا | Wayawma tashaqqaqu s-samāʾu bilghamāmi wanuzzila l-malāʾikatu tanzīlā | A day when the heaven with the clouds will be rent asunder and the angels will be sent down, a grand descent. |
+| 26 ٱلْمُلْكُ يَوْمَئِذٍ ٱلْحَقُّ لِلرَّحْمَـٰنِ ۚ وَكَانَ يَوْمًا عَلَى ٱلْكَـٰفِرِينَ عَسِيرًا | Al-mulku yawmaʾidhin l-ḥaqqu lilrraḥmāni wakāna yawman ʿalā l-kāfirīna ʿasīrā | The Sovereignty on that day will be the True (Sovereignty) belonging to the Beneficent One, and it will be a hard day for disbelievers. |
+| 27 وَيَوْمَ يَعَضُّ ٱلظَّالِمُ عَلَىٰ يَدَيْهِ يَقُولُ يَـٰلَيْتَنِى ٱتَّخَذْتُ مَعَ ٱلرَّسُولِ سَبِيلًا | Wayawma yaʿaḍḍu ẓ-ẓālimu ʿalā yadayhi yaqūlu yālaytani takhadhtu maʿa r-rasūli sabīlā | On the day when the wrong-doer gnaweth his hands, he will say: Ah, would that I had chosen a way together with the messenger (of Allah)! |
+| 28 يَـٰوَيْلَتَىٰ لَيْتَنِى لَمْ أَتَّخِذْ فُلَانًا خَلِيلًا | Yāwaylatā laytani lam ʾattakhidh fulānan khalīlā | Alas for me! Ah, would that I had never taken such an one for friend! |
+| 29 لَّقَدْ أَضَلَّنِى عَنِ ٱلذِّكْرِ بَعْدَ إِذْ جَآءَنِى ۗ وَكَانَ ٱلشَّيْطَـٰنُ لِلْإِنسَـٰنِ خَذُولًا | Laqad ʾaḍallani ʿani dh-dhikri baʿda ʾidh jāʾani wakāna sh-shayṭānu lilʾinsāni khadhūlā | He verily led me astray from the Reminder after it had reached me. Satan was ever man's deserter in the hour of need. |
+| 30 وَقَالَ ٱلرَّسُولُ يَـٰرَبِّ إِنَّ قَوْمِى ٱتَّخَذُوا۟ هَـٰذَا ٱلْقُرْءَانَ مَهْجُورًا | Waqāla r-rasūlu yārabbi ʾinna qawmi takhadhū hādhā l-qurʾāna mahjūrā | And the messenger saith: O my Lord! Lo! mine own folk make this Qur'an of no account. |
 
 ## Verses 31–40
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | Arabic | Romanization |
-|---|---|---|---|
-| 31 | | وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّا مِّنَ ٱلْمُجْرِمِينَ ۗ وَكَفَىٰ بِرَبِّكَ هَادِيًا وَنَصِيرًا | Wakadhālika jaʿalnā likulli nabiyyin ʿaduwwan mina l-mujrimīna wakafā birabbika hādiyan wanaṣīrā |
-| 32 | | وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَوْلَا نُزِّلَ عَلَيْهِ ٱلْقُرْءَانُ جُمْلَةً وَٰحِدَةً ۚ كَذَٰلِكَ لِنُثَبِّتَ بِهِۦ فُؤَادَكَ ۖ وَرَتَّلْنَـٰهُ تَرْتِيلًا | Waqāla ladhīna kafarū lawlā nuzzila ʿalayhi l-qurʾānu jumlatan wāḥidatan kadhālika linuthabbita bihi fuʾādaka warattalnāhu tartīlā |
-| 33 | | وَلَا يَأْتُونَكَ بِمَثَلٍ إِلَّا جِئْنَـٰكَ بِٱلْحَقِّ وَأَحْسَنَ تَفْسِيرًا | Walā yaʾtūnaka bimathalin ʾillā jiʾnāka bilḥaqqi waʾaḥsana tafsīrā |
-| 34 | | ٱلَّذِينَ يُحْشَرُونَ عَلَىٰ وُجُوهِهِمْ إِلَىٰ جَهَنَّمَ أُو۟لَـٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ سَبِيلًا | Alladhīna yuḥsharūna ʿalā wujūhihim ʾilā jahannama ʾūlāʾika sharrun makānan waʾaḍallu sabīlā |
-| 35 | | وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًا | Walaqad ʾātaynā mūsā l-kitāba wajaʿalnā maʿahu ʾakhāhu hārūna wazīrā |
-| 36 | | فَقُلْنَا ٱذْهَبَآ إِلَى ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا فَدَمَّرْنَـٰهُمْ تَدْمِيرًا | Faqulnā dhhabā ʾilā l-qawmi ladhīna kadhdhabū biyātinā fadammarnāhum tadmīrā |
-| 37 | | وَقَوْمَ نُوحٍ لَّمَّا كَذَّبُوا۟ ٱلرُّسُلَ أَغْرَقْنَـٰهُمْ وَجَعَلْنَـٰهُمْ لِلنَّاسِ ءَايَةً ۖ وَأَعْتَدْنَا لِلظَّـٰلِمِينَ عَذَابًا أَلِيمًا | Waqawma nūḥin lammā kadhdhabū r-rusula ʾaghraqnāhum wajaʿalnāhum lilnnāsi ʾāyatan waʾaʿtadnā lilẓẓālimīna ʿadhāban ʾalīmā |
-| 38 | | وَعَادًا وَثَمُودَا۟ وَأَصْحَـٰبَ ٱلرَّسِّ وَقُرُونًۢا بَيْنَ ذَٰلِكَ كَثِيرًا | Waʿādan wathamūdā waʾaṣḥāba r-rassi waqurūnan bayna dhālika kathīrā |
-| 39 | | وَكُلًّا ضَرَبْنَا لَهُ ٱلْأَمْثَـٰلَ ۖ وَكُلًّا تَبَّرْنَا تَتْبِيرًا | Wakullan ḍarabnā lahu l-ʾamthāla wakullan tabbarnā tatbīrā |
-| 40 | | وَلَقَدْ أَتَوْا۟ عَلَى ٱلْقَرْيَةِ ٱلَّتِىٓ أُمْطِرَتْ مَطَرَ ٱلسَّوْءِ ۚ أَفَلَمْ يَكُونُوا۟ يَرَوْنَهَا ۚ بَلْ كَانُوا۟ لَا يَرْجُونَ نُشُورًا | Walaqad ʾataw ʿalā l-qaryati lati ʾumṭirat maṭara s-sawʾi ʾafalam yakūnū yarawnahā bal kānū lā yarjūna nushūrā |
+| Arabic | Romanization | Pickthall |
+|---|---|---|
+| 31 وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّا مِّنَ ٱلْمُجْرِمِينَ ۗ وَكَفَىٰ بِرَبِّكَ هَادِيًا وَنَصِيرًا | Wakadhālika jaʿalnā likulli nabiyyin ʿaduwwan mina l-mujrimīna wakafā birabbika hādiyan wanaṣīrā | Even so have We appointed unto every prophet an opponent from among the guilty; but Allah sufficeth for a Guide and Helper. |
+| 32 وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَوْلَا نُزِّلَ عَلَيْهِ ٱلْقُرْءَانُ جُمْلَةً وَٰحِدَةً ۚ كَذَٰلِكَ لِنُثَبِّتَ بِهِۦ فُؤَادَكَ ۖ وَرَتَّلْنَـٰهُ تَرْتِيلًا | Waqāla ladhīna kafarū lawlā nuzzila ʿalayhi l-qurʾānu jumlatan wāḥidatan kadhālika linuthabbita bihi fuʾādaka warattalnāhu tartīlā | And those who disbelieve say: Why is the Qur'an not revealed unto him all at once? (It is revealed) thus that We may strengthen thy heart therewith; and We have arranged it in right order. |
+| 33 وَلَا يَأْتُونَكَ بِمَثَلٍ إِلَّا جِئْنَـٰكَ بِٱلْحَقِّ وَأَحْسَنَ تَفْسِيرًا | Walā yaʾtūnaka bimathalin ʾillā jiʾnāka bilḥaqqi waʾaḥsana tafsīrā | And they bring thee no similitude but We bring thee the Truth (as against it), and better (than their similitude) as argument. |
+| 34 ٱلَّذِينَ يُحْشَرُونَ عَلَىٰ وُجُوهِهِمْ إِلَىٰ جَهَنَّمَ أُو۟لَـٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ سَبِيلًا | Alladhīna yuḥsharūna ʿalā wujūhihim ʾilā jahannama ʾūlāʾika sharrun makānan waʾaḍallu sabīlā | Those who will be gathered on their faces unto hell: such are worse in plight and further from the right road. |
+| 35 وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَـٰرُونَ وَزِيرًا | Walaqad ʾātaynā mūsā l-kitāba wajaʿalnā maʿahu ʾakhāhu hārūna wazīrā | We verily gave Moses the Scripture and placed with him his brother Aaron as henchman. |
+| 36 فَقُلْنَا ٱذْهَبَآ إِلَى ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا فَدَمَّرْنَـٰهُمْ تَدْمِيرًا | Faqulnā dhhabā ʾilā l-qawmi ladhīna kadhdhabū biyātinā fadammarnāhum tadmīrā | Then We said: Go together unto the folk who have denied Our revelations. Then We destroyed them, a complete destruction. |
+| 37 وَقَوْمَ نُوحٍ لَّمَّا كَذَّبُوا۟ ٱلرُّسُلَ أَغْرَقْنَـٰهُمْ وَجَعَلْنَـٰهُمْ لِلنَّاسِ ءَايَةً ۖ وَأَعْتَدْنَا لِلظَّـٰلِمِينَ عَذَابًا أَلِيمًا | Waqawma nūḥin lammā kadhdhabū r-rusula ʾaghraqnāhum wajaʿalnāhum lilnnāsi ʾāyatan waʾaʿtadnā lilẓẓālimīna ʿadhāban ʾalīmā | And Noah's folk, when they denied the messengers, We drowned them and made of them a portent for mankind. We have prepared a painful doom for evil-doers. |
+| 38 وَعَادًا وَثَمُودَا۟ وَأَصْحَـٰبَ ٱلرَّسِّ وَقُرُونًۢا بَيْنَ ذَٰلِكَ كَثِيرًا | Waʿādan wathamūdā waʾaṣḥāba r-rassi waqurūnan bayna dhālika kathīrā | And (the tribes of) A'ad and Thamud, and the dwellers in Ar-Rass, and many generations in between. |
+| 39 وَكُلًّا ضَرَبْنَا لَهُ ٱلْأَمْثَـٰلَ ۖ وَكُلًّا تَبَّرْنَا تَتْبِيرًا | Wakullan ḍarabnā lahu l-ʾamthāla wakullan tabbarnā tatbīrā | Each (of them) We warned by examples, and each (of them) We brought to utter ruin. |
+| 40 وَلَقَدْ أَتَوْا۟ عَلَى ٱلْقَرْيَةِ ٱلَّتِىٓ أُمْطِرَتْ مَطَرَ ٱلسَّوْءِ ۚ أَفَلَمْ يَكُونُوا۟ يَرَوْنَهَا ۚ بَلْ كَانُوا۟ لَا يَرْجُونَ نُشُورًا | Walaqad ʾataw ʿalā l-qaryati lati ʾumṭirat maṭara s-sawʾi ʾafalam yakūnū yarawnahā bal kānū lā yarjūna nushūrā | And indeed they have passed by the township whereon was rained the fatal rain. Can it be that they have not seen it? Nay, but they hope for no resurrection. |
 
 ## Verses 41–50
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | Arabic | Romanization |
-|---|---|---|---|
-| 41 | | وَإِذَا رَأَوْكَ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَـٰذَا ٱلَّذِى بَعَثَ ٱللَّهُ رَسُولًا | Waʾidhā raʾawka ʾin yattakhidhūnaka ʾillā huzuwan ʾahādhā ladhi baʿatha llāhu rasūlā |
-| 42 | | إِن كَادَ لَيُضِلُّنَا عَنْ ءَالِهَتِنَا لَوْلَآ أَن صَبَرْنَا عَلَيْهَا ۚ وَسَوْفَ يَعْلَمُونَ حِينَ يَرَوْنَ ٱلْعَذَابَ مَنْ أَضَلُّ سَبِيلًا | ʾin kāda layuḍillunā ʿan ʾālihatinā lawlā ʾan ṣabarnā ʿalayhā wasawfa yaʿlamūna ḥīna yarawna l-ʿadhāba man ʾaḍallu sabīlā |
-| 43 | | أَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَـٰهَهُۥ هَوَىٰهُ أَفَأَنتَ تَكُونُ عَلَيْهِ وَكِيلًا | ʾaraʾayta mani takhadha ʾilāhahu hawāhu ʾafaʾanta takūnu ʿalayhi wakīlā |
-| 44 | | أَمْ تَحْسَبُ أَنَّ أَكْثَرَهُمْ يَسْمَعُونَ أَوْ يَعْقِلُونَ ۚ إِنْ هُمْ إِلَّا كَٱلْأَنْعَـٰمِ ۖ بَلْ هُمْ أَضَلُّ سَبِيلًا | ʾam taḥsabu ʾanna ʾaktharahum yasmaʿūna ʾaw yaʿqilūna ʾin hum ʾillā kalʾanʿāmi bal hum ʾaḍallu sabīlā |
-| 45 | | أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ ٱلظِّلَّ وَلَوْ شَآءَ لَجَعَلَهُۥ سَاكِنًا ثُمَّ جَعَلْنَا ٱلشَّمْسَ عَلَيْهِ دَلِيلًا | ʾalam tara ʾilā rabbika kayfa madda ẓ-ẓilla walaw shāʾa lajaʿalahu sākinan thumma jaʿalnā sh-shamsa ʿalayhi dalīlā |
-| 46 | | ثُمَّ قَبَضْنَـٰهُ إِلَيْنَا قَبْضًا يَسِيرًا | Thumma qabaḍnāhu ʾilaynā qabḍan yasīrā |
-| 47 | | وَهُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِبَاسًا وَٱلنَّوْمَ سُبَاتًا وَجَعَلَ ٱلنَّهَارَ نُشُورًا | Wahuwa ladhi jaʿala lakumu layla libāsan walnnawma subātan wajaʿala n-nahāra nushūrā |
-| 48 | | وَهُوَ ٱلَّذِىٓ أَرْسَلَ ٱلرِّيَـٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ ۚ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً طَهُورًا | Wahuwa ladhi ʾarsala r-riyāḥa bushran bayna yadā raḥmatihi waʾanzalnā mina s-samāʾi māʾan ṭahūrā |
-| 49 | | لِّنُحْـِۧىَ بِهِۦ بَلْدَةً مَّيْتًا وَنُسْقِيَهُۥ مِمَّا خَلَقْنَآ أَنْعَـٰمًا وَأَنَاسِىَّ كَثِيرًا | Linuḥiya bihi baldatan maytan wanusqiyahu mimmā khalaqnā ʾanʿāman waʾanāsiyya kathīrā |
-| 50 | | وَلَقَدْ صَرَّفْنَـٰهُ بَيْنَهُمْ لِيَذَّكَّرُوا۟ فَأَبَىٰٓ أَكْثَرُ ٱلنَّاسِ إِلَّا كُفُورًا | Walaqad ṣarrafnāhu baynahum liyadhdhakkarū faʾabā ʾaktharu n-nāsi ʾillā kufūrā |
+| Arabic | Romanization | Pickthall |
+|---|---|---|
+| 41 وَإِذَا رَأَوْكَ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَـٰذَا ٱلَّذِى بَعَثَ ٱللَّهُ رَسُولًا | Waʾidhā raʾawka ʾin yattakhidhūnaka ʾillā huzuwan ʾahādhā ladhi baʿatha llāhu rasūlā | And when they see thee (O Muhammad) they treat thee only as a jest (saying): Is this he whom Allah sendeth as a messenger? |
+| 42 إِن كَادَ لَيُضِلُّنَا عَنْ ءَالِهَتِنَا لَوْلَآ أَن صَبَرْنَا عَلَيْهَا ۚ وَسَوْفَ يَعْلَمُونَ حِينَ يَرَوْنَ ٱلْعَذَابَ مَنْ أَضَلُّ سَبِيلًا | ʾin kāda layuḍillunā ʿan ʾālihatinā lawlā ʾan ṣabarnā ʿalayhā wasawfa yaʿlamūna ḥīna yarawna l-ʿadhāba man ʾaḍallu sabīlā | He would have led us far away from our gods if we had not been staunch to them. They will know, when they behold the doom, who is more astray as to the road. |
+| 43 أَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَـٰهَهُۥ هَوَىٰهُ أَفَأَنتَ تَكُونُ عَلَيْهِ وَكِيلًا | ʾaraʾayta mani takhadha ʾilāhahu hawāhu ʾafaʾanta takūnu ʿalayhi wakīlā | Hast thou seen him who chooseth for his god his own lust? Wouldst thou then be guardian over him? |
+| 44 أَمْ تَحْسَبُ أَنَّ أَكْثَرَهُمْ يَسْمَعُونَ أَوْ يَعْقِلُونَ ۚ إِنْ هُمْ إِلَّا كَٱلْأَنْعَـٰمِ ۖ بَلْ هُمْ أَضَلُّ سَبِيلًا | ʾam taḥsabu ʾanna ʾaktharahum yasmaʿūna ʾaw yaʿqilūna ʾin hum ʾillā kalʾanʿāmi bal hum ʾaḍallu sabīlā | Or deemest thou that most of them hear or understand? They are but as the cattle - nay, but they are farther astray? |
+| 45 أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ ٱلظِّلَّ وَلَوْ شَآءَ لَجَعَلَهُۥ سَاكِنًا ثُمَّ جَعَلْنَا ٱلشَّمْسَ عَلَيْهِ دَلِيلًا | ʾalam tara ʾilā rabbika kayfa madda ẓ-ẓilla walaw shāʾa lajaʿalahu sākinan thumma jaʿalnā sh-shamsa ʿalayhi dalīlā | Hast thou not seen how thy Lord hath spread the shade - And if He willed He could have made it still - then We have made the sun its pilot; |
+| 46 ثُمَّ قَبَضْنَـٰهُ إِلَيْنَا قَبْضًا يَسِيرًا | Thumma qabaḍnāhu ʾilaynā qabḍan yasīrā | Then We withdraw it unto Us, a gradual withdrawal? |
+| 47 وَهُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِبَاسًا وَٱلنَّوْمَ سُبَاتًا وَجَعَلَ ٱلنَّهَارَ نُشُورًا | Wahuwa ladhi jaʿala lakumu layla libāsan walnnawma subātan wajaʿala n-nahāra nushūrā | And He it is Who maketh night a covering for you, and sleep repose, and maketh day a resurrection. |
+| 48 وَهُوَ ٱلَّذِىٓ أَرْسَلَ ٱلرِّيَـٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ ۚ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً طَهُورًا | Wahuwa ladhi ʾarsala r-riyāḥa bushran bayna yadā raḥmatihi waʾanzalnā mina s-samāʾi māʾan ṭahūrā | And He it is Who sendeth the winds, glad tidings heralding His mercy, and We send down purifying water from the sky, |
+| 49 لِّنُحْـِۧىَ بِهِۦ بَلْدَةً مَّيْتًا وَنُسْقِيَهُۥ مِمَّا خَلَقْنَآ أَنْعَـٰمًا وَأَنَاسِىَّ كَثِيرًا | Linuḥiya bihi baldatan maytan wanusqiyahu mimmā khalaqnā ʾanʿāman waʾanāsiyya kathīrā | That We may give life thereby to a dead land, and We give many beasts and men that We have created to drink thereof. |
+| 50 وَلَقَدْ صَرَّفْنَـٰهُ بَيْنَهُمْ لِيَذَّكَّرُوا۟ فَأَبَىٰٓ أَكْثَرُ ٱلنَّاسِ إِلَّا كُفُورًا | Walaqad ṣarrafnāhu baynahum liyadhdhakkarū faʾabā ʾaktharu n-nāsi ʾillā kufūrā | And verily We have repeated it among them that they may remember, but most of mankind begrudge aught save ingratitude. |
 
 ## Verses 51–60
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | Arabic | Romanization |
-|---|---|---|---|
-| 51 | | وَلَوْ شِئْنَا لَبَعَثْنَا فِى كُلِّ قَرْيَةٍ نَّذِيرًا | Walaw shiʾnā labaʿathnā fi kulli qaryatin nadhīrā |
-| 52 | | فَلَا تُطِعِ ٱلْكَـٰفِرِينَ وَجَـٰهِدْهُم بِهِۦ جِهَادًا كَبِيرًا | Falā tuṭiʿi l-kāfirīna wajāhidhum bihi jihādan kabīrā |
-| 53 | | ۞ وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَـٰذَا عَذْبٌ فُرَاتٌ وَهَـٰذَا مِلْحٌ أُجَاجٌ وَجَعَلَ بَيْنَهُمَا بَرْزَخًا وَحِجْرًا مَّحْجُورًا | Wahuwa ladhi maraja l-baḥrayni hādhā ʿadhbun furātun wahādhā milḥun ʾujājun wajaʿala baynahumā barzakhan waḥijran maḥjūrā |
-| 54 | | وَهُوَ ٱلَّذِى خَلَقَ مِنَ ٱلْمَآءِ بَشَرًا فَجَعَلَهُۥ نَسَبًا وَصِهْرًا ۗ وَكَانَ رَبُّكَ قَدِيرًا | Wahuwa ladhi khalaqa mina l-māʾi basharan fajaʿalahu nasaban waṣihran wakāna rabbuka qadīrā |
-| 55 | | وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُهُمْ وَلَا يَضُرُّهُمْ ۗ وَكَانَ ٱلْكَافِرُ عَلَىٰ رَبِّهِۦ ظَهِيرًا | Wayaʿbudūna min dūni llāhi mā lā yanfaʿuhum walā yaḍurruhum wakāna l-kāfiru ʿalā rabbihi ẓahīrā |
-| 56 | | وَمَآ أَرْسَلْنَـٰكَ إِلَّا مُبَشِّرًا وَنَذِيرًا | Wamā ʾarsalnāka ʾillā mubashshiran wanadhīrā |
-| 57 | | قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِلَّا مَن شَآءَ أَن يَتَّخِذَ إِلَىٰ رَبِّهِۦ سَبِيلًا | Qul mā ʾasalukum ʿalayhi min ʾajrin ʾillā man shāʾa ʾan yattakhidha ʾilā rabbihi sabīlā |
-| 58 | | وَتَوَكَّلْ عَلَى ٱلْحَىِّ ٱلَّذِى لَا يَمُوتُ وَسَبِّحْ بِحَمْدِهِۦ ۚ وَكَفَىٰ بِهِۦ بِذُنُوبِ عِبَادِهِۦ خَبِيرًا | Watawakkal ʿalā l-ḥayyi ladhi lā yamūtu wasabbiḥ biḥamdihi wakafā bihi bidhunūbi ʿibādihi khabīrā |
-| 59 | | ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ ٱلرَّحْمَـٰنُ فَسْـَٔلْ بِهِۦ خَبِيرًا | Alladhi khalaqa s-samāwāti walʾarḍa wamā baynahumā fi sittati ʾayyāmin thumma stawā ʿalā l-ʿarshi r-raḥmānu fasal bihi khabīrā |
-| 60 | | وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَـٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَـٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًا ۩ | Waʾidhā qīla lahumu sjudū lilrraḥmāni qālū wamā r-raḥmānu ʾanasjudu limā taʾmurunā wazādahum nufūrā |
+| Arabic | Romanization | Pickthall |
+|---|---|---|
+| 51 وَلَوْ شِئْنَا لَبَعَثْنَا فِى كُلِّ قَرْيَةٍ نَّذِيرًا | Walaw shiʾnā labaʿathnā fi kulli qaryatin nadhīrā | If We willed, We could raise up a warner in every village. |
+| 52 فَلَا تُطِعِ ٱلْكَـٰفِرِينَ وَجَـٰهِدْهُم بِهِۦ جِهَادًا كَبِيرًا | Falā tuṭiʿi l-kāfirīna wajāhidhum bihi jihādan kabīrā | So obey not the disbelievers, but strive against them herewith with a great endeavour. |
+| 53 ۞ وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَـٰذَا عَذْبٌ فُرَاتٌ وَهَـٰذَا مِلْحٌ أُجَاجٌ وَجَعَلَ بَيْنَهُمَا بَرْزَخًا وَحِجْرًا مَّحْجُورًا | Wahuwa ladhi maraja l-baḥrayni hādhā ʿadhbun furātun wahādhā milḥun ʾujājun wajaʿala baynahumā barzakhan waḥijran maḥjūrā | And He it is Who hath given independence to the two seas (though they meet); one palatable, sweet, and the other saltish, bitter; and hath set a bar and a forbidding ban between them. |
+| 54 وَهُوَ ٱلَّذِى خَلَقَ مِنَ ٱلْمَآءِ بَشَرًا فَجَعَلَهُۥ نَسَبًا وَصِهْرًا ۗ وَكَانَ رَبُّكَ قَدِيرًا | Wahuwa ladhi khalaqa mina l-māʾi basharan fajaʿalahu nasaban waṣihran wakāna rabbuka qadīrā | And He it is Who hath created man from water, and hath appointed for him kindred by blood and kindred by marriage; for thy Lord is ever Powerful. |
+| 55 وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُهُمْ وَلَا يَضُرُّهُمْ ۗ وَكَانَ ٱلْكَافِرُ عَلَىٰ رَبِّهِۦ ظَهِيرًا | Wayaʿbudūna min dūni llāhi mā lā yanfaʿuhum walā yaḍurruhum wakāna l-kāfiru ʿalā rabbihi ẓahīrā | Yet they worship instead of Allah that which can neither benefit them nor hurt them. The disbeliever was ever a partisan against his Lord. |
+| 56 وَمَآ أَرْسَلْنَـٰكَ إِلَّا مُبَشِّرًا وَنَذِيرًا | Wamā ʾarsalnāka ʾillā mubashshiran wanadhīrā | And We have sent thee (O Muhammad) only as a bearer of good tidings and a warner. |
+| 57 قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِلَّا مَن شَآءَ أَن يَتَّخِذَ إِلَىٰ رَبِّهِۦ سَبِيلًا | Qul mā ʾasalukum ʿalayhi min ʾajrin ʾillā man shāʾa ʾan yattakhidha ʾilā rabbihi sabīlā | Say: I ask of you no reward for this, save that whoso will may choose a way unto his Lord. |
+| 58 وَتَوَكَّلْ عَلَى ٱلْحَىِّ ٱلَّذِى لَا يَمُوتُ وَسَبِّحْ بِحَمْدِهِۦ ۚ وَكَفَىٰ بِهِۦ بِذُنُوبِ عِبَادِهِۦ خَبِيرًا | Watawakkal ʿalā l-ḥayyi ladhi lā yamūtu wasabbiḥ biḥamdihi wakafā bihi bidhunūbi ʿibādihi khabīrā | And trust thou in the Living One Who dieth not, and hymn His praise. He sufficeth as the Knower of His bondmen's sins, |
+| 59 ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ۚ ٱلرَّحْمَـٰنُ فَسْـَٔلْ بِهِۦ خَبِيرًا | Alladhi khalaqa s-samāwāti walʾarḍa wamā baynahumā fi sittati ʾayyāmin thumma stawā ʿalā l-ʿarshi r-raḥmānu fasal bihi khabīrā | Who created the heavens and the earth and all that is between them in six Days, then He mounted the Throne. The Beneficent! Ask anyone informed concerning Him! |
+| 60 وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَـٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَـٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًا ۩ | Waʾidhā qīla lahumu sjudū lilrraḥmāni qālū wamā r-raḥmānu ʾanasjudu limā taʾmurunā wazādahum nufūrā | And when it is said unto them: Prostrate to the Beneficent! they say: And what is the Beneficent? Are we to prostrate to whatever thou (Muhammad) biddest us? And it increaseth aversion in them. |
 
 ## Verses 61–70
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | Arabic | Romanization |
-|---|---|---|---|
-| 61 | | تَبَارَكَ ٱلَّذِى جَعَلَ فِى ٱلسَّمَآءِ بُرُوجًا وَجَعَلَ فِيهَا سِرَٰجًا وَقَمَرًا مُّنِيرًا | Tabāraka ladhi jaʿala fi s-samāʾi burūjan wajaʿala fīhā sirājan waqamaran munīrā |
-| 62 | | وَهُوَ ٱلَّذِى جَعَلَ ٱلَّيْلَ وَٱلنَّهَارَ خِلْفَةً لِّمَنْ أَرَادَ أَن يَذَّكَّرَ أَوْ أَرَادَ شُكُورًا | Wahuwa ladhi jaʿala layla walnnahāra khilfatan liman ʾarāda ʾan yadhdhakkara ʾaw ʾarāda shukūrā |
-| 63 | | وَعِبَادُ ٱلرَّحْمَـٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ ٱلْجَـٰهِلُونَ قَالُوا۟ سَلَـٰمًا | Waʿibādu r-raḥmāni ladhīna yamshūna ʿalā l-ʾarḍi hawnan waʾidhā khāṭabahumu l-jāhilūna qālū salāmā |
-| 64 | | وَٱلَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًا وَقِيَـٰمًا | Walladhīna yabītūna lirabbihim sujjadan waqiyāmā |
-| 65 | | وَٱلَّذِينَ يَقُولُونَ رَبَّنَا ٱصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ ۖ إِنَّ عَذَابَهَا كَانَ غَرَامًا | Walladhīna yaqūlūna rabbanā ṣrif ʿannā ʿadhāba jahannama ʾinna ʿadhābahā kāna gharāmā |
-| 66 | | إِنَّهَا سَآءَتْ مُسْتَقَرًّا وَمُقَامًا | ʾinnahā sāʾat mustaqarran wamuqāmā |
-| 67 | | وَٱلَّذِينَ إِذَآ أَنفَقُوا۟ لَمْ يُسْرِفُوا۟ وَلَمْ يَقْتُرُوا۟ وَكَانَ بَيْنَ ذَٰلِكَ قَوَامًا | Walladhīna ʾidhā ʾanfaqū lam yusrifū walam yaqturū wakāna bayna dhālika qawāmā |
-| 68 | | وَٱلَّذِينَ لَا يَدْعُونَ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ وَلَا يَقْتُلُونَ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ وَلَا يَزْنُونَ ۚ وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا | Walladhīna lā yadʿūna maʿa llāhi ʾilāhan ʾākhara walā yaqtulūna n-nafsa lati ḥarrama llāhu ʾillā bilḥaqqi walā yaznūna waman yafʿal dhālika yalqa ʾathāmā |
-| 69 | | يُضَـٰعَفْ لَهُ ٱلْعَذَابُ يَوْمَ ٱلْقِيَـٰمَةِ وَيَخْلُدْ فِيهِۦ مُهَانًا | Yuḍāʿaf lahu l-ʿadhābu yawma l-qiyāmati wayakhlud fīhi muhānā |
-| 70 | | إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلًا صَـٰلِحًا فَأُو۟لَـٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمْ حَسَنَـٰتٍ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا | ʾillā man tāba waʾāmana waʿamila ʿamalan ṣāliḥan faʾūlāʾika yubaddilu llāhu sayyitihim ḥasanātin wakāna llāhu ghafūran raḥīmā |
+| Arabic | Romanization | Pickthall |
+|---|---|---|
+| 61 تَبَارَكَ ٱلَّذِى جَعَلَ فِى ٱلسَّمَآءِ بُرُوجًا وَجَعَلَ فِيهَا سِرَٰجًا وَقَمَرًا مُّنِيرًا | Tabāraka ladhi jaʿala fi s-samāʾi burūjan wajaʿala fīhā sirājan waqamaran munīrā | Blessed be He Who hath placed in the heaven mansions of the stars, and hath placed therein a great lamp and a moon giving light! |
+| 62 وَهُوَ ٱلَّذِى جَعَلَ ٱلَّيْلَ وَٱلنَّهَارَ خِلْفَةً لِّمَنْ أَرَادَ أَن يَذَّكَّرَ أَوْ أَرَادَ شُكُورًا | Wahuwa ladhi jaʿala layla walnnahāra khilfatan liman ʾarāda ʾan yadhdhakkara ʾaw ʾarāda shukūrā | And He it is Who hath appointed night and day in succession, for him who desireth to remember, or desireth thankfulness. |
+| 63 وَعِبَادُ ٱلرَّحْمَـٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ ٱلْجَـٰهِلُونَ قَالُوا۟ سَلَـٰمًا | Waʿibādu r-raḥmāni ladhīna yamshūna ʿalā l-ʾarḍi hawnan waʾidhā khāṭabahumu l-jāhilūna qālū salāmā | The (faithful) slaves of the Beneficent are they who walk upon the earth modestly, and when the foolish ones address them answer: Peace; |
+| 64 وَٱلَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًا وَقِيَـٰمًا | Walladhīna yabītūna lirabbihim sujjadan waqiyāmā | And who spend the night before their Lord, prostrate and standing, |
+| 65 وَٱلَّذِينَ يَقُولُونَ رَبَّنَا ٱصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ ۖ إِنَّ عَذَابَهَا كَانَ غَرَامًا | Walladhīna yaqūlūna rabbanā ṣrif ʿannā ʿadhāba jahannama ʾinna ʿadhābahā kāna gharāmā | And who say: Our Lord! Avert from us the doom of hell; lo! the doom thereof is anguish; |
+| 66 إِنَّهَا سَآءَتْ مُسْتَقَرًّا وَمُقَامًا | ʾinnahā sāʾat mustaqarran wamuqāmā | Lo! it is wretched as abode and station; |
+| 67 وَٱلَّذِينَ إِذَآ أَنفَقُوا۟ لَمْ يُسْرِفُوا۟ وَلَمْ يَقْتُرُوا۟ وَكَانَ بَيْنَ ذَٰلِكَ قَوَامًا | Walladhīna ʾidhā ʾanfaqū lam yusrifū walam yaqturū wakāna bayna dhālika qawāmā | And those who, when they spend, are neither prodigal nor grudging; and there is ever a firm station between the two; |
+| 68 وَٱلَّذِينَ لَا يَدْعُونَ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ وَلَا يَقْتُلُونَ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ وَلَا يَزْنُونَ ۚ وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا | Walladhīna lā yadʿūna maʿa llāhi ʾilāhan ʾākhara walā yaqtulūna n-nafsa lati ḥarrama llāhu ʾillā bilḥaqqi walā yaznūna waman yafʿal dhālika yalqa ʾathāmā | And those who cry not unto any other god along with Allah, nor take the life which Allah hath forbidden save in (course of) justice, nor commit adultery - and whoso doeth this shall pay the penalty; |
+| 69 يُضَـٰعَفْ لَهُ ٱلْعَذَابُ يَوْمَ ٱلْقِيَـٰمَةِ وَيَخْلُدْ فِيهِۦ مُهَانًا | Yuḍāʿaf lahu l-ʿadhābu yawma l-qiyāmati wayakhlud fīhi muhānā | The doom will be doubled for him on the Day of Resurrection, and he will abide therein disdained for ever; |
+| 70 إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلًا صَـٰلِحًا فَأُو۟لَـٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمْ حَسَنَـٰتٍ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا | ʾillā man tāba waʾāmana waʿamila ʿamalan ṣāliḥan faʾūlāʾika yubaddilu llāhu sayyitihim ḥasanātin wakāna llāhu ghafūran raḥīmā | Save him who repenteth and believeth and doth righteous work; as for such, Allah will change their evil deeds to good deeds. Allah is ever Forgiving, Merciful. |
 
 ## Verses 71–77
 
 <!-- reader: table=verses -->
-| Hanzi | Pinyin | Arabic | Romanization |
-|---|---|---|---|
-| 71 | | وَمَن تَابَ وَعَمِلَ صَـٰلِحًا فَإِنَّهُۥ يَتُوبُ إِلَى ٱللَّهِ مَتَابًا | Waman tāba waʿamila ṣāliḥan faʾinnahu yatūbu ʾilā llāhi matābā |
-| 72 | | وَٱلَّذِينَ لَا يَشْهَدُونَ ٱلزُّورَ وَإِذَا مَرُّوا۟ بِٱللَّغْوِ مَرُّوا۟ كِرَامًا | Walladhīna lā yashhadūna z-zūra waʾidhā marrū billlaghwi marrū kirāmā |
-| 73 | | وَٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِـَٔايَـٰتِ رَبِّهِمْ لَمْ يَخِرُّوا۟ عَلَيْهَا صُمًّا وَعُمْيَانًا | Walladhīna ʾidhā dhukkirū biyāti rabbihim lam yakhirrū ʿalayhā ṣumman waʿumyānā |
-| 74 | | وَٱلَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَٰجِنَا وَذُرِّيَّـٰتِنَا قُرَّةَ أَعْيُنٍ وَٱجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا | Walladhīna yaqūlūna rabbanā hab lanā min ʾazwājinā wadhurriyyātinā qurrata ʾaʿyunin wajʿalnā lilmuttaqīna ʾimāmā |
-| 75 | | أُو۟لَـٰٓئِكَ يُجْزَوْنَ ٱلْغُرْفَةَ بِمَا صَبَرُوا۟ وَيُلَقَّوْنَ فِيهَا تَحِيَّةً وَسَلَـٰمًا | ʾūlāʾika yujzawna l-ghurfata bimā ṣabarū wayulaqqawna fīhā taḥiyyatan wasalāmā |
-| 76 | | خَـٰلِدِينَ فِيهَا ۚ حَسُنَتْ مُسْتَقَرًّا وَمُقَامًا | Khālidīna fīhā ḥasunat mustaqarran wamuqāmā |
-| 77 | | قُلْ مَا يَعْبَؤُا۟ بِكُمْ رَبِّى لَوْلَا دُعَآؤُكُمْ ۖ فَقَدْ كَذَّبْتُمْ فَسَوْفَ يَكُونُ لِزَامًۢا | Qul mā yaʿbaʾu bikum rabbi lawlā duʿāʾukum faqad kadhdhabtum fasawfa yakūnu lizāmā |
+| Arabic | Romanization | Pickthall |
+|---|---|---|
+| 71 وَمَن تَابَ وَعَمِلَ صَـٰلِحًا فَإِنَّهُۥ يَتُوبُ إِلَى ٱللَّهِ مَتَابًا | Waman tāba waʿamila ṣāliḥan faʾinnahu yatūbu ʾilā llāhi matābā | And whosoever repenteth and doeth good, he verily repenteth toward Allah with true repentance - |
+| 72 وَٱلَّذِينَ لَا يَشْهَدُونَ ٱلزُّورَ وَإِذَا مَرُّوا۟ بِٱللَّغْوِ مَرُّوا۟ كِرَامًا | Walladhīna lā yashhadūna z-zūra waʾidhā marrū billlaghwi marrū kirāmā | And those who will not witness vanity, but when they pass near senseless play, pass by with dignity. |
+| 73 وَٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِـَٔايَـٰتِ رَبِّهِمْ لَمْ يَخِرُّوا۟ عَلَيْهَا صُمًّا وَعُمْيَانًا | Walladhīna ʾidhā dhukkirū biyāti rabbihim lam yakhirrū ʿalayhā ṣumman waʿumyānā | And those who, when they are reminded of the revelations of their Lord, fall not deaf and blind thereat. |
+| 74 وَٱلَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَٰجِنَا وَذُرِّيَّـٰتِنَا قُرَّةَ أَعْيُنٍ وَٱجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا | Walladhīna yaqūlūna rabbanā hab lanā min ʾazwājinā wadhurriyyātinā qurrata ʾaʿyunin wajʿalnā lilmuttaqīna ʾimāmā | And who say: Our Lord! Vouchsafe us comfort of our wives and of our offspring, and make us patterns for (all) those who ward off (evil). |
+| 75 أُو۟لَـٰٓئِكَ يُجْزَوْنَ ٱلْغُرْفَةَ بِمَا صَبَرُوا۟ وَيُلَقَّوْنَ فِيهَا تَحِيَّةً وَسَلَـٰمًا | ʾūlāʾika yujzawna l-ghurfata bimā ṣabarū wayulaqqawna fīhā taḥiyyatan wasalāmā | They will be awarded the high place forasmuch as they were steadfast, and they will meet therein with welcome and the ward of peace, |
+| 76 خَـٰلِدِينَ فِيهَا ۚ حَسُنَتْ مُسْتَقَرًّا وَمُقَامًا | Khālidīna fīhā ḥasunat mustaqarran wamuqāmā | Abiding there for ever. Happy is it as abode and station! |
+| 77 قُلْ مَا يَعْبَؤُا۟ بِكُمْ رَبِّى لَوْلَا دُعَآؤُكُمْ ۖ فَقَدْ كَذَّبْتُمْ فَسَوْفَ يَكُونُ لِزَامًۢا | Qul mā yaʿbaʾu bikum rabbi lawlā duʿāʾukum faqad kadhdhabtum fasawfa yakūnu lizāmā | Say (O Muhammad, unto the disbelievers): My Lord would not concern Himself with you but for your prayer. But now ye have denied (the Truth), therefor there will be judgment. |
