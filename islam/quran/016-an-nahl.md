@@ -1,0 +1,211 @@
+<!-- reader: lang=ar -->
+
+# 16. An-Nahl
+
+> Arabic (Uthmani script) · Romanization (generated, approximate)
+
+## Verses 1–10
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 1 | | أَتَىٰٓ أَمْرُ ٱللَّهِ فَلَا تَسْتَعْجِلُوهُ ۚ سُبْحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ | ʾatā ʾamru llāhi falā tastaʿjilūhu subḥānahu wataʿālā ʿammā yushrikūn |
+| 2 | | يُنَزِّلُ ٱلْمَلَـٰٓئِكَةَ بِٱلرُّوحِ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ أَنْ أَنذِرُوٓا۟ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّآ أَنَا۠ فَٱتَّقُونِ | Yunazzilu l-malāʾikata bilrrūḥi min ʾamrihi ʿalā man yashāʾu min ʿibādihi ʾan ʾandhirū ʾannahu lā ʾilāha ʾillā ʾanā fattaqūn |
+| 3 | | خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۚ تَعَـٰلَىٰ عَمَّا يُشْرِكُونَ | Khalaqa s-samāwāti walʾarḍa bilḥaqqi taʿālā ʿammā yushrikūn |
+| 4 | | خَلَقَ ٱلْإِنسَـٰنَ مِن نُّطْفَةٍ فَإِذَا هُوَ خَصِيمٌ مُّبِينٌ | Khalaqa l-ʾinsāna min nuṭfatin faʾidhā huwa khaṣīmun mubīn |
+| 5 | | وَٱلْأَنْعَـٰمَ خَلَقَهَا ۗ لَكُمْ فِيهَا دِفْءٌ وَمَنَـٰفِعُ وَمِنْهَا تَأْكُلُونَ | Walʾanʿāma khalaqahā lakum fīhā difʾun wamanāfiʿu waminhā taʾkulūn |
+| 6 | | وَلَكُمْ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ | Walakum fīhā jamālun ḥīna turīḥūna waḥīna tasraḥūn |
+| 7 | | وَتَحْمِلُ أَثْقَالَكُمْ إِلَىٰ بَلَدٍ لَّمْ تَكُونُوا۟ بَـٰلِغِيهِ إِلَّا بِشِقِّ ٱلْأَنفُسِ ۚ إِنَّ رَبَّكُمْ لَرَءُوفٌ رَّحِيمٌ | Wataḥmilu ʾathqālakum ʾilā baladin lam takūnū bālighīhi ʾillā bishiqqi l-ʾanfusi ʾinna rabbakum laraʾūfun raḥīm |
+| 8 | | وَٱلْخَيْلَ وَٱلْبِغَالَ وَٱلْحَمِيرَ لِتَرْكَبُوهَا وَزِينَةً ۚ وَيَخْلُقُ مَا لَا تَعْلَمُونَ | Walkhayla walbighāla walḥamīra litarkabūhā wazīnatan wayakhluqu mā lā taʿlamūn |
+| 9 | | وَعَلَى ٱللَّهِ قَصْدُ ٱلسَّبِيلِ وَمِنْهَا جَآئِرٌ ۚ وَلَوْ شَآءَ لَهَدَىٰكُمْ أَجْمَعِينَ | Waʿalā llāhi qaṣdu s-sabīli waminhā jāʾirun walaw shāʾa lahadākum ʾajmaʿīn |
+| 10 | | هُوَ ٱلَّذِىٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً ۖ لَّكُم مِّنْهُ شَرَابٌ وَمِنْهُ شَجَرٌ فِيهِ تُسِيمُونَ | Huwa ladhi ʾanzala mina s-samāʾi māʾan lakum minhu sharābun waminhu shajarun fīhi tusīmūn |
+
+## Verses 11–20
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 11 | | يُنۢبِتُ لَكُم بِهِ ٱلزَّرْعَ وَٱلزَّيْتُونَ وَٱلنَّخِيلَ وَٱلْأَعْنَـٰبَ وَمِن كُلِّ ٱلثَّمَرَٰتِ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَتَفَكَّرُونَ | Yunbitu lakum bihi z-zarʿa walzzaytūna walnnakhīla walʾaʿnāba wamin kulli th-thamarāti ʾinna fi dhālika lāyatan liqawmin yatafakkarūn |
+| 12 | | وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ وَٱلنُّجُومُ مُسَخَّرَٰتٌۢ بِأَمْرِهِۦٓ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَعْقِلُونَ | Wasakhkhara lakumu layla walnnahāra walshshamsa walqamara walnnujūmu musakhkharātun biʾamrihi ʾinna fi dhālika lāyātin liqawmin yaʿqilūn |
+| 13 | | وَمَا ذَرَأَ لَكُمْ فِى ٱلْأَرْضِ مُخْتَلِفًا أَلْوَٰنُهُۥٓ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَذَّكَّرُونَ | Wamā dharaʾa lakum fi l-ʾarḍi mukhtalifan ʾalwānuhu ʾinna fi dhālika lāyatan liqawmin yadhdhakkarūn |
+| 14 | | وَهُوَ ٱلَّذِى سَخَّرَ ٱلْبَحْرَ لِتَأْكُلُوا۟ مِنْهُ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُوا۟ مِنْهُ حِلْيَةً تَلْبَسُونَهَا وَتَرَى ٱلْفُلْكَ مَوَاخِرَ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ | Wahuwa ladhi sakhkhara l-baḥra litaʾkulū minhu laḥman ṭariyyan watastakhrijū minhu ḥilyatan talbasūnahā watarā l-fulka mawākhira fīhi walitabtaghū min faḍlihi walaʿallakum tashkurūn |
+| 15 | | وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَأَنْهَـٰرًا وَسُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ | Waʾalqā fi l-ʾarḍi rawāsiya ʾan tamīda bikum waʾanhāran wasubulan laʿallakum tahtadūn |
+| 16 | | وَعَلَـٰمَـٰتٍ ۚ وَبِٱلنَّجْمِ هُمْ يَهْتَدُونَ | Waʿalāmātin wabilnnajmi hum yahtadūn |
+| 17 | | أَفَمَن يَخْلُقُ كَمَن لَّا يَخْلُقُ ۗ أَفَلَا تَذَكَّرُونَ | ʾafaman yakhluqu kaman lā yakhluqu ʾafalā tadhakkarūn |
+| 18 | | وَإِن تَعُدُّوا۟ نِعْمَةَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱللَّهَ لَغَفُورٌ رَّحِيمٌ | Waʾin taʿuddū niʿmata llāhi lā tuḥṣūhā ʾinna llāha laghafūrun raḥīm |
+| 19 | | وَٱللَّهُ يَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ | Walllahu yaʿlamu mā tusirrūna wamā tuʿlinūn |
+| 20 | | وَٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ لَا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ | Walladhīna yadʿūna min dūni llāhi lā yakhluqūna shayan wahum yukhlaqūn |
+
+## Verses 21–30
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 21 | | أَمْوَٰتٌ غَيْرُ أَحْيَآءٍ ۖ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ | ʾamwātun ghayru ʾaḥyāʾin wamā yashʿurūna ʾayyāna yubʿathūn |
+| 22 | | إِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ ۚ فَٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ قُلُوبُهُم مُّنكِرَةٌ وَهُم مُّسْتَكْبِرُونَ | ʾilāhukum ʾilāhun wāḥidun falladhīna lā yuʾminūna bilākhirati qulūbuhum munkiratun wahum mustakbirūn |
+| 23 | | لَا جَرَمَ أَنَّ ٱللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْتَكْبِرِينَ | Lā jarama ʾanna llāha yaʿlamu mā yusirrūna wamā yuʿlinūna ʾinnahu lā yuḥibbu l-mustakbirīn |
+| 24 | | وَإِذَا قِيلَ لَهُم مَّاذَآ أَنزَلَ رَبُّكُمْ ۙ قَالُوٓا۟ أَسَـٰطِيرُ ٱلْأَوَّلِينَ | Waʾidhā qīla lahum mādhā ʾanzala rabbukum qālū ʾasāṭīru l-ʾawwalīn |
+| 25 | | لِيَحْمِلُوٓا۟ أَوْزَارَهُمْ كَامِلَةً يَوْمَ ٱلْقِيَـٰمَةِ ۙ وَمِنْ أَوْزَارِ ٱلَّذِينَ يُضِلُّونَهُم بِغَيْرِ عِلْمٍ ۗ أَلَا سَآءَ مَا يَزِرُونَ | Liyaḥmilū ʾawzārahum kāmilatan yawma l-qiyāmati wamin ʾawzāri ladhīna yuḍillūnahum bighayri ʿilmin ʾalā sāʾa mā yazirūn |
+| 26 | | قَدْ مَكَرَ ٱلَّذِينَ مِن قَبْلِهِمْ فَأَتَى ٱللَّهُ بُنْيَـٰنَهُم مِّنَ ٱلْقَوَاعِدِ فَخَرَّ عَلَيْهِمُ ٱلسَّقْفُ مِن فَوْقِهِمْ وَأَتَىٰهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ | Qad makara ladhīna min qablihim faʾatā llāhu bunyānahum mina l-qawāʿidi fakharra ʿalayhimu s-saqfu min fawqihim waʾatāhumu l-ʿadhābu min ḥaythu lā yashʿurūn |
+| 27 | | ثُمَّ يَوْمَ ٱلْقِيَـٰمَةِ يُخْزِيهِمْ وَيَقُولُ أَيْنَ شُرَكَآءِىَ ٱلَّذِينَ كُنتُمْ تُشَـٰٓقُّونَ فِيهِمْ ۚ قَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ إِنَّ ٱلْخِزْىَ ٱلْيَوْمَ وَٱلسُّوٓءَ عَلَى ٱلْكَـٰفِرِينَ | Thumma yawma l-qiyāmati yukhzīhim wayaqūlu ʾayna shurakāʾiya ladhīna kuntum tushāqqūna fīhim qāla ladhīna ʾūtū l-ʿilma ʾinna l-khizya l-yawma walssūʾa ʿalā l-kāfirīn |
+| 28 | | ٱلَّذِينَ تَتَوَفَّىٰهُمُ ٱلْمَلَـٰٓئِكَةُ ظَالِمِىٓ أَنفُسِهِمْ ۖ فَأَلْقَوُا۟ ٱلسَّلَمَ مَا كُنَّا نَعْمَلُ مِن سُوٓءٍۭ ۚ بَلَىٰٓ إِنَّ ٱللَّهَ عَلِيمٌۢ بِمَا كُنتُمْ تَعْمَلُونَ | Alladhīna tatawaffāhumu l-malāʾikatu ẓālimi ʾanfusihim faʾalqawu s-salama mā kunnā naʿmalu min sūʾin balā ʾinna llāha ʿalīmun bimā kuntum taʿmalūn |
+| 29 | | فَٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَـٰلِدِينَ فِيهَا ۖ فَلَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ | Fadkhulū ʾabwāba jahannama khālidīna fīhā falabiʾsa mathwā l-mutakabbirīn |
+| 30 | | ۞ وَقِيلَ لِلَّذِينَ ٱتَّقَوْا۟ مَاذَآ أَنزَلَ رَبُّكُمْ ۚ قَالُوا۟ خَيْرًا ۗ لِّلَّذِينَ أَحْسَنُوا۟ فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةٌ ۚ وَلَدَارُ ٱلْـَٔاخِرَةِ خَيْرٌ ۚ وَلَنِعْمَ دَارُ ٱلْمُتَّقِينَ | Waqīla lilladhīna taqaw mādhā ʾanzala rabbukum qālū khayran lilladhīna ʾaḥsanū fi hādhihi d-dunyā ḥasanatun waladāru lākhirati khayrun walaniʿma dāru l-muttaqīn |
+
+## Verses 31–40
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 31 | | جَنَّـٰتُ عَدْنٍ يَدْخُلُونَهَا تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ لَهُمْ فِيهَا مَا يَشَآءُونَ ۚ كَذَٰلِكَ يَجْزِى ٱللَّهُ ٱلْمُتَّقِينَ | Jannātu ʿadnin yadkhulūnahā tajri min taḥtihā l-ʾanhāru lahum fīhā mā yashāʾūna kadhālika yajzi llāhu l-muttaqīn |
+| 32 | | ٱلَّذِينَ تَتَوَفَّىٰهُمُ ٱلْمَلَـٰٓئِكَةُ طَيِّبِينَ ۙ يَقُولُونَ سَلَـٰمٌ عَلَيْكُمُ ٱدْخُلُوا۟ ٱلْجَنَّةَ بِمَا كُنتُمْ تَعْمَلُونَ | Alladhīna tatawaffāhumu l-malāʾikatu ṭayyibīna yaqūlūna salāmun ʿalaykumu dkhulū l-jannata bimā kuntum taʿmalūn |
+| 33 | | هَلْ يَنظُرُونَ إِلَّآ أَن تَأْتِيَهُمُ ٱلْمَلَـٰٓئِكَةُ أَوْ يَأْتِىَ أَمْرُ رَبِّكَ ۚ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ | Hal yanẓurūna ʾillā ʾan taʾtiyahumu l-malāʾikatu ʾaw yaʾtiya ʾamru rabbika kadhālika faʿala ladhīna min qablihim wamā ẓalamahumu llāhu walākin kānū ʾanfusahum yaẓlimūn |
+| 34 | | فَأَصَابَهُمْ سَيِّـَٔاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ | Faʾaṣābahum sayyitu mā ʿamilū waḥāqa bihim mā kānū bihi yastahziʾūn |
+| 35 | | وَقَالَ ٱلَّذِينَ أَشْرَكُوا۟ لَوْ شَآءَ ٱللَّهُ مَا عَبَدْنَا مِن دُونِهِۦ مِن شَىْءٍ نَّحْنُ وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن دُونِهِۦ مِن شَىْءٍ ۚ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ فَهَلْ عَلَى ٱلرُّسُلِ إِلَّا ٱلْبَلَـٰغُ ٱلْمُبِينُ | Waqāla ladhīna ʾashrakū law shāʾa llāhu mā ʿabadnā min dūnihi min shāʾin naḥnu walā ʾābāʾunā walā ḥarramnā min dūnihi min shāʾin kadhālika faʿala ladhīna min qablihim fahal ʿalā r-rusuli ʾillā l-balāghu l-mubīn |
+| 36 | | وَلَقَدْ بَعَثْنَا فِى كُلِّ أُمَّةٍ رَّسُولًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱجْتَنِبُوا۟ ٱلطَّـٰغُوتَ ۖ فَمِنْهُم مَّنْ هَدَى ٱللَّهُ وَمِنْهُم مَّنْ حَقَّتْ عَلَيْهِ ٱلضَّلَـٰلَةُ ۚ فَسِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُكَذِّبِينَ | Walaqad baʿathnā fi kulli ʾummatin rasūlan ʾani ʿbudū llāha wajtanibū ṭ-ṭāghūta faminhum man hadā llāhu waminhum man ḥaqqat ʿalayhi ḍ-ḍalālatu fasīrū fi l-ʾarḍi fanẓurū kayfa kāna ʿāqibatu l-mukadhdhibīn |
+| 37 | | إِن تَحْرِصْ عَلَىٰ هُدَىٰهُمْ فَإِنَّ ٱللَّهَ لَا يَهْدِى مَن يُضِلُّ ۖ وَمَا لَهُم مِّن نَّـٰصِرِينَ | ʾin taḥriṣ ʿalā hudāhum faʾinna llāha lā yahdi man yuḍillu wamā lahum min nāṣirīn |
+| 38 | | وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَـٰنِهِمْ ۙ لَا يَبْعَثُ ٱللَّهُ مَن يَمُوتُ ۚ بَلَىٰ وَعْدًا عَلَيْهِ حَقًّا وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ | Waʾaqsamū billlahi jahda ʾaymānihim lā yabʿathu llāhu man yamūtu balā waʿdan ʿalayhi ḥaqqan walākinna ʾakthara n-nāsi lā yaʿlamūn |
+| 39 | | لِيُبَيِّنَ لَهُمُ ٱلَّذِى يَخْتَلِفُونَ فِيهِ وَلِيَعْلَمَ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ كَانُوا۟ كَـٰذِبِينَ | Liyubayyina lahumu ladhi yakhtalifūna fīhi waliyaʿlama ladhīna kafarū ʾannahum kānū kādhibīn |
+| 40 | | إِنَّمَا قَوْلُنَا لِشَىْءٍ إِذَآ أَرَدْنَـٰهُ أَن نَّقُولَ لَهُۥ كُن فَيَكُونُ | ʾinnamā qawlunā lishāʾin ʾidhā ʾaradnāhu ʾan naqūla lahu kun fayakūn |
+
+## Verses 41–50
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 41 | | وَٱلَّذِينَ هَاجَرُوا۟ فِى ٱللَّهِ مِنۢ بَعْدِ مَا ظُلِمُوا۟ لَنُبَوِّئَنَّهُمْ فِى ٱلدُّنْيَا حَسَنَةً ۖ وَلَأَجْرُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ | Walladhīna hājarū fi llāhi min baʿdi mā ẓulimū lanubawwiʾannahum fi d-dunyā ḥasanatan walaʾajru lākhirati ʾakbaru law kānū yaʿlamūn |
+| 42 | | ٱلَّذِينَ صَبَرُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ | Alladhīna ṣabarū waʿalā rabbihim yatawakkalūn |
+| 43 | | وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِىٓ إِلَيْهِمْ ۚ فَسْـَٔلُوٓا۟ أَهْلَ ٱلذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ | Wamā ʾarsalnā min qablika ʾillā rijālan nūḥi ʾilayhim fasalū ʾahla dh-dhikri ʾin kuntum lā taʿlamūn |
+| 44 | | بِٱلْبَيِّنَـٰتِ وَٱلزُّبُرِ ۗ وَأَنزَلْنَآ إِلَيْكَ ٱلذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ إِلَيْهِمْ وَلَعَلَّهُمْ يَتَفَكَّرُونَ | Bilbayyināti walzzuburi waʾanzalnā ʾilayka dh-dhikra litubayyina lilnnāsi mā nuzzila ʾilayhim walaʿallahum yatafakkarūn |
+| 45 | | أَفَأَمِنَ ٱلَّذِينَ مَكَرُوا۟ ٱلسَّيِّـَٔاتِ أَن يَخْسِفَ ٱللَّهُ بِهِمُ ٱلْأَرْضَ أَوْ يَأْتِيَهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ | ʾafaʾamina ladhīna makarū s-sayyiti ʾan yakhsifa llāhu bihimu l-ʾarḍa ʾaw yaʾtiyahumu l-ʿadhābu min ḥaythu lā yashʿurūn |
+| 46 | | أَوْ يَأْخُذَهُمْ فِى تَقَلُّبِهِمْ فَمَا هُم بِمُعْجِزِينَ | ʾaw yaʾkhudhahum fi taqallubihim famā hum bimuʿjizīn |
+| 47 | | أَوْ يَأْخُذَهُمْ عَلَىٰ تَخَوُّفٍ فَإِنَّ رَبَّكُمْ لَرَءُوفٌ رَّحِيمٌ | ʾaw yaʾkhudhahum ʿalā takhawwufin faʾinna rabbakum laraʾūfun raḥīm |
+| 48 | | أَوَلَمْ يَرَوْا۟ إِلَىٰ مَا خَلَقَ ٱللَّهُ مِن شَىْءٍ يَتَفَيَّؤُا۟ ظِلَـٰلُهُۥ عَنِ ٱلْيَمِينِ وَٱلشَّمَآئِلِ سُجَّدًا لِّلَّهِ وَهُمْ دَٰخِرُونَ | ʾawalam yaraw ʾilā mā khalaqa llāhu min shāʾin yatafayyaʾu ẓilāluhu ʿani l-yamīni walshshamāʾili sujjadan lillāhi wahum dākhirūn |
+| 49 | | وَلِلَّهِ يَسْجُدُ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مِن دَآبَّةٍ وَٱلْمَلَـٰٓئِكَةُ وَهُمْ لَا يَسْتَكْبِرُونَ | Walillahi yasjudu mā fi s-samāwāti wamā fi l-ʾarḍi min dābbatin walmalāʾikatu wahum lā yastakbirūn |
+| 50 | | يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩ | Yakhāfūna rabbahum min fawqihim wayafʿalūna mā yuʾmarūn |
+
+## Verses 51–60
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 51 | | ۞ وَقَالَ ٱللَّهُ لَا تَتَّخِذُوٓا۟ إِلَـٰهَيْنِ ٱثْنَيْنِ ۖ إِنَّمَا هُوَ إِلَـٰهٌ وَٰحِدٌ ۖ فَإِيَّـٰىَ فَٱرْهَبُونِ | Waqāla llāhu lā tattakhidhū ʾilāhayni thnayni ʾinnamā huwa ʾilāhun wāḥidun faʾiyyāya farhabūn |
+| 52 | | وَلَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَهُ ٱلدِّينُ وَاصِبًا ۚ أَفَغَيْرَ ٱللَّهِ تَتَّقُونَ | Walahu mā fi s-samāwāti walʾarḍi walahu d-dīnu wāṣiban ʾafaghayra llāhi tattaqūn |
+| 53 | | وَمَا بِكُم مِّن نِّعْمَةٍ فَمِنَ ٱللَّهِ ۖ ثُمَّ إِذَا مَسَّكُمُ ٱلضُّرُّ فَإِلَيْهِ تَجْـَٔرُونَ | Wamā bikum min niʿmatin famina llāhi thumma ʾidhā massakumu ḍ-ḍurru faʾilayhi tajarūn |
+| 54 | | ثُمَّ إِذَا كَشَفَ ٱلضُّرَّ عَنكُمْ إِذَا فَرِيقٌ مِّنكُم بِرَبِّهِمْ يُشْرِكُونَ | Thumma ʾidhā kashafa ḍ-ḍurra ʿankum ʾidhā farīqun minkum birabbihim yushrikūn |
+| 55 | | لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَـٰهُمْ ۚ فَتَمَتَّعُوا۟ ۖ فَسَوْفَ تَعْلَمُونَ | Liyakfurū bimā ʾātaynāhum fatamattaʿū fasawfa taʿlamūn |
+| 56 | | وَيَجْعَلُونَ لِمَا لَا يَعْلَمُونَ نَصِيبًا مِّمَّا رَزَقْنَـٰهُمْ ۗ تَٱللَّهِ لَتُسْـَٔلُنَّ عَمَّا كُنتُمْ تَفْتَرُونَ | Wayajʿalūna limā lā yaʿlamūna naṣīban mimmā razaqnāhum talllahi latusalunna ʿammā kuntum taftarūn |
+| 57 | | وَيَجْعَلُونَ لِلَّهِ ٱلْبَنَـٰتِ سُبْحَـٰنَهُۥ ۙ وَلَهُم مَّا يَشْتَهُونَ | Wayajʿalūna lillāhi l-banāti subḥānahu walahum mā yashtahūn |
+| 58 | | وَإِذَا بُشِّرَ أَحَدُهُم بِٱلْأُنثَىٰ ظَلَّ وَجْهُهُۥ مُسْوَدًّا وَهُوَ كَظِيمٌ | Waʾidhā bushshira ʾaḥaduhum bilʾunthā ẓalla wajhuhu muswaddan wahuwa kaẓīm |
+| 59 | | يَتَوَٰرَىٰ مِنَ ٱلْقَوْمِ مِن سُوٓءِ مَا بُشِّرَ بِهِۦٓ ۚ أَيُمْسِكُهُۥ عَلَىٰ هُونٍ أَمْ يَدُسُّهُۥ فِى ٱلتُّرَابِ ۗ أَلَا سَآءَ مَا يَحْكُمُونَ | Yatawārā mina l-qawmi min sūʾi mā bushshira bihi ʾayumsikuhu ʿalā hūnin ʾam yadussuhu fi t-turābi ʾalā sāʾa mā yaḥkumūn |
+| 60 | | لِلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ مَثَلُ ٱلسَّوْءِ ۖ وَلِلَّهِ ٱلْمَثَلُ ٱلْأَعْلَىٰ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ | Lilladhīna lā yuʾminūna bilākhirati mathalu s-sawʾi walillahi l-mathalu l-ʾaʿlā wahuwa l-ʿazīzu l-ḥakīm |
+
+## Verses 61–70
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 61 | | وَلَوْ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِظُلْمِهِم مَّا تَرَكَ عَلَيْهَا مِن دَآبَّةٍ وَلَـٰكِن يُؤَخِّرُهُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۖ فَإِذَا جَآءَ أَجَلُهُمْ لَا يَسْتَـْٔخِرُونَ سَاعَةً ۖ وَلَا يَسْتَقْدِمُونَ | Walaw yuʾākhidhu llāhu n-nāsa biẓulmihim mā taraka ʿalayhā min dābbatin walākin yuʾakhkhiruhum ʾilā ʾajalin musamman faʾidhā jāʾa ʾajaluhum lā yastakhirūna sāʿatan walā yastaqdimūn |
+| 62 | | وَيَجْعَلُونَ لِلَّهِ مَا يَكْرَهُونَ وَتَصِفُ أَلْسِنَتُهُمُ ٱلْكَذِبَ أَنَّ لَهُمُ ٱلْحُسْنَىٰ ۖ لَا جَرَمَ أَنَّ لَهُمُ ٱلنَّارَ وَأَنَّهُم مُّفْرَطُونَ | Wayajʿalūna lillāhi mā yakrahūna wataṣifu ʾalsinatuhumu l-kadhiba ʾanna lahumu l-ḥusnā lā jarama ʾanna lahumu n-nāra waʾannahum mufraṭūn |
+| 63 | | تَٱللَّهِ لَقَدْ أَرْسَلْنَآ إِلَىٰٓ أُمَمٍ مِّن قَبْلِكَ فَزَيَّنَ لَهُمُ ٱلشَّيْطَـٰنُ أَعْمَـٰلَهُمْ فَهُوَ وَلِيُّهُمُ ٱلْيَوْمَ وَلَهُمْ عَذَابٌ أَلِيمٌ | Talllahi laqad ʾarsalnā ʾilā ʾumamin min qablika fazayyana lahumu sh-shayṭānu ʾaʿmālahum fahuwa waliyyuhumu l-yawma walahum ʿadhābun ʾalīm |
+| 64 | | وَمَآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَـٰبَ إِلَّا لِتُبَيِّنَ لَهُمُ ٱلَّذِى ٱخْتَلَفُوا۟ فِيهِ ۙ وَهُدًى وَرَحْمَةً لِّقَوْمٍ يُؤْمِنُونَ | Wamā ʾanzalnā ʿalayka l-kitāba ʾillā litubayyina lahumu ladhi khtalafū fīhi wahudan waraḥmatan liqawmin yuʾminūn |
+| 65 | | وَٱللَّهُ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَسْمَعُونَ | Walllahu ʾanzala mina s-samāʾi māʾan faʾaḥyā bihi l-ʾarḍa baʿda mawtihā ʾinna fi dhālika lāyatan liqawmin yasmaʿūn |
+| 66 | | وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةً ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهِۦ مِنۢ بَيْنِ فَرْثٍ وَدَمٍ لَّبَنًا خَالِصًا سَآئِغًا لِّلشَّـٰرِبِينَ | Waʾinna lakum fi l-ʾanʿāmi laʿibratan nusqīkum mimmā fi buṭūnihi min bayni farthin wadamin labanan khāliṣan sāʾighan lilshshāribīn |
+| 67 | | وَمِن ثَمَرَٰتِ ٱلنَّخِيلِ وَٱلْأَعْنَـٰبِ تَتَّخِذُونَ مِنْهُ سَكَرًا وَرِزْقًا حَسَنًا ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَعْقِلُونَ | Wamin thamarāti n-nakhīli walʾaʿnābi tattakhidhūna minhu sakaran warizqan ḥasanan ʾinna fi dhālika lāyatan liqawmin yaʿqilūn |
+| 68 | | وَأَوْحَىٰ رَبُّكَ إِلَى ٱلنَّحْلِ أَنِ ٱتَّخِذِى مِنَ ٱلْجِبَالِ بُيُوتًا وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعْرِشُونَ | Waʾawḥā rabbuka ʾilā n-naḥli ʾani takhidhi mina l-jibāli buyūtan wamina sh-shajari wamimmā yaʿrishūn |
+| 69 | | ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسْلُكِى سُبُلَ رَبِّكِ ذُلُلًا ۚ يَخْرُجُ مِنۢ بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ فِيهِ شِفَآءٌ لِّلنَّاسِ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَتَفَكَّرُونَ | Thumma kuli min kulli th-thamarāti fasluki subula rabbiki dhululan yakhruju min buṭūnihā sharābun mukhtalifun ʾalwānuhu fīhi shifāʾun lilnnāsi ʾinna fi dhālika lāyatan liqawmin yatafakkarūn |
+| 70 | | وَٱللَّهُ خَلَقَكُمْ ثُمَّ يَتَوَفَّىٰكُمْ ۚ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ أَرْذَلِ ٱلْعُمُرِ لِكَىْ لَا يَعْلَمَ بَعْدَ عِلْمٍ شَيْـًٔا ۚ إِنَّ ٱللَّهَ عَلِيمٌ قَدِيرٌ | Walllahu khalaqakum thumma yatawaffākum waminkum man yuraddu ʾilā ʾardhali l-ʿumuri likā lā yaʿlama baʿda ʿilmin shayan ʾinna llāha ʿalīmun qadīr |
+
+## Verses 71–80
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 71 | | وَٱللَّهُ فَضَّلَ بَعْضَكُمْ عَلَىٰ بَعْضٍ فِى ٱلرِّزْقِ ۚ فَمَا ٱلَّذِينَ فُضِّلُوا۟ بِرَآدِّى رِزْقِهِمْ عَلَىٰ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَهُمْ فِيهِ سَوَآءٌ ۚ أَفَبِنِعْمَةِ ٱللَّهِ يَجْحَدُونَ | Walllahu faḍḍala baʿḍakum ʿalā baʿḍin fi r-rizqi famā ladhīna fuḍḍilū birāddi rizqihim ʿalā mā malakat ʾaymānuhum fahum fīhi sawāʾun ʾafabiniʿmati llāhi yajḥadūn |
+| 72 | | وَٱللَّهُ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَجَعَلَ لَكُم مِّنْ أَزْوَٰجِكُم بَنِينَ وَحَفَدَةً وَرَزَقَكُم مِّنَ ٱلطَّيِّبَـٰتِ ۚ أَفَبِٱلْبَـٰطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ ٱللَّهِ هُمْ يَكْفُرُونَ | Walllahu jaʿala lakum min ʾanfusikum ʾazwājan wajaʿala lakum min ʾazwājikum banīna waḥafadatan warazaqakum mina ṭ-ṭayyibāti ʾafabilbāṭili yuʾminūna wabiniʿmati llāhi hum yakfurūn |
+| 73 | | وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَمْلِكُ لَهُمْ رِزْقًا مِّنَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ شَيْـًٔا وَلَا يَسْتَطِيعُونَ | Wayaʿbudūna min dūni llāhi mā lā yamliku lahum rizqan mina s-samāwāti walʾarḍi shayan walā yastaṭīʿūn |
+| 74 | | فَلَا تَضْرِبُوا۟ لِلَّهِ ٱلْأَمْثَالَ ۚ إِنَّ ٱللَّهَ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ | Falā taḍribū lillāhi l-ʾamthāla ʾinna llāha yaʿlamu waʾantum lā taʿlamūn |
+| 75 | | ۞ ضَرَبَ ٱللَّهُ مَثَلًا عَبْدًا مَّمْلُوكًا لَّا يَقْدِرُ عَلَىٰ شَىْءٍ وَمَن رَّزَقْنَـٰهُ مِنَّا رِزْقًا حَسَنًا فَهُوَ يُنفِقُ مِنْهُ سِرًّا وَجَهْرًا ۖ هَلْ يَسْتَوُۥنَ ۚ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ | Ḍaraba llāhu mathalan ʿabdan mamlūkan lā yaqdiru ʿalā shāʾin waman razaqnāhu minnā rizqan ḥasanan fahuwa yunfiqu minhu sirran wajahran hal yastawuna l-ḥamdu lillāhi bal ʾaktharuhum lā yaʿlamūn |
+| 76 | | وَضَرَبَ ٱللَّهُ مَثَلًا رَّجُلَيْنِ أَحَدُهُمَآ أَبْكَمُ لَا يَقْدِرُ عَلَىٰ شَىْءٍ وَهُوَ كَلٌّ عَلَىٰ مَوْلَىٰهُ أَيْنَمَا يُوَجِّههُّ لَا يَأْتِ بِخَيْرٍ ۖ هَلْ يَسْتَوِى هُوَ وَمَن يَأْمُرُ بِٱلْعَدْلِ ۙ وَهُوَ عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ | Waḍaraba llāhu mathalan rajulayni ʾaḥaduhumā ʾabkamu lā yaqdiru ʿalā shāʾin wahuwa kallun ʿalā mawlāhu ʾaynamā yuwajjihhhu lā yaʾti bikhayrin hal yastawi huwa waman yaʾmuru bilʿadli wahuwa ʿalā ṣirāṭin mustaqīm |
+| 77 | | وَلِلَّهِ غَيْبُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَمَآ أَمْرُ ٱلسَّاعَةِ إِلَّا كَلَمْحِ ٱلْبَصَرِ أَوْ هُوَ أَقْرَبُ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ | Walillahi ghaybu s-samāwāti walʾarḍi wamā ʾamru s-sāʿati ʾillā kalamḥi l-baṣari ʾaw huwa ʾaqrabu ʾinna llāha ʿalā kulli shāʾin qadīr |
+| 78 | | وَٱللَّهُ أَخْرَجَكُم مِّنۢ بُطُونِ أُمَّهَـٰتِكُمْ لَا تَعْلَمُونَ شَيْـًٔا وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۙ لَعَلَّكُمْ تَشْكُرُونَ | Walllahu ʾakhrajakum min buṭūni ʾummahātikum lā taʿlamūna shayan wajaʿala lakumu s-samʿa walʾabṣāra walʾafidata laʿallakum tashkurūn |
+| 79 | | أَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ مُسَخَّرَٰتٍ فِى جَوِّ ٱلسَّمَآءِ مَا يُمْسِكُهُنَّ إِلَّا ٱللَّهُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يُؤْمِنُونَ | ʾalam yaraw ʾilā ṭ-ṭayri musakhkharātin fi jawwi s-samāʾi mā yumsikuhunna ʾillā llāhu ʾinna fi dhālika lāyātin liqawmin yuʾminūn |
+| 80 | | وَٱللَّهُ جَعَلَ لَكُم مِّنۢ بُيُوتِكُمْ سَكَنًا وَجَعَلَ لَكُم مِّن جُلُودِ ٱلْأَنْعَـٰمِ بُيُوتًا تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ وَيَوْمَ إِقَامَتِكُمْ ۙ وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَآ أَثَـٰثًا وَمَتَـٰعًا إِلَىٰ حِينٍ | Walllahu jaʿala lakum min buyūtikum sakanan wajaʿala lakum min julūdi l-ʾanʿāmi buyūtan tastakhiffūnahā yawma ẓaʿnikum wayawma ʾiqāmatikum wamin ʾaṣwāfihā waʾawbārihā waʾashʿārihā ʾathāthan wamatāʿan ʾilā ḥīn |
+
+## Verses 81–90
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 81 | | وَٱللَّهُ جَعَلَ لَكُم مِّمَّا خَلَقَ ظِلَـٰلًا وَجَعَلَ لَكُم مِّنَ ٱلْجِبَالِ أَكْنَـٰنًا وَجَعَلَ لَكُمْ سَرَٰبِيلَ تَقِيكُمُ ٱلْحَرَّ وَسَرَٰبِيلَ تَقِيكُم بَأْسَكُمْ ۚ كَذَٰلِكَ يُتِمُّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تُسْلِمُونَ | Walllahu jaʿala lakum mimmā khalaqa ẓilālan wajaʿala lakum mina l-jibāli ʾaknānan wajaʿala lakum sarābīla taqīkumu l-ḥarra wasarābīla taqīkum baʾsakum kadhālika yutimmu niʿmatahu ʿalaykum laʿallakum tuslimūn |
+| 82 | | فَإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْكَ ٱلْبَلَـٰغُ ٱلْمُبِينُ | Faʾin tawallaw faʾinnamā ʿalayka l-balāghu l-mubīn |
+| 83 | | يَعْرِفُونَ نِعْمَتَ ٱللَّهِ ثُمَّ يُنكِرُونَهَا وَأَكْثَرُهُمُ ٱلْكَـٰفِرُونَ | Yaʿrifūna niʿmata llāhi thumma yunkirūnahā waʾaktharuhumu l-kāfirūn |
+| 84 | | وَيَوْمَ نَبْعَثُ مِن كُلِّ أُمَّةٍ شَهِيدًا ثُمَّ لَا يُؤْذَنُ لِلَّذِينَ كَفَرُوا۟ وَلَا هُمْ يُسْتَعْتَبُونَ | Wayawma nabʿathu min kulli ʾummatin shahīdan thumma lā yuʾdhanu lilladhīna kafarū walā hum yustaʿtabūn |
+| 85 | | وَإِذَا رَءَا ٱلَّذِينَ ظَلَمُوا۟ ٱلْعَذَابَ فَلَا يُخَفَّفُ عَنْهُمْ وَلَا هُمْ يُنظَرُونَ | Waʾidhā raʾā ladhīna ẓalamū l-ʿadhāba falā yukhaffafu ʿanhum walā hum yunẓarūn |
+| 86 | | وَإِذَا رَءَا ٱلَّذِينَ أَشْرَكُوا۟ شُرَكَآءَهُمْ قَالُوا۟ رَبَّنَا هَـٰٓؤُلَآءِ شُرَكَآؤُنَا ٱلَّذِينَ كُنَّا نَدْعُوا۟ مِن دُونِكَ ۖ فَأَلْقَوْا۟ إِلَيْهِمُ ٱلْقَوْلَ إِنَّكُمْ لَكَـٰذِبُونَ | Waʾidhā raʾā ladhīna ʾashrakū shurakāʾahum qālū rabbanā hāʾulāʾi shurakāʾunā ladhīna kunnā nadʿū min dūnika faʾalqaw ʾilayhimu l-qawla ʾinnakum lakādhibūn |
+| 87 | | وَأَلْقَوْا۟ إِلَى ٱللَّهِ يَوْمَئِذٍ ٱلسَّلَمَ ۖ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ | Waʾalqaw ʾilā llāhi yawmaʾidhin s-salama waḍalla ʿanhum mā kānū yaftarūn |
+| 88 | | ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ زِدْنَـٰهُمْ عَذَابًا فَوْقَ ٱلْعَذَابِ بِمَا كَانُوا۟ يُفْسِدُونَ | Alladhīna kafarū waṣaddū ʿan sabīli llāhi zidnāhum ʿadhāban fawqa l-ʿadhābi bimā kānū yufsidūn |
+| 89 | | وَيَوْمَ نَبْعَثُ فِى كُلِّ أُمَّةٍ شَهِيدًا عَلَيْهِم مِّنْ أَنفُسِهِمْ ۖ وَجِئْنَا بِكَ شَهِيدًا عَلَىٰ هَـٰٓؤُلَآءِ ۚ وَنَزَّلْنَا عَلَيْكَ ٱلْكِتَـٰبَ تِبْيَـٰنًا لِّكُلِّ شَىْءٍ وَهُدًى وَرَحْمَةً وَبُشْرَىٰ لِلْمُسْلِمِينَ | Wayawma nabʿathu fi kulli ʾummatin shahīdan ʿalayhim min ʾanfusihim wajiʾnā bika shahīdan ʿalā hāʾulāʾi wanazzalnā ʿalayka l-kitāba tibyānan likulli shāʾin wahudan waraḥmatan wabushrā lilmuslimīn |
+| 90 | | ۞ إِنَّ ٱللَّهَ يَأْمُرُ بِٱلْعَدْلِ وَٱلْإِحْسَـٰنِ وَإِيتَآئِ ذِى ٱلْقُرْبَىٰ وَيَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَٱلْبَغْىِ ۚ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ | ʾinna llāha yaʾmuru bilʿadli walʾiḥsāni waʾītāʾi dhi l-qurbā wayanhā ʿani l-faḥshāʾi walmunkari walbaghyi yaʿiẓukum laʿallakum tadhakkarūn |
+
+## Verses 91–100
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 91 | | وَأَوْفُوا۟ بِعَهْدِ ٱللَّهِ إِذَا عَـٰهَدتُّمْ وَلَا تَنقُضُوا۟ ٱلْأَيْمَـٰنَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ ٱللَّهَ عَلَيْكُمْ كَفِيلًا ۚ إِنَّ ٱللَّهَ يَعْلَمُ مَا تَفْعَلُونَ | Waʾawfū biʿahdi llāhi ʾidhā ʿāhadttum walā tanquḍū l-ʾaymāna baʿda tawkīdihā waqad jaʿaltumu llāha ʿalaykum kafīlan ʾinna llāha yaʿlamu mā tafʿalūn |
+| 92 | | وَلَا تَكُونُوا۟ كَٱلَّتِى نَقَضَتْ غَزْلَهَا مِنۢ بَعْدِ قُوَّةٍ أَنكَـٰثًا تَتَّخِذُونَ أَيْمَـٰنَكُمْ دَخَلًۢا بَيْنَكُمْ أَن تَكُونَ أُمَّةٌ هِىَ أَرْبَىٰ مِنْ أُمَّةٍ ۚ إِنَّمَا يَبْلُوكُمُ ٱللَّهُ بِهِۦ ۚ وَلَيُبَيِّنَنَّ لَكُمْ يَوْمَ ٱلْقِيَـٰمَةِ مَا كُنتُمْ فِيهِ تَخْتَلِفُونَ | Walā takūnū kallati naqaḍat ghazlahā min baʿdi quwwatin ʾankāthan tattakhidhūna ʾaymānakum dakhalan baynakum ʾan takūna ʾummatun hiya ʾarbā min ʾummatin ʾinnamā yablūkumu llāhu bihi walayubayyinanna lakum yawma l-qiyāmati mā kuntum fīhi takhtalifūn |
+| 93 | | وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَكُمْ أُمَّةً وَٰحِدَةً وَلَـٰكِن يُضِلُّ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَلَتُسْـَٔلُنَّ عَمَّا كُنتُمْ تَعْمَلُونَ | Walaw shāʾa llāhu lajaʿalakum ʾummatan wāḥidatan walākin yuḍillu man yashāʾu wayahdi man yashāʾu walatusalunna ʿammā kuntum taʿmalūn |
+| 94 | | وَلَا تَتَّخِذُوٓا۟ أَيْمَـٰنَكُمْ دَخَلًۢا بَيْنَكُمْ فَتَزِلَّ قَدَمٌۢ بَعْدَ ثُبُوتِهَا وَتَذُوقُوا۟ ٱلسُّوٓءَ بِمَا صَدَدتُّمْ عَن سَبِيلِ ٱللَّهِ ۖ وَلَكُمْ عَذَابٌ عَظِيمٌ | Walā tattakhidhū ʾaymānakum dakhalan baynakum fatazilla qadamun baʿda thubūtihā watadhūqū s-sūʾa bimā ṣadadttum ʿan sabīli llāhi walakum ʿadhābun ʿaẓīm |
+| 95 | | وَلَا تَشْتَرُوا۟ بِعَهْدِ ٱللَّهِ ثَمَنًا قَلِيلًا ۚ إِنَّمَا عِندَ ٱللَّهِ هُوَ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ | Walā tashtarū biʿahdi llāhi thamanan qalīlan ʾinnamā ʿinda llāhi huwa khayrun lakum ʾin kuntum taʿlamūn |
+| 96 | | مَا عِندَكُمْ يَنفَدُ ۖ وَمَا عِندَ ٱللَّهِ بَاقٍ ۗ وَلَنَجْزِيَنَّ ٱلَّذِينَ صَبَرُوٓا۟ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ | Mā ʿindakum yanfadu wamā ʿinda llāhi bāqin walanajziyanna ladhīna ṣabarū ʾajrahum biʾaḥsani mā kānū yaʿmalūn |
+| 97 | | مَنْ عَمِلَ صَـٰلِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُۥ حَيَوٰةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ | Man ʿamila ṣāliḥan min dhakarin ʾaw ʾunthā wahuwa muʾminun falanuḥyiyannahu ḥayawātan ṭayyibatan walanajziyannahum ʾajrahum biʾaḥsani mā kānū yaʿmalūn |
+| 98 | | فَإِذَا قَرَأْتَ ٱلْقُرْءَانَ فَٱسْتَعِذْ بِٱللَّهِ مِنَ ٱلشَّيْطَـٰنِ ٱلرَّجِيمِ | Faʾidhā qaraʾta l-qurʾāna fastaʿidh billlahi mina sh-shayṭāni r-rajīm |
+| 99 | | إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَـٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ | ʾinnahu laysa lahu sulṭānun ʿalā ladhīna ʾāmanū waʿalā rabbihim yatawakkalūn |
+| 100 | | إِنَّمَا سُلْطَـٰنُهُۥ عَلَى ٱلَّذِينَ يَتَوَلَّوْنَهُۥ وَٱلَّذِينَ هُم بِهِۦ مُشْرِكُونَ | ʾinnamā sulṭānuhu ʿalā ladhīna yatawallawnahu walladhīna hum bihi mushrikūn |
+
+## Verses 101–110
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 101 | | وَإِذَا بَدَّلْنَآ ءَايَةً مَّكَانَ ءَايَةٍ ۙ وَٱللَّهُ أَعْلَمُ بِمَا يُنَزِّلُ قَالُوٓا۟ إِنَّمَآ أَنتَ مُفْتَرٍۭ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ | Waʾidhā baddalnā ʾāyatan makāna ʾāyatin walllahu ʾaʿlamu bimā yunazzilu qālū ʾinnamā ʾanta muftarin bal ʾaktharuhum lā yaʿlamūn |
+| 102 | | قُلْ نَزَّلَهُۥ رُوحُ ٱلْقُدُسِ مِن رَّبِّكَ بِٱلْحَقِّ لِيُثَبِّتَ ٱلَّذِينَ ءَامَنُوا۟ وَهُدًى وَبُشْرَىٰ لِلْمُسْلِمِينَ | Qul nazzalahu rūḥu l-qudusi min rabbika bilḥaqqi liyuthabbita ladhīna ʾāmanū wahudan wabushrā lilmuslimīn |
+| 103 | | وَلَقَدْ نَعْلَمُ أَنَّهُمْ يَقُولُونَ إِنَّمَا يُعَلِّمُهُۥ بَشَرٌ ۗ لِّسَانُ ٱلَّذِى يُلْحِدُونَ إِلَيْهِ أَعْجَمِىٌّ وَهَـٰذَا لِسَانٌ عَرَبِىٌّ مُّبِينٌ | Walaqad naʿlamu ʾannahum yaqūlūna ʾinnamā yuʿallimuhu basharun lisānu ladhi yulḥidūna ʾilayhi ʾaʿjamiyyun wahādhā lisānun ʿarabiyyun mubīn |
+| 104 | | إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِـَٔايَـٰتِ ٱللَّهِ لَا يَهْدِيهِمُ ٱللَّهُ وَلَهُمْ عَذَابٌ أَلِيمٌ | ʾinna ladhīna lā yuʾminūna biyāti llāhi lā yahdīhimu llāhu walahum ʿadhābun ʾalīm |
+| 105 | | إِنَّمَا يَفْتَرِى ٱلْكَذِبَ ٱلَّذِينَ لَا يُؤْمِنُونَ بِـَٔايَـٰتِ ٱللَّهِ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْكَـٰذِبُونَ | ʾinnamā yaftari l-kadhiba ladhīna lā yuʾminūna biyāti llāhi waʾūlāʾika humu l-kādhibūn |
+| 106 | | مَن كَفَرَ بِٱللَّهِ مِنۢ بَعْدِ إِيمَـٰنِهِۦٓ إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُۥ مُطْمَئِنٌّۢ بِٱلْإِيمَـٰنِ وَلَـٰكِن مَّن شَرَحَ بِٱلْكُفْرِ صَدْرًا فَعَلَيْهِمْ غَضَبٌ مِّنَ ٱللَّهِ وَلَهُمْ عَذَابٌ عَظِيمٌ | Man kafara billlahi min baʿdi ʾīmānihi ʾillā man ʾukriha waqalbuhu muṭmaʾinnun bilʾīmāni walākin man sharaḥa bilkufri ṣadran faʿalayhim ghaḍabun mina llāhi walahum ʿadhābun ʿaẓīm |
+| 107 | | ذَٰلِكَ بِأَنَّهُمُ ٱسْتَحَبُّوا۟ ٱلْحَيَوٰةَ ٱلدُّنْيَا عَلَى ٱلْـَٔاخِرَةِ وَأَنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَـٰفِرِينَ | Dhālika biʾannahumu staḥabbū l-ḥayawāta d-dunyā ʿalā lākhirati waʾanna llāha lā yahdi l-qawma l-kāfirīn |
+| 108 | | أُو۟لَـٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَسَمْعِهِمْ وَأَبْصَـٰرِهِمْ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْغَـٰفِلُونَ | ʾūlāʾika ladhīna ṭabaʿa llāhu ʿalā qulūbihim wasamʿihim waʾabṣārihim waʾūlāʾika humu l-ghāfilūn |
+| 109 | | لَا جَرَمَ أَنَّهُمْ فِى ٱلْـَٔاخِرَةِ هُمُ ٱلْخَـٰسِرُونَ | Lā jarama ʾannahum fi lākhirati humu l-khāsirūn |
+| 110 | | ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ هَاجَرُوا۟ مِنۢ بَعْدِ مَا فُتِنُوا۟ ثُمَّ جَـٰهَدُوا۟ وَصَبَرُوٓا۟ إِنَّ رَبَّكَ مِنۢ بَعْدِهَا لَغَفُورٌ رَّحِيمٌ | Thumma ʾinna rabbaka lilladhīna hājarū min baʿdi mā futinū thumma jāhadū waṣabarū ʾinna rabbaka min baʿdihā laghafūrun raḥīm |
+
+## Verses 111–120
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 111 | | ۞ يَوْمَ تَأْتِى كُلُّ نَفْسٍ تُجَـٰدِلُ عَن نَّفْسِهَا وَتُوَفَّىٰ كُلُّ نَفْسٍ مَّا عَمِلَتْ وَهُمْ لَا يُظْلَمُونَ | Yawma taʾti kullu nafsin tujādilu ʿan nafsihā watuwaffā kullu nafsin mā ʿamilat wahum lā yuẓlamūn |
+| 112 | | وَضَرَبَ ٱللَّهُ مَثَلًا قَرْيَةً كَانَتْ ءَامِنَةً مُّطْمَئِنَّةً يَأْتِيهَا رِزْقُهَا رَغَدًا مِّن كُلِّ مَكَانٍ فَكَفَرَتْ بِأَنْعُمِ ٱللَّهِ فَأَذَٰقَهَا ٱللَّهُ لِبَاسَ ٱلْجُوعِ وَٱلْخَوْفِ بِمَا كَانُوا۟ يَصْنَعُونَ | Waḍaraba llāhu mathalan qaryatan kānat ʾāminatan muṭmaʾinnatan yaʾtīhā rizquhā raghadan min kulli makānin fakafarat biʾanʿumi llāhi faʾadhāqahā llāhu libāsa l-jūʿi walkhawfi bimā kānū yaṣnaʿūn |
+| 113 | | وَلَقَدْ جَآءَهُمْ رَسُولٌ مِّنْهُمْ فَكَذَّبُوهُ فَأَخَذَهُمُ ٱلْعَذَابُ وَهُمْ ظَـٰلِمُونَ | Walaqad jāʾahum rasūlun minhum fakadhdhabūhu faʾakhadhahumu l-ʿadhābu wahum ẓālimūn |
+| 114 | | فَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَـٰلًا طَيِّبًا وَٱشْكُرُوا۟ نِعْمَتَ ٱللَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ | Fakulū mimmā razaqakumu llāhu ḥalālan ṭayyiban washkurū niʿmata llāhi ʾin kuntum ʾiyyāhu taʿbudūn |
+| 115 | | إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ | ʾinnamā ḥarrama ʿalaykumu l-maytata walddama walaḥma l-khinzīri wamā ʾuhilla lighayri llāhi bihi famani ḍṭurra ghayra bāghin walā ʿādin faʾinna llāha ghafūrun raḥīm |
+| 116 | | وَلَا تَقُولُوا۟ لِمَا تَصِفُ أَلْسِنَتُكُمُ ٱلْكَذِبَ هَـٰذَا حَلَـٰلٌ وَهَـٰذَا حَرَامٌ لِّتَفْتَرُوا۟ عَلَى ٱللَّهِ ٱلْكَذِبَ ۚ إِنَّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ لَا يُفْلِحُونَ | Walā taqūlū limā taṣifu ʾalsinatukumu l-kadhiba hādhā ḥalālun wahādhā ḥarāmun litaftarū ʿalā llāhi l-kadhiba ʾinna ladhīna yaftarūna ʿalā llāhi l-kadhiba lā yufliḥūn |
+| 117 | | مَتَـٰعٌ قَلِيلٌ وَلَهُمْ عَذَابٌ أَلِيمٌ | Matāʿun qalīlun walahum ʿadhābun ʾalīm |
+| 118 | | وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا مَا قَصَصْنَا عَلَيْكَ مِن قَبْلُ ۖ وَمَا ظَلَمْنَـٰهُمْ وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ | Waʿalā ladhīna hādū ḥarramnā mā qaṣaṣnā ʿalayka min qablu wamā ẓalamnāhum walākin kānū ʾanfusahum yaẓlimūn |
+| 119 | | ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ عَمِلُوا۟ ٱلسُّوٓءَ بِجَهَـٰلَةٍ ثُمَّ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ وَأَصْلَحُوٓا۟ إِنَّ رَبَّكَ مِنۢ بَعْدِهَا لَغَفُورٌ رَّحِيمٌ | Thumma ʾinna rabbaka lilladhīna ʿamilū s-sūʾa bijahālatin thumma tābū min baʿdi dhālika waʾaṣlaḥū ʾinna rabbaka min baʿdihā laghafūrun raḥīm |
+| 120 | | إِنَّ إِبْرَٰهِيمَ كَانَ أُمَّةً قَانِتًا لِّلَّهِ حَنِيفًا وَلَمْ يَكُ مِنَ ٱلْمُشْرِكِينَ | ʾinna ʾibrāhīma kāna ʾummatan qānitan lillāhi ḥanīfan walam yaku mina l-mushrikīn |
+
+## Verses 121–128
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 121 | | شَاكِرًا لِّأَنْعُمِهِ ۚ ٱجْتَبَىٰهُ وَهَدَىٰهُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ | Shākiran liʾanʿumihi jtabāhu wahadāhu ʾilā ṣirāṭin mustaqīm |
+| 122 | | وَءَاتَيْنَـٰهُ فِى ٱلدُّنْيَا حَسَنَةً ۖ وَإِنَّهُۥ فِى ٱلْـَٔاخِرَةِ لَمِنَ ٱلصَّـٰلِحِينَ | Waʾātaynāhu fi d-dunyā ḥasanatan waʾinnahu fi lākhirati lamina ṣ-ṣāliḥīn |
+| 123 | | ثُمَّ أَوْحَيْنَآ إِلَيْكَ أَنِ ٱتَّبِعْ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا ۖ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ | Thumma ʾawḥaynā ʾilayka ʾani tabiʿ millata ʾibrāhīma ḥanīfan wamā kāna mina l-mushrikīn |
+| 124 | | إِنَّمَا جُعِلَ ٱلسَّبْتُ عَلَى ٱلَّذِينَ ٱخْتَلَفُوا۟ فِيهِ ۚ وَإِنَّ رَبَّكَ لَيَحْكُمُ بَيْنَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ | ʾinnamā juʿila s-sabtu ʿalā ladhīna khtalafū fīhi waʾinna rabbaka layaḥkumu baynahum yawma l-qiyāmati fīmā kānū fīhi yakhtalifūn |
+| 125 | | ٱدْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِٱلْحِكْمَةِ وَٱلْمَوْعِظَةِ ٱلْحَسَنَةِ ۖ وَجَـٰدِلْهُم بِٱلَّتِى هِىَ أَحْسَنُ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ ۖ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ | Idʿu ʾilā sabīli rabbika bilḥikmati walmawʿiẓati l-ḥasanati wajādilhum billati hiya ʾaḥsanu ʾinna rabbaka huwa ʾaʿlamu biman ḍalla ʿan sabīlihi wahuwa ʾaʿlamu bilmuhtadīn |
+| 126 | | وَإِنْ عَاقَبْتُمْ فَعَاقِبُوا۟ بِمِثْلِ مَا عُوقِبْتُم بِهِۦ ۖ وَلَئِن صَبَرْتُمْ لَهُوَ خَيْرٌ لِّلصَّـٰبِرِينَ | Waʾin ʿāqabtum faʿāqibū bimithli mā ʿūqibtum bihi walaʾin ṣabartum lahuwa khayrun lilṣṣābirīn |
+| 127 | | وَٱصْبِرْ وَمَا صَبْرُكَ إِلَّا بِٱللَّهِ ۚ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِى ضَيْقٍ مِّمَّا يَمْكُرُونَ | Waṣbir wamā ṣabruka ʾillā billlahi walā taḥzan ʿalayhim walā taku fi ḍayqin mimmā yamkurūn |
+| 128 | | إِنَّ ٱللَّهَ مَعَ ٱلَّذِينَ ٱتَّقَوا۟ وَّٱلَّذِينَ هُم مُّحْسِنُونَ | ʾinna llāha maʿa ladhīna taqaw walladhīna hum muḥsinūn |

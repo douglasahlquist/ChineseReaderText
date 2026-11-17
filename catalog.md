@@ -32,6 +32,10 @@ when the title changes. Under the heading: the section's index file, then one li
 - index: [egyptian/README.md](egyptian/README.md)
 - Gardiner's list of hieroglyphic signs: 769 signs in 26 groups, each with its code, what it shows and how it's used.
 
+## islam · ☪ Islamic Texts
+- index: [islam/README.md](islam/README.md)
+- The Qur'an: the 114 surahs in Arabic (Uthmani script) with a romanization.
+
 ## music · 诗歌 Music
 - index: [music/README.md](music/README.md)
 - Hymns and songs.

@@ -1,0 +1,96 @@
+<!-- reader: lang=ar -->
+
+# 54. Al-Qamar
+
+> Arabic (Uthmani script) · Romanization (generated, approximate)
+
+## Verses 1–10
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 1 | | ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ | Iqtarabati s-sāʿatu wanshaqqa l-qamar |
+| 2 | | وَإِن يَرَوْا۟ ءَايَةً يُعْرِضُوا۟ وَيَقُولُوا۟ سِحْرٌ مُّسْتَمِرٌّ | Waʾin yaraw ʾāyatan yuʿriḍū wayaqūlū siḥrun mustamirr |
+| 3 | | وَكَذَّبُوا۟ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ ۚ وَكُلُّ أَمْرٍ مُّسْتَقِرٌّ | Wakadhdhabū wattabaʿū ʾahwāʾahum wakullu ʾamrin mustaqirr |
+| 4 | | وَلَقَدْ جَآءَهُم مِّنَ ٱلْأَنۢبَآءِ مَا فِيهِ مُزْدَجَرٌ | Walaqad jāʾahum mina l-ʾanbāʾi mā fīhi muzdajar |
+| 5 | | حِكْمَةٌۢ بَـٰلِغَةٌ ۖ فَمَا تُغْنِ ٱلنُّذُرُ | Ḥikmatun bālighatun famā tughni n-nudhur |
+| 6 | | فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ ٱلدَّاعِ إِلَىٰ شَىْءٍ نُّكُرٍ | Fatawalla ʿanhum yawma yadʿu d-dāʿi ʾilā shāʾin nukur |
+| 7 | | خُشَّعًا أَبْصَـٰرُهُمْ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌ مُّنتَشِرٌ | Khushshaʿan ʾabṣāruhum yakhrujūna mina l-ʾajdāthi kaʾannahum jarādun muntashir |
+| 8 | | مُّهْطِعِينَ إِلَى ٱلدَّاعِ ۖ يَقُولُ ٱلْكَـٰفِرُونَ هَـٰذَا يَوْمٌ عَسِرٌ | Muhṭiʿīna ʾilā d-dāʿi yaqūlu l-kāfirūna hādhā yawmun ʿasir |
+| 9 | | ۞ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ فَكَذَّبُوا۟ عَبْدَنَا وَقَالُوا۟ مَجْنُونٌ وَٱزْدُجِرَ | Kadhdhabat qablahum qawmu nūḥin fakadhdhabū ʿabdanā waqālū majnūnun wazdujir |
+| 10 | | فَدَعَا رَبَّهُۥٓ أَنِّى مَغْلُوبٌ فَٱنتَصِرْ | Fadaʿā rabbahu ʾanni maghlūbun fantaṣir |
+
+## Verses 11–20
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 11 | | فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍ مُّنْهَمِرٍ | Fafataḥnā ʾabwāba s-samāʾi bimāʾin munhamir |
+| 12 | | وَفَجَّرْنَا ٱلْأَرْضَ عُيُونًا فَٱلْتَقَى ٱلْمَآءُ عَلَىٰٓ أَمْرٍ قَدْ قُدِرَ | Wafajjarnā l-ʾarḍa ʿuyūnan faltaqā l-māʾu ʿalā ʾamrin qad qudir |
+| 13 | | وَحَمَلْنَـٰهُ عَلَىٰ ذَاتِ أَلْوَٰحٍ وَدُسُرٍ | Waḥamalnāhu ʿalā dhāti ʾalwāḥin wadusur |
+| 14 | | تَجْرِى بِأَعْيُنِنَا جَزَآءً لِّمَن كَانَ كُفِرَ | Tajri biʾaʿyuninā jazāʾan liman kāna kufir |
+| 15 | | وَلَقَد تَّرَكْنَـٰهَآ ءَايَةً فَهَلْ مِن مُّدَّكِرٍ | Walaqad taraknāhā ʾāyatan fahal min muddakir |
+| 16 | | فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ | Fakayfa kāna ʿadhābi wanudhur |
+| 17 | | وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ | Walaqad yassarnā l-qurʾāna lildhdhikri fahal min muddakir |
+| 18 | | كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ | Kadhdhabat ʿādun fakayfa kāna ʿadhābi wanudhur |
+| 19 | | إِنَّآ أَرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِى يَوْمِ نَحْسٍ مُّسْتَمِرٍّ | ʾinnā ʾarsalnā ʿalayhim rīḥan ṣarṣaran fi yawmi naḥsin mustamirr |
+| 20 | | تَنزِعُ ٱلنَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُّنقَعِرٍ | Tanziʿu n-nāsa kaʾannahum ʾaʿjāzu nakhlin munqaʿir |
+
+## Verses 21–30
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 21 | | فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ | Fakayfa kāna ʿadhābi wanudhur |
+| 22 | | وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ | Walaqad yassarnā l-qurʾāna lildhdhikri fahal min muddakir |
+| 23 | | كَذَّبَتْ ثَمُودُ بِٱلنُّذُرِ | Kadhdhabat thamūdu bilnnudhur |
+| 24 | | فَقَالُوٓا۟ أَبَشَرًا مِّنَّا وَٰحِدًا نَّتَّبِعُهُۥٓ إِنَّآ إِذًا لَّفِى ضَلَـٰلٍ وَسُعُرٍ | Faqālū ʾabasharan minnā wāḥidan nattabiʿuhu ʾinnā ʾidhan lafi ḍalālin wasuʿur |
+| 25 | | أَءُلْقِىَ ٱلذِّكْرُ عَلَيْهِ مِنۢ بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌ | ʾaʾulqiya dh-dhikru ʿalayhi min bayninā bal huwa kadhdhābun ʾashir |
+| 26 | | سَيَعْلَمُونَ غَدًا مَّنِ ٱلْكَذَّابُ ٱلْأَشِرُ | Sayaʿlamūna ghadan mani l-kadhdhābu l-ʾashir |
+| 27 | | إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ | ʾinnā mursilū n-nāqati fitnatan lahum fartaqibhum waṣṭabir |
+| 28 | | وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ ۖ كُلُّ شِرْبٍ مُّحْتَضَرٌ | Wanabbiʾhum ʾanna l-māʾa qismatun baynahum kullu shirbin muḥtaḍar |
+| 29 | | فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ | Fanādaw ṣāḥibahum fataʿāṭā faʿaqar |
+| 30 | | فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ | Fakayfa kāna ʿadhābi wanudhur |
+
+## Verses 31–40
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 31 | | إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَٰحِدَةً فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ | ʾinnā ʾarsalnā ʿalayhim ṣayḥatan wāḥidatan fakānū kahashīmi l-muḥtaẓir |
+| 32 | | وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ | Walaqad yassarnā l-qurʾāna lildhdhikri fahal min muddakir |
+| 33 | | كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ | Kadhdhabat qawmu lūṭin bilnnudhur |
+| 34 | | إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ ۖ نَّجَّيْنَـٰهُم بِسَحَرٍ | ʾinnā ʾarsalnā ʿalayhim ḥāṣiban ʾillā ʾāla lūṭin najjaynāhum bisaḥar |
+| 35 | | نِّعْمَةً مِّنْ عِندِنَا ۚ كَذَٰلِكَ نَجْزِى مَن شَكَرَ | Niʿmatan min ʿindinā kadhālika najzi man shakar |
+| 36 | | وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا۟ بِٱلنُّذُرِ | Walaqad ʾandharahum baṭshatanā fatamāraw bilnnudhur |
+| 37 | | وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ | Walaqad rāwadūhu ʿan ḍayfihi faṭamasnā ʾaʿyunahum fadhūqū ʿadhābi wanudhur |
+| 38 | | وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌ مُّسْتَقِرٌّ | Walaqad ṣabbaḥahum bukratan ʿadhābun mustaqirr |
+| 39 | | فَذُوقُوا۟ عَذَابِى وَنُذُرِ | Fadhūqū ʿadhābi wanudhur |
+| 40 | | وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ | Walaqad yassarnā l-qurʾāna lildhdhikri fahal min muddakir |
+
+## Verses 41–50
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 41 | | وَلَقَدْ جَآءَ ءَالَ فِرْعَوْنَ ٱلنُّذُرُ | Walaqad jāʾa ʾāla firʿawna n-nudhur |
+| 42 | | كَذَّبُوا۟ بِـَٔايَـٰتِنَا كُلِّهَا فَأَخَذْنَـٰهُمْ أَخْذَ عَزِيزٍ مُّقْتَدِرٍ | Kadhdhabū biyātinā kullihā faʾakhadhnāhum ʾakhdha ʿazīzin muqtadir |
+| 43 | | أَكُفَّارُكُمْ خَيْرٌ مِّنْ أُو۟لَـٰٓئِكُمْ أَمْ لَكُم بَرَآءَةٌ فِى ٱلزُّبُرِ | ʾakuffārukum khayrun min ʾūlāʾikum ʾam lakum barāʾatun fi z-zubur |
+| 44 | | أَمْ يَقُولُونَ نَحْنُ جَمِيعٌ مُّنتَصِرٌ | ʾam yaqūlūna naḥnu jamīʿun muntaṣir |
+| 45 | | سَيُهْزَمُ ٱلْجَمْعُ وَيُوَلُّونَ ٱلدُّبُرَ | Sayuhzamu l-jamʿu wayuwallūna d-dubur |
+| 46 | | بَلِ ٱلسَّاعَةُ مَوْعِدُهُمْ وَٱلسَّاعَةُ أَدْهَىٰ وَأَمَرُّ | Bali s-sāʿatu mawʿiduhum walssāʿatu ʾadhā waʾamarr |
+| 47 | | إِنَّ ٱلْمُجْرِمِينَ فِى ضَلَـٰلٍ وَسُعُرٍ | ʾinna l-mujrimīna fi ḍalālin wasuʿur |
+| 48 | | يَوْمَ يُسْحَبُونَ فِى ٱلنَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا۟ مَسَّ سَقَرَ | Yawma yusḥabūna fi n-nāri ʿalā wujūhihim dhūqū massa saqar |
+| 49 | | إِنَّا كُلَّ شَىْءٍ خَلَقْنَـٰهُ بِقَدَرٍ | ʾinnā kulla shāʾin khalaqnāhu biqadar |
+| 50 | | وَمَآ أَمْرُنَآ إِلَّا وَٰحِدَةٌ كَلَمْحٍۭ بِٱلْبَصَرِ | Wamā ʾamrunā ʾillā wāḥidatun kalamḥin bilbaṣar |
+
+## Verses 51–55
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 51 | | وَلَقَدْ أَهْلَكْنَآ أَشْيَاعَكُمْ فَهَلْ مِن مُّدَّكِرٍ | Walaqad ʾahlaknā ʾashyāʿakum fahal min muddakir |
+| 52 | | وَكُلُّ شَىْءٍ فَعَلُوهُ فِى ٱلزُّبُرِ | Wakullu shāʾin faʿalūhu fi z-zubur |
+| 53 | | وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُّسْتَطَرٌ | Wakullu ṣaghīrin wakabīrin mustaṭar |
+| 54 | | إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍ وَنَهَرٍ | ʾinna l-muttaqīna fi jannātin wanahar |
+| 55 | | فِى مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍۭ | Fi maqʿadi ṣidqin ʿinda malīkin muqtadir |

@@ -1,0 +1,79 @@
+<!-- reader: lang=ar -->
+
+# 79. An-Naziat
+
+> Arabic (Uthmani script) · Romanization (generated, approximate)
+
+## Verses 1–10
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 1 | | وَٱلنَّـٰزِعَـٰتِ غَرْقًا | Walnnāziʿāti gharqā |
+| 2 | | وَٱلنَّـٰشِطَـٰتِ نَشْطًا | Walnnāshiṭāti nashṭā |
+| 3 | | وَٱلسَّـٰبِحَـٰتِ سَبْحًا | Walssābiḥāti sabḥā |
+| 4 | | فَٱلسَّـٰبِقَـٰتِ سَبْقًا | Falssābiqāti sabqā |
+| 5 | | فَٱلْمُدَبِّرَٰتِ أَمْرًا | Falmudabbirāti ʾamrā |
+| 6 | | يَوْمَ تَرْجُفُ ٱلرَّاجِفَةُ | Yawma tarjufu r-rājifat |
+| 7 | | تَتْبَعُهَا ٱلرَّادِفَةُ | Tatbaʿuhā r-rādifat |
+| 8 | | قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ | Qulūbun yawmaʾidhin wājifat |
+| 9 | | أَبْصَـٰرُهَا خَـٰشِعَةٌ | ʾabṣāruhā khāshiʿat |
+| 10 | | يَقُولُونَ أَءِنَّا لَمَرْدُودُونَ فِى ٱلْحَافِرَةِ | Yaqūlūna ʾaʾinnā lamardūdūna fi l-ḥāfirat |
+
+## Verses 11–22
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 11 | | أَءِذَا كُنَّا عِظَـٰمًا نَّخِرَةً | ʾaʾidhā kunnā ʿiẓāman nakhiratā |
+| 12 | | قَالُوا۟ تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ | Qālū tilka ʾidhan karratun khāsirat |
+| 13 | | فَإِنَّمَا هِىَ زَجْرَةٌ وَٰحِدَةٌ | Faʾinnamā hiya zajratun wāḥidat |
+| 14 | | فَإِذَا هُم بِٱلسَّاهِرَةِ | Faʾidhā hum bilssāhirat |
+| 15 | | هَلْ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ | Hal ʾatāka ḥadīthu mūsā |
+| 16 | | إِذْ نَادَىٰهُ رَبُّهُۥ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى | ʾidh nādāhu rabbuhu bilwādi l-muqaddasi ṭuwā |
+| 17 | | ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ | Idhhab ʾilā firʿawna ʾinnahu ṭaghā |
+| 20 | | فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ | Faʾarāhu lāyata l-kubrā |
+| 21 | | فَكَذَّبَ وَعَصَىٰ | Fakadhdhaba waʿaṣā |
+| 22 | | ثُمَّ أَدْبَرَ يَسْعَىٰ | Thumma ʾadbara yasʿā |
+
+## Verses 23–32
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 23 | | فَحَشَرَ فَنَادَىٰ | Faḥashara fanādā |
+| 24 | | فَقَالَ أَنَا۠ رَبُّكُمُ ٱلْأَعْلَىٰ | Faqāla ʾanā rabbukumu l-ʾaʿlā |
+| 25 | | فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلْـَٔاخِرَةِ وَٱلْأُولَىٰٓ | Faʾakhadhahu llāhu nakāla lākhirati walʾūlā |
+| 26 | | إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّمَن يَخْشَىٰٓ | ʾinna fi dhālika laʿibratan liman yakhshā |
+| 27 | | ءَأَنتُمْ أَشَدُّ خَلْقًا أَمِ ٱلسَّمَآءُ ۚ بَنَىٰهَا | ʾaʾantum ʾashaddu khalqan ʾami s-samāʾu banāhā |
+| 28 | | رَفَعَ سَمْكَهَا فَسَوَّىٰهَا | Rafaʿa samkahā fasawwāhā |
+| 29 | | وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَىٰهَا | Waʾaghṭasha laylahā waʾakhraja ḍuḥāhā |
+| 30 | | وَٱلْأَرْضَ بَعْدَ ذَٰلِكَ دَحَىٰهَآ | Walʾarḍa baʿda dhālika daḥāhā |
+| 31 | | أَخْرَجَ مِنْهَا مَآءَهَا وَمَرْعَىٰهَا | ʾakhraja minhā māʾahā wamarʿāhā |
+| 32 | | وَٱلْجِبَالَ أَرْسَىٰهَا | Waljibāla ʾarsāhā |
+
+## Verses 33–42
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 33 | | مَتَـٰعًا لَّكُمْ وَلِأَنْعَـٰمِكُمْ | Matāʿan lakum waliʾanʿāmikum |
+| 34 | | فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلْكُبْرَىٰ | Faʾidhā jāʾati ṭ-ṭāmmatu l-kubrā |
+| 35 | | يَوْمَ يَتَذَكَّرُ ٱلْإِنسَـٰنُ مَا سَعَىٰ | Yawma yatadhakkaru l-ʾinsānu mā saʿā |
+| 36 | | وَبُرِّزَتِ ٱلْجَحِيمُ لِمَن يَرَىٰ | Waburrizati l-jaḥīmu liman yarā |
+| 37 | | فَأَمَّا مَن طَغَىٰ | Faʾammā man ṭaghā |
+| 38 | | وَءَاثَرَ ٱلْحَيَوٰةَ ٱلدُّنْيَا | Waʾāthara l-ḥayawāta d-dunyā |
+| 39 | | فَإِنَّ ٱلْجَحِيمَ هِىَ ٱلْمَأْوَىٰ | Faʾinna l-jaḥīma hiya l-maʾwā |
+| 40 | | وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفْسَ عَنِ ٱلْهَوَىٰ | Waʾammā man khāfa maqāma rabbihi wanahā n-nafsa ʿani l-hawā |
+| 41 | | فَإِنَّ ٱلْجَنَّةَ هِىَ ٱلْمَأْوَىٰ | Faʾinna l-jannata hiya l-maʾwā |
+| 42 | | يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا | Yasalūnaka ʿani s-sāʿati ʾayyāna mursāhā |
+
+## Verses 43–46
+
+<!-- reader: table=verses -->
+| Hanzi | Pinyin | Arabic | Romanization |
+|---|---|---|---|
+| 43 | | فِيمَ أَنتَ مِن ذِكْرَىٰهَآ | Fīma ʾanta min dhikrāhā |
+| 44 | | إِلَىٰ رَبِّكَ مُنتَهَىٰهَآ | ʾilā rabbika muntahāhā |
+| 45 | | إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَىٰهَا | ʾinnamā ʾanta mundhiru man yakhshāhā |
+| 46 | | كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوٓا۟ إِلَّا عَشِيَّةً أَوْ ضُحَىٰهَا | Kaʾannahum yawma yarawnahā lam yalbathū ʾillā ʿashiyyatan ʾaw ḍuḥāhā |
