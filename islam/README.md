@@ -1,4 +1,4 @@
-## ☪ Islamic Texts
+## Islamic Texts
 
 ### The Qur'an · Surahs 1–20
 

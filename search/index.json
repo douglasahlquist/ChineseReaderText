@@ -1,0 +1,116 @@
+{
+  "versions": [
+    {
+      "id": "bbe",
+      "collection": "bible",
+      "file": "bbe.tsv",
+      "verses": 58,
+      "bytes": 7887
+    },
+    {
+      "id": "kjv",
+      "collection": "bible",
+      "file": "kjv.tsv",
+      "verses": 31095,
+      "bytes": 4568447
+    },
+    {
+      "id": "krv",
+      "collection": "bible",
+      "file": "krv.tsv",
+      "verses": 31077,
+      "bytes": 4848937
+    },
+    {
+      "id": "luther1912",
+      "collection": "bible",
+      "file": "luther1912.tsv",
+      "verses": 31095,
+      "bytes": 4509690
+    },
+    {
+      "id": "martin",
+      "collection": "bible",
+      "file": "martin.tsv",
+      "verses": 31064,
+      "bytes": 4932825
+    },
+    {
+      "id": "naskapi",
+      "collection": "bible",
+      "file": "naskapi.tsv",
+      "verses": 13160,
+      "bytes": 4069461
+    },
+    {
+      "id": "original",
+      "collection": "bible",
+      "file": "original.tsv",
+      "verses": 30938,
+      "bytes": 6927583
+    },
+    {
+      "id": "pickthall",
+      "collection": "quran",
+      "file": "pickthall.tsv",
+      "verses": 6236,
+      "bytes": 927159
+    },
+    {
+      "id": "pinyin",
+      "collection": "bible",
+      "file": "pinyin.tsv",
+      "verses": 31097,
+      "bytes": 5068097
+    },
+    {
+      "id": "quran-arabic",
+      "collection": "quran",
+      "file": "quran-arabic.tsv",
+      "verses": 6236,
+      "bytes": 1449638
+    },
+    {
+      "id": "quran-romanization",
+      "collection": "quran",
+      "file": "quran-romanization.tsv",
+      "verses": 6236,
+      "bytes": 788008
+    },
+    {
+      "id": "simplified",
+      "collection": "bible",
+      "file": "simplified.tsv",
+      "verses": 31097,
+      "bytes": 3609813
+    },
+    {
+      "id": "thkjv",
+      "collection": "bible",
+      "file": "thkjv.tsv",
+      "verses": 31095,
+      "bytes": 11462060
+    },
+    {
+      "id": "traditional",
+      "collection": "bible",
+      "file": "traditional.tsv",
+      "verses": 31097,
+      "bytes": 3609802
+    },
+    {
+      "id": "vietnamese",
+      "collection": "bible",
+      "file": "vietnamese.tsv",
+      "verses": 31095,
+      "bytes": 5524132
+    },
+    {
+      "id": "web",
+      "collection": "bible",
+      "file": "web.tsv",
+      "verses": 3391,
+      "bytes": 361523
+    }
+  ]
+}
