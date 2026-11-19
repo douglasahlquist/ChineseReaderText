@@ -131,3 +131,19 @@
 - [112. Al-Ikhlas (4)](quran/112-al-ikhlas.md)
 - [113. Al-Falaq (5)](quran/113-al-falaq.md)
 - [114. An-Nas (6)](quran/114-an-nas.md)
+
+<!-- hadith-notes:start -->
+### Hadith · Collection Notes
+
+- [What was downloaded](hadith/notes/00-overview.md)
+- [Sahih al-Bukhari (7,589)](hadith/notes/01-bukhari.md)
+- [Sahih Muslim (7,563)](hadith/notes/02-muslim.md)
+- [Sunan Abu Dawud (5,274)](hadith/notes/03-abudawud.md)
+- [Jami' at-Tirmidhi (3,998)](hadith/notes/04-tirmidhi.md)
+- [Sunan an-Nasa'i (5,765)](hadith/notes/05-nasai.md)
+- [Sunan Ibn Majah (4,343)](hadith/notes/06-ibnmajah.md)
+- [Muwatta Malik (1,858)](hadith/notes/07-malik.md)
+- [Forty Hadith of an-Nawawi (42)](hadith/notes/08-nawawi.md)
+- [Forty Hadith Qudsi (40)](hadith/notes/09-qudsi.md)
+- [Forty Hadith of Shah Waliullah Dehlawi (40)](hadith/notes/10-dehlawi.md)
+<!-- hadith-notes:end -->
