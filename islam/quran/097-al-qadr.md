@@ -2,15 +2,16 @@
 
 # 97. Al-Qadr
 
-> Arabic (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Arabic: Hafs ʿan ʿĀṣim (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Riwayat (King Fahd Complex text): Shuʿbah ʿan ʿĀṣim · Warsh ʿan Nāfiʿ · Qālūn ʿan Nāfiʿ · al-Dūrī ʿan Abī ʿAmr · al-Sūsī ʿan Abī ʿAmr · al-Bazzī ʿan Ibn Kathīr · Qunbul ʿan Ibn Kathīr. Rows follow the Hafs verses; ﴿n﴾ marks a riwaya's own verse number where it differs, and an empty cell means that verse began in the row above.
 
 ## Verses 1–5
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 1 إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ | ʾinnā ʾanzalnāhu fi laylati l-qadr | Lo! We revealed it on the Night of Predestination. |
-| 2 وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ | Wamā ʾadrāka mā laylatu l-qadr | Ah, what will convey unto thee what the Night of Power is! |
-| 3 لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ | Laylatu l-qadri khayrun min ʾalfi shahr | The Night of Power is better than a thousand months. |
-| 4 تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ | Tanazzalu l-malāʾikatu walrrūḥu fīhā biʾidhni rabbihim min kulli ʾamr | The angels and the Spirit descend therein, by the permission of their Lord, with all decrees. |
-| 5 سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ | Salāmun hiya ḥattā maṭlaʿi l-fajr | (The night is) Peace until the rising of the dawn. |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ | ʾinnā ʾanzalnāhu fi laylati l-qadr | إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ | اِنَّآ أَنزَلْنَٰهُ فِے لَيْلَةِ اِ۬لْقَدْرِۖ | إِنَّا أَنزَلْنَٰهُ فِے لَيْلَةِ اِ۬لْقَدْرِۖ | إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ اِ۬لۡقَدۡرِ | إِنَّا أَنزَلۡنَٰهُ فِي لَيۡلَةِ اِ۬لۡقَدۡرِ | إِنَّا أَنزَلۡنَٰهُۥ فِي لَيۡلَةِ ٱلۡقَدۡرِ | إِنَّا أَنزَلۡنَٰهُۥ فِي لَيۡلَةِ ٱلۡقَدۡرِ | Lo! We revealed it on the Night of Predestination. |
+| 2 وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ | Wamā ʾadrāka mā laylatu l-qadr | وَمَآ أَدۡرٜىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ | وَمَآ أَدْر۪يٰكَ مَا لَيْلَةُ اُ۬لْقَدْرِۖ | وَمَا أَدْرَيٰكَ مَا لَيْلَةُ اُ۬لْقَدْرِۖ | وَمَآ أَدۡر۪ىٰكَ مَا لَيۡلَةُ اُ۬لۡقَدۡرِ | وَمَا أَدۡر۪ىٰكَ مَا لَيۡلَةُ اُ۬لۡقَدۡر | وَمَا أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ | وَمَا أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ | Ah, what will convey unto thee what the Night of Power is! |
+| 3 لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ | Laylatu l-qadri khayrun min ʾalfi shahr | لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ | لَيْلَةُ اُ۬لْقَدْرِ خَيْرٞ مِّنَ اَلْفِ شَهْرٖۖ | لَيْلَةُ اُ۬لْقَدْرِ خَيْرٞ مِّنْ أَلْفِ شَهْرٖۖ | لَيۡلَةُ اُ۬لۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ | لَّيۡلَةُ اُ۬لۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ | لَيۡلَةُ ٱلۡقَدۡرِ ﴿٣﴾ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ ﴿٤﴾ | لَيۡلَةُ ٱلۡقَدۡرِ ﴿٣﴾ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ ﴿٤﴾ | The Night of Power is better than a thousand months. |
+| 4 تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ | Tanazzalu l-malāʾikatu walrrūḥu fīhā biʾidhni rabbihim min kulli ʾamr | تَنَزَّلُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ | تَنَزَّلُ اُ۬لْمَلَٰٓئِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٖۖ | تَنَزَّلُ اُ۬لْمَلَٰٓئِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٖۖ | تَنَزَّلُ اُ۬لۡمَلَٰٓئِكَةُ وَاَلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ | تَنَزَّلُ اُ۬لۡمَلَٰٓئِكَةُ وَاَلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ | تَّنَزَّلُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِمُۥ مِن كُلِّ أَمۡرٖ ﴿٥﴾ | تَنَزَّلُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِمُۥ مِن كُلِّ أَمۡرٖ ﴿٥﴾ | The angels and the Spirit descend therein, by the permission of their Lord, with all decrees. |
+| 5 سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ | Salāmun hiya ḥattā maṭlaʿi l-fajr | سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ | سَلَٰمٌ هِيَ حَتَّىٰ مَطْلَعِ اِ۬لْفَجْرِۖ | سَلَٰمٌ هِيَ حَتَّىٰ مَطْلَعِ اِ۬لْفَجْرِۖ | سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ اِ۬لۡفَجۡرِ | سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ اِ۬لۡفَجۡرِ | سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ ﴿٦﴾ | سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ ﴿٦﴾ | (The night is) Peace until the rising of the dawn. |

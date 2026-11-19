@@ -2,7 +2,7 @@
 
 # Hadith |  | What was downloaded
 
-> The hadith collections downloaded for this library, and what is still missing. Updated 2026-11-18.
+> The hadith collections downloaded for this library, and what is still missing. Updated 2026-11-19.
 
 ## Downloaded |  | 10 collections, 36,512 hadith
 

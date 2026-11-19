@@ -2,31 +2,32 @@
 
 # 91. Ash-Shams
 
-> Arabic (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Arabic: Hafs ʿan ʿĀṣim (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Riwayat (King Fahd Complex text): Shuʿbah ʿan ʿĀṣim · Warsh ʿan Nāfiʿ · Qālūn ʿan Nāfiʿ · al-Dūrī ʿan Abī ʿAmr · al-Sūsī ʿan Abī ʿAmr · al-Bazzī ʿan Ibn Kathīr · Qunbul ʿan Ibn Kathīr. Rows follow the Hafs verses; ﴿n﴾ marks a riwaya's own verse number where it differs, and an empty cell means that verse began in the row above.
 
 ## Verses 1–10
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 1 وَٱلشَّمْسِ وَضُحَىٰهَا | Walshshamsi waḍuḥāhā | By the sun and his brightness, |
-| 2 وَٱلْقَمَرِ إِذَا تَلَىٰهَا | Walqamari ʾidhā talāhā | And the moon when she followeth him, |
-| 3 وَٱلنَّهَارِ إِذَا جَلَّىٰهَا | Walnnahāri ʾidhā jallāhā | And the day when it revealeth him, |
-| 4 وَٱلَّيْلِ إِذَا يَغْشَىٰهَا | Wallayli ʾidhā yaghshāhā | And the night when it enshroudeth him, |
-| 5 وَٱلسَّمَآءِ وَمَا بَنَىٰهَا | Walssamāʾi wamā banāhā | And the heaven and Him Who built it, |
-| 6 وَٱلْأَرْضِ وَمَا طَحَىٰهَا | Walʾarḍi wamā ṭaḥāhā | And the earth and Him Who spread it, |
-| 7 وَنَفْسٍ وَمَا سَوَّىٰهَا | Wanafsin wamā sawwāhā | And a soul and Him Who perfected it |
-| 8 فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا | Faʾalhamahā fujūrahā wataqwāhā | And inspired it (with conscience of) what is wrong for it and (what is) right for it. |
-| 9 قَدْ أَفْلَحَ مَن زَكَّىٰهَا | Qad ʾaflaḥa man zakkāhā | He is indeed successful who causeth it to grow, |
-| 10 وَقَدْ خَابَ مَن دَسَّىٰهَا | Waqad khāba man dassāhā | And he is indeed a failure who stunteth it. |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 وَٱلشَّمْسِ وَضُحَىٰهَا | Walshshamsi waḍuḥāhā | وَٱلشَّمۡسِ وَضُحَىٰهَا | وَالشَّمْسِ وَضُحَيٰهَا | وَالشَّمْسِ وَضُحَيٰهَا | وَاَلشَّمۡسِ وَضُحۭىٰهَا | وَاَلشَّمۡسِ وَضُحۭىٰهَا | وَٱلشَّمۡسِ وَضُحَىٰهَا | وَٱلشَّمۡسِ وَضُحَىٰهَا | By the sun and his brightness, |
+| 2 وَٱلْقَمَرِ إِذَا تَلَىٰهَا | Walqamari ʾidhā talāhā | وَٱلۡقَمَرِ إِذَا تَلَىٰهَا | وَالْقَمَرِ إِذَا تَلَيٰهَا | وَالْقَمَرِ إِذَا تَلَيٰهَا | وَاَلۡقَمَرِ إِذَا تَلۭىٰهَا | وَاَلۡقَمَرِ إِذَا تَلۭىٰهَا | وَٱلۡقَمَرِ إِذَا تَلَىٰهَا | وَٱلۡقَمَرِ إِذَا تَلَىٰهَا | And the moon when she followeth him, |
+| 3 وَٱلنَّهَارِ إِذَا جَلَّىٰهَا | Walnnahāri ʾidhā jallāhā | وَٱلنَّهَارِ إِذَا جَلَّىٰهَا | وَالنَّه۪ارِ إِذَا جَلَّيٰهَا | وَالنَّهَارِ إِذَا جَلَّيٰهَا | وَاَلنَّه۪ارِ إِذَا جَلّۭىٰهَا | وَاَلنَّه۪ارِ إِذَا جَلّۭىٰهَا | وَٱلنَّهَارِ إِذَا جَلَّىٰهَا | وَٱلنَّهَارِ إِذَا جَلَّىٰهَا | And the day when it revealeth him, |
+| 4 وَٱلَّيْلِ إِذَا يَغْشَىٰهَا | Wallayli ʾidhā yaghshāhā | وَٱلَّيۡلِ إِذَا يَغۡشَىٰهَا | وَاليْلِ إِذَا يَغْشَيٰهَا | وَاليْلِ إِذَا يَغْشَيٰهَا | وَاَلَّيۡلِ إِذَا يَغۡشۭىٰهَا | وَاَلَّيۡلِ إِذَا يَغۡشۭىٰهَا | وَٱلَّيۡلِ إِذَا يَغۡشَىٰهَا | وَٱلَّيۡلِ إِذَا يَغۡشَىٰهَا | And the night when it enshroudeth him, |
+| 5 وَٱلسَّمَآءِ وَمَا بَنَىٰهَا | Walssamāʾi wamā banāhā | وَٱلسَّمَآءِ وَمَا بَنَىٰهَا | وَالسَّمَآءِ وَمَا بَنَيٰهَا | وَالسَّمَآءِ وَمَا بَنَيٰهَا | وَاَلسَّمَآءِ وَمَا بَنۭىٰهَا | وَاَلسَّمَآءِ وَمَا بَنۭىٰهَا | وَٱلسَّمَآءِ وَمَا بَنَىٰهَا | وَٱلسَّمَآءِ وَمَا بَنَىٰهَا | And the heaven and Him Who built it, |
+| 6 وَٱلْأَرْضِ وَمَا طَحَىٰهَا | Walʾarḍi wamā ṭaḥāhā | وَٱلۡأَرۡضِ وَمَا طَحَىٰهَا | وَالَارْضِ وَمَا طَحَيٰهَا | وَالْأَرْضِ وَمَا طَحَيٰهَا | وَاَلۡأَرۡضِ وَمَا طَحۭىٰهَا | وَاَلۡأَرۡضِ وَمَا طَحۭىٰهَا | وَٱلۡأَرۡضِ وَمَا طَحَىٰهَا | وَٱلۡأَرۡضِ وَمَا طَحَىٰهَا | And the earth and Him Who spread it, |
+| 7 وَنَفْسٍ وَمَا سَوَّىٰهَا | Wanafsin wamā sawwāhā | وَنَفۡسٖ وَمَا سَوَّىٰهَا | وَنَفْسٖ وَمَا سَوَّيٰهَا | وَنَفْسٖ وَمَا سَوَّيٰهَا | وَنَفۡسٖ وَمَا سَوّۭىٰهَا | وَنَفۡسٖ وَمَا سَوّۭىٰهَا | وَنَفۡسٖ وَمَا سَوَّىٰهَا | وَنَفۡسٖ وَمَا سَوَّىٰهَا | And a soul and Him Who perfected it |
+| 8 فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا | Faʾalhamahā fujūrahā wataqwāhā | فَأَلۡهَمَهَا فُجُورَهَا وَتَقۡوَىٰهَا | فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَيٰهَا | فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَيٰهَا | فَأَلۡهَمَهَا فُجُورَهَا وَتَقۡوۭىٰهَا | فَأَلۡهَمَهَا فُجُورَهَا وَتَقۡوۭىٰهَا | فَأَلۡهَمَهَا فُجُورَهَا وَتَقۡوَىٰهَا | فَأَلۡهَمَهَا فُجُورَهَا وَتَقۡوَىٰهَا | And inspired it (with conscience of) what is wrong for it and (what is) right for it. |
+| 9 قَدْ أَفْلَحَ مَن زَكَّىٰهَا | Qad ʾaflaḥa man zakkāhā | قَدۡ أَفۡلَحَ مَن زَكَّىٰهَا | قَدَ اَفْلَحَ مَن زَكَّيٰهَا | قَدْ أَفْلَحَ مَن زَكَّيٰهَا | قَدۡ أَفۡلَحَ مَن زَكّۭىٰهَا | قَدۡ أَفۡلَحَ مَن زَكّۭىٰهَا | قَدۡ أَفۡلَحَ مَن زَكَّىٰهَا | قَدۡ أَفۡلَحَ مَن زَكَّىٰهَا | He is indeed successful who causeth it to grow, |
+| 10 وَقَدْ خَابَ مَن دَسَّىٰهَا | Waqad khāba man dassāhā | وَقَدۡ خَابَ مَن دَسَّىٰهَا | وَقَدْ خَابَ مَن دَسَّيٰهَاۖ | وَقَدْ خَابَ مَن دَسَّيٰهَاۖ | وَقَدۡ خَابَ مَن دَسّۭىٰهَا | وَقَدۡ خَابَ مَن دَسّۭىٰهَا | وَقَدۡ خَابَ مَن دَسَّىٰهَا | وَقَدۡ خَابَ مَن دَسَّىٰهَا | And he is indeed a failure who stunteth it. |
 
 ## Verses 11–15
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 11 كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ | Kadhdhabat thamūdu biṭaghwāhā | (The tribe of) Thamud denied (the truth) in their rebellious pride, |
-| 12 إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا | ʾidhi nbaʿatha ʾashqāhā | When the basest of them broke forth |
-| 13 فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا | Faqāla lahum rasūlu llāhi nāqata llāhi wasuqyāhā | And the messenger of Allah said: It is the she-camel of Allah, so let her drink! |
-| 14 فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا | Fakadhdhabūhu faʿaqarūhā fadamdama ʿalayhim rabbuhum bidhanbihim fasawwāhā | But they denied him, and they hamstrung her, so Allah doomed them for their sin and rased (their dwellings). |
-| 15 وَلَا يَخَافُ عُقْبَـٰهَا | Walā yakhāfu ʿuqbāhā | He dreadeth not the sequel (of events). |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 11 كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ | Kadhdhabat thamūdu biṭaghwāhā | كَذَّبَتۡ ثَمُودُ بِطَغۡوَىٰهَآ | كَذَّبَتْ ثَمُودُ بِطَغْوَيٰهَآ | كَذَّبَتْ ثَمُودُ بِطَغْوَيٰهَا | كَذَّبَت ثَّمُودُ بِطَغۡوۭىٰهَآ | كَذَّبَت ثَّمُودُ بِطَغۡوۭىٰهَا | كَذَّبَتۡ ثَمُودُ بِطَغۡوَىٰهَا | كَذَّبَتۡ ثَمُودُ بِطَغۡوَىٰهَا | (The tribe of) Thamud denied (the truth) in their rebellious pride, |
+| 12 إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا | ʾidhi nbaʿatha ʾashqāhā | إِذِ ٱنۢبَعَثَ أَشۡقَىٰهَا | إِذِ اِ۪نۢبَعَثَ أَشْقَيٰهَا | إِذِ اِ۪نۢبَعَثَ أَشْقَيٰهَا | إِذِ اِ۪نۢبَعَثَ أَشۡقۭىٰهَا | إِذِ اِ۪نۢبَعَثَ أَشۡقۭىٰهَا | إِذِ ٱنۢبَعَثَ أَشۡقَىٰهَا | إِذِ ٱنۢبَعَثَ أَشۡقَىٰهَا | When the basest of them broke forth |
+| 13 فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا | Faqāla lahum rasūlu llāhi nāqata llāhi wasuqyāhā | فَقَالَ لَهُمۡ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقۡيَٰهَا | فَقَالَ لَهُمْ رَسُولُ اُ۬للَّهِ نَاقَةَ اَ۬للَّهِ وَسُقْيَاهَا | فَقَالَ لَهُمْ رَسُولُ اُ۬للَّهِ نَاقَةَ اَ۬للَّهِ وَسُقْيَاهَا | فَقَالَ لَهُمۡ رَسُولُ اُ۬للَّهِ نَاقَةَ اَ۬للَّهِ وَسُقۡيٰۭهَا | فَقَال لَّهُمۡ رَسُولُ اُ۬للَّهِ نَاقَةَ اَ۬للَّهِ وَسُقۡيٰۭهَا | فَقَالَ لَهُمُۥ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقۡيَٰهَا | فَقَالَ لَهُمُۥ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقۡيَٰهَا | And the messenger of Allah said: It is the she-camel of Allah, so let her drink! |
+| 14 فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا | Fakadhdhabūhu faʿaqarūhā fadamdama ʿalayhim rabbuhum bidhanbihim fasawwāhā | فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمۡدَمَ عَلَيۡهِمۡ رَبُّهُم بِذَنۢبِهِمۡ فَسَوَّىٰهَا | فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّيٰهَاۖ | فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّيٰهَاۖ | فَكَذَّبُوهُ فَعَقَرُوهَا ﴿١٤﴾ فَدَمۡدَمَ عَلَيۡهِمۡ رَبُّهُم بِذَنۢبِهِمۡ فَسَوّۭىٰهَا ﴿١٥﴾ | فَكَذَّبُوهُ فَعَقَرُوهَا ﴿١٤﴾ فَدَمۡدَمَ عَلَيۡهِمۡ رَبُّهُم بِذَنۢبِهِمۡ فَسَوّۭىٰهَا ﴿١٥﴾ | فَكَذَّبُوهُۥ فَعَقَرُوهَا فَدَمۡدَمَ عَلَيۡهِمُۥ رَبُّهُمُۥ بِذَنۢبِهِمُۥ فَسَوَّىٰهَا | فَكَذَّبُوهُۥ فَعَقَرُوهَا فَدَمۡدَمَ عَلَيۡهِمُۥ رَبُّهُمُۥ بِذَنۢبِهِمُۥ فَسَوَّىٰهَا | But they denied him, and they hamstrung her, so Allah doomed them for their sin and rased (their dwellings). |
+| 15 وَلَا يَخَافُ عُقْبَـٰهَا | Walā yakhāfu ʿuqbāhā | وَلَا يَخَافُ عُقۡبَٰهَا | فَلَا يَخَافُ عُقْبَٰهَاۖ | فَلَا يَخَافُ عُقْبَٰهَاۖ | وَلَا يَخَافُ عُقۡبٰۭهَا ﴿١٦﴾ | وَلَا يَخَافُ عُقۡبٰۭهَا ﴿١٦﴾ | وَلَا يَخَافُ عُقۡبَٰهَا | وَلَا يَخَافُ عُقۡبَٰهَا | He dreadeth not the sequel (of events). |

@@ -2,18 +2,19 @@
 
 # 94. Ash-Sharh
 
-> Arabic (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Arabic: Hafs ʿan ʿĀṣim (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Riwayat (King Fahd Complex text): Shuʿbah ʿan ʿĀṣim · Warsh ʿan Nāfiʿ · Qālūn ʿan Nāfiʿ · al-Dūrī ʿan Abī ʿAmr · al-Sūsī ʿan Abī ʿAmr · al-Bazzī ʿan Ibn Kathīr · Qunbul ʿan Ibn Kathīr. Rows follow the Hafs verses; ﴿n﴾ marks a riwaya's own verse number where it differs, and an empty cell means that verse began in the row above.
 
 ## Verses 1–8
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 1 أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ | ʾalam nashraḥ laka ṣadrak | Have We not caused thy bosom to dilate, |
-| 2 وَوَضَعْنَا عَنكَ وِزْرَكَ | Wawaḍaʿnā ʿanka wizrak | And eased thee of the burden |
-| 3 ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ | Alladhi ʾanqaḍa ẓahrak | Which weighed down thy back; |
-| 4 وَرَفَعْنَا لَكَ ذِكْرَكَ | Warafaʿnā laka dhikrak | And exalted thy fame? |
-| 5 فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا | Faʾinna maʿa l-ʿusri yusrā | But lo! with hardship goeth ease, |
-| 6 إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا | ʾinna maʿa l-ʿusri yusrā | Lo! with hardship goeth ease; |
-| 7 فَإِذَا فَرَغْتَ فَٱنصَبْ | Faʾidhā faraghta fanṣab | So when thou art relieved, still toil |
-| 8 وَإِلَىٰ رَبِّكَ فَٱرْغَب | Waʾilā rabbika farghab | And strive to please thy Lord. |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ | ʾalam nashraḥ laka ṣadrak | أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ | اَلَمْ نَشْرَحْ لَكَ صَدْرَكَ | أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ | أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ | أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ | أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ | أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ | Have We not caused thy bosom to dilate, |
+| 2 وَوَضَعْنَا عَنكَ وِزْرَكَ | Wawaḍaʿnā ʿanka wizrak | وَوَضَعۡنَا عَنكَ وِزۡرَكَ | وَوَضَعْنَا عَنكَ وِزْرَكَ | وَوَضَعْنَا عَنكَ وِزْرَكَ | وَوَضَعۡنَا عَنكَ وِزۡرَكَ | وَوَضَعۡنَا عَنكَ وِزۡرَكَ | وَوَضَعۡنَا عَنكَ وِزۡرَكَ | وَوَضَعۡنَا عَنكَ وِزۡرَكَ | And eased thee of the burden |
+| 3 ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ | Alladhi ʾanqaḍa ẓahrak | ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ | اَ۬لذِےٓ أَنقَضَ ظَهْرَكَ | اَ۬لذِے أَنقَضَ ظَهْرَكَ | اَ۬لَّذِيٓ أَنقَضَ ظَهۡرَكَ | اَ۬لَّذِي أَنقَضَ ظَهۡرَكَ | ٱلَّذِي أَنقَضَ ظَهۡرَكَ | ٱلَّذِي أَنقَضَ ظَهۡرَكَ | Which weighed down thy back; |
+| 4 وَرَفَعْنَا لَكَ ذِكْرَكَ | Warafaʿnā laka dhikrak | وَرَفَعۡنَا لَكَ ذِكۡرَكَ | وَرَفَعْنَا لَكَ ذِكْرَكَۖ | وَرَفَعْنَا لَكَ ذِكْرَكَۖ | وَرَفَعۡنَا لَكَ ذِكۡرَكَ | وَرَفَعۡنَا لَكَ ذِكۡرَكَ | وَرَفَعۡنَا لَكَ ذِكۡرَكَ | وَرَفَعۡنَا لَكَ ذِكۡرَكَ | And exalted thy fame? |
+| 5 فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا | Faʾinna maʿa l-ʿusri yusrā | فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا | فَإِنَّ مَعَ اَ۬لْعُسْرِ يُسْراً | فَإِنَّ مَعَ اَ۬لْعُسْرِ يُسْراً | فَإِنَّ مَعَ اَ۬لۡعُسۡرِ يُسۡرًا | فَإِنَّ مَعَ اَ۬لۡعُسۡرِ يُسۡرًا | فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا | فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا | But lo! with hardship goeth ease, |
+| 6 إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا | ʾinna maʿa l-ʿusri yusrā | إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا | اِنَّ مَعَ اَ۬لْعُسْرِ يُسْراٗۖ | إِنَّ مَعَ اَ۬لْعُسْرِ يُسْراٗۖ | إِنَّ مَعَ اَ۬لۡعُسۡرِ يُسۡرٗا | إِنَّ مَعَ اَ۬لۡعُسۡرِ يُسۡرٗا | إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا | إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا | Lo! with hardship goeth ease; |
+| 7 فَإِذَا فَرَغْتَ فَٱنصَبْ | Faʾidhā faraghta fanṣab | فَإِذَا فَرَغۡتَ فَٱنصَبۡ | فَإِذَا فَرَغْتَ فَانصَبْ | فَإِذَا فَرَغْتَ فَانصَبْ | فَإِذَا فَرَغۡتَ فَاَنصَبۡ | فَإِذَا فَرَغۡتَ فَاَنصَبۡ | فَإِذَا فَرَغۡتَ فَٱنصَبۡ | فَإِذَا فَرَغۡتَ فَٱنصَبۡ | So when thou art relieved, still toil |
+| 8 وَإِلَىٰ رَبِّكَ فَٱرْغَب | Waʾilā rabbika farghab | وَإِلَىٰ رَبِّكَ فَٱرۡغَب | وَإِلَىٰ رَبِّكَ فَارْغَبْۖ | وَإِلَىٰ رَبِّكَ فَارْغَبۖ | وَإِلَىٰ رَبِّكَ فَاَرۡغَب | وَإِلَىٰ رَبِّكَ فَاَرۡغَب | وَإِلَىٰ رَبِّكَ فَٱرۡغَب | وَإِلَىٰ رَبِّكَ فَٱرۡغَب | And strive to please thy Lord. |

@@ -2,27 +2,28 @@
 
 # 100. Al-Adiyat
 
-> Arabic (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Arabic: Hafs ʿan ʿĀṣim (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Riwayat (King Fahd Complex text): Shuʿbah ʿan ʿĀṣim · Warsh ʿan Nāfiʿ · Qālūn ʿan Nāfiʿ · al-Dūrī ʿan Abī ʿAmr · al-Sūsī ʿan Abī ʿAmr · al-Bazzī ʿan Ibn Kathīr · Qunbul ʿan Ibn Kathīr. Rows follow the Hafs verses; ﴿n﴾ marks a riwaya's own verse number where it differs, and an empty cell means that verse began in the row above.
 
 ## Verses 1–10
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 1 وَٱلْعَـٰدِيَـٰتِ ضَبْحًا | Walʿādiyāti ḍabḥā | By the snorting courses, |
-| 2 فَٱلْمُورِيَـٰتِ قَدْحًا | Falmūriyāti qadḥā | Striking sparks of fire |
-| 3 فَٱلْمُغِيرَٰتِ صُبْحًا | Falmughīrāti ṣubḥā | And scouring to the raid at dawn, |
-| 4 فَأَثَرْنَ بِهِۦ نَقْعًا | Faʾatharna bihi naqʿā | Then, therewith, with their trail of dust, |
-| 5 فَوَسَطْنَ بِهِۦ جَمْعًا | Fawasaṭna bihi jamʿā | Cleaving, as one, the centre (of the foe), |
-| 6 إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ | ʾinna l-ʾinsāna lirabbihi lakanūd | Lo! man is an ingrate unto his Lord |
-| 7 وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ | Waʾinnahu ʿalā dhālika lashahīd | And lo! he is a witness unto that; |
-| 8 وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ | Waʾinnahu liḥubbi l-khayri lashadīd | And lo! in the love of wealth he is violent. |
-| 9 ۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ | ʾafalā yaʿlamu ʾidhā buʿthira mā fi l-qubūr | Knoweth he not that, when the contents of the graves are poured forth |
-| 10 وَحُصِّلَ مَا فِى ٱلصُّدُورِ | Waḥuṣṣila mā fi ṣ-ṣudūr | And the secrets of the breasts are made known, |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 وَٱلْعَـٰدِيَـٰتِ ضَبْحًا | Walʿādiyāti ḍabḥā | وَٱلۡعَٰدِيَٰتِ ضَبۡحٗا | وَالْعَٰدِيَٰتِ ضَبْحاٗ | وَالْعَٰدِيَٰتِ ضَبْحاٗ | وَاَلۡعَٰدِيَٰتِ ضَبۡحٗا | وَاَلۡعَٰدِيَٰت ضَّبۡحٗا | وَٱلۡعَٰدِيَٰتِ ضَبۡحٗا | وَٱلۡعَٰدِيَٰتِ ضَبۡحٗا | By the snorting courses, |
+| 2 فَٱلْمُورِيَـٰتِ قَدْحًا | Falmūriyāti qadḥā | فَٱلۡمُورِيَٰتِ قَدۡحٗا | فَالْمُورِيَٰتِ قَدْحاٗ | فَالْمُورِيَٰتِ قَدْحاٗ | فَاَلۡمُورِيَٰتِ قَدۡحٗا | فَاَلۡمُورِيَٰتِ قَدۡحٗا | فَٱلۡمُورِيَٰتِ قَدۡحٗا | فَٱلۡمُورِيَٰتِ قَدۡحٗا | Striking sparks of fire |
+| 3 فَٱلْمُغِيرَٰتِ صُبْحًا | Falmughīrāti ṣubḥā | فَٱلۡمُغِيرَٰتِ صُبۡحٗا | فَالْمُغِيرَٰتِ صُبْحاٗ | فَالْمُغِيرَٰتِ صُبْحاٗ | فَاَلۡمُغِيرَٰتِ صُبۡحٗا | فَاَلۡمُغِيرَٰت صُّبۡحٗا | فَٱلۡمُغِيرَٰتِ صُبۡحٗا | فَٱلۡمُغِيرَٰتِ صُبۡحٗا | And scouring to the raid at dawn, |
+| 4 فَأَثَرْنَ بِهِۦ نَقْعًا | Faʾatharna bihi naqʿā | فَأَثَرۡنَ بِهِۦ نَقۡعٗا | فَأَثَرْنَ بِهِۦ نَقْعاٗ | فَأَثَرْنَ بِهِۦ نَقْعاٗ | فَأَثَرۡنَ بِهِۦ نَقۡعٗا | فَأَثَرۡنَ بِهِۦ نَقۡعٗا | فَأَثَرۡنَ بِهِۦ نَقۡعٗا | فَأَثَرۡنَ بِهِۦ نَقۡعٗا | Then, therewith, with their trail of dust, |
+| 5 فَوَسَطْنَ بِهِۦ جَمْعًا | Fawasaṭna bihi jamʿā | فَوَسَطۡنَ بِهِۦ جَمۡعًا | فَوَسَطْنَ بِهِۦ جَمْعاً | فَوَسَطْنَ بِهِۦ جَمْعاً | فَوَسَطۡنَ بِهِۦ جَمۡعًا | فَوَسَطۡنَ بِهِۦ جَمۡعًا | فَوَسَطۡنَ بِهِۦ جَمۡعًا | فَوَسَطۡنَ بِهِۦ جَمۡعًا | Cleaving, as one, the centre (of the foe), |
+| 6 إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ | ʾinna l-ʾinsāna lirabbihi lakanūd | إِنَّ ٱلۡإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٞ | اِنَّ اَ۬لِانسَٰنَ لِرَبِّهِۦ لَكَنُودٞ | إِنَّ اَ۬لْإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٞ | إِنَّ اَ۬لۡإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٞ | إِنَّ اَ۬لۡإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٞ | إِنَّ ٱلۡإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٞ | إِنَّ ٱلۡإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٞ | Lo! man is an ingrate unto his Lord |
+| 7 وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ | Waʾinnahu ʿalā dhālika lashahīd | وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٞ | وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٞ | وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٞ | وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٞ | وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٞ | وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٞ | وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٞ | And lo! he is a witness unto that; |
+| 8 وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ | Waʾinnahu liḥubbi l-khayri lashadīd | وَإِنَّهُۥ لِحُبِّ ٱلۡخَيۡرِ لَشَدِيدٌ | وَإِنَّهُۥ لِحُبِّ اِ۬لْخَيْرِ لَشَدِيدٌۖ | وَإِنَّهُۥ لِحُبِّ اِ۬لْخَيْرِ لَشَدِيدٌۖ | وَإِنَّهُۥ لِحُبِّ اِ۬لۡخَيۡرِ لَشَدِيدٌ | وَإِنَّهُۥ لِحُبِّ اِ۬لۡخَيۡر لَّشَدِيدٌ | وَإِنَّهُۥ لِحُبِّ ٱلۡخَيۡرِ لَشَدِيدٌ | وَإِنَّهُۥ لِحُبِّ ٱلۡخَيۡرِ لَشَدِيدٌ | And lo! in the love of wealth he is violent. |
+| 9 ۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ | ʾafalā yaʿlamu ʾidhā buʿthira mā fi l-qubūr | ۞ أَفَلَا يَعۡلَمُ إِذَا بُعۡثِرَ مَا فِي ٱلۡقُبُورِ | ۞ اَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِے اِ۬لْقُبُورِ | ۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِے اِ۬لْقُبُورِ | ۞ أَفَلَا يَعۡلَمُ إِذَا بُعۡثِرَ مَا فِي اِ۬لۡقُبُورِ | ۞ أَفَلَا يَعۡلَمُ إِذَا بُعۡثِرَ مَا فِي اِ۬لۡقُبُورِ | ۞ أَفَلَا يَعۡلَمُ إِذَا بُعۡثِرَ مَا فِي ٱلۡقُبُورِ | ۞ أَفَلَا يَعۡلَمُ إِذَا بُعۡثِرَ مَا فِي ٱلۡقُبُورِ | Knoweth he not that, when the contents of the graves are poured forth |
+| 10 وَحُصِّلَ مَا فِى ٱلصُّدُورِ | Waḥuṣṣila mā fi ṣ-ṣudūr | وَحُصِّلَ مَا فِي ٱلصُّدُورِ | وَحُصِّلَ مَا فِے اِ۬لصُّدُورِ | وَحُصِّلَ مَا فِے اِ۬لصُّدُورِ | وَحُصِّلَ مَا فِي اِ۬لصُّدُورِ | وَحُصِّلَ مَا فِي اِ۬لصُّدُورِ | وَحُصِّلَ مَا فِي ٱلصُّدُورِ | وَحُصِّلَ مَا فِي ٱلصُّدُورِ | And the secrets of the breasts are made known, |
 
 ## Verse 11
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 11 إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ | ʾinna rabbahum bihim yawmaʾidhin lakhabīr | On that day will their Lord be perfectly informed concerning them. |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 11 إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ | ʾinna rabbahum bihim yawmaʾidhin lakhabīr | إِنَّ رَبَّهُم بِهِمۡ يَوۡمَئِذٖ لَّخَبِيرُۢ | إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٖ لَّخَبِيرٌۖ | إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٖ لَّخَبِيرُۢۖ | إِنَّ رَبَّهُم بِهِمۡ يَوۡمَئِذٖ لَّخَبِيرُۢ | إِنَّ رَبَّهُم بِهِمۡ يَوۡمَئِذٖ لَّخَبِيرُۢ | إِنَّ رَبَّهُمُۥ بِهِمُۥ يَوۡمَئِذٖ لَّخَبِيرُۢ | إِنَّ رَبَّهُمُۥ بِهِمُۥ يَوۡمَئِذٖ لَّخَبِيرُۢ | On that day will their Lord be perfectly informed concerning them. |

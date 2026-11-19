@@ -2,7 +2,7 @@
 
 # Sahih Muslim |  | Collection notes
 
-> Facts about the downloaded text: source, numbering, languages, gradings and what is missing. Updated 2026-11-18.
+> Facts about the downloaded text: source, numbering, languages, gradings and what is missing. Updated 2026-11-19.
 
 ## Overview |  | 
 

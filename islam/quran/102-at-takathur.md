@@ -2,18 +2,19 @@
 
 # 102. At-Takathur
 
-> Arabic (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Arabic: Hafs ʿan ʿĀṣim (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Riwayat (King Fahd Complex text): Shuʿbah ʿan ʿĀṣim · Warsh ʿan Nāfiʿ · Qālūn ʿan Nāfiʿ · al-Dūrī ʿan Abī ʿAmr · al-Sūsī ʿan Abī ʿAmr · al-Bazzī ʿan Ibn Kathīr · Qunbul ʿan Ibn Kathīr. Rows follow the Hafs verses; ﴿n﴾ marks a riwaya's own verse number where it differs, and an empty cell means that verse began in the row above.
 
 ## Verses 1–8
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 1 أَلْهَىٰكُمُ ٱلتَّكَاثُرُ | ʾalhākumu t-takāthur | Rivalry in worldly increase distracteth you |
-| 2 حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ | Ḥattā zurtumu l-maqābir | Until ye come to the graves. |
-| 3 كَلَّا سَوْفَ تَعْلَمُونَ | Kallā sawfa taʿlamūn | Nay, but ye will come to know! |
-| 4 ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ | Thumma kallā sawfa taʿlamūn | Nay, but ye will come to know! |
-| 5 كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ | Kallā law taʿlamūna ʿilma l-yaqīn | Nay, would that ye knew (now) with a sure knowledge! |
-| 6 لَتَرَوُنَّ ٱلْجَحِيمَ | Latarawunna l-jaḥīm | For ye will behold hell-fire. |
-| 7 ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ | Thumma latarawunnahā ʿayna l-yaqīn | Aye, ye will behold it with sure vision. |
-| 8 ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ | Thumma latusalunna yawmaʾidhin ʿani n-naʿīm | Then, on that day, ye will be asked concerning pleasure. |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 أَلْهَىٰكُمُ ٱلتَّكَاثُرُ | ʾalhākumu t-takāthur | أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ | اَلْه۪يٰكُمُ اُ۬لتَّكَاثُرُ | أَلْهَيٰكُمُ اُ۬لتَّكَاثُرُ | أَلۡهَىٰكُمُ اُ۬لتَّكَاثُرُ | أَلۡهَىٰكُمُ اُ۬لتَّكَاثُرُ | أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ | أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ | Rivalry in worldly increase distracteth you |
+| 2 حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ | Ḥattā zurtumu l-maqābir | حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ | حَتَّىٰ زُرْتُمُ اُ۬لْمَقَابِرَۖ | حَتَّىٰ زُرْتُمُ اُ۬لْمَقَابِرَۖ | حَتَّىٰ زُرۡتُمُ اُ۬لۡمَقَابِرَ | حَتَّىٰ زُرۡتُمُ اُ۬لۡمَقَابِرَ | حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ | حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ | Until ye come to the graves. |
+| 3 كَلَّا سَوْفَ تَعْلَمُونَ | Kallā sawfa taʿlamūn | كَلَّا سَوۡفَ تَعۡلَمُونَ | كَلَّا سَوْفَ تَعْلَمُونَ | كَلَّا سَوْفَ تَعْلَمُونَ | كَلَّا سَوۡفَ تَعۡلَمُونَ | كَلَّا سَوۡفَ تَعۡلَمُونَ | كَلَّا سَوۡفَ تَعۡلَمُونَ | كَلَّا سَوۡفَ تَعۡلَمُونَ | Nay, but ye will come to know! |
+| 4 ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ | Thumma kallā sawfa taʿlamūn | ثُمَّ كَلَّا سَوۡفَ تَعۡلَمُونَ | ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَۖ | ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَۖ | ثُمَّ كَلَّا سَوۡفَ تَعۡلَمُونَ | ثُمَّ كَلَّا سَوۡفَ تَعۡلَمُونَ | ثُمَّ كَلَّا سَوۡفَ تَعۡلَمُونَ | ثُمَّ كَلَّا سَوۡفَ تَعۡلَمُونَ | Nay, but ye will come to know! |
+| 5 كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ | Kallā law taʿlamūna ʿilma l-yaqīn | كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡيَقِينِ | كَلَّا لَوْ تَعْلَمُونَ عِلْمَ اَ۬لْيَقِينِۖ | كَلَّا لَوْ تَعْلَمُونَ عِلْمَ اَ۬لْيَقِينِۖ | كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ اَ۬لۡيَقِينِ | كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ اَ۬لۡيَقِينِ | كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡيَقِينِ | كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡيَقِينِ | Nay, would that ye knew (now) with a sure knowledge! |
+| 6 لَتَرَوُنَّ ٱلْجَحِيمَ | Latarawunna l-jaḥīm | لَتَرَوُنَّ ٱلۡجَحِيمَ | لَتَرَوُنَّ اَ۬لْجَحِيمَ | لَتَرَوُنَّ اَ۬لْجَحِيمَ | لَتَرَوُنَّ اَ۬لۡجَحِيمَ | لَتَرَوُنَّ اَ۬لۡجَحِيمَ | لَتَرَوُنَّ ٱلۡجَحِيمَ | لَتَرَوُنَّ ٱلۡجَحِيمَ | For ye will behold hell-fire. |
+| 7 ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ | Thumma latarawunnahā ʿayna l-yaqīn | ثُمَّ لَتَرَوُنَّهَا عَيۡنَ ٱلۡيَقِينِ | ثُمَّ لَتَرَوُنَّهَا عَيْنَ اَ۬لْيَقِينِ | ثُمَّ لَتَرَوُنَّهَا عَيْنَ اَ۬لْيَقِينِ | ثُمَّ لَتَرَوُنَّهَا عَيۡنَ اَ۬لۡيَقِينِ | ثُمَّ لَتَرَوُنَّهَا عَيۡنَ اَ۬لۡيَقِينِ | ثُمَّ لَتَرَوُنَّهَا عَيۡنَ ٱلۡيَقِينِ | ثُمَّ لَتَرَوُنَّهَا عَيۡنَ ٱلۡيَقِينِ | Aye, ye will behold it with sure vision. |
+| 8 ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ | Thumma latusalunna yawmaʾidhin ʿani n-naʿīm | ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ ٱلنَّعِيمِ | ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ اِ۬لنَّعِيمِۖ | ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ اِ۬لنَّعِيمِۖ | ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ اِ۬لنَّعِيمِ | ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ اِ۬لنَّعِيمِ | ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ ٱلنَّعِيمِ | ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ ٱلنَّعِيمِ | Then, on that day, ye will be asked concerning pleasure. |

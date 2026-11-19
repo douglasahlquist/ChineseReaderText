@@ -2,15 +2,16 @@
 
 # 105. Al-Fil
 
-> Arabic (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Arabic: Hafs ʿan ʿĀṣim (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Riwayat (King Fahd Complex text): Shuʿbah ʿan ʿĀṣim · Warsh ʿan Nāfiʿ · Qālūn ʿan Nāfiʿ · al-Dūrī ʿan Abī ʿAmr · al-Sūsī ʿan Abī ʿAmr · al-Bazzī ʿan Ibn Kathīr · Qunbul ʿan Ibn Kathīr. Rows follow the Hafs verses; ﴿n﴾ marks a riwaya's own verse number where it differs, and an empty cell means that verse began in the row above.
 
 ## Verses 1–5
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 1 أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ | ʾalam tara kayfa faʿala rabbuka biʾaṣḥābi l-fīl | Hast thou not seen how thy Lord dealt with the owners of the Elephant? |
-| 2 أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ | ʾalam yajʿal kaydahum fi taḍlīl | Did He not bring their stratagem to naught, |
-| 3 وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ | Waʾarsala ʿalayhim ṭayran ʾabābīl | And send against them swarms of flying creatures, |
-| 4 تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ | Tarmīhim biḥijāratin min sijjīl | Which pelted them with stones of baked clay, |
-| 5 فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ | Fajaʿalahum kaʿaṣfin maʾkūl | And made them like green crops devoured (by cattle)? |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ | ʾalam tara kayfa faʿala rabbuka biʾaṣḥābi l-fīl | أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ | اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ اِ۬لْفِيلِۖ | أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ اِ۬لْفِيلِۖ | أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ اِ۬لۡفِيلِ | أَلَمۡ تَرَ كَيۡف فَّعَل رَّبُّكَ بِأَصۡحَٰبِ اِ۬لۡفِيلِ | أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ | أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ | Hast thou not seen how thy Lord dealt with the owners of the Elephant? |
+| 2 أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ | ʾalam yajʿal kaydahum fi taḍlīl | أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلٖ | أَلَمْ يَجْعَلْ كَيْدَهُمْ فِے تَضْلِيلٖ | أَلَمْ يَجْعَلْ كَيْدَهُمْ فِے تَضْلِيلٖ | أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلٖ | أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلٖ | أَلَمۡ يَجۡعَلۡ كَيۡدَهُمُۥ فِي تَضۡلِيلٖ | أَلَمۡ يَجۡعَلۡ كَيۡدَهُمُۥ فِي تَضۡلِيلٖ | Did He not bring their stratagem to naught, |
+| 3 وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ | Waʾarsala ʿalayhim ṭayran ʾabābīl | وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ | وَأَرْسَلَ عَلَيْهِمْ طَيْراً اَبَابِيلَ | وَأَرْسَلَ عَلَيْهِمْ طَيْراً أَبَابِيلَ | وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ | وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ | وَأَرۡسَلَ عَلَيۡهِمُۥ طَيۡرًا أَبَابِيلَ | وَأَرۡسَلَ عَلَيۡهِمُۥ طَيۡرًا أَبَابِيلَ | And send against them swarms of flying creatures, |
+| 4 تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ | Tarmīhim biḥijāratin min sijjīl | تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ | تَرْمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ | تَرْمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ | تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ | تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ | تَرۡمِيهِمُۥ بِحِجَارَةٖ مِّن سِجِّيلٖ | تَرۡمِيهِمُۥ بِحِجَارَةٖ مِّن سِجِّيلٖ | Which pelted them with stones of baked clay, |
+| 5 فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ | Fajaʿalahum kaʿaṣfin maʾkūl | فَجَعَلَهُمۡ كَعَصۡفٖ مَّأۡكُولِۭ | فَجَعَلَهُمْ كَعَصْفٖ مَّاكُولٖۖ | فَجَعَلَهُمْ كَعَصْفٖ مَّأْكُولِۢۖ | فَجَعَلَهُمۡ كَعَصۡفٖ مَّأۡكُولِۢ | فَجَعَلَهُمۡ كَعَصۡفٖ مَّاكُولِۢ | فَجَعَلَهُمُۥ كَعَصۡفٖ مَّأۡكُولِۭ | فَجَعَلَهُمُۥ كَعَصۡفٖ مَّأۡكُولِۭ | And made them like green crops devoured (by cattle)? |

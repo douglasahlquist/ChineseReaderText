@@ -2,17 +2,18 @@
 
 # 1. Al-Fatihah
 
-> Arabic (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Arabic: Hafs ʿan ʿĀṣim (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Riwayat (King Fahd Complex text): Shuʿbah ʿan ʿĀṣim · Warsh ʿan Nāfiʿ · Qālūn ʿan Nāfiʿ · al-Dūrī ʿan Abī ʿAmr · al-Sūsī ʿan Abī ʿAmr · al-Bazzī ʿan Ibn Kathīr · Qunbul ʿan Ibn Kathīr. Rows follow the Hafs verses; ﴿n﴾ marks a riwaya's own verse number where it differs, and an empty cell means that verse began in the row above.
 
 ## Verses 1–7
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 1 بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ | Bismi llāhi r-raḥmāni r-raḥīm | In the name of Allah, the Beneficent, the Merciful. |
-| 2 ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ | Al-ḥamdu lillāhi rabbi l-ʿālamīn | Praise be to Allah, Lord of the Worlds, |
-| 3 ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ | Ar-raḥmāni r-raḥīm | The Beneficent, the Merciful. |
-| 4 مَـٰلِكِ يَوْمِ ٱلدِّينِ | Māliki yawmi d-dīn | Master of the Day of Judgment, |
-| 5 إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ | ʾiyyāka naʿbudu waʾiyyāka nastaʿīn | Thee (alone) we worship; Thee (alone) we ask for help. |
-| 6 ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ | Ihdinā ṣ-ṣirāṭa l-mustaqīm | Show us the straight path, |
-| 7 صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ | Ṣirāṭa ladhīna ʾanʿamta ʿalayhim ghayri l-maghḍūbi ʿalayhim walā ḍ-ḍāllīn | The path of those whom Thou hast favoured; Not the (path) of those who earn Thine anger nor of those who go astray. |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ | Bismi llāhi r-raḥmāni r-raḥīm | بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ |  |  |  |  | بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ | بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ | In the name of Allah, the Beneficent, the Merciful. |
+| 2 ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ | Al-ḥamdu lillāhi rabbi l-ʿālamīn | ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ | اِ۬لْحَمْدُ لِلهِ رَبِّ اِ۬لْعَٰلَمِينَ ﴿١﴾ | اِ۬لْحَمْدُ لِلهِ رَبِّ اِ۬لْعَٰلَمِينَ ﴿١﴾ | اِ۬لۡحَمۡدُ لِلَّهِ رَبِّ اِ۬لۡعَٰلَمِينَ ﴿١﴾ | اِ۬لۡحَمۡدُ لِلَّهِ رَبِّ اِ۬لۡعَٰلَمِينَ ﴿١﴾ | ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ | ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ | Praise be to Allah, Lord of the Worlds, |
+| 3 ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ | Ar-raḥmāni r-raḥīm | ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ | اَ۬لرَّحْمَٰنِ اِ۬لرَّحِيمِ ﴿٢﴾ | اَ۬لرَّحْمَٰنِ اِ۬لرَّحِيمِ ﴿٢﴾ | اَ۬لرَّحۡمَٰنِ اِ۬لرَّحِيمِ ﴿٢﴾ | اَ۬لرَّحۡمَٰنِ اِ۬لرَّحِيم ﴿٢﴾ | ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ | ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ | The Beneficent, the Merciful. |
+| 4 مَـٰلِكِ يَوْمِ ٱلدِّينِ | Māliki yawmi d-dīn | مَٰلِكِ يَوۡمِ ٱلدِّينِ | مَلِكِ يَوْمِ اِ۬لدِّينِۖ ﴿٣﴾ | مَلِكِ يَوْمِ اِ۬لدِّينِۖ ﴿٣﴾ | مَلِكِ يَوۡمِ اِ۬لدِّينِ ﴿٣﴾ | مَّلِكِ يَوۡمِ اِ۬لدِّينِ ﴿٣﴾ | مَلِكِ يَوۡمِ ٱلدِّينِ | مَلِكِ يَوۡمِ ٱلدِّينِ | Master of the Day of Judgment, |
+| 5 إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ | ʾiyyāka naʿbudu waʾiyyāka nastaʿīn | إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ | إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُۖ ﴿٤﴾ | إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُۖ ﴿٤﴾ | إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ ﴿٤﴾ | إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ ﴿٤﴾ | إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ | إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ | Thee (alone) we worship; Thee (alone) we ask for help. |
+| 6 ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ | Ihdinā ṣ-ṣirāṭa l-mustaqīm | ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ | اُ۪هْدِنَا اَ۬لصِّرَٰطَ اَ۬لْمُسْتَقِيمَ ﴿٥﴾ | اُ۪هْدِنَا اَ۬لصِّرَٰطَ اَ۬لْمُسْتَقِيمَ ﴿٥﴾ | اُ۪هۡدِنَا اَ۬لصِّرَٰطَ اَ۬لۡمُسۡتَقِيمَ ﴿٥﴾ | اُ۪هۡدِنَا اَ۬لصِّرَٰطَ اَ۬لۡمُسۡتَقِيمَ ﴿٥﴾ | ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ | ٱهۡدِنَا ٱلصِّۜرَٰطَ ٱلۡمُسۡتَقِيمَ | Show us the straight path, |
+| 7 صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ | Ṣirāṭa ladhīna ʾanʿamta ʿalayhim ghayri l-maghḍūbi ʿalayhim walā ḍ-ḍāllīn | صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ | صِرَٰطَ اَ۬لذِينَ أَنْعَمْتَ عَلَيْهِمْ ﴿٦﴾ غَيْرِ اِ۬لْمَغْضُوبِ عَلَيْهِمْ وَلَا اَ۬لضَّآلِّينَۖ ﴿٧﴾ | صِرَٰطَ اَ۬لذِينَ أَنْعَمْتَ عَلَيْهِمْ ﴿٦﴾ غَيْرِ اِ۬لْمَغْضُوبِ عَلَيْهِمْ وَلَا اَ۬لضَّآلِّينَۖ ﴿٧﴾ | صِرَٰطَ اَ۬لَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ ﴿٦﴾ غَيۡرِ اِ۬لۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا اَ۬لضَّآلِّينَ ﴿٧﴾ | صِرَٰطَ اَ۬لَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ ﴿٦﴾ غَيۡرِ اِ۬لۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا اَ۬لضَّآلِّينَ ﴿٧﴾ | صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمُۥ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمُۥ وَلَا ٱلضَّآلِّينَ | صِۜرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمُۥ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمُۥ وَلَا ٱلضَّآلِّينَ | The path of those whom Thou hast favoured; Not the (path) of those who earn Thine anger nor of those who go astray. |

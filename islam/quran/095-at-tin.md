@@ -2,18 +2,19 @@
 
 # 95. At-Tin
 
-> Arabic (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Arabic: Hafs ʿan ʿĀṣim (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Riwayat (King Fahd Complex text): Shuʿbah ʿan ʿĀṣim · Warsh ʿan Nāfiʿ · Qālūn ʿan Nāfiʿ · al-Dūrī ʿan Abī ʿAmr · al-Sūsī ʿan Abī ʿAmr · al-Bazzī ʿan Ibn Kathīr · Qunbul ʿan Ibn Kathīr. Rows follow the Hafs verses; ﴿n﴾ marks a riwaya's own verse number where it differs, and an empty cell means that verse began in the row above.
 
 ## Verses 1–8
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 1 وَٱلتِّينِ وَٱلزَّيْتُونِ | Walttīni walzzaytūn | By the fig and the olive, |
-| 2 وَطُورِ سِينِينَ | Waṭūri sīnīn | By Mount Sinai, |
-| 3 وَهَـٰذَا ٱلْبَلَدِ ٱلْأَمِينِ | Wahādhā l-baladi l-ʾamīn | And by this land made safe; |
-| 4 لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ | Laqad khalaqnā l-ʾinsāna fi ʾaḥsani taqwīm | Surely We created man of the best stature |
-| 5 ثُمَّ رَدَدْنَـٰهُ أَسْفَلَ سَـٰفِلِينَ | Thumma radadnāhu ʾasfala sāfilīn | Then we reduced him to the lowest of the low, |
-| 6 إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ | ʾillā ladhīna ʾāmanū waʿamilū ṣ-ṣāliḥāti falahum ʾajrun ghayru mamnūn | Save those who believe and do good works, and theirs is a reward unfailing. |
-| 7 فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ | Famā yukadhdhibuka baʿdu bilddīn | So who henceforth will give the lie to thee about the judgment? |
-| 8 أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ | ʾalaysa llāhu biʾaḥkami l-ḥākimīn | Is not Allah the most conclusive of all judges? |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 وَٱلتِّينِ وَٱلزَّيْتُونِ | Walttīni walzzaytūn | وَٱلتِّينِ وَٱلزَّيۡتُونِ | وَالتِّينِ وَالزَّيْتُونِ | وَالتِّينِ وَالزَّيْتُونِ | وَاَلتِّينِ وَاَلزَّيۡتُونِ | وَاَلتِّينِ وَاَلزَّيۡتُونِ | وَٱلتِّينِ وَٱلزَّيۡتُونِ | وَٱلتِّينِ وَٱلزَّيۡتُونِ | By the fig and the olive, |
+| 2 وَطُورِ سِينِينَ | Waṭūri sīnīn | وَطُورِ سِينِينَ | وَطُورِ سِينِينَ | وَطُورِ سِينِينَ | وَطُورِ سِينِينَ | وَطُورِ سِينِينَ | وَطُورِ سِينِينَ | وَطُورِ سِينِينَ | By Mount Sinai, |
+| 3 وَهَـٰذَا ٱلْبَلَدِ ٱلْأَمِينِ | Wahādhā l-baladi l-ʾamīn | وَهَٰذَا ٱلۡبَلَدِ ٱلۡأَمِينِ | وَهَٰذَا اَ۬لْبَلَدِ اِ۬لَامِينِ | وَهَٰذَا اَ۬لْبَلَدِ اِ۬لْأَمِينِ | وَهَٰذَا اَ۬لۡبَلَدِ اِ۬لۡأَمِينِ | وَهَٰذَا اَ۬لۡبَلَدِ اِ۬لۡأَمِينِ | وَهَٰذَا ٱلۡبَلَدِ ٱلۡأَمِينِ | وَهَٰذَا ٱلۡبَلَدِ ٱلۡأَمِينِ | And by this land made safe; |
+| 4 لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ | Laqad khalaqnā l-ʾinsāna fi ʾaḥsani taqwīm | لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِيٓ أَحۡسَنِ تَقۡوِيمٖ | لَقَدْ خَلَقْنَا اَ۬لِانسَٰنَ فِےٓ أَحْسَنِ تَقْوِيمٖ | لَقَدْ خَلَقْنَا اَ۬لْإِنسَٰنَ فِے أَحْسَنِ تَقْوِيمٖ | لَقَدۡ خَلَقۡنَا اَ۬لۡإِنسَٰنَ فِيٓ أَحۡسَنِ تَقۡوِيمٖ | لَقَدۡ خَلَقۡنَا اَ۬لۡإِنسَٰنَ فِي أَحۡسَنِ تَقۡوِيمٖ | لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِي أَحۡسَنِ تَقۡوِيمٖ | لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِي أَحۡسَنِ تَقۡوِيمٖ | Surely We created man of the best stature |
+| 5 ثُمَّ رَدَدْنَـٰهُ أَسْفَلَ سَـٰفِلِينَ | Thumma radadnāhu ʾasfala sāfilīn | ثُمَّ رَدَدۡنَٰهُ أَسۡفَلَ سَٰفِلِينَ | ثُمَّ رَدَدْنَٰهُ أَسْفَلَ سَٰفِلِينَ | ثُمَّ رَدَدْنَٰهُ أَسْفَلَ سَٰفِلِينَ | ثُمَّ رَدَدۡنَٰهُ أَسۡفَلَ سَٰفِلِينَ | ثُمَّ رَدَدۡنَٰهُ أَسۡفَلَ سَٰفِلِينَ | ثُمَّ رَدَدۡنَٰهُۥ أَسۡفَلَ سَٰفِلِينَ | ثُمَّ رَدَدۡنَٰهُۥ أَسۡفَلَ سَٰفِلِينَ | Then we reduced him to the lowest of the low, |
+| 6 إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ | ʾillā ladhīna ʾāmanū waʿamilū ṣ-ṣāliḥāti falahum ʾajrun ghayru mamnūn | إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَلَهُمۡ أَجۡرٌ غَيۡرُ مَمۡنُونٖ | إِلَّا اَ۬لذِينَ ءَامَنُواْ وَعَمِلُواْ اُ۬لصَّٰلِحَٰتِ فَلَهُمُۥٓ أَجْرٌ غَيْرُ مَمْنُونٖۖ | إِلَّا اَ۬لذِينَ ءَامَنُواْ وَعَمِلُواْ اُ۬لصَّٰلِحَٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٖۖ | إِلَّا اَ۬لَّذِينَ ءَامَنُواْ وَعَمِلُواْ اُ۬لصَّٰلِحَٰتِ فَلَهُمۡ أَجۡرٌ غَيۡرُ مَمۡنُونٖ | إِلَّا اَ۬لَّذِينَ ءَامَنُواْ وَعَمِلُواْ اُ۬لصَّٰلِحَٰتِ فَلَهُمۡ أَجۡرٌ غَيۡرُ مَمۡنُونٖ | إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَلَهُمُۥ أَجۡرٌ غَيۡرُ مَمۡنُونٖ | إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَلَهُمُۥ أَجۡرٌ غَيۡرُ مَمۡنُونٖ | Save those who believe and do good works, and theirs is a reward unfailing. |
+| 7 فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ | Famā yukadhdhibuka baʿdu bilddīn | فَمَا يُكَذِّبُكَ بَعۡدُ بِٱلدِّينِ | فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِۖ | فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِۖ | فَمَا يُكَذِّبُكَ بَعۡدُ بِالدِّينِ | فَمَا يُكَذِّبُكَ بَعۡدُ بِالدِّينِ | فَمَا يُكَذِّبُكَ بَعۡدُ بِٱلدِّينِ | فَمَا يُكَذِّبُكَ بَعۡدُ بِٱلدِّينِ | So who henceforth will give the lie to thee about the judgment? |
+| 8 أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ | ʾalaysa llāhu biʾaḥkami l-ḥākimīn | أَلَيۡسَ ٱللَّهُ بِأَحۡكَمِ ٱلۡحَٰكِمِينَ | أَلَيْسَ اَ۬للَّهُ بِأَحْكَمِ اِ۬لْحَٰكِمِينَۖ | أَلَيْسَ اَ۬للَّهُ بِأَحْكَمِ اِ۬لْحَٰكِمِينَۖ | أَلَيۡسَ اَ۬للَّهُ بِأَحۡكَمِ اِ۬لۡحَٰكِمِينَ | أَلَيۡسَ اَ۬للَّهُ بِأَحۡكَمِ اِ۬لۡحَٰكِمِينَ | أَلَيۡسَ ٱللَّهُ بِأَحۡكَمِ ٱلۡحَٰكِمِينَ | أَلَيۡسَ ٱللَّهُ بِأَحۡكَمِ ٱلۡحَٰكِمِينَ | Is not Allah the most conclusive of all judges? |

@@ -2,43 +2,44 @@
 
 # 92. Al-Layl
 
-> Arabic (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Arabic: Hafs ʿan ʿĀṣim (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Riwayat (King Fahd Complex text): Shuʿbah ʿan ʿĀṣim · Warsh ʿan Nāfiʿ · Qālūn ʿan Nāfiʿ · al-Dūrī ʿan Abī ʿAmr · al-Sūsī ʿan Abī ʿAmr · al-Bazzī ʿan Ibn Kathīr · Qunbul ʿan Ibn Kathīr. Rows follow the Hafs verses; ﴿n﴾ marks a riwaya's own verse number where it differs, and an empty cell means that verse began in the row above.
 
 ## Verses 1–10
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 1 وَٱلَّيْلِ إِذَا يَغْشَىٰ | Wallayli ʾidhā yaghshā | By the night enshrouding |
-| 2 وَٱلنَّهَارِ إِذَا تَجَلَّىٰ | Walnnahāri ʾidhā tajallā | And the day resplendent |
-| 3 وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ | Wamā khalaqa dh-dhakara walʾunthā | And Him Who hath created male and female, |
-| 4 إِنَّ سَعْيَكُمْ لَشَتَّىٰ | ʾinna saʿyakum lashattā | Lo! your effort is dispersed (toward divers ends). |
-| 5 فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ | Faʾammā man ʾaʿṭā wattaqā | As for him who giveth and is dutiful (toward Allah) |
-| 6 وَصَدَّقَ بِٱلْحُسْنَىٰ | Waṣaddaqa bilḥusnā | And believeth in goodness; |
-| 7 فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ | Fasanuyassiruhu lilyusrā | Surely We will ease his way unto the state of ease. |
-| 8 وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ | Waʾammā man bakhila wastaghnā | But as for him who hoardeth and deemeth himself independent, |
-| 9 وَكَذَّبَ بِٱلْحُسْنَىٰ | Wakadhdhaba bilḥusnā | And disbelieveth in goodness; |
-| 10 فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ | Fasanuyassiruhu lilʿusrā | Surely We will ease his way unto adversity. |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 وَٱلَّيْلِ إِذَا يَغْشَىٰ | Wallayli ʾidhā yaghshā | وَٱلَّيۡلِ إِذَا يَغۡشَىٰ | وَاليْلِ إِذَا يَغْش۪ىٰ | وَاليْلِ إِذَا يَغْشَىٰ | وَاَلَّيۡلِ إِذَا يَغۡشۭيٰ | وَاَلَّيۡلِ إِذَا يَغۡشۭيٰ | وَٱلَّيۡلِ إِذَا يَغۡشَىٰ | وَٱلَّيۡلِ إِذَا يَغۡشَىٰ | By the night enshrouding |
+| 2 وَٱلنَّهَارِ إِذَا تَجَلَّىٰ | Walnnahāri ʾidhā tajallā | وَٱلنَّهَارِ إِذَا تَجَلَّىٰ | وَالنَّه۪ارِ إِذَا تَجَلّ۪ىٰ | وَالنَّهَارِ إِذَا تَجَلَّىٰ | وَاَلنَّه۪ارِ إِذَا تَجَلّۭيٰ | وَاَلنَّه۪ارِ إِذَا تَجَلّۭيٰ | وَٱلنَّهَارِ إِذَا تَجَلَّىٰ | وَٱلنَّهَارِ إِذَا تَجَلَّىٰ | And the day resplendent |
+| 3 وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ | Wamā khalaqa dh-dhakara walʾunthā | وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ | وَمَا خَلَقَ اَ۬لذَّكَرَ وَالُانث۪ىٰٓ | وَمَا خَلَقَ اَ۬لذَّكَرَ وَالْأُنثَىٰ | وَمَا خَلَقَ اَ۬لذَّكَرَ وَاَلۡأُنثۭيٰٓ | وَمَا خَلَقَ اَ۬لذَّكَرَ وَاَلۡأُنثۭيٰ | وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰ | وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰ | And Him Who hath created male and female, |
+| 4 إِنَّ سَعْيَكُمْ لَشَتَّىٰ | ʾinna saʿyakum lashattā | إِنَّ سَعۡيَكُمۡ لَشَتَّىٰ | إِنَّ سَعْيَكُمْ لَشَتّ۪ىٰۖ | إِنَّ سَعْيَكُمْ لَشَتَّىٰۖ | إِنَّ سَعۡيَكُمۡ لَشَتّۭيٰ | إِنَّ سَعۡيَكُمۡ لَشَتّۭيٰ | إِنَّ سَعۡيَكُمُۥ لَشَتَّىٰ | إِنَّ سَعۡيَكُمُۥ لَشَتَّىٰ | Lo! your effort is dispersed (toward divers ends). |
+| 5 فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ | Faʾammā man ʾaʿṭā wattaqā | فَأَمَّا مَنۡ أَعۡطَىٰ وَٱتَّقَىٰ | فَأَمَّا مَنَ اَعْط۪ىٰ وَاتَّق۪ىٰ | فَأَمَّا مَنْ أَعْطَىٰ وَاتَّقَىٰ | فَأَمَّا مَنۡ أَعۡطَىٰ وَاَتَّقۭيٰ | فَأَمَّا مَنۡ أَعۡطَىٰ وَاَتَّقۭيٰ | فَأَمَّا مَنۡ أَعۡطَىٰ وَٱتَّقَىٰ | فَأَمَّا مَنۡ أَعۡطَىٰ وَٱتَّقَىٰ | As for him who giveth and is dutiful (toward Allah) |
+| 6 وَصَدَّقَ بِٱلْحُسْنَىٰ | Waṣaddaqa bilḥusnā | وَصَدَّقَ بِٱلۡحُسۡنَىٰ | وَصَدَّقَ بِالْحُسْن۪ىٰ | وَصَدَّقَ بِالْحُسْنَىٰ | وَصَدَّقَ بِالۡحُسۡنۭيٰ | وَصَدَّقَ بِالۡحُسۡنۭيٰ | وَصَدَّقَ بِٱلۡحُسۡنَىٰ | وَصَدَّقَ بِٱلۡحُسۡنَىٰ | And believeth in goodness; |
+| 7 فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ | Fasanuyassiruhu lilyusrā | فَسَنُيَسِّرُهُۥ لِلۡيُسۡرَىٰ | فَسَنُيَسِّرُهُۥ لِلْيُسْر۪ىٰۖ | فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰۖ | فَسَنُيَسِّرُهُۥ لِلۡيُسۡر۪يٰ | فَسَنُيَسِّرُهُۥ لِلۡيُسۡر۪يٰ | فَسَنُيَسِّرُهُۥ لِلۡيُسۡرَىٰ | فَسَنُيَسِّرُهُۥ لِلۡيُسۡرَىٰ | Surely We will ease his way unto the state of ease. |
+| 8 وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ | Waʾammā man bakhila wastaghnā | وَأَمَّا مَنۢ بَخِلَ وَٱسۡتَغۡنَىٰ | وَأَمَّا مَنۢ بَخِلَ وَاسْتَغْن۪ىٰ | وَأَمَّا مَنۢ بَخِلَ وَاسْتَغْنَىٰ | وَأَمَّا مَنۢ بَخِلَ وَاَسۡتَغۡنۭيٰ | وَأَمَّا مَنۢ بَخِلَ وَاَسۡتَغۡنۭيٰ | وَأَمَّا مَنۢ بَخِلَ وَٱسۡتَغۡنَىٰ | وَأَمَّا مَنۢ بَخِلَ وَٱسۡتَغۡنَىٰ | But as for him who hoardeth and deemeth himself independent, |
+| 9 وَكَذَّبَ بِٱلْحُسْنَىٰ | Wakadhdhaba bilḥusnā | وَكَذَّبَ بِٱلۡحُسۡنَىٰ | وَكَذَّبَ بِالْحُسْن۪ىٰ | وَكَذَّبَ بِالْحُسْنَىٰ | وَكَذَّبَ بِالۡحُسۡنۭيٰ | وَكَذَّب بِّالۡحُسۡنۭيٰ | وَكَذَّبَ بِٱلۡحُسۡنَىٰ | وَكَذَّبَ بِٱلۡحُسۡنَىٰ | And disbelieveth in goodness; |
+| 10 فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ | Fasanuyassiruhu lilʿusrā | فَسَنُيَسِّرُهُۥ لِلۡعُسۡرَىٰ | فَسَنُيَسِّرُهُۥ لِلْعُسْر۪ىٰۖ | فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰۖ | فَسَنُيَسِّرُهُۥ لِلۡعُسۡر۪يٰ | فَسَنُيَسِّرُهُۥ لِلۡعُسۡر۪يٰ | فَسَنُيَسِّرُهُۥ لِلۡعُسۡرَىٰ | فَسَنُيَسِّرُهُۥ لِلۡعُسۡرَىٰ | Surely We will ease his way unto adversity. |
 
 ## Verses 11–20
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 11 وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ | Wamā yughni ʿanhu māluhu ʾidhā taraddā | His riches will not save him when he perisheth. |
-| 12 إِنَّ عَلَيْنَا لَلْهُدَىٰ | ʾinna ʿalaynā lalhudā | Lo! Ours it is (to give) the guidance |
-| 13 وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ | Waʾinna lanā lalākhirata walʾūlā | And lo! unto Us belong the latter portion and the former. |
-| 14 فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ | Faʾandhartukum nāran talaẓẓā | Therefor have I warned you of the flaming Fire |
-| 15 لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى | Lā yaṣlāhā ʾillā l-ʾashqā | Which only the most wretched must endure, |
-| 16 ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ | Alladhi kadhdhaba watawallā | He who denieth and turneth away. |
-| 17 وَسَيُجَنَّبُهَا ٱلْأَتْقَى | Wasayujannabuhā l-ʾatqā | Far removed from it will be the righteous |
-| 18 ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ | Alladhi yuʾti mālahu yatazakkā | Who giveth his wealth that he may grow (in goodness). |
-| 19 وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ | Wamā liʾaḥadin ʿindahu min niʿmatin tujzā | And none hath with him any favour for reward, |
-| 20 إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ | ʾillā btighāʾa wajhi rabbihi l-ʾaʿlā | Except as seeking (to fulfil) the purpose of his Lord Most High. |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 11 وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ | Wamā yughni ʿanhu māluhu ʾidhā taraddā | وَمَا يُغۡنِي عَنۡهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ | وَمَا يُغْنِے عَنْهُ مَالُهُۥٓ إِذَا تَرَدّ۪ىٰٓۖ | وَمَا يُغْنِے عَنْهُ مَالُهُۥ إِذَا تَرَدَّىٰۖ | وَمَا يُغۡنِي عَنۡهُ مَالُهُۥٓ إِذَا تَرَدّۭيٰٓ | وَمَا يُغۡنِي عَنۡهُ مَالُهُۥ إِذَا تَرَدّۭيٰ | وَمَا يُغۡنِي عَنۡهُۥ مَالُهُۥ إِذَا تَرَدَّىٰ | وَمَا يُغۡنِي عَنۡهُۥ مَالُهُۥ إِذَا تَرَدَّىٰ | His riches will not save him when he perisheth. |
+| 12 إِنَّ عَلَيْنَا لَلْهُدَىٰ | ʾinna ʿalaynā lalhudā | إِنَّ عَلَيۡنَا لَلۡهُدَىٰ | إِنَّ عَلَيْنَا لَلْهُد۪ىٰ | إِنَّ عَلَيْنَا لَلْهُدَىٰ | إِنَّ عَلَيۡنَا لَلۡهُدۭيٰ | إِنَّ عَلَيۡنَا لَلۡهُدۭيٰ | إِنَّ عَلَيۡنَا لَلۡهُدَىٰ | إِنَّ عَلَيۡنَا لَلۡهُدَىٰ | Lo! Ours it is (to give) the guidance |
+| 13 وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ | Waʾinna lanā lalākhirata walʾūlā | وَإِنَّ لَنَا لَلۡأٓخِرَةَ وَٱلۡأُولَىٰ | وَإِنَّ لَنَا لَلَاخِرَةَ وَالُاول۪ىٰۖ | وَإِنَّ لَنَا لَلْأٓخِرَةَ وَالْأُولَىٰۖ | وَإِنَّ لَنَا لَلۡأٓخِرَةَ وَاَلۡأُولۭيٰ | وَإِنَّ لَنَا لَلۡأٓخِرَةَ وَاَلۡأُولۭيٰ | وَإِنَّ لَنَا لَلۡأٓخِرَةَ وَٱلۡأُولَىٰ | وَإِنَّ لَنَا لَلۡأٓخِرَةَ وَٱلۡأُولَىٰ | And lo! unto Us belong the latter portion and the former. |
+| 14 فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ | Faʾandhartukum nāran talaẓẓā | فَأَنذَرۡتُكُمۡ نَارٗا تَلَظَّىٰ | فَأَنذَرْتُكُمْ نَاراٗ تَلَظّ۪ىٰ | فَأَنذَرْتُكُمْ نَاراٗ تَلَظَّىٰ | فَأَنذَرۡتُكُمۡ نَارٗا تَلَظّۭيٰ | فَأَنذَرۡتُكُمۡ نَارٗا تَلَظّۭيٰ | فَأَنذَرۡتُكُمُۥ نَارٗا تَّلَظَّىٰ | فَأَنذَرۡتُكُمُۥ نَارٗا تَلَظَّىٰ | Therefor have I warned you of the flaming Fire |
+| 15 لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى | Lā yaṣlāhā ʾillā l-ʾashqā | لَا يَصۡلَىٰهَآ إِلَّا ٱلۡأَشۡقَى | لَا يَصْلَيٰهَآ إِلَّا اَ۬لَاشْقَي | لَا يَصْلَيٰهَا إِلَّا اَ۬لْأَشْقَى | لَا يَصۡلَىٰهَآ إِلَّا اَ۬لۡأَشۡقَى | لَا يَصۡلَىٰهَا إِلَّا اَ۬لۡأَشۡقَى | لَا يَصۡلَىٰهَا إِلَّا ٱلۡأَشۡقَى | لَا يَصۡلَىٰهَا إِلَّا ٱلۡأَشۡقَى | Which only the most wretched must endure, |
+| 16 ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ | Alladhi kadhdhaba watawallā | ٱلَّذِي كَذَّبَ وَتَوَلَّىٰ | اَ۬لذِے كَذَّبَ وَتَوَلّ۪ىٰۖ | اَ۬لذِے كَذَّبَ وَتَوَلَّىٰۖ | اَ۬لَّذِي كَذَّبَ وَتَوَلّۭيٰ | اَ۬لَّذِي كَذَّبَ وَتَوَلّۭيٰ | ٱلَّذِي كَذَّبَ وَتَوَلَّىٰ | ٱلَّذِي كَذَّبَ وَتَوَلَّىٰ | He who denieth and turneth away. |
+| 17 وَسَيُجَنَّبُهَا ٱلْأَتْقَى | Wasayujannabuhā l-ʾatqā | وَسَيُجَنَّبُهَا ٱلۡأَتۡقَى | وَسَيُجَنَّبُهَا اَ۬لَاتْقَي | وَسَيُجَنَّبُهَا اَ۬لْأَتْقَى | وَسَيُجَنَّبُهَا اَ۬لۡأَتۡقَى | وَسَيُجَنَّبُهَا اَ۬لۡأَتۡقَى | وَسَيُجَنَّبُهَا ٱلۡأَتۡقَى | وَسَيُجَنَّبُهَا ٱلۡأَتۡقَى | Far removed from it will be the righteous |
+| 18 ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ | Alladhi yuʾti mālahu yatazakkā | ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ | اَ۬لذِے يُوتِے مَالَهُۥ يَتَزَكّ۪ىٰۖ | اَ۬لذِے يُؤْتِے مَالَهُۥ يَتَزَكَّىٰۖ | اَ۬لَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكّۭيٰ | اَ۬لَّذِي يُوتِي مَالَهُۥ يَتَزَكّۭيٰ | ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ | ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ | Who giveth his wealth that he may grow (in goodness). |
+| 19 وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ | Wamā liʾaḥadin ʿindahu min niʿmatin tujzā | وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةٖ تُجۡزَىٰٓ | وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٖ تُجْز۪ىٰٓ | وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٖ تُجْزَىٰ | وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةٖ تُجۡزۭيٰٓ | وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةٖ تُجۡزۭيٰ | وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةٖ تُجۡزَىٰ | وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةٖ تُجۡزَىٰ | And none hath with him any favour for reward, |
+| 20 إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ | ʾillā btighāʾa wajhi rabbihi l-ʾaʿlā | إِلَّا ٱبۡتِغَآءَ وَجۡهِ رَبِّهِ ٱلۡأَعۡلَىٰ | إِلَّا اَ۪بْتِغَآءَ وَجْهِ رَبِّهِ اِ۬لَاعْل۪ىٰۖ | إِلَّا اَ۪بْتِغَآءَ وَجْهِ رَبِّهِ اِ۬لْأَعْلَىٰۖ | إِلَّا اَ۪بۡتِغَآءَ وَجۡهِ رَبِّهِ اِ۬لۡأَعۡلۭيٰ | إِلَّا اَ۪بۡتِغَآءَ وَجۡهِ رَبِّهِ اِ۬لۡأَعۡلۭيٰ | إِلَّا ٱبۡتِغَآءَ وَجۡهِ رَبِّهِ ٱلۡأَعۡلَىٰ | إِلَّا ٱبۡتِغَآءَ وَجۡهِ رَبِّهِ ٱلۡأَعۡلَىٰ | Except as seeking (to fulfil) the purpose of his Lord Most High. |
 
 ## Verse 21
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 21 وَلَسَوْفَ يَرْضَىٰ | Walasawfa yarḍā | He verily will be content. |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 21 وَلَسَوْفَ يَرْضَىٰ | Walasawfa yarḍā | وَلَسَوۡفَ يَرۡضَىٰ | وَلَسَوْفَ يَرْض۪ىٰۖ | وَلَسَوْفَ يَرْضَىٰۖ | وَلَسَوۡفَ يَرۡضۭيٰ | وَلَسَوۡفَ يَرۡضۭيٰ | وَلَسَوۡفَ يَرۡضَىٰ | وَلَسَوۡفَ يَرۡضَىٰ | He verily will be content. |

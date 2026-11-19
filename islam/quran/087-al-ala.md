@@ -2,35 +2,36 @@
 
 # 87. Al-Ala
 
-> Arabic (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Arabic: Hafs ʿan ʿĀṣim (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Riwayat (King Fahd Complex text): Shuʿbah ʿan ʿĀṣim · Warsh ʿan Nāfiʿ · Qālūn ʿan Nāfiʿ · al-Dūrī ʿan Abī ʿAmr · al-Sūsī ʿan Abī ʿAmr · al-Bazzī ʿan Ibn Kathīr · Qunbul ʿan Ibn Kathīr. Rows follow the Hafs verses; ﴿n﴾ marks a riwaya's own verse number where it differs, and an empty cell means that verse began in the row above.
 
 ## Verses 1–10
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 1 سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى | Sabbiḥi sma rabbika l-ʾaʿlā | Praise the name of thy Lord the Most High, |
-| 2 ٱلَّذِى خَلَقَ فَسَوَّىٰ | Alladhi khalaqa fasawwā | Who createth, then disposeth; |
-| 3 وَٱلَّذِى قَدَّرَ فَهَدَىٰ | Walladhi qaddara fahadā | Who measureth, then guideth; |
-| 4 وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ | Walladhi ʾakhraja l-marʿā | Who bringeth forth the pasturage, |
-| 5 فَجَعَلَهُۥ غُثَآءً أَحْوَىٰ | Fajaʿalahu ghuthāʾan ʾaḥwā | Then turneth it to russet stubble. |
-| 6 سَنُقْرِئُكَ فَلَا تَنسَىٰٓ | Sanuqriʾuka falā tansā | We shall make thee read (O Muhammad) so that thou shalt not forget |
-| 7 إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ | ʾillā mā shāʾa llāhu ʾinnahu yaʿlamu l-jahra wamā yakhfā | Save that which Allah willeth. Lo! He knoweth the disclosed and that which still is hidden; |
-| 8 وَنُيَسِّرُكَ لِلْيُسْرَىٰ | Wanuyassiruka lilyusrā | And We shall ease thy way unto the state of ease. |
-| 9 فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ | Fadhakkir ʾin nafaʿati dh-dhikrā | Therefor remind (men), for of use is the reminder. |
-| 10 سَيَذَّكَّرُ مَن يَخْشَىٰ | Sayadhdhakkaru man yakhshā | He will heed who feareth, |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى | Sabbiḥi sma rabbika l-ʾaʿlā | سَبِّحِ ٱسۡمَ رَبِّكَ ٱلۡأَعۡلَى | سَبِّحِ اِ۪سْمَ رَبِّكَ اَ۬لَاعْلَي | سَبِّحِ اِ۪سْمَ رَبِّكَ اَ۬لْأَعْلَى | سَبِّحِ اِ۪سۡمَ رَبِّكَ اَ۬لۡأَعۡلَى | سَبِّحِ اِ۪سۡمَ رَبِّكَ اَ۬لۡأَعۡلَى | سَبِّحِ ٱسۡمَ رَبِّكَ ٱلۡأَعۡلَى | سَبِّحِ ٱسۡمَ رَبِّكَ ٱلۡأَعۡلَى | Praise the name of thy Lord the Most High, |
+| 2 ٱلَّذِى خَلَقَ فَسَوَّىٰ | Alladhi khalaqa fasawwā | ٱلَّذِي خَلَقَ فَسَوَّىٰ | اَ۬لذِے خَلَقَ فَسَوّ۪ىٰ | اَ۬لذِے خَلَقَ فَسَوَّىٰ | اَ۬لَّذِي خَلَقَ فَسَوّۭيٰ | اَ۬لَّذِي خَلَقَ فَسَوّۭيٰ | ٱلَّذِي خَلَقَ فَسَوَّىٰ | ٱلَّذِي خَلَقَ فَسَوَّىٰ | Who createth, then disposeth; |
+| 3 وَٱلَّذِى قَدَّرَ فَهَدَىٰ | Walladhi qaddara fahadā | وَٱلَّذِي قَدَّرَ فَهَدَىٰ | وَالذِے قَدَّرَ فَهَد۪ىٰ | وَالذِے قَدَّرَ فَهَدَىٰ | وَاَلَّذِي قَدَّرَ فَهَدۭيٰ | وَاَلَّذِي قَدَّرَ فَهَدۭيٰ | وَٱلَّذِي قَدَّرَ فَهَدَىٰ | وَٱلَّذِي قَدَّرَ فَهَدَىٰ | Who measureth, then guideth; |
+| 4 وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ | Walladhi ʾakhraja l-marʿā | وَٱلَّذِيٓ أَخۡرَجَ ٱلۡمَرۡعَىٰ | وَالذِےٓ أَخْرَجَ اَ۬لْمَرْع۪ىٰ | وَالذِے أَخْرَجَ اَ۬لْمَرْعَىٰ | وَاَلَّذِيٓ أَخۡرَجَ اَ۬لۡمَرۡعۭيٰ | وَاَلَّذِي أَخۡرَجَ اَ۬لۡمَرۡعۭيٰ | وَٱلَّذِي أَخۡرَجَ ٱلۡمَرۡعَىٰ | وَٱلَّذِي أَخۡرَجَ ٱلۡمَرۡعَىٰ | Who bringeth forth the pasturage, |
+| 5 فَجَعَلَهُۥ غُثَآءً أَحْوَىٰ | Fajaʿalahu ghuthāʾan ʾaḥwā | فَجَعَلَهُۥ غُثَآءً أَحۡوَىٰ | فَجَعَلَهُۥ غُثَآءً اَحْو۪ىٰۖ | فَجَعَلَهُۥ غُثَآءً أَحْوَىٰۖ | فَجَعَلَهُۥ غُثَآءً أَحۡوۭيٰ | فَجَعَلَهُۥ غُثَآءً أَحۡوۭيٰ | فَجَعَلَهُۥ غُثَآءً أَحۡوَىٰ | فَجَعَلَهُۥ غُثَآءً أَحۡوَىٰ | Then turneth it to russet stubble. |
+| 6 سَنُقْرِئُكَ فَلَا تَنسَىٰٓ | Sanuqriʾuka falā tansā | سَنُقۡرِئُكَ فَلَا تَنسَىٰٓ | سَنُقْرِئُكَ فَلَا تَنس۪ىٰٓ | سَنُقْرِئُكَ فَلَا تَنسَىٰ | سَنُقۡرِئُكَ فَلَا تَنسۭيٰٓ | سَنُقۡرِئُكَ فَلَا تَنسۭيٰ | سَنُقۡرِئُكَ فَلَا تَنسَىٰ | سَنُقۡرِئُكَ فَلَا تَنسَىٰ | We shall make thee read (O Muhammad) so that thou shalt not forget |
+| 7 إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ | ʾillā mā shāʾa llāhu ʾinnahu yaʿlamu l-jahra wamā yakhfā | إِلَّا مَا شَآءَ ٱللَّهُۚ إِنَّهُۥ يَعۡلَمُ ٱلۡجَهۡرَ وَمَا يَخۡفَىٰ | إِلَّا مَا شَآءَ اَ۬للَّهُۖ إِنَّهُۥ يَعْلَمُ اُ۬لْجَهْرَ وَمَا يَخْف۪ىٰۖ | إِلَّا مَا شَآءَ اَ۬للَّهُۖ إِنَّهُۥ يَعْلَمُ اُ۬لْجَهْرَ وَمَا يَخْفَىٰۖ | إِلَّا مَا شَآءَ اَ۬للَّهُۚ إِنَّهُۥ يَعۡلَمُ اُ۬لۡجَهۡرَ وَمَا يَخۡفۭيٰ | إِلَّا مَا شَآءَ اَ۬للَّهُۚ إِنَّهُۥ يَعۡلَمُ اُ۬لۡجَهۡرَ وَمَا يَخۡفۭيٰ | إِلَّا مَا شَآءَ ٱللَّهُۚ إِنَّهُۥ يَعۡلَمُ ٱلۡجَهۡرَ وَمَا يَخۡفَىٰ | إِلَّا مَا شَآءَ ٱللَّهُۚ إِنَّهُۥ يَعۡلَمُ ٱلۡجَهۡرَ وَمَا يَخۡفَىٰ | Save that which Allah willeth. Lo! He knoweth the disclosed and that which still is hidden; |
+| 8 وَنُيَسِّرُكَ لِلْيُسْرَىٰ | Wanuyassiruka lilyusrā | وَنُيَسِّرُكَ لِلۡيُسۡرَىٰ | وَنُيَسِّرُكَ لِلْيُسْر۪ىٰۖ | وَنُيَسِّرُكَ لِلْيُسْرَىٰۖ | وَنُيَسِّرُكَ لِلۡيُسۡر۪يٰ | وَنُيَسِّرُكَ لِلۡيُسۡر۪يٰ | وَنُيَسِّرُكَ لِلۡيُسۡرَىٰ | وَنُيَسِّرُكَ لِلۡيُسۡرَىٰ | And We shall ease thy way unto the state of ease. |
+| 9 فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ | Fadhakkir ʾin nafaʿati dh-dhikrā | فَذَكِّرۡ إِن نَّفَعَتِ ٱلذِّكۡرَىٰ | فَذَكِّرِ اِن نَّفَعَتِ اِ۬لذِّكْر۪ىٰۖ | فَذَكِّرْ إِن نَّفَعَتِ اِ۬لذِّكْرَىٰۖ | فَذَكِّرۡ إِن نَّفَعَتِ اِ۬لذِّكۡر۪يٰ | فَذَكِّرۡ إِن نَّفَعَتِ اِ۬لذِّكۡر۪يٰ | فَذَكِّرۡ إِن نَّفَعَتِ ٱلذِّكۡرَىٰ | فَذَكِّرۡ إِن نَّفَعَتِ ٱلذِّكۡرَىٰ | Therefor remind (men), for of use is the reminder. |
+| 10 سَيَذَّكَّرُ مَن يَخْشَىٰ | Sayadhdhakkaru man yakhshā | سَيَذَّكَّرُ مَن يَخۡشَىٰ | سَيَذَّكَّرُ مَنْ يَّخْش۪ىٰ | سَيَذَّكَّرُ مَنْ يَّخْشَىٰ | سَيَذَّكَّرُ مَن يَخۡشۭيٰ | سَيَذَّكَّرُ مَن يَخۡشۭيٰ | سَيَذَّكَّرُ مَن يَخۡشَىٰ | سَيَذَّكَّرُ مَن يَخۡشَىٰ | He will heed who feareth, |
 
 ## Verses 11–19
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 11 وَيَتَجَنَّبُهَا ٱلْأَشْقَى | Wayatajannabuhā l-ʾashqā | But the most hapless will flout it, |
-| 12 ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ | Alladhi yaṣlā n-nāra l-kubrā | He who will be flung to the great Fire |
-| 13 ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ | Thumma lā yamūtu fīhā walā yaḥyā | Wherein he will neither die nor live. |
-| 14 قَدْ أَفْلَحَ مَن تَزَكَّىٰ | Qad ʾaflaḥa man tazakkā | He is successful who groweth, |
-| 15 وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ | Wadhakara sma rabbihi faṣallā | And remembereth the name of his Lord, so prayeth, |
-| 16 بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا | Bal tuʾthirūna l-ḥayawāta d-dunyā | But ye prefer the life of the world |
-| 17 وَٱلْـَٔاخِرَةُ خَيْرٌ وَأَبْقَىٰٓ | Walākhiratu khayrun waʾabqā | Although the Hereafter is better and more lasting. |
-| 18 إِنَّ هَـٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ | ʾinna hādhā lafi ṣ-ṣuḥufi l-ʾūlā | Lo! This is in the former scrolls. |
-| 19 صُحُفِ إِبْرَٰهِيمَ وَمُوسَىٰ | Ṣuḥufi ʾibrāhīma wamūsā | The Books of Abraham and Moses. |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 11 وَيَتَجَنَّبُهَا ٱلْأَشْقَى | Wayatajannabuhā l-ʾashqā | وَيَتَجَنَّبُهَا ٱلۡأَشۡقَى | وَيَتَجَنَّبُهَا اَ۬لَاشْقَي | وَيَتَجَنَّبُهَا اَ۬لْأَشْقَى | وَيَتَجَنَّبُهَا اَ۬لۡأَشۡقَى | وَيَتَجَنَّبُهَا اَ۬لۡأَشۡقَى | وَيَتَجَنَّبُهَا ٱلۡأَشۡقَى | وَيَتَجَنَّبُهَا ٱلۡأَشۡقَى | But the most hapless will flout it, |
+| 12 ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ | Alladhi yaṣlā n-nāra l-kubrā | ٱلَّذِي يَصۡلَى ٱلنَّارَ ٱلۡكُبۡرَىٰ | اَ۬لذِے يَصْلَى اَ۬لنَّارَ اَ۬لْكُبْر۪ىٰ | اَ۬لذِے يَصْلَى اَ۬لنَّارَ اَ۬لْكُبْرَىٰ | اَ۬لَّذِي يَصۡلَى اَ۬لنَّارَ اَ۬لۡكُبۡر۪يٰ | اَ۬لَّذِي يَصۡلَى اَ۬لنَّارَ اَ۬لۡكُبۡر۪يٰ | ٱلَّذِي يَصۡلَى ٱلنَّارَ ٱلۡكُبۡرَىٰ | ٱلَّذِي يَصۡلَى ٱلنَّارَ ٱلۡكُبۡرَىٰ | He who will be flung to the great Fire |
+| 13 ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ | Thumma lā yamūtu fīhā walā yaḥyā | ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحۡيَىٰ | ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْي۪ىٰۖ | ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰۖ | ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحۡيۭيٰ | ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحۡيۭيٰ | ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحۡيَىٰ | ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحۡيَىٰ | Wherein he will neither die nor live. |
+| 14 قَدْ أَفْلَحَ مَن تَزَكَّىٰ | Qad ʾaflaḥa man tazakkā | قَدۡ أَفۡلَحَ مَن تَزَكَّىٰ | قَدَ اَفْلَحَ مَن تَزَكّ۪ىٰ | قَدْ أَفْلَحَ مَن تَزَكَّىٰ | قَدۡ أَفۡلَحَ مَن تَزَكّۭيٰ | قَدۡ أَفۡلَحَ مَن تَزَكّۭيٰ | قَدۡ أَفۡلَحَ مَن تَزَكَّىٰ | قَدۡ أَفۡلَحَ مَن تَزَكَّىٰ | He is successful who groweth, |
+| 15 وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ | Wadhakara sma rabbihi faṣallā | وَذَكَرَ ٱسۡمَ رَبِّهِۦ فَصَلَّىٰ | وَذَكَرَ اَ۪سْمَ رَبِّهِۦ فَصَلّ۪ىٰۖ | وَذَكَرَ اَ۪سْمَ رَبِّهِۦ فَصَلَّىٰۖ | وَذَكَرَ اَ۪سۡمَ رَبِّهِۦ فَصَلّۭيٰ | وَذَكَرَ اَ۪سۡمَ رَبِّهِۦ فَصَلّۭيٰ | وَذَكَرَ ٱسۡمَ رَبِّهِۦ فَصَلَّىٰ | وَذَكَرَ ٱسۡمَ رَبِّهِۦ فَصَلَّىٰ | And remembereth the name of his Lord, so prayeth, |
+| 16 بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا | Bal tuʾthirūna l-ḥayawāta d-dunyā | بَلۡ تُؤۡثِرُونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا | بَلْ تُوثِرُونَ اَ۬لْحَيَوٰةَ اَ۬لدُّنْي۪ا | بَلْ تُؤْثِرُونَ اَ۬لْحَيَوٰةَ اَ۬لدُّنْيَا | بَلۡ يُؤۡثِرُونَ اَ۬لۡحَيَوٰةَ اَ۬لدُّنۡيۭا | بَلۡ يُوثِرُونَ اَ۬لۡحَيَوٰةَ اَ۬لدُّنۡيۭا | بَلۡ تُؤۡثِرُونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا | بَلۡ تُؤۡثِرُونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا | But ye prefer the life of the world |
+| 17 وَٱلْـَٔاخِرَةُ خَيْرٌ وَأَبْقَىٰٓ | Walākhiratu khayrun waʾabqā | وَٱلۡأٓخِرَةُ خَيۡرٞ وَأَبۡقَىٰٓ | وَالَاخِرَةُ خَيْرٞ وَأَبْق۪ىٰٓۖ | وَالْأٓخِرَةُ خَيْرٞ وَأَبْقَىٰۖ | وَاَلۡأٓخِرَةُ خَيۡرٞ وَأَبۡقۭيٰٓ | وَاَلۡأٓخِرَةُ خَيۡرٞ وَأَبۡقۭيٰ | وَٱلۡأٓخِرَةُ خَيۡرٞ وَأَبۡقَىٰ | وَٱلۡأٓخِرَةُ خَيۡرٞ وَأَبۡقَىٰ | Although the Hereafter is better and more lasting. |
+| 18 إِنَّ هَـٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ | ʾinna hādhā lafi ṣ-ṣuḥufi l-ʾūlā | إِنَّ هَٰذَا لَفِي ٱلصُّحُفِ ٱلۡأُولَىٰ | إِنَّ هَٰذَا لَفِے اِ۬لصُّحُفِ اِ۬لُاول۪ىٰ | إِنَّ هَٰذَا لَفِے اِ۬لصُّحُفِ اِ۬لْأُولَىٰ | إِنَّ هَٰذَا لَفِي اِ۬لصُّحُفِ اِ۬لۡأُولۭيٰ | إِنَّ هَٰذَا لَفِي اِ۬لصُّحُفِ اِ۬لۡأُولۭيٰ | إِنَّ هَٰذَا لَفِي ٱلصُّحُفِ ٱلۡأُولَىٰ | إِنَّ هَٰذَا لَفِي ٱلصُّحُفِ ٱلۡأُولَىٰ | Lo! This is in the former scrolls. |
+| 19 صُحُفِ إِبْرَٰهِيمَ وَمُوسَىٰ | Ṣuḥufi ʾibrāhīma wamūsā | صُحُفِ إِبۡرَٰهِيمَ وَمُوسَىٰ | صُحُفِ إِبْرَٰهِيمَ وَمُوس۪ىٰۖ | صُحُفِ إِبْرَٰهِيمَ وَمُوسَىٰۖ | صُحُفِ إِبۡرَٰهِيمَ وَمُوسۭيٰ | صُحُفِ إِبۡرَٰهِيمَ وَمُوسۭيٰ | صُحُفِ إِبۡرَٰهِيمَ وَمُوسَىٰ | صُحُفِ إِبۡرَٰهِيمَ وَمُوسَىٰ | The Books of Abraham and Moses. |

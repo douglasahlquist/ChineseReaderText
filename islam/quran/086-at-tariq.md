@@ -2,33 +2,34 @@
 
 # 86. At-Tariq
 
-> Arabic (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Arabic: Hafs ʿan ʿĀṣim (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Riwayat (King Fahd Complex text): Shuʿbah ʿan ʿĀṣim · Warsh ʿan Nāfiʿ · Qālūn ʿan Nāfiʿ · al-Dūrī ʿan Abī ʿAmr · al-Sūsī ʿan Abī ʿAmr · al-Bazzī ʿan Ibn Kathīr · Qunbul ʿan Ibn Kathīr. Rows follow the Hafs verses; ﴿n﴾ marks a riwaya's own verse number where it differs, and an empty cell means that verse began in the row above.
 
 ## Verses 1–10
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 1 وَٱلسَّمَآءِ وَٱلطَّارِقِ | Walssamāʾi walṭṭāriq | By the heaven and the Morning Star |
-| 2 وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ | Wamā ʾadrāka mā ṭ-ṭāriq | - Ah, what will tell thee what the Morning Star is! |
-| 3 ٱلنَّجْمُ ٱلثَّاقِبُ | An-najmu th-thāqib | - The piercing Star! |
-| 4 إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ | ʾin kullu nafsin lammā ʿalayhā ḥāfiẓ | No human soul but hath a guardian over it. |
-| 5 فَلْيَنظُرِ ٱلْإِنسَـٰنُ مِمَّ خُلِقَ | Falyanẓuri l-ʾinsānu mimma khuliq | So let man consider from what he is created. |
-| 6 خُلِقَ مِن مَّآءٍ دَافِقٍ | Khuliqa min māʾin dāfiq | He is created from a gushing fluid |
-| 7 يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ | Yakhruju min bayni ṣ-ṣulbi walttarāʾib | That issued from between the loins and ribs. |
-| 8 إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌ | ʾinnahu ʿalā rajʿihi laqādir | Lo! He verily is Able to return him (unto life) |
-| 9 يَوْمَ تُبْلَى ٱلسَّرَآئِرُ | Yawma tublā s-sarāʾir | On the day when hidden thoughts shall be searched out. |
-| 10 فَمَا لَهُۥ مِن قُوَّةٍ وَلَا نَاصِرٍ | Famā lahu min quwwatin walā nāṣir | Then will he have no might nor any helper. |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 وَٱلسَّمَآءِ وَٱلطَّارِقِ | Walssamāʾi walṭṭāriq | وَٱلسَّمَآءِ وَٱلطَّارِقِ | وَالسَّمَآءِ وَالطَّارِقِ | وَالسَّمَآءِ وَالطَّارِقِ | وَاَلسَّمَآءِ وَاَلطَّارِقِ | وَاَلسَّمَآءِ وَاَلطَّارِقِ | وَٱلسَّمَآءِ وَٱلطَّارِقِ | وَٱلسَّمَآءِ وَٱلطَّارِقِ | By the heaven and the Morning Star |
+| 2 وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ | Wamā ʾadrāka mā ṭ-ṭāriq | وَمَآ أَدۡرٜىٰكَ مَا ٱلطَّارِقُ | وَمَآ أَدْر۪يٰكَ مَا اَ۬لطَّارِقُ | وَمَا أَدْرَيٰكَ مَا اَ۬لطَّارِقُ | وَمَآ أَدۡر۪ىٰكَ مَا اَ۬لطَّارِقُ | وَمَا أَدۡر۪ىٰكَ مَا اَ۬لطَّارِقُ | وَمَا أَدۡرَىٰكَ مَا ٱلطَّارِقُ | وَمَا أَدۡرَىٰكَ مَا ٱلطَّارِقُ | - Ah, what will tell thee what the Morning Star is! |
+| 3 ٱلنَّجْمُ ٱلثَّاقِبُ | An-najmu th-thāqib | ٱلنَّجۡمُ ٱلثَّاقِبُ | اُ۬لنَّجْمُ اُ۬لثَّاقِبُ | اُ۬لنَّجْمُ اُ۬لثَّاقِبُ | اُ۬لنَّجۡمُ اُ۬لثَّاقِبُ | اُ۬لنَّجۡمُ اُ۬لثَّاقِبُ | ٱلنَّجۡمُ ٱلثَّاقِبُ | ٱلنَّجۡمُ ٱلثَّاقِبُ | - The piercing Star! |
+| 4 إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ | ʾin kullu nafsin lammā ʿalayhā ḥāfiẓ | إِن كُلُّ نَفۡسٖ لَّمَّا عَلَيۡهَا حَافِظٞ | إِن كُلُّ نَفْسٖ لَّمَا عَلَيْهَا حَافِظٞۖ | إِن كُلُّ نَفْسٖ لَّمَا عَلَيْهَا حَافِظٞۖ | إِن كُلُّ نَفۡسٖ لَّمَا عَلَيۡهَا حَافِظٞ | إِن كُلُّ نَفۡسٖ لَّمَا عَلَيۡهَا حَافِظٞ | إِن كُلُّ نَفۡسٖ لَّمَا عَلَيۡهَا حَافِظٞ | إِن كُلُّ نَفۡسٖ لَّمَا عَلَيۡهَا حَافِظٞ | No human soul but hath a guardian over it. |
+| 5 فَلْيَنظُرِ ٱلْإِنسَـٰنُ مِمَّ خُلِقَ | Falyanẓuri l-ʾinsānu mimma khuliq | فَلۡيَنظُرِ ٱلۡإِنسَٰنُ مِمَّ خُلِقَ | فَلْيَنظُرِ اِ۬لِانسَٰنُ مِمَّ خُلِقَۖ | فَلْيَنظُرِ اِ۬لْإِنسَٰنُ مِمَّ خُلِقَۖ | فَلۡيَنظُرِ اِ۬لۡإِنسَٰنُ مِمَّ خُلِقَ | فَلۡيَنظُرِ اِ۬لۡإِنسَٰنُ مِمَّ خُلِقَ | فَلۡيَنظُرِ ٱلۡإِنسَٰنُ مِمَّ خُلِقَ | فَلۡيَنظُرِ ٱلۡإِنسَٰنُ مِمَّ خُلِقَ | So let man consider from what he is created. |
+| 6 خُلِقَ مِن مَّآءٍ دَافِقٍ | Khuliqa min māʾin dāfiq | خُلِقَ مِن مَّآءٖ دَافِقٖ | خُلِقَ مِن مَّآءٖ دَافِقٖ | خُلِقَ مِن مَّآءٖ دَافِقٖ | خُلِقَ مِن مَّآءٖ دَافِقٖ | خُلِقَ مِن مَّآءٖ دَافِقٖ | خُلِقَ مِن مَّآءٖ دَافِقٖ | خُلِقَ مِن مَّآءٖ دَافِقٖ | He is created from a gushing fluid |
+| 7 يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ | Yakhruju min bayni ṣ-ṣulbi walttarāʾib | يَخۡرُجُ مِنۢ بَيۡنِ ٱلصُّلۡبِ وَٱلتَّرَآئِبِ | يَخْرُجُ مِنۢ بَيْنِ اِ۬لصُّلْبِ وَالتَّرَآئِبِۖ | يَخْرُجُ مِنۢ بَيْنِ اِ۬لصُّلْبِ وَالتَّرَآئِبِۖ | يَخۡرُجُ مِنۢ بَيۡنِ اِ۬لصُّلۡبِ وَاَلتَّرَآئِبِ | يَخۡرُجُ مِنۢ بَيۡنِ اِ۬لصُّلۡبِ وَاَلتَّرَآئِبِ | يَخۡرُجُ مِنۢ بَيۡنِ ٱلصُّلۡبِ وَٱلتَّرَآئِبِ | يَخۡرُجُ مِنۢ بَيۡنِ ٱلصُّلۡبِ وَٱلتَّرَآئِبِ | That issued from between the loins and ribs. |
+| 8 إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌ | ʾinnahu ʿalā rajʿihi laqādir | إِنَّهُۥ عَلَىٰ رَجۡعِهِۦ لَقَادِرٞ | إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٞ | إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٞ | إِنَّهُۥ عَلَىٰ رَجۡعِهِۦ لَقَادِرٞ | إِنَّهُۥ عَلَىٰ رَجۡعِهِۦ لَقَادِرٞ | إِنَّهُۥ عَلَىٰ رَجۡعِهِۦ لَقَادِرٞ | إِنَّهُۥ عَلَىٰ رَجۡعِهِۦ لَقَادِرٞ | Lo! He verily is Able to return him (unto life) |
+| 9 يَوْمَ تُبْلَى ٱلسَّرَآئِرُ | Yawma tublā s-sarāʾir | يَوۡمَ تُبۡلَى ٱلسَّرَآئِرُ | يَوْمَ تُبْلَى اَ۬لسَّرَآئِرُ | يَوْمَ تُبْلَى اَ۬لسَّرَآئِرُ | يَوۡمَ تُبۡلَى اَ۬لسَّرَآئِرُ | يَوۡمَ تُبۡلَى اَ۬لسَّرَآئِرُ | يَوۡمَ تُبۡلَى ٱلسَّرَآئِرُ | يَوۡمَ تُبۡلَى ٱلسَّرَآئِرُ | On the day when hidden thoughts shall be searched out. |
+| 10 فَمَا لَهُۥ مِن قُوَّةٍ وَلَا نَاصِرٍ | Famā lahu min quwwatin walā nāṣir | فَمَا لَهُۥ مِن قُوَّةٖ وَلَا نَاصِرٖ | فَمَا لَهُۥ مِن قُوَّةٖ وَلَا نَاصِرٖۖ | فَمَا لَهُۥ مِن قُوَّةٖ وَلَا نَاصِرٖۖ | فَمَا لَهُۥ مِن قُوَّةٖ وَلَا نَاصِرٖ | فَمَا لَهُۥ مِن قُوَّةٖ وَلَا نَاصِرٖ | فَمَا لَهُۥ مِن قُوَّةٖ وَلَا نَاصِرٖ | فَمَا لَهُۥ مِن قُوَّةٖ وَلَا نَاصِرٖ | Then will he have no might nor any helper. |
 
 ## Verses 11–17
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 11 وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ | Walssamāʾi dhāti r-rajʿ | By the heaven which giveth the returning rain, |
-| 12 وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ | Walʾarḍi dhāti ṣ-ṣadʿ | And the earth which splitteth (with the growth of trees and plants) |
-| 13 إِنَّهُۥ لَقَوْلٌ فَصْلٌ | ʾinnahu laqawlun faṣl | Lo! this (Qur'an) is a conclusive word, |
-| 14 وَمَا هُوَ بِٱلْهَزْلِ | Wamā huwa bilhazl | It is no pleasantry. |
-| 15 إِنَّهُمْ يَكِيدُونَ كَيْدًا | ʾinnahum yakīdūna kaydā | Lo! they plot a plot (against thee, O Muhammad) |
-| 16 وَأَكِيدُ كَيْدًا | Waʾakīdu kaydā | And I plot a plot (against them). |
-| 17 فَمَهِّلِ ٱلْكَـٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا | Famahhili l-kāfirīna ʾamhilhum ruwaydā | So give a respite to the disbelievers. Deal thou gently with them for a while. |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 11 وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ | Walssamāʾi dhāti r-rajʿ | وَٱلسَّمَآءِ ذَاتِ ٱلرَّجۡعِ | وَالسَّمَآءِ ذَاتِ اِ۬لرَّجْعِ | وَالسَّمَآءِ ذَاتِ اِ۬لرَّجْعِ | وَاَلسَّمَآءِ ذَاتِ اِ۬لرَّجۡعِ | وَاَلسَّمَآءِ ذَاتِ اِ۬لرَّجۡعِ | وَٱلسَّمَآءِ ذَاتِ ٱلرَّجۡعِ | وَٱلسَّمَآءِ ذَاتِ ٱلرَّجۡعِ | By the heaven which giveth the returning rain, |
+| 12 وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ | Walʾarḍi dhāti ṣ-ṣadʿ | وَٱلۡأَرۡضِ ذَاتِ ٱلصَّدۡعِ | وَالَارْضِ ذَاتِ اِ۬لصَّدْعِ | وَالْأَرْضِ ذَاتِ اِ۬لصَّدْعِ | وَاَلۡأَرۡضِ ذَاتِ اِ۬لصَّدۡعِ | وَاَلۡأَرۡضِ ذَاتِ اِ۬لصَّدۡعِ | وَٱلۡأَرۡضِ ذَاتِ ٱلصَّدۡعِ | وَٱلۡأَرۡضِ ذَاتِ ٱلصَّدۡعِ | And the earth which splitteth (with the growth of trees and plants) |
+| 13 إِنَّهُۥ لَقَوْلٌ فَصْلٌ | ʾinnahu laqawlun faṣl | إِنَّهُۥ لَقَوۡلٞ فَصۡلٞ | إِنَّهُۥ لَقَوْلٞ فَصْلٞ | إِنَّهُۥ لَقَوْلٞ فَصْلٞ | إِنَّهُۥ لَقَوۡلٞ فَصۡلٞ | إِنَّهُۥ لَقَوۡلٞ فَصۡلٞ | إِنَّهُۥ لَقَوۡلٞ فَصۡلٞ | إِنَّهُۥ لَقَوۡلٞ فَصۡلٞ | Lo! this (Qur'an) is a conclusive word, |
+| 14 وَمَا هُوَ بِٱلْهَزْلِ | Wamā huwa bilhazl | وَمَا هُوَ بِٱلۡهَزۡلِ | وَمَا هُوَ بِالْهَزْلِۖ | وَمَا هُوَ بِالْهَزْلِۖ | وَمَا هُوَ بِالۡهَزۡلِ | وَمَا هُوَ بِالۡهَزۡلِ | وَمَا هُوَ بِٱلۡهَزۡلِ | وَمَا هُوَ بِٱلۡهَزۡلِ | It is no pleasantry. |
+| 15 إِنَّهُمْ يَكِيدُونَ كَيْدًا | ʾinnahum yakīdūna kaydā | إِنَّهُمۡ يَكِيدُونَ كَيۡدٗا | إِنَّهُمْ يَكِيدُونَ كَيْداٗ | إِنَّهُمْ يَكِيدُونَ كَيْداٗ | إِنَّهُمۡ يَكِيدُونَ كَيۡدٗا وَأَكِيدُ كَيۡدٗا | إِنَّهُمۡ يَكِيدُونَ كَيۡدٗا وَأَكِيدُ كَيۡدٗا | إِنَّهُمُۥ يَكِيدُونَ كَيۡدٗا | إِنَّهُمُۥ يَكِيدُونَ كَيۡدٗا | Lo! they plot a plot (against thee, O Muhammad) |
+| 16 وَأَكِيدُ كَيْدًا | Waʾakīdu kaydā | وَأَكِيدُ كَيۡدٗا | وَأَكِيدُ كَيْداٗۖ | وَأَكِيدُ كَيْداٗۖ |  |  | وَأَكِيدُ كَيۡدٗا | وَأَكِيدُ كَيۡدٗا | And I plot a plot (against them). |
+| 17 فَمَهِّلِ ٱلْكَـٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا | Famahhili l-kāfirīna ʾamhilhum ruwaydā | فَمَهِّلِ ٱلۡكَٰفِرِينَ أَمۡهِلۡهُمۡ رُوَيۡدَۢا | فَمَهِّلِ اِ۬لْكٰ۪فِرِينَ أَمْهِلْهُمْ رُوَيْداٗۖ | فَمَهِّلِ اِ۬لْكَٰفِرِينَ أَمْهِلْهُمْ رُوَيْداَۢۖ | فَمَهِّلِ اِ۬لۡكٰ۪فِرِينَ أَمۡهِلۡهُمۡ رُوَيۡدَۢا ﴿١٦﴾ | فَمَهِّلِ اِ۬لۡكٰ۪فِرِينَ أَمۡهِلۡهُمۡ رُوَيۡدَۢا ﴿١٦﴾ | فَمَهِّلِ ٱلۡكَٰفِرِينَ أَمۡهِلۡهُمُۥ رُوَيۡدَۢا | فَمَهِّلِ ٱلۡكَٰفِرِينَ أَمۡهِلۡهُمُۥ رُوَيۡدَۢا | So give a respite to the disbelievers. Deal thou gently with them for a while. |

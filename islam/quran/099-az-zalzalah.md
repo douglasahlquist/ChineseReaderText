@@ -2,18 +2,19 @@
 
 # 99. Az-Zalzalah
 
-> Arabic (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Arabic: Hafs ʿan ʿĀṣim (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Riwayat (King Fahd Complex text): Shuʿbah ʿan ʿĀṣim · Warsh ʿan Nāfiʿ · Qālūn ʿan Nāfiʿ · al-Dūrī ʿan Abī ʿAmr · al-Sūsī ʿan Abī ʿAmr · al-Bazzī ʿan Ibn Kathīr · Qunbul ʿan Ibn Kathīr. Rows follow the Hafs verses; ﴿n﴾ marks a riwaya's own verse number where it differs, and an empty cell means that verse began in the row above.
 
 ## Verses 1–8
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 1 إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا | ʾidhā zulzilati l-ʾarḍu zilzālahā | When Earth is shaken with her (final) earthquake |
-| 2 وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا | Waʾakhrajati l-ʾarḍu ʾathqālahā | And Earth yieldeth up her burdens, |
-| 3 وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا | Waqāla l-ʾinsānu mā lahā | And man saith: What aileth her? |
-| 4 يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا | Yawmaʾidhin tuḥaddithu ʾakhbārahā | That day she will relate her chronicles, |
-| 5 بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا | Biʾanna rabbaka ʾawḥā lahā | Because thy Lord inspireth her. |
-| 6 يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ | Yawmaʾidhin yaṣduru n-nāsu ʾashtātan liyuraw ʾaʿmālahum | That day mankind will issue forth in scattered groups to be shown their deeds. |
-| 7 فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ | Faman yaʿmal mithqāla dharratin khayran yarah | And whoso doeth good an atom's weight will see it then, |
-| 8 وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ | Waman yaʿmal mithqāla dharratin sharran yarah | And whoso doeth ill an atom's weight will see it then. |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا | ʾidhā zulzilati l-ʾarḍu zilzālahā | إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا | إِذَا زُلْزِلَتِ اِ۬لَارْضُ زِلْزَالَهَا | إِذَا زُلْزِلَتِ اِ۬لْأَرْضُ زِلْزَالَهَا | إِذَا زُلۡزِلَتِ اِ۬لۡأَرۡضُ زِلۡزَالَهَا | إِذَا زُلۡزِلَتِ اِ۬لۡأَرۡضُ زِلۡزَالَهَا | إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا | إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا | When Earth is shaken with her (final) earthquake |
+| 2 وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا | Waʾakhrajati l-ʾarḍu ʾathqālahā | وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا | وَأَخْرَجَتِ اِ۬لَارْضُ أَثْقَالَهَا | وَأَخْرَجَتِ اِ۬لْأَرْضُ أَثْقَالَهَا | وَأَخۡرَجَتِ اِ۬لۡأَرۡضُ أَثۡقَالَهَا | وَأَخۡرَجَتِ اِ۬لۡأَرۡضُ أَثۡقَالَهَا | وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا | وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا | And Earth yieldeth up her burdens, |
+| 3 وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا | Waqāla l-ʾinsānu mā lahā | وَقَالَ ٱلۡإِنسَٰنُ مَا لَهَا | وَقَالَ اَ۬لِانسَٰنُ مَا لَهَا | وَقَالَ اَ۬لْإِنسَٰنُ مَا لَهَا | وَقَالَ اَ۬لۡإِنسَٰنُ مَا لَهَا | وَقَالَ اَ۬لۡإِنسَٰنُ مَا لَهَا | وَقَالَ ٱلۡإِنسَٰنُ مَا لَهَا | وَقَالَ ٱلۡإِنسَٰنُ مَا لَهَا | And man saith: What aileth her? |
+| 4 يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا | Yawmaʾidhin tuḥaddithu ʾakhbārahā | يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا | يَوْمَئِذٖ تُحَدِّثُ أَخْبَارَهَا | يَوْمَئِذٖ تُحَدِّثُ أَخْبَارَهَا | يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا | يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا | يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا | يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا | That day she will relate her chronicles, |
+| 5 بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا | Biʾanna rabbaka ʾawḥā lahā | بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا | بِأَنَّ رَبَّكَ أَوْح۪ىٰ لَهَاۖ | بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَاۖ | بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا | بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا | بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا | بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا | Because thy Lord inspireth her. |
+| 6 يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ | Yawmaʾidhin yaṣduru n-nāsu ʾashtātan liyuraw ʾaʿmālahum | يَوۡمَئِذٖ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتٗا لِّيُرَوۡاْ أَعۡمَٰلَهُمۡ | يَوْمَئِذٖ يَصْدُرُ اُ۬لنَّاسُ أَشْتَاتاٗ ﴿٦﴾ لِّيُرَوَاْ اَعْمَٰلَهُمْۖ ﴿٧﴾ | يَوْمَئِذٖ يَصْدُرُ اُ۬لنَّاسُ أَشْتَاتاٗ ﴿٦﴾ لِّيُرَوْاْ أَعْمَٰلَهُمْۖ ﴿٧﴾ | يَوۡمَئِذٖ يَصۡدُرُ اُ۬لنَّاسُ أَشۡتَاتٗا لِّيُرَوۡاْ أَعۡمَٰلَهُمۡ | يَوۡمَئِذٖ يَصۡدُرُ اُ۬لنَّاسُ أَشۡتَاتٗا لِّيُرَوۡاْ أَعۡمَٰلَهُمۡ | يَوۡمَئِذٖ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتٗا ﴿٦﴾ لِّيُرَوۡاْ أَعۡمَٰلَهُمُۥ ﴿٧﴾ | يَوۡمَئِذٖ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتٗا ﴿٦﴾ لِّيُرَوۡاْ أَعۡمَٰلَهُمُۥ ﴿٧﴾ | That day mankind will issue forth in scattered groups to be shown their deeds. |
+| 7 فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ | Faman yaʿmal mithqāla dharratin khayran yarah | فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ | فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْراٗ يَرَهُۥۖ ﴿٨﴾ | فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْراٗ يَرَهُۥۖ ﴿٨﴾ | فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ | فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ | فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ ﴿٨﴾ | فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ ﴿٨﴾ | And whoso doeth good an atom's weight will see it then, |
+| 8 وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ | Waman yaʿmal mithqāla dharratin sharran yarah | وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ | وَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٖ شَرّاٗ يَرَهُۥۖ ﴿٩﴾ | وَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٖ شَرّاٗ يَرَهُۥۖ ﴿٩﴾ | وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ | وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ | وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ ﴿٩﴾ | وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ ﴿٩﴾ | And whoso doeth ill an atom's weight will see it then. |

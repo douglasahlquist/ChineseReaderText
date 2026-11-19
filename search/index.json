@@ -71,6 +71,55 @@
       "bytes": 1449638
     },
     {
+      "id": "quran-riwaya-bazzi",
+      "collection": "quran",
+      "file": "quran-riwaya-bazzi.tsv",
+      "verses": 6156,
+      "bytes": 1471453
+    },
+    {
+      "id": "quran-riwaya-duri",
+      "collection": "quran",
+      "file": "quran-riwaya-duri.tsv",
+      "verses": 6163,
+      "bytes": 1510441
+    },
+    {
+      "id": "quran-riwaya-qalun",
+      "collection": "quran",
+      "file": "quran-riwaya-qalun.tsv",
+      "verses": 6156,
+      "bytes": 1508481
+    },
+    {
+      "id": "quran-riwaya-qunbul",
+      "collection": "quran",
+      "file": "quran-riwaya-qunbul.tsv",
+      "verses": 6156,
+      "bytes": 1471688
+    },
+    {
+      "id": "quran-riwaya-shubah",
+      "collection": "quran",
+      "file": "quran-riwaya-shubah.tsv",
+      "verses": 6236,
+      "bytes": 1432209
+    },
+    {
+      "id": "quran-riwaya-susi",
+      "collection": "quran",
+      "file": "quran-riwaya-susi.tsv",
+      "verses": 6163,
+      "bytes": 1501467
+    },
+    {
+      "id": "quran-riwaya-warsh",
+      "collection": "quran",
+      "file": "quran-riwaya-warsh.tsv",
+      "verses": 6156,
+      "bytes": 1513298
+    },
+    {
       "id": "quran-romanization",
       "collection": "quran",
       "file": "quran-romanization.tsv",

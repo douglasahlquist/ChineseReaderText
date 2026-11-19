@@ -2,19 +2,20 @@
 
 # 104. Al-Humazah
 
-> Arabic (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Arabic: Hafs ʿan ʿĀṣim (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Riwayat (King Fahd Complex text): Shuʿbah ʿan ʿĀṣim · Warsh ʿan Nāfiʿ · Qālūn ʿan Nāfiʿ · al-Dūrī ʿan Abī ʿAmr · al-Sūsī ʿan Abī ʿAmr · al-Bazzī ʿan Ibn Kathīr · Qunbul ʿan Ibn Kathīr. Rows follow the Hafs verses; ﴿n﴾ marks a riwaya's own verse number where it differs, and an empty cell means that verse began in the row above.
 
 ## Verses 1–9
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 1 وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ | Waylun likulli humazatin lumazat | Woe unto every slandering traducer, |
-| 2 ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ | Alladhi jamaʿa mālan waʿaddadah | Who hath gathered wealth (of this world) and arranged it. |
-| 3 يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ | Yaḥsabu ʾanna mālahu ʾakhladah | He thinketh that his wealth will render him immortal. |
-| 4 كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ | Kallā layunbadhanna fi l-ḥuṭamat | Nay, but verily he will be flung to the Consuming One. |
-| 5 وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ | Wamā ʾadrāka mā l-ḥuṭamat | Ah, what will convey unto thee what the Consuming One is! |
-| 6 نَارُ ٱللَّهِ ٱلْمُوقَدَةُ | Nāru llāhi l-mūqadat | (It is) the fire of Allah, kindled, |
-| 7 ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ | Allati taṭṭaliʿu ʿalā l-ʾafidat | Which leapeth up over the hearts (of men). |
-| 8 إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ | ʾinnahā ʿalayhim muʾṣadat | Lo! it is closed in on them |
-| 9 فِى عَمَدٍ مُّمَدَّدَةٍۭ | Fi ʿamadin mumaddadat | In outstretched columns. |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ | Waylun likulli humazatin lumazat | وَيۡلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ | وَيْلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ | وَيْلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ | وَيۡلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ | وَيۡلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ | وَيۡلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ | وَيۡلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ | Woe unto every slandering traducer, |
+| 2 ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ | Alladhi jamaʿa mālan waʿaddadah | ٱلَّذِي جَمَعَ مَالٗا وَعَدَّدَهُۥ | اِ۬لذِے جَمَعَ مَالاٗ وَعَدَّدَهُۥ | اِ۬لذِے جَمَعَ مَالاٗ وَعَدَّدَهُۥ | اِ۬لَّذِي جَمَعَ مَالٗا وَعَدَّدَهُۥ | اِ۬لَّذِي جَمَعَ مَالٗا وَعَدَّدَهُۥ | ٱلَّذِي جَمَعَ مَالٗا وَعَدَّدَهُۥ | ٱلَّذِي جَمَعَ مَالٗا وَعَدَّدَهُۥ | Who hath gathered wealth (of this world) and arranged it. |
+| 3 يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ | Yaḥsabu ʾanna mālahu ʾakhladah | يَحۡسَبُ أَنَّ مَالَهُۥٓ أَخۡلَدَهُۥ | يَحْسِبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ | يَحْسِبُ أَنَّ مَالَهُۥ أَخْلَدَهُۥ | يَحۡسِبُ أَنَّ مَالَهُۥٓ أَخۡلَدَهُۥ | يَحۡسِبُ أَنَّ مَالَهُۥ أَخۡلَدَهُۥ | يَحۡسِبُ أَنَّ مَالَهُۥ أَخۡلَدَهُۥ | يَحۡسِبُ أَنَّ مَالَهُۥ أَخۡلَدَهُۥ | He thinketh that his wealth will render him immortal. |
+| 4 كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ | Kallā layunbadhanna fi l-ḥuṭamat | كَلَّاۖ لَيُنۢبَذَنَّ فِي ٱلۡحُطَمَةِ | كَلَّاۖ لَيُنۢبَذَنَّ فِے اِ۬لْحُطَمَةِۖ | كَلَّاۖ لَيُنۢبَذَنَّ فِے اِ۬لْحُطَمَةِۖ | كَلَّاۖ لَيُنۢبَذَنَّ فِي اِ۬لۡحُطَمَةِ | كَلَّاۖ لَيُنۢبَذَنَّ فِي اِ۬لۡحُطَمَةِ | كَلَّاۖ لَيُنۢبَذَنَّ فِي ٱلۡحُطَمَةِ | كَلَّاۖ لَيُنۢبَذَنَّ فِي ٱلۡحُطَمَةِ | Nay, but verily he will be flung to the Consuming One. |
+| 5 وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ | Wamā ʾadrāka mā l-ḥuṭamat | وَمَآ أَدۡرٜىٰكَ مَا ٱلۡحُطَمَةُ | وَمَآ أَدْر۪يٰكَ مَا اَ۬لْحُطَمَةُۖ | وَمَا أَدْرَيٰكَ مَا اَ۬لْحُطَمَةُۖ | وَمَآ أَدۡر۪ىٰكَ مَا اَ۬لۡحُطَمَةُ | وَمَا أَدۡر۪ىٰكَ مَا اَ۬لۡحُطَمَةُ | وَمَا أَدۡرَىٰكَ مَا ٱلۡحُطَمَةُ | وَمَا أَدۡرَىٰكَ مَا ٱلۡحُطَمَةُ | Ah, what will convey unto thee what the Consuming One is! |
+| 6 نَارُ ٱللَّهِ ٱلْمُوقَدَةُ | Nāru llāhi l-mūqadat | نَارُ ٱللَّهِ ٱلۡمُوقَدَةُ | نَارُ اُ۬للَّهِ اِ۬لْمُوقَدَةُ | نَارُ اُ۬للَّهِ اِ۬لْمُوقَدَةُ | نَارُ اُ۬للَّهِ اِ۬لۡمُوقَدَةُ | نَارُ اُ۬للَّهِ اِ۬لۡمُوقَدَةُ | نَارُ ٱللَّهِ ٱلۡمُوقَدَةُ | نَارُ ٱللَّهِ ٱلۡمُوقَدَةُ | (It is) the fire of Allah, kindled, |
+| 7 ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ | Allati taṭṭaliʿu ʿalā l-ʾafidat | ٱلَّتِي تَطَّلِعُ عَلَى ٱلۡأَفۡـِٔدَةِ | اُ۬لتِے تَطَّلِعُ عَلَى اَ۬لَافْـِٕدَةِۖ | اُ۬لتِے تَطَّلِعُ عَلَى اَ۬لْأَفْـِٕدَةِۖ | اُ۬لَّتِي تَطَّلِعُ عَلَى اَ۬لۡأَفۡـِٔدَةِ | اُ۬لَّتِي تَطَّلِع عَّلَى اَ۬لۡأَفۡـِٔدَةِ | ٱلَّتِي تَطَّلِعُ عَلَى ٱلۡأَفۡـِٔدَةِ | ٱلَّتِي تَطَّلِعُ عَلَى ٱلۡأَفۡـِٔدَةِ | Which leapeth up over the hearts (of men). |
+| 8 إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ | ʾinnahā ʿalayhim muʾṣadat | إِنَّهَا عَلَيۡهِم مُّوصَدَةٞ | إِنَّهَا عَلَيْهِم مُّوصَدَةٞ | إِنَّهَا عَلَيْهِم مُّوصَدَةٞ | إِنَّهَا عَلَيۡهِم مُّؤۡصَدَةٞ | إِنَّهَا عَلَيۡهِم مُّؤۡصَدَةٞ | إِنَّهَا عَلَيۡهِمُۥ مُوصَدَةٞ | إِنَّهَا عَلَيۡهِمُۥ مُوصَدَةٞ | Lo! it is closed in on them |
+| 9 فِى عَمَدٍ مُّمَدَّدَةٍۭ | Fi ʿamadin mumaddadat | فِي عُمُدٖ مُّمَدَّدَةِۭ | فِے عَمَدٖ مُّمَدَّدَةٍۖ | فِے عَمَدٖ مُّمَدَّدَةِۢۖ | فِي عَمَدٖ مُّمَدَّدَةِۢ | فِي عَمَدٖ مُّمَدَّدَةِۢ | فِي عَمَدٖ مُّمَدَّدَةِۭ | فِي عَمَدٖ مُّمَدَّدَةِۭ | In outstretched columns. |

@@ -1,6 +1,8 @@
 ## Islamic Texts
 
-### The Qur'an · Surahs 1–20
+### The Qur'an
+
+#### Surahs 1–20
 
 - [1. Al-Fatihah (7)](quran/001-al-fatihah.md)
 - [2. Al-Baqarah (286)](quran/002-al-baqarah.md)
@@ -23,7 +25,7 @@
 - [19. Maryam (98)](quran/019-maryam.md)
 - [20. Taha (135)](quran/020-taha.md)
 
-### The Qur'an · Surahs 21–40
+#### Surahs 21–40
 
 - [21. Al-Anbya (112)](quran/021-al-anbya.md)
 - [22. Al-Hajj (78)](quran/022-al-hajj.md)
@@ -46,7 +48,7 @@
 - [39. Az-Zumar (75)](quran/039-az-zumar.md)
 - [40. Ghafir (85)](quran/040-ghafir.md)
 
-### The Qur'an · Surahs 41–60
+#### Surahs 41–60
 
 - [41. Fussilat (54)](quran/041-fussilat.md)
 - [42. Ash-Shuraa (53)](quran/042-ash-shuraa.md)
@@ -69,7 +71,7 @@
 - [59. Al-Hashr (24)](quran/059-al-hashr.md)
 - [60. Al-Mumtahanah (13)](quran/060-al-mumtahanah.md)
 
-### The Qur'an · Surahs 61–80
+#### Surahs 61–80
 
 - [61. As-Saf (14)](quran/061-as-saf.md)
 - [62. Al-Jumuah (11)](quran/062-al-jumuah.md)
@@ -92,7 +94,7 @@
 - [79. An-Naziat (46)](quran/079-an-naziat.md)
 - [80. Abasa (42)](quran/080-abasa.md)
 
-### The Qur'an · Surahs 81–100
+#### Surahs 81–100
 
 - [81. At-Takwir (29)](quran/081-at-takwir.md)
 - [82. Al-Infitar (19)](quran/082-al-infitar.md)
@@ -115,7 +117,7 @@
 - [99. Az-Zalzalah (8)](quran/099-az-zalzalah.md)
 - [100. Al-Adiyat (11)](quran/100-al-adiyat.md)
 
-### The Qur'an · Surahs 101–114
+#### Surahs 101–114
 
 - [101. Al-Qariah (11)](quran/101-al-qariah.md)
 - [102. At-Takathur (8)](quran/102-at-takathur.md)
@@ -133,7 +135,9 @@
 - [114. An-Nas (6)](quran/114-an-nas.md)
 
 <!-- hadith-notes:start -->
-### Hadith · Collection Notes
+### Hadith
+
+#### Collection Notes
 
 - [What was downloaded](hadith/notes/00-overview.md)
 - [Sahih al-Bukhari (7,589)](hadith/notes/01-bukhari.md)

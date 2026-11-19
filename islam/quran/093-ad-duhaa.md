@@ -2,27 +2,28 @@
 
 # 93. Ad-Duhaa
 
-> Arabic (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Arabic: Hafs ʿan ʿĀṣim (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Riwayat (King Fahd Complex text): Shuʿbah ʿan ʿĀṣim · Warsh ʿan Nāfiʿ · Qālūn ʿan Nāfiʿ · al-Dūrī ʿan Abī ʿAmr · al-Sūsī ʿan Abī ʿAmr · al-Bazzī ʿan Ibn Kathīr · Qunbul ʿan Ibn Kathīr. Rows follow the Hafs verses; ﴿n﴾ marks a riwaya's own verse number where it differs, and an empty cell means that verse began in the row above.
 
 ## Verses 1–10
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 1 وَٱلضُّحَىٰ | Walḍḍuḥā | By the morning hours |
-| 2 وَٱلَّيْلِ إِذَا سَجَىٰ | Wallayli ʾidhā sajā | And by the night when it is stillest, |
-| 3 مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ | Mā waddaʿaka rabbuka wamā qalā | Thy Lord hath not forsaken thee nor doth He hate thee, |
-| 4 وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ | Walalākhiratu khayrun laka mina l-ʾūlā | And verily the latter portion will be better for thee than the former, |
-| 5 وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ | Walasawfa yuʿṭīka rabbuka fatarḍā | And verily thy Lord will give unto thee so that thou wilt be content. |
-| 6 أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ | ʾalam yajidka yatīman fāwā | Did He not find thee an orphan and protect (thee)? |
-| 7 وَوَجَدَكَ ضَآلًّا فَهَدَىٰ | Wawajadaka ḍāllan fahadā | Did He not find thee wandering and direct (thee)? |
-| 8 وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ | Wawajadaka ʿāʾilan faʾaghnā | Did He not find thee destitute and enrich (thee)? |
-| 9 فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ | Faʾammā l-yatīma falā taqhar | Therefor the orphan oppress not, |
-| 10 وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ | Waʾammā s-sāʾila falā tanhar | Therefor the beggar drive not away, |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 وَٱلضُّحَىٰ | Walḍḍuḥā | وَٱلضُّحَىٰ | وَالضُّح۪ىٰ | وَالضُّحَىٰ | وَاَلضُّحۭيٰ | وَاَلضُّحۭيٰ | وَٱلضُّحَىٰ | وَٱلضُّحَىٰ | By the morning hours |
+| 2 وَٱلَّيْلِ إِذَا سَجَىٰ | Wallayli ʾidhā sajā | وَٱلَّيۡلِ إِذَا سَجَىٰ | وَاليْلِ إِذَا سَج۪ىٰ | وَاليْلِ إِذَا سَجَىٰ | وَاَلَّيۡلِ إِذَا سَجۭيٰ | وَاَلَّيۡلِ إِذَا سَجۭيٰ | وَٱلَّيۡلِ إِذَا سَجَىٰ | وَٱلَّيۡلِ إِذَا سَجَىٰ | And by the night when it is stillest, |
+| 3 مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ | Mā waddaʿaka rabbuka wamā qalā | مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ | مَا وَدَّعَكَ رَبُّكَ وَمَا قَل۪ىٰۖ | مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰۖ | مَا وَدَّعَكَ رَبُّكَ وَمَا قَلۭيٰ | مَا وَدَّعَكَ رَبُّكَ وَمَا قَلۭيٰ | مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ | مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ | Thy Lord hath not forsaken thee nor doth He hate thee, |
+| 4 وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ | Walalākhiratu khayrun laka mina l-ʾūlā | وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ | وَلَلَاخِرَةُ خَيْرٞ لَّكَ مِنَ اَ۬لُاول۪ىٰۖ | وَلَلْأٓخِرَةُ خَيْرٞ لَّكَ مِنَ اَ۬لْأُولَىٰۖ | وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ اَ۬لۡأُولۭيٰ | وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ اَ۬لۡأُولۭيٰ | وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ | وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ | And verily the latter portion will be better for thee than the former, |
+| 5 وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ | Walasawfa yuʿṭīka rabbuka fatarḍā | وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضَىٰٓ | وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْض۪ىٰٓۖ | وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰۖ | وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضۭيٰٓ | وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضۭيٰ | وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضَىٰ | وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضَىٰ | And verily thy Lord will give unto thee so that thou wilt be content. |
+| 6 أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ | ʾalam yajidka yatīman fāwā | أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوَىٰ | أَلَمْ يَجِدْكَ يَتِيماٗ فَـَٔاو۪ىٰ | أَلَمْ يَجِدْكَ يَتِيماٗ فَـَٔاوَىٰ | أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوۭيٰ | أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوۭيٰ | أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوَىٰ | أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوَىٰ | Did He not find thee an orphan and protect (thee)? |
+| 7 وَوَجَدَكَ ضَآلًّا فَهَدَىٰ | Wawajadaka ḍāllan fahadā | وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ | وَوَجَدَكَ ضَآلّاٗ فَهَد۪ىٰ | وَوَجَدَكَ ضَآلّاٗ فَهَدَىٰ | وَوَجَدَكَ ضَآلّٗا فَهَدۭيٰ | وَوَجَدَكَ ضَآلّٗا فَهَدۭيٰ | وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ | وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ | Did He not find thee wandering and direct (thee)? |
+| 8 وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ | Wawajadaka ʿāʾilan faʾaghnā | وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ | وَوَجَدَكَ عَآئِلاٗ فَأَغْن۪ىٰۖ | وَوَجَدَكَ عَآئِلاٗ فَأَغْنَىٰۖ | وَوَجَدَكَ عَآئِلٗا فَأَغۡنۭيٰ | وَوَجَدَكَ عَآئِلٗا فَأَغۡنۭيٰ | وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ | وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ | Did He not find thee destitute and enrich (thee)? |
+| 9 فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ | Faʾammā l-yatīma falā taqhar | فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ | فَأَمَّا اَ۬لْيَتِيمَ فَلَا تَقْهَرْۖ | فَأَمَّا اَ۬لْيَتِيمَ فَلَا تَقْهَرْۖ | فَأَمَّا اَ۬لۡيَتِيمَ فَلَا تَقۡهَرۡ | فَأَمَّا اَ۬لۡيَتِيمَ فَلَا تَقۡهَرۡ | فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ | فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ | Therefor the orphan oppress not, |
+| 10 وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ | Waʾammā s-sāʾila falā tanhar | وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ | وَأَمَّا اَ۬لسَّآئِلَ فَلَا تَنْهَرْۖ | وَأَمَّا اَ۬لسَّآئِلَ فَلَا تَنْهَرْۖ | وَأَمَّا اَ۬لسَّآئِلَ فَلَا تَنۡهَرۡ | وَأَمَّا اَ۬لسَّآئِلَ فَلَا تَنۡهَرۡ | وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ | وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ | Therefor the beggar drive not away, |
 
 ## Verse 11
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 11 وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ | Waʾammā biniʿmati rabbika faḥaddith | Therefor of the bounty of thy Lord be thy discourse. |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 11 وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ | Waʾammā biniʿmati rabbika faḥaddith | وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ | وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثَۖ | وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْۖ | وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ | وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ | وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ | وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ | Therefor of the bounty of thy Lord be thy discourse. |

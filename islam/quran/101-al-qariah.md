@@ -2,27 +2,28 @@
 
 # 101. Al-Qariah
 
-> Arabic (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Arabic: Hafs ʿan ʿĀṣim (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Riwayat (King Fahd Complex text): Shuʿbah ʿan ʿĀṣim · Warsh ʿan Nāfiʿ · Qālūn ʿan Nāfiʿ · al-Dūrī ʿan Abī ʿAmr · al-Sūsī ʿan Abī ʿAmr · al-Bazzī ʿan Ibn Kathīr · Qunbul ʿan Ibn Kathīr. Rows follow the Hafs verses; ﴿n﴾ marks a riwaya's own verse number where it differs, and an empty cell means that verse began in the row above.
 
 ## Verses 1–10
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 1 ٱلْقَارِعَةُ | Al-qāriʿat | The Calamity! |
-| 2 مَا ٱلْقَارِعَةُ | Mā l-qāriʿat | What is the Calamity? |
-| 3 وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ | Wamā ʾadrāka mā l-qāriʿat | Ah, what will convey unto thee what the Calamity is! |
-| 4 يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ | Yawma yakūnu n-nāsu kalfarāshi l-mabthūth | A day wherein mankind will be as thickly-scattered moths |
-| 5 وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ | Watakūnu l-jibālu kalʿihni l-manfūsh | And the mountains will become as carded wool. |
-| 6 فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ | Faʾammā man thaqulat mawāzīnuh | Then, as for him whose scales are heavy (with good works), |
-| 7 فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ | Fahuwa fi ʿīshatin rāḍiyat | He will live a pleasant life. |
-| 8 وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ | Waʾammā man khaffat mawāzīnuh | But as for him whose scales are light, |
-| 9 فَأُمُّهُۥ هَاوِيَةٌ | Faʾummuhu hāwiyat | A bereft and Hungry One will be his mother, |
-| 10 وَمَآ أَدْرَىٰكَ مَا هِيَهْ | Wamā ʾadrāka mā hiyah | Ah, what will convey unto thee what she is! - |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 ٱلْقَارِعَةُ | Al-qāriʿat | ٱلۡقَارِعَةُ | اِ۬لْقَارِعَةُ مَا اَ۬لْقَارِعَةُۖ | اِ۬لْقَارِعَةُ مَا اَ۬لْقَارِعَةُۖ | اِ۬لۡقَارِعَةُ مَا اَ۬لۡقَارِعَةُ | اِ۬لۡقَارِعَةُ مَا اَ۬لۡقَارِعَةُ | ٱلۡقَارِعَةُ مَا ٱلۡقَارِعَةُ | ٱلۡقَارِعَةُ مَا ٱلۡقَارِعَةُ | The Calamity! |
+| 2 مَا ٱلْقَارِعَةُ | Mā l-qāriʿat | مَا ٱلۡقَارِعَةُ |  |  |  |  |  |  | What is the Calamity? |
+| 3 وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ | Wamā ʾadrāka mā l-qāriʿat | وَمَآ أَدۡرٜىٰكَ مَا ٱلۡقَارِعَةُ | وَمَآ أَدْر۪يٰكَ مَا اَ۬لْقَارِعَةُۖ ﴿٢﴾ | وَمَا أَدْرَيٰكَ مَا اَ۬لْقَارِعَةُۖ ﴿٢﴾ | وَمَآ أَدۡر۪ىٰكَ مَا اَ۬لۡقَارِعَةُ ﴿٢﴾ | وَمَا أَدۡر۪ىٰكَ مَا اَ۬لۡقَارِعَةُ ﴿٢﴾ | وَمَا أَدۡرَىٰكَ مَا ٱلۡقَارِعَةُ ﴿٢﴾ | وَمَا أَدۡرَىٰكَ مَا ٱلۡقَارِعَةُ ﴿٢﴾ | Ah, what will convey unto thee what the Calamity is! |
+| 4 يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ | Yawma yakūnu n-nāsu kalfarāshi l-mabthūth | يَوۡمَ يَكُونُ ٱلنَّاسُ كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ | يَوْمَ يَكُونُ اُ۬لنَّاسُ كَالْفَرَاشِ اِ۬لْمَبْثُوثِ ﴿٣﴾ | يَوْمَ يَكُونُ اُ۬لنَّاسُ كَالْفَرَاشِ اِ۬لْمَبْثُوثِ ﴿٣﴾ | يَوۡمَ يَكُونُ اُ۬لنَّاسُ كَاَلۡفَرَاشِ اِ۬لۡمَبۡثُوثِ ﴿٣﴾ | يَوۡمَ يَكُونُ اُ۬لنَّاسُ كَاَلۡفَرَاشِ اِ۬لۡمَبۡثُوثِ ﴿٣﴾ | يَوۡمَ يَكُونُ ٱلنَّاسُ كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ ﴿٣﴾ | يَوۡمَ يَكُونُ ٱلنَّاسُ كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ ﴿٣﴾ | A day wherein mankind will be as thickly-scattered moths |
+| 5 وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ | Watakūnu l-jibālu kalʿihni l-manfūsh | وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ | وَتَكُونُ اُ۬لْجِبَالُ كَالْعِهْنِ اِ۬لْمَنفُوشِۖ ﴿٤﴾ | وَتَكُونُ اُ۬لْجِبَالُ كَالْعِهْنِ اِ۬لْمَنفُوشِۖ ﴿٤﴾ | وَتَكُونُ اُ۬لۡجِبَالُ كَاَلۡعِهۡنِ اِ۬لۡمَنفُوشِ ﴿٤﴾ | وَتَكُونُ اُ۬لۡجِبَالُ كَاَلۡعِهۡنِ اِ۬لۡمَنفُوشِ ﴿٤﴾ | وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ ﴿٤﴾ | وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ ﴿٤﴾ | And the mountains will become as carded wool. |
+| 6 فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ | Faʾammā man thaqulat mawāzīnuh | فَأَمَّا مَن ثَقُلَتۡ مَوَٰزِينُهُۥ | فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ ﴿٥﴾ | فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ ﴿٥﴾ | فَأَمَّا مَن ثَقُلَتۡ مَوَٰزِينُهُۥ ﴿٥﴾ | فَأَمَّا مَن ثَقُلَتۡ مَوَٰزِينُهُۥ ﴿٥﴾ | فَأَمَّا مَن ثَقُلَتۡ مَوَٰزِينُهُۥ ﴿٥﴾ | فَأَمَّا مَن ثَقُلَتۡ مَوَٰزِينُهُۥ ﴿٥﴾ | Then, as for him whose scales are heavy (with good works), |
+| 7 فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ | Fahuwa fi ʿīshatin rāḍiyat | فَهُوَ فِي عِيشَةٖ رَّاضِيَةٖ | فَهُوَ فِے عِيشَةٖ رَّاضِيَةٖۖ ﴿٦﴾ | فَهْوَ فِے عِيشَةٖ رَّاضِيَةٖۖ ﴿٦﴾ | فَهۡوَ فِي عِيشَةٖ رَّاضِيَةٖ ﴿٦﴾ | فَهۡوَ فِي عِيشَةٖ رَّاضِيَةٖ ﴿٦﴾ | فَهُوَ فِي عِيشَةٖ رَّاضِيَةٖ ﴿٦﴾ | فَهُوَ فِي عِيشَةٖ رَّاضِيَةٖ ﴿٦﴾ | He will live a pleasant life. |
+| 8 وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ | Waʾammā man khaffat mawāzīnuh | وَأَمَّا مَنۡ خَفَّتۡ مَوَٰزِينُهُۥ | وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ ﴿٧﴾ | وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ ﴿٧﴾ | وَأَمَّا مَنۡ خَفَّتۡ مَوَٰزِينُهُۥ ﴿٧﴾ | وَأَمَّا مَنۡ خَفَّتۡ مَوَٰزِينُهُۥ ﴿٧﴾ | وَأَمَّا مَنۡ خَفَّتۡ مَوَٰزِينُهُۥ ﴿٧﴾ | وَأَمَّا مَنۡ خَفَّتۡ مَوَٰزِينُهُۥ ﴿٧﴾ | But as for him whose scales are light, |
+| 9 فَأُمُّهُۥ هَاوِيَةٌ | Faʾummuhu hāwiyat | فَأُمُّهُۥ هَاوِيَةٞ | فَأُمُّهُۥ هَاوِيَةٞۖ ﴿٨﴾ | فَأُمُّهُۥ هَاوِيَةٞۖ ﴿٨﴾ | فَأُمُّهُۥ هَاوِيَةٞ ﴿٨﴾ | فَأُمُّه هَّاوِيَةٞ ﴿٨﴾ | فَأُمُّهُۥ هَاوِيَةٞ ﴿٨﴾ | فَأُمُّهُۥ هَاوِيَةٞ ﴿٨﴾ | A bereft and Hungry One will be his mother, |
+| 10 وَمَآ أَدْرَىٰكَ مَا هِيَهْ | Wamā ʾadrāka mā hiyah | وَمَآ أَدۡرٜىٰكَ مَا هِيَهۡ | وَمَآ أَدْر۪يٰكَ مَا هِيَهْۖ ﴿٩﴾ | وَمَا أَدْرَيٰكَ مَا هِيَهْۖ ﴿٩﴾ | وَمَآ أَدۡر۪ىٰكَ مَا هِيَهۡ ﴿٩﴾ | وَمَا أَدۡر۪ىٰكَ مَا هِيَهۡ ﴿٩﴾ | وَمَا أَدۡرَىٰكَ مَا هِيَهۡ ﴿٩﴾ | وَمَا أَدۡرَىٰكَ مَا هِيَهۡ ﴿٩﴾ | Ah, what will convey unto thee what she is! - |
 
 ## Verse 11
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 11 نَارٌ حَامِيَةٌۢ | Nārun ḥāmiyat | Raging Fire. |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 11 نَارٌ حَامِيَةٌۢ | Nārun ḥāmiyat | نَارٌ حَامِيَةُۢ | نَارٌ حَامِيَةٌۖ ﴿١٠﴾ | نَارٌ حَامِيَةُۢۖ ﴿١٠﴾ | نَارٌ حَامِيَةُۢ ﴿١٠﴾ | نَارٌ حَامِيَةُۢ ﴿١٠﴾ | نَارٌ حَامِيَةُۢ ﴿١٠﴾ | نَارٌ حَامِيَةُۢ ﴿١٠﴾ | Raging Fire. |

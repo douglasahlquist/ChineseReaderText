@@ -2,17 +2,18 @@
 
 # 107. Al-Maun
 
-> Arabic (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Arabic: Hafs ʿan ʿĀṣim (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Riwayat (King Fahd Complex text): Shuʿbah ʿan ʿĀṣim · Warsh ʿan Nāfiʿ · Qālūn ʿan Nāfiʿ · al-Dūrī ʿan Abī ʿAmr · al-Sūsī ʿan Abī ʿAmr · al-Bazzī ʿan Ibn Kathīr · Qunbul ʿan Ibn Kathīr. Rows follow the Hafs verses; ﴿n﴾ marks a riwaya's own verse number where it differs, and an empty cell means that verse began in the row above.
 
 ## Verses 1–7
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 1 أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ | ʾaraʾayta ladhi yukadhdhibu bilddīn | Hast thou observed him who belieth religion? |
-| 2 فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ | Fadhālika ladhi yaduʿʿu l-yatīm | That is he who repelleth the orphan, |
-| 3 وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ | Walā yaḥuḍḍu ʿalā ṭaʿāmi l-miskīn | And urgeth not the feeding of the needy. |
-| 4 فَوَيْلٌ لِّلْمُصَلِّينَ | Fawaylun lilmuṣallīn | Ah, woe unto worshippers |
-| 5 ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ | Alladhīna hum ʿan ṣalātihim sāhūn | Who are heedless of their prayer; |
-| 6 ٱلَّذِينَ هُمْ يُرَآءُونَ | Alladhīna hum yurāʾūn | Who would be seen (at worship) |
-| 7 وَيَمْنَعُونَ ٱلْمَاعُونَ | Wayamnaʿūna l-māʿūn | Yet refuse small kindnesses! |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ | ʾaraʾayta ladhi yukadhdhibu bilddīn | أَرَءَيۡتَ ٱلَّذِي يُكَذِّبُ بِٱلدِّينِ | اَرَٰٓيْتَ اَ۬لذِے يُكَذِّبُ بِالدِّينِ | أَرَٰ۬يْتَ اَ۬لذِے يُكَذِّبُ بِالدِّينِ | أَرَءَيۡتَ اَ۬لَّذِي يُكَذِّبُ بِالدِّينِ | أَرَءَيۡتَ اَ۬لَّذِي يُكَذِّب بِّالدِّينِ | أَرَءَيۡتَ ٱلَّذِي يُكَذِّبُ بِٱلدِّينِ | أَرَءَيۡتَ ٱلَّذِي يُكَذِّبُ بِٱلدِّينِ | Hast thou observed him who belieth religion? |
+| 2 فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ | Fadhālika ladhi yaduʿʿu l-yatīm | فَذَٰلِكَ ٱلَّذِي يَدُعُّ ٱلۡيَتِيمَ | فَذَٰلِكَ اَ۬لذِے يَدُعُّ اُ۬لْيَتِيمَ | فَذَٰلِكَ اَ۬لذِے يَدُعُّ اُ۬لْيَتِيمَ | فَذَٰلِكَ اَ۬لَّذِي يَدُعُّ اُ۬لۡيَتِيمَ | فَذَٰلِكَ اَ۬لَّذِي يَدُعُّ اُ۬لۡيَتِيمَ | فَذَٰلِكَ ٱلَّذِي يَدُعُّ ٱلۡيَتِيمَ | فَذَٰلِكَ ٱلَّذِي يَدُعُّ ٱلۡيَتِيمَ | That is he who repelleth the orphan, |
+| 3 وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ | Walā yaḥuḍḍu ʿalā ṭaʿāmi l-miskīn | وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ | وَلَا يَحُضُّ عَلَىٰ طَعَامِ اِ۬لْمِسْكِينِۖ | وَلَا يَحُضُّ عَلَىٰ طَعَامِ اِ۬لْمِسْكِينِۖ | وَلَا يَحُضُّ عَلَىٰ طَعَامِ اِ۬لۡمِسۡكِينِ | وَلَا يَحُضُّ عَلَىٰ طَعَامِ اِ۬لۡمِسۡكِينِ | وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ | وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ | And urgeth not the feeding of the needy. |
+| 4 فَوَيْلٌ لِّلْمُصَلِّينَ | Fawaylun lilmuṣallīn | فَوَيۡلٞ لِّلۡمُصَلِّينَ | فَوَيْلٞ لِّلْمُصَلِّينَ | فَوَيْلٞ لِّلْمُصَلِّينَ | فَوَيۡلٞ لِّلۡمُصَلِّينَ | فَوَيۡلٞ لِّلۡمُصَلِّينَ | فَوَيۡلٞ لِّلۡمُصَلِّينَ | فَوَيۡلٞ لِّلۡمُصَلِّينَ | Ah, woe unto worshippers |
+| 5 ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ | Alladhīna hum ʿan ṣalātihim sāhūn | ٱلَّذِينَ هُمۡ عَن صَلَاتِهِمۡ سَاهُونَ | اَ۬لذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ | اَ۬لذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ | اَ۬لَّذِينَ هُمۡ عَن صَلَاتِهِمۡ سَاهُونَ | اَ۬لَّذِينَ هُمۡ عَن صَلَاتِهِمۡ سَاهُونَ | ٱلَّذِينَ هُمُۥ عَن صَلَاتِهِمُۥ سَاهُونَ | ٱلَّذِينَ هُمُۥ عَن صَلَاتِهِمُۥ سَاهُونَ | Who are heedless of their prayer; |
+| 6 ٱلَّذِينَ هُمْ يُرَآءُونَ | Alladhīna hum yurāʾūn | ٱلَّذِينَ هُمۡ يُرَآءُونَ | اَ۬لذِينَ هُمْ يُرَآءُونَ وَيَمْنَعُونَ اَ۬لْمَاعُونَۖ | اَ۬لذِينَ هُمْ يُرَآءُونَ وَيَمْنَعُونَ اَ۬لْمَاعُونَۖ | اَ۬لَّذِينَ هُمۡ يُرَآءُونَ وَيَمۡنَعُونَ اَ۬لۡمَاعُونَ | اَ۬لَّذِينَ هُمۡ يُرَآءُونَ وَيَمۡنَعُونَ اَ۬لۡمَاعُونَ | ٱلَّذِينَ هُمُۥ يُرَآءُونَ وَيَمۡنَعُونَ ٱلۡمَاعُونَ | ٱلَّذِينَ هُمُۥ يُرَآءُونَ وَيَمۡنَعُونَ ٱلۡمَاعُونَ | Who would be seen (at worship) |
+| 7 وَيَمْنَعُونَ ٱلْمَاعُونَ | Wayamnaʿūna l-māʿūn | وَيَمۡنَعُونَ ٱلۡمَاعُونَ |  |  |  |  |  |  | Yet refuse small kindnesses! |

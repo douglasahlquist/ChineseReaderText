@@ -2,16 +2,17 @@
 
 # 109. Al-Kafirun
 
-> Arabic (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Arabic: Hafs ʿan ʿĀṣim (Uthmani script) · Romanization (generated, approximate) · Pickthall, The Meaning of the Glorious Koran (1930)
+> Riwayat (King Fahd Complex text): Shuʿbah ʿan ʿĀṣim · Warsh ʿan Nāfiʿ · Qālūn ʿan Nāfiʿ · al-Dūrī ʿan Abī ʿAmr · al-Sūsī ʿan Abī ʿAmr · al-Bazzī ʿan Ibn Kathīr · Qunbul ʿan Ibn Kathīr. Rows follow the Hafs verses; ﴿n﴾ marks a riwaya's own verse number where it differs, and an empty cell means that verse began in the row above.
 
 ## Verses 1–6
 
 <!-- reader: table=verses -->
-| Arabic | Romanization | Pickthall |
-|---|---|---|
-| 1 قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ | Qul yāʾayyuhā l-kāfirūn | Say: O disbelievers! |
-| 2 لَآ أَعْبُدُ مَا تَعْبُدُونَ | Lā ʾaʿbudu mā taʿbudūn | I worship not that which ye worship; |
-| 3 وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ | Walā ʾantum ʿābidūna mā ʾaʿbud | Nor worship ye that which I worship. |
-| 4 وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ | Walā ʾanā ʿābidun mā ʿabadttum | And I shall not worship that which ye worship. |
-| 5 وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ | Walā ʾantum ʿābidūna mā ʾaʿbud | Nor will ye worship that which I worship. |
-| 6 لَكُمْ دِينُكُمْ وَلِىَ دِينِ | Lakum dīnukum waliya dīn | Unto you your religion, and unto me my religion. |
+| Arabic | Romanization | Shuʿbah | Warsh | Qālūn | al-Dūrī | al-Sūsī | al-Bazzī | Qunbul | Pickthall |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ | Qul yāʾayyuhā l-kāfirūn | قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ | قُلْ يَٰٓأَيُّهَا اَ۬لْكَٰفِرُونَ | قُلْ يَٰأَيُّهَا اَ۬لْكَٰفِرُونَ | قُلۡ يَٰٓأَيُّهَا اَ۬لۡكَٰفِرُونَ | قُلۡ يَٰأَيُّهَا اَ۬لۡكَٰفِرُونَ | قُلۡ يَٰأَيُّهَا ٱلۡكَٰفِرُونَ | قُلۡ يَٰأَيُّهَا ٱلۡكَٰفِرُونَ | Say: O disbelievers! |
+| 2 لَآ أَعْبُدُ مَا تَعْبُدُونَ | Lā ʾaʿbudu mā taʿbudūn | لَآ أَعۡبُدُ مَا تَعۡبُدُونَ | لَآ أَعْبُدُ مَا تَعْبُدُونَ | لَا أَعْبُدُ مَا تَعْبُدُونَ | لَآ أَعۡبُدُ مَا تَعۡبُدُونَ | لَا أَعۡبُدُ مَا تَعۡبُدُونَ | لَا أَعۡبُدُ مَا تَعۡبُدُونَ | لَا أَعۡبُدُ مَا تَعۡبُدُونَ | I worship not that which ye worship; |
+| 3 وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ | Walā ʾantum ʿābidūna mā ʾaʿbud | وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ | وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُۖ | وَلَا أَنتُمْ عَٰبِدُونَ مَا أَعْبُدُۖ | وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ | وَلَا أَنتُمۡ عَٰبِدُونَ مَا أَعۡبُدُ | وَلَا أَنتُمُۥ عَٰبِدُونَ مَا أَعۡبُدُ | وَلَا أَنتُمُۥ عَٰبِدُونَ مَا أَعۡبُدُ | Nor worship ye that which I worship. |
+| 4 وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ | Walā ʾanā ʿābidun mā ʿabadttum | وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ | وَلَآ أَنَا عَابِدٞ مَّا عَبَدتُّمْ | وَلَا أَنَا عَابِدٞ مَّا عَبَدتُّمْ | وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ | وَلَا أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ | وَلَا أَنَا۠ عَابِدٞ مَّا عَبَدتُّمُۥ | وَلَا أَنَا۠ عَابِدٞ مَّا عَبَدتُّمُۥ | And I shall not worship that which ye worship. |
+| 5 وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ | Walā ʾantum ʿābidūna mā ʾaʿbud | وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ | وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُۖ | وَلَا أَنتُمْ عَٰبِدُونَ مَا أَعْبُدُۖ | وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ | وَلَا أَنتُمۡ عَٰبِدُونَ مَا أَعۡبُدُ | وَلَا أَنتُمُۥ عَٰبِدُونَ مَا أَعۡبُدُ | وَلَا أَنتُمُۥ عَٰبِدُونَ مَا أَعۡبُدُ | Nor will ye worship that which I worship. |
+| 6 لَكُمْ دِينُكُمْ وَلِىَ دِينِ | Lakum dīnukum waliya dīn | لَكُمۡ دِينُكُمۡ وَلِي دِينِ | لَكُمْ دِينُكُمْ وَلِيَ دِينِۖ | لَكُمْ دِينُكُمْ وَلِيَ دِينِۖ | لَكُمۡ دِينُكُمۡ وَلِي دِينِ | لَكُمۡ دِينُكُمۡ وَلِي دِينِ | لَكُمُۥ دِينُكُمُۥ وَلِي دِينِ | لَكُمُۥ دِينُكُمُۥ وَلِي دِينِ | Unto you your religion, and unto me my religion. |
